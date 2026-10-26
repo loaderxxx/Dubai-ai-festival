@@ -1,0 +1,472 @@
+{
+  "company_slug": "kb-financial-group",
+  "research_date": "2026-10-26",
+  "timezone": "Asia/Dubai",
+  "research_method": "One primary-source research pass plus targeted eligibility, incumbent, governance and identity gap checks; no tests or outreach.",
+  "evidence_labels": [
+    "FACT",
+    "VENDOR CLAIM",
+    "INFERENCE",
+    "PROPOSAL",
+    "UNKNOWN"
+  ],
+  "sources": [
+    {
+      "id": "KB01",
+      "title": "Dubai AI Festival 2026 sponsors",
+      "url": "https://dubaiaifestival.com/sponsors/",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Diamond Sponsor heading and associated image link 30",
+      "source_type": "official event roster",
+      "confidence": "high",
+      "supported_claims": [
+        "Diamond Sponsor role, determined from heading and linked logo rather than inferred from participation"
+      ],
+      "retrieval_reference": "turn37view0",
+      "status": "retrieved",
+      "limitations": null
+    },
+    {
+      "id": "KB02",
+      "title": "KB Financial Group sponsor logo",
+      "url": "https://dubaiaifestival.com/wp-content/uploads/2026/04/KB-Financial-Group-logo.webp",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Image linked below Diamond Sponsor heading",
+      "source_type": "official event image asset",
+      "confidence": "high",
+      "supported_claims": [
+        "Logo identity KB Financial Group"
+      ],
+      "retrieval_reference": "turn38view3",
+      "status": "retrieved",
+      "limitations": "Upload path is not proof of publication date or contract terms."
+    },
+    {
+      "id": "KB03",
+      "title": "Dubai AI Festival 2026 global collaboration",
+      "url": "https://www.difc.com/whats-on/news/dubai-ai-festival-2026-global-collaboration",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": "2026-10-20",
+      "locator": "Published date; event dates and venue; participating organisations paragraph",
+      "source_type": "official organiser announcement",
+      "confidence": "high",
+      "supported_claims": [
+        "KB listed as participant; event 26–27 October 2026 at Dubai World Trade Centre; Dubai AI Campus organiser"
+      ],
+      "retrieval_reference": "turn60view5",
+      "status": "retrieved",
+      "limitations": "Does not establish sponsor tier by itself or partnership between listed participants."
+    },
+    {
+      "id": "KB04",
+      "title": "KB Financial Group overview",
+      "url": "https://www.kbfg.com/eng/about/group/info.htm",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Overview body lines 342–350",
+      "source_type": "official corporate overview",
+      "confidence": "high",
+      "supported_claims": [
+        "Group founded in 2008; 11 direct subsidiaries; official group identity"
+      ],
+      "retrieval_reference": "turn39view5",
+      "status": "retrieved",
+      "limitations": "Subsidiary count is direct holding-company count, not every consolidated entity."
+    },
+    {
+      "id": "KB05",
+      "title": "KB Financial Group March 2026 Form 6-K / FY2025 business report summary",
+      "url": "https://www.sec.gov/Archives/edgar/data/1445930/000119312526105129/d121612d6k.htm",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": "2026-03-13",
+      "locator": "Registrant cover; 1.1 Business Purpose; 1.2 History; 1.3 business group",
+      "source_type": "issuer regulatory filing",
+      "confidence": "high",
+      "supported_claims": [
+        "Legal registrant KB Financial Group Inc.; Seoul principal office; financial holding role; September 2008 establishment; distinct financial businesses"
+      ],
+      "retrieval_reference": "turn60view0",
+      "status": "retrieved",
+      "limitations": "Issuer-filed report; historical FY2025 scope, not proof of current UAE permissions."
+    },
+    {
+      "id": "KB06",
+      "title": "Our Business / subsidiary ownership and directory",
+      "url": "https://www.kbfg.com/eng/about/network/domestic.htm",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": "2026-06-30",
+      "locator": "Updated date; first-tier ownership; subsidiary descriptions and official links",
+      "source_type": "official ownership map and directory",
+      "confidence": "high",
+      "supported_claims": [
+        "11 direct subsidiaries shown 100% owned; KB Data Systems consulting implementation operations; entity-specific domains and routing"
+      ],
+      "retrieval_reference": "turn43view4",
+      "status": "retrieved",
+      "limitations": "Page update date is explicit; external service scope not fully documented."
+    },
+    {
+      "id": "KB07",
+      "title": "Asia-Pacific global network",
+      "url": "https://www.kbfg.com/eng/about/network/global/asia-pacific/list.jsp",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Singapore / KB Kookmin Bank branch; corporate banking description",
+      "source_type": "official corporate branch directory",
+      "confidence": "high",
+      "supported_claims": [
+        "Singapore branch corporate deposits lending foreign exchange; Asia-Pacific geographical presence"
+      ],
+      "retrieval_reference": "turn43view5",
+      "status": "retrieved",
+      "limitations": "Not a regulator licence search; does not prove universal cross-border availability or UAE presence."
+    },
+    {
+      "id": "KB08",
+      "title": "KB Kookmin Bank Singapore",
+      "url": "https://kbglobal.kbstar.com/sg/main",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "JavaScript application fallback and search-indexed navigation",
+      "source_type": "official banking site",
+      "confidence": "medium",
+      "supported_claims": [
+        "Bank site exists; direct retrieval limited by JavaScript"
+      ],
+      "retrieval_reference": "turn48view3",
+      "status": "limited",
+      "limitations": "Main app text not available without JavaScript; no account opened or transaction tested."
+    },
+    {
+      "id": "KB09",
+      "title": "KB Securities investment banking",
+      "url": "https://en.kbsec.com/go.able?linkcd=m0201003",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Corporate Finance; Advisory; Structured Finance; PE/VC sections",
+      "source_type": "official subsidiary service page",
+      "confidence": "high",
+      "supported_claims": [
+        "Debt/equity fundraising; IPO/pre-IPO; corporate lending; M&A; structured finance; mandate-based service scope"
+      ],
+      "retrieval_reference": "turn55view4",
+      "status": "retrieved",
+      "limitations": "Published positioning, not transaction recommendation or proof of eligibility; league-table claims not relied upon."
+    },
+    {
+      "id": "KB10",
+      "title": "KB Investment official site",
+      "url": "https://www.kbic.co.kr/",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Official homepage indexed identity; group directory link",
+      "source_type": "official investment subsidiary site",
+      "confidence": "medium",
+      "supported_claims": [
+        "Separate KB Investment entity/domain and investment routing"
+      ],
+      "retrieval_reference": "turn46search25",
+      "status": "limited",
+      "limitations": "Direct retrieval intermittently returned 502; current mandate and appetite not established."
+    },
+    {
+      "id": "KB11",
+      "title": "KB Data Systems official site",
+      "url": "https://www.kds.co.kr/",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Official domain linked by group directory; page retrieval empty",
+      "source_type": "official IT subsidiary site",
+      "confidence": "medium",
+      "supported_claims": [
+        "Verified IT subsidiary domain; service description corroborated by KB06"
+      ],
+      "retrieval_reference": "turn48view8",
+      "status": "limited",
+      "limitations": "No detailed product catalogue extracted; KB06 is primary support for service scope."
+    },
+    {
+      "id": "KB12",
+      "title": "KB Innovation HUB official overview",
+      "url": "https://kbfg.com/kbinnovationhub/",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Timeline 2020–2025 and programme overview",
+      "source_type": "official innovation programme page",
+      "confidence": "high",
+      "supported_claims": [
+        "Startup development programme; consultancy history; Singapore/global programme history; programme routing"
+      ],
+      "retrieval_reference": "turn46view2",
+      "status": "retrieved",
+      "limitations": "Timeline is historical; no guarantee of current intake, funding or external supplier contract."
+    },
+    {
+      "id": "KB13",
+      "title": "KB Starters programme intake selector",
+      "url": "https://kbfg.com/kbinnovationhub/starters/apply/apply_main",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Domestic, global and open-innovation 2026 status labels",
+      "source_type": "official live programme page",
+      "confidence": "high",
+      "supported_claims": [
+        "All three displayed 2026 programme intakes marked closed"
+      ],
+      "retrieval_reference": "turn43view1",
+      "status": "retrieved",
+      "limitations": "Time-specific status; next intake date unknown."
+    },
+    {
+      "id": "KB14",
+      "title": "2026 KB Starters domestic/global regular recruitment",
+      "url": "https://kbfg.com/kbinnovationhub/starters/apply/apply_main/24",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Recruitment overview rows 1–5; closed status",
+      "source_type": "official programme terms summary",
+      "confidence": "high",
+      "supported_claims": [
+        "Domestic company-age ceiling seven years; global no age limit; document/in-person selection; intake closed"
+      ],
+      "retrieval_reference": "turn55view1",
+      "status": "retrieved",
+      "limitations": "Nationality, incorporation geography, economics and foreign-founder eligibility not established."
+    },
+    {
+      "id": "KB15",
+      "title": "2026 KB Open Innovation programme",
+      "url": "https://kbfg.com/kbinnovationhub/starters/apply/apply_main/25",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Recruitment overview rows 1–5; closed status",
+      "source_type": "official programme terms summary",
+      "confidence": "high",
+      "supported_claims": [
+        "13 domestic and 2 global challenges; no founding-year limit; selection process; intake closed"
+      ],
+      "retrieval_reference": "turn47view5",
+      "status": "retrieved",
+      "limitations": "No budget, paid PoC guarantee or next intake established."
+    },
+    {
+      "id": "KB16",
+      "title": "Tenity and KB launch Singapore accelerator",
+      "url": "https://www.tenity.com/tenity-and-kb-financial-group-launch-kb-starters-singapore-accelerator/",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": "2025-10-08",
+      "locator": "Six startups; proof-of-concept and business matching sections",
+      "source_type": "official programme partner announcement",
+      "confidence": "high",
+      "supported_claims": [
+        "Documented KB–Tenity collaboration; six Korean startups; named Furiosa AI–Nervotec and Webaresoft–Staple AI PoCs"
+      ],
+      "retrieval_reference": "turn47view3",
+      "status": "retrieved",
+      "limitations": "Technical success is partner claim; no independently audited ROI, conversion or future eligibility guarantee."
+    },
+    {
+      "id": "KB17",
+      "title": "KB Life Insurance Microsoft 365 Copilot customer story",
+      "url": "https://www.microsoft.com/en/customers/story/25305-kb-life-insurance-microsoft-365-copilot",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": "2025-09-18",
+      "locator": "Executive summary; training; document centralisation; roadmap",
+      "source_type": "official supplier customer case",
+      "confidence": "high",
+      "supported_claims": [
+        "May 2025 company-wide KB Life Copilot deployment; Microsoft support/training; OneDrive/SharePoint and Teams/Outlook workflows"
+      ],
+      "retrieval_reference": "turn47view6",
+      "status": "retrieved",
+      "limitations": "Supplier-reported deployment; no controlled productivity metric; no group-wide tenant/access inference."
+    },
+    {
+      "id": "KB18",
+      "title": "Tynapse and Kookmin Bank answer-verification collaboration",
+      "url": "https://tynapse.com/en/blog/tynapse-kb-startup-oi-fsc-award-2026",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": "2026-06-24",
+      "locator": "AI answer-verification system; evaluation and operating figures",
+      "source_type": "official supplier collaboration case",
+      "confidence": "medium-high",
+      "supported_claims": [
+        "Supplier reports approximately 7,000 monthly employee portal users across 10 areas; answer checks blocking and logs; around 90 evaluation points after six model improvements"
+      ],
+      "retrieval_reference": "turn55view3",
+      "status": "retrieved",
+      "limitations": "Vendor claim; denominator, test protocol and independent replication not provided; not 90% safety."
+    },
+    {
+      "id": "KB19",
+      "title": "2025 KB Financial Group Sustainability Data Book",
+      "url": "https://www.kbfg.com/data/esg/sustainability/2025_KBFG_Sustainability%20Data%20Book_eng.pdf",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": "2026-06-24",
+      "locator": "PDF pp.37–39 Information Security; p.68 supplier practices",
+      "source_type": "official group sustainability report",
+      "confidence": "high",
+      "supported_claims": [
+        "Reported ISMS and ISO certification scopes differentiated by entity; security management policies; supplier procurement/integrity practices"
+      ],
+      "retrieval_reference": "turn38search7; direct HTTPS download + pdftotext",
+      "status": "retrieved",
+      "limitations": "Direct PDF downloaded successfully, 1,434,830 bytes; web attachment endpoint returned octet-stream error. Reported 2025 evidence is not certificate-expiry verification or current incident clearance."
+    },
+    {
+      "id": "KB20",
+      "title": "KB holding-company privacy policy",
+      "url": "https://www.kbfg.com/kor/guide/personally/identifiableinfo.jsp",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": "2026-03-04",
+      "locator": "V2.5 effective date and table of contents",
+      "source_type": "official privacy policy",
+      "confidence": "high",
+      "supported_claims": [
+        "Holding-company privacy policy effective 4 March 2026; purpose retention outsourcing overseas-transfer sections"
+      ],
+      "retrieval_reference": "turn60view4",
+      "status": "retrieved",
+      "limitations": "Holding-company scope; cannot substitute for a service-specific bank DPA."
+    },
+    {
+      "id": "KB21",
+      "title": "Dubai AI Campus corporate innovation",
+      "url": "https://dubaiaicampus.com/corporate-innovation",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Benefits / corporate innovation page",
+      "source_type": "official ecosystem service page",
+      "confidence": "high",
+      "supported_claims": [
+        "UAE corporate innovation/ecosystem route as a different-category festival alternative"
+      ],
+      "retrieval_reference": "turn57view3",
+      "status": "retrieved",
+      "limitations": "Not bank or financing approval; no KB partnership established."
+    },
+    {
+      "id": "KB22",
+      "title": "Shinhan Future’s Lab Vietnam Innoboost",
+      "url": "https://futureslab.com.vn/innoboost-2/",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Programme introduction; collaboration areas",
+      "source_type": "official competing programme page",
+      "confidence": "high",
+      "supported_claims": [
+        "16-week open innovation programme; financial institution collaboration route with Vietnam focus"
+      ],
+      "retrieval_reference": "turn57view1",
+      "status": "retrieved",
+      "limitations": "Page references historical webinar; current intake/economics not verified; no equivalent UAE banking inference."
+    },
+    {
+      "id": "KB23",
+      "title": "FSC cybersecurity management meeting",
+      "url": "https://www.fsc.go.kr/eng/pr010101/87928",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": "2026-10-14",
+      "locator": "Opening; overview; ongoing investigation",
+      "source_type": "financial regulator announcement",
+      "confidence": "high",
+      "supported_claims": [
+        "Recent sector breaches and investigation including whether AI was used; current governance context"
+      ],
+      "retrieval_reference": "turn47view2",
+      "status": "retrieved",
+      "limitations": "Sector-wide context only; no KB-specific vulnerability or final attribution asserted."
+    },
+    {
+      "id": "KB24",
+      "title": "KB digital archive Part 4 history",
+      "url": "https://www.kbfg.com/kor/pr/archive/html/stroy-time-line/part04.html",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "24 October 2022 timeline entry",
+      "source_type": "official corporate history",
+      "confidence": "high",
+      "supported_claims": [
+        "Adoption of AI ethics principles recorded 24 October 2022"
+      ],
+      "retrieval_reference": "turn60search2",
+      "status": "indexed official text",
+      "limitations": "Historical policy adoption, not evidence every current deployment meets a benchmark."
+    },
+    {
+      "id": "KB25",
+      "title": "KB Investment team and business contact",
+      "url": "https://www.kbic.co.kr/main/team",
+      "accessed_at": "2026-10-26",
+      "checked_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Official indexed page footer contact details",
+      "source_type": "official business contact page",
+      "confidence": "medium",
+      "supported_claims": [
+        "Public investment inbox kbinvestment@kbinvestment.com and telephone 02-545-5091"
+      ],
+      "retrieval_reference": "turn46search1",
+      "status": "limited",
+      "limitations": "Direct retrieval intermittently 502; recheck before outreach; not a named decision-maker or funding commitment."
+    }
+  ],
+  "remaining_unknowns": [
+    "Foreign founder and external supplier eligibility",
+    "Next intake and commercial procurement access",
+    "Public integration contracts and approved sandbox",
+    "UAE licence/product and Russian-language availability",
+    "Independent incremental productivity or safety outcomes"
+  ]
+}

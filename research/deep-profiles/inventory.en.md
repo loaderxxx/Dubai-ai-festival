@@ -1,5 +1,7 @@
 # Inventory and research sequence
 
+**Update — sponsor batch 01 complete:** KB Financial Group, Kira AI and Integra now have [deep profiles](sponsors-01/README.md). The table records prior 18-company coverage; current statuses are in role-inventory.json. Next: Mantika, Mistral, Redington.
+
 Checked: 26 October 2026. Independent public-source research.
 
 ## Existing material

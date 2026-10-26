@@ -1,0 +1,492 @@
+{
+  "company": "Integra Technologies FZE",
+  "official_domain": "https://www.integratech.ae/",
+  "as_of": "2026-10-26",
+  "identity_status": "resolved_high_confidence_official_brand_domain_event_chain",
+  "festival_role": "Gold Sponsor2026",
+  "floorplan_booth": "unknown_not_bound_to_Advanced_Integration",
+  "research_status": "extended_public_sources_no_runtime_or_commercial_verification",
+  "sources": [
+    {
+      "id": "IN01",
+      "url": "https://dubaiaifestival.com/sponsors/",
+      "title": "2026 Sponsors",
+      "source_type": "official_event_page",
+      "confidence": "high",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Gold Sponsor heading and linked integra_logo_2x.webp image; link40",
+      "supported_claims": [
+        "Integra Gold sponsorship 2026",
+        " current event alternatives"
+      ],
+      "limitations": "Page includes some legacy 2025 registration navigation; use explicit 2026 body heading.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN02",
+      "url": "https://www.linkedin.com/posts/dubai-ai-festival_dubaiaifestival-activity-7519344487978934272-RKKV",
+      "title": "Dubai AI Festival official Integra sponsor announcement",
+      "source_type": "official_event_social",
+      "confidence": "high",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Post body: Integra Gold Sponsor; dates 26–27 October 2026",
+      "supported_claims": [
+        "Current Integra role",
+        " event dates and venue"
+      ],
+      "limitations": "Relative publication label 3d at retrieval; exact calendar publication date not established.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN03",
+      "url": "https://www.integratech.ae/",
+      "title": "Integra Technologies homepage",
+      "source_type": "vendor_official_website",
+      "confidence": "high_for_observed_text",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Hero; Integra and AWS; Partners; Event Calendar2026",
+      "supported_claims": [
+        "Domain/event connection",
+        " agent promotion",
+        " conflicting Premier/Advanced text"
+      ],
+      "limitations": "Agent coverage and partner-tier details are vendor claims; current tier not independently verified.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN04",
+      "url": "https://www.integratech.ae/contact-integra/",
+      "title": "Contact Integra",
+      "source_type": "vendor_official_contact",
+      "confidence": "high",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Integra Technologies FZE / Dubai Office; Saudi Office",
+      "supported_claims": [
+        "Legal-name/domain link",
+        " Dubai business phone and office",
+        " Saudi naming"
+      ],
+      "limitations": "About page calls Saudi subsidiary Arabia LLC while contact says Arabia Limited; verify contracting name.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN05",
+      "url": "https://dubaiaifestival.com/exhibitors/",
+      "title": "2025 Exhibitor Spotlight",
+      "source_type": "official_event_historical_directory",
+      "confidence": "high",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Page heading2025; Integra Technologies FZE UAE entry; APGAR entry",
+      "supported_claims": [
+        "Historical identity corroboration",
+        " historical APGAR event participation"
+      ],
+      "limitations": "Not proof of 2026 booth, floorplan position or role.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN06",
+      "url": "https://www.integratech.ae/about-us/",
+      "title": "About Us",
+      "source_type": "vendor_official_company",
+      "confidence": "high_for_observed_text",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Company introduction and headquarters/subsidiary/SRE paragraph",
+      "supported_claims": [
+        "Dubai HQ",
+        " Riyadh subsidiary",
+        " Bangalore SRE",
+        " MENA service positioning"
+      ],
+      "limitations": "Founding2004 and partnership levels self-reported; Saudi entity English form differs from contact.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN07",
+      "url": "https://aws.amazon.com/partners/success/petronash-integra-technologies/",
+      "title": "Petronash Migrates to SAP on AWS with Integra",
+      "source_type": "platform_publisher_customer_case",
+      "confidence": "medium_high",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Overview; Solution; Benefits",
+      "supported_claims": [
+        "Named customer/domain",
+        "95percent operations on AWS",
+        "35percent operating cost reduction",
+        "30percent SAP performance",
+        " Arabic document processing"
+      ],
+      "limitations": "AWS and customer commercially interested; no raw measurement dataset or clear publication date.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN08",
+      "url": "https://www.integratech.ae/aws-msp-program/",
+      "title": "Integra CloudSure Managed Services",
+      "source_type": "vendor_official_service_pricing",
+      "confidence": "high_for_observed_text",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Managed Service Offerings; Ticket Based Support; operational service headings",
+      "supported_claims": [
+        "Ticket support from AED7500 yearly",
+        " reactive/proactive monthly/yearly quotation",
+        " monitoring/security/service desk claims"
+      ],
+      "limitations": "Tax, ticket volumes, response metrics and exclusions not stated; framework alignment not certification.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN09",
+      "url": "https://www.integratech.ae/aws-genai-sdlc-iskaan-case-study/",
+      "title": "Iskaan — Modernizing SDLC with iCode",
+      "source_type": "vendor_customer_case",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "The Solution; Business Impact; final trial invitation",
+      "supported_claims": [
+        "Customer-environment deployment",
+        " named AWS/Jira/Confluence/GitHubMCP/AgentCore integrations",
+        "40percent faster cycles claim",
+        " arranged funded trial with AWS usage charges"
+      ],
+      "limitations": "Measurement period/sample/attribution not published; trial eligibility/terms unknown.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN10",
+      "url": "https://www.integratech.ae/managed-devops/",
+      "title": "Managed DevOps",
+      "source_type": "vendor_official_service",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "DaaS description and service bullet list",
+      "supported_claims": [
+        "AWS DevOps workflow implementation automation support and training"
+      ],
+      "limitations": "Common service descriptions are not contractual SLA or current tool manifest.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN11",
+      "url": "https://www.integratech.ae/api-management/",
+      "title": "API Management",
+      "source_type": "vendor_official_service_technical",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "API Management; WSO2; TIBCO sections",
+      "supported_claims": [
+        "OAuth JWT OpenID discussion",
+        " WSO2 subscription",
+        " TIBCO SAML/OAuth2 throttling Docker gateways"
+      ],
+      "limitations": "Platform capability descriptions not proof of iCode implementation or SSO.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN12",
+      "url": "https://www.integratech.ae/redhat-openshift-kubernetes-container-platform/",
+      "title": "Red Hat OpenShift",
+      "source_type": "vendor_official_service_technical",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Use Cases; Managed Cloud; On Premise; ROSA",
+      "supported_claims": [
+        "Offered OpenShift deployment and modernization options"
+      ],
+      "limitations": "Actual support versions subscriptions configuration and delivery scope require confirmation.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN13",
+      "url": "https://www.integratech.ae/aws-genai-coe/",
+      "title": "GenAI Center of Excellence",
+      "source_type": "vendor_official_service",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "SDLC offer and GenAI service description",
+      "supported_claims": [
+        "Custom GenAI solutioning and advertised free assessment"
+      ],
+      "limitations": "Headline60percent savings not adopted as evidence; language matrix and tariffs unknown.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN14",
+      "url": "https://www.integratech.ae/cloud-professional-services/",
+      "title": "Professional Services",
+      "source_type": "vendor_official_service",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Expertise; Solutions; packaged experiences",
+      "supported_claims": [
+        "Cloud readiness architecture security DevOps analytics and custom implementation catalogue"
+      ],
+      "limitations": "Project fees and timing not published.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN15",
+      "url": "https://www.integratech.ae/migration-assessments-mra/",
+      "title": "Migration Assessments",
+      "source_type": "vendor_official_service_technical",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Readiness assessment; discovery; methodology; roadmap; TCO",
+      "supported_claims": [
+        "AWS Migration Evaluator discovery dependency mapping waves and multi-year TCO offering"
+      ],
+      "limitations": "No fixed quote or deliverable acceptance terms.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN16",
+      "url": "https://www.integratech.ae/managed-security-service-practice/",
+      "title": "Managed Security Service Practice",
+      "source_type": "vendor_official_service_partner_claim",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Opening practice paragraph and Dubai SOC description",
+      "supported_claims": [
+        "Vendor-stated Trend Micro relationship",
+        " Trend Vision One",
+        " Dubai SOC and monitoring"
+      ],
+      "limitations": "No independent partnership verification, downstream permission or audited effectiveness.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN17",
+      "url": "https://www.integratech.ae/icode-aws-ai-dev-deployment/",
+      "title": "iCode AI development and deployment",
+      "source_type": "vendor_official_workflow_description",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "SoW; cost calculators; diagram/IaC generation; Jira; UI vision",
+      "supported_claims": [
+        "Described AWS calculators Jira Terraform Cloud workflow",
+        " unified UI partly vision"
+      ],
+      "limitations": "Public SDK/OpenAPI/versioned connector contract not established; do not infer every integration ships.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN18",
+      "url": "https://www.integratech.ae/data-platforms/",
+      "title": "Data Platforms",
+      "source_type": "vendor_official_service",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Layers of a Data Platform",
+      "supported_claims": [
+        "Data ingestion transformation discovery analytics observability service layers"
+      ],
+      "limitations": "No public connector compatibility inventory.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN19",
+      "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html",
+      "title": "Amazon Bedrock overview",
+      "source_type": "platform_official_technical_docs",
+      "confidence": "high",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Overview; APIs and endpoints; inference requests",
+      "supported_claims": [
+        "Underlying platform APIs and in-house building-block alternative"
+      ],
+      "limitations": "Not Integra-specific deployment evidence.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN20",
+      "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-transform-adm-operating-model-gen-ai/introduction.html",
+      "title": "Transforming ADM operating models with generative AI",
+      "source_type": "platform_official_guidance",
+      "confidence": "high",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Introduction",
+      "supported_claims": [
+        "AWS SDLC framework linked by iCode case"
+      ],
+      "limitations": "Guidance not implementation certification.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN21",
+      "url": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.19/html/authentication_and_authorization/external-auth",
+      "title": "OpenShift4.19 external OIDC identity provider",
+      "source_type": "platform_official_technical_docs",
+      "confidence": "high",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Chapter8 overview",
+      "supported_claims": [
+        "Configurable OAuth/OIDC and version-specific identity integration"
+      ],
+      "limitations": "Underlying platform only; no iCode SSO assurance; newer versions may differ.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN22",
+      "url": "https://www.integratech.ae/aws-gen-ai-case-study-diglossia/",
+      "title": "Diglossia GenAI case",
+      "source_type": "vendor_customer_case",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "The Solution; components; The Result",
+      "supported_claims": [
+        "English/Arabic dataset agent",
+        " Bedrock FastAPI Fargate tracing guardrails",
+        "40percent analysis time claim"
+      ],
+      "limitations": "No evaluation protocol or independent educational/compliance validation.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN23",
+      "url": "https://www.integratech.ae/aws-gen-ai-case-study-data-inflexion/",
+      "title": "Data Inflexion GenAI case",
+      "source_type": "vendor_customer_case",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "The Solution; The Result",
+      "supported_claims": [
+        "Bedrock OpenSearch Titan FastAPI LangChain Fargate API Gateway property-search architecture",
+        "10percent interaction claim"
+      ],
+      "limitations": "Periods/denominators unknown; no claim of independently validated conversion or revenue.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN24",
+      "url": "https://www.integratech.ae/aws-security-case-study-data-inflexion/",
+      "title": "Data Inflexion security case",
+      "source_type": "vendor_customer_case",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Solution: API abuse; config; leakage; observability",
+      "supported_claims": [
+        "Claims throttling WAF Config Security Hub Macie and Langfuse deployment"
+      ],
+      "limitations": "Not audited security outcome; broad KMS encryption phrasing not adopted as a technical guarantee.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN25",
+      "url": "https://www.integratech.ae/privacy-statement-terms-of-use/",
+      "title": "Privacy Statement and Terms of Use",
+      "source_type": "vendor_official_website_policy",
+      "confidence": "high_for_observed_text",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Privacy Disclaimer information collection/use/security/cookies",
+      "supported_claims": [
+        "Website policy scope",
+        " voluntary submission and communication purposes"
+      ],
+      "limitations": "Not a customer workload DPA; service retention/subprocessor/certificate details not established.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN26",
+      "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/data-protection.html",
+      "title": "Amazon Bedrock data protection",
+      "source_type": "platform_official_technical_policy",
+      "confidence": "high",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Model Deployment Account; logs and model-provider access; retention link",
+      "supported_claims": [
+        "Distinguishes provider access from AWS processing",
+        " shared responsibility controls"
+      ],
+      "limitations": "Do not extrapolate to all integrations logs support staff or customer region.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN27",
+      "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/data-retention.html",
+      "title": "Amazon Bedrock data retention",
+      "source_type": "platform_official_technical_policy",
+      "confidence": "high",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "Data retention modes; What data is retained; cross-region inference",
+      "supported_claims": [
+        "Model/mode-dependent retention and review",
+        " cross-region retained destination"
+      ],
+      "limitations": "Current platform guidance; does not identify Integra customer configuration; no universal ZDR claim.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN28",
+      "url": "https://zeroandone.me/newsroom/zeroandone-aws-agentic-ai.html",
+      "title": "Zero&One Agentic AI announcement",
+      "source_type": "alternative_vendor_official_announcement",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": "2025-12-19",
+      "locator": "Dated19December2025 announcement and service navigation",
+      "supported_claims": [
+        "Alternative AWS/cloud/DevOps/agentic delivery positioning"
+      ],
+      "limitations": "Vendor claims not independent validation; festival-brand/NTTDATA relationship needs separate verification.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN29",
+      "url": "https://apgar-group.com/our-expertise/advanced-analytics/",
+      "title": "APGAR advanced analytics",
+      "source_type": "alternative_vendor_official_service",
+      "confidence": "medium",
+      "checked_at": "2026-10-26",
+      "published_at": null,
+      "locator": "AI challenges; expertise; methodology",
+      "supported_claims": [
+        "Data/AI integration governance multi-cloud consulting alternative"
+      ],
+      "limitations": "Catalogue not proof of partnership with Integra or current festival role.",
+      "retrieval_status": "reviewed_public_page"
+    },
+    {
+      "id": "IN30",
+      "url": "https://aws.amazon.com/blogs/apn/unlocking-efficiency-best-practices-for-aws-partners-applying-for-an-aws-competency/",
+      "title": "AWS competency application best practices with Integra",
+      "source_type": "platform_publisher_partner_article",
+      "confidence": "medium_high",
+      "checked_at": "2026-10-26",
+      "published_at": "2024-01-18",
+      "locator": "18JAN2024 byline; AWS specialization paragraph",
+      "supported_claims": [
+        "AWS-published historical Migration and DevOps competencies",
+        " Rajesh Soman coauthor role historical"
+      ],
+      "limitations": "Does not establish2026 tier or current leadership; historical link uses integrauae.com.",
+      "retrieval_status": "reviewed_public_page"
+    }
+  ]
+}

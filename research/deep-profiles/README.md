@@ -1,4 +1,6 @@
-# Deep profiles — block 1: the organisers
+# Deep profiles — organizers and sponsors
+
+**Latest block: [KB Financial Group, Kira AI and Integra](sponsors-01/README.md).** Five deep profiles total; organizer material below is retained with its original block scope.
 
 [Русская версия](README.ru.md) · [Atlas](../../README.md)
 
@@ -15,7 +17,7 @@ Completed desk-research block, checked **26 October 2026**. Independent analysis
 
 Campus should be evaluated as an ecosystem, education and establishment route. Terrapinn should be evaluated as an event operator and distribution route with existing AI workflows. Neither should be approached as though it lacks all AI capability. Courses, licences, passes, implementation rights and customer outcomes are different evidence categories. Details and sources are linked inside each profile.
 
-There are **2 deep profiles**, alongside the earlier **18 expanded briefs**. Across the floorplan, **19 of 248 candidates have some profile** and **229 have none**; Terrapinn is an additional entity outside that floorplan universe. Only **1 of the 248** has this new depth. The tier inventory contains **17 sponsor assets** and **17 partner/pavilion assets**; no sponsor has received a full deep profile in this block. Do not add these different counts.
+**Organizer-block snapshot (before sponsor batch 01):** The organizer block contains **2 deep profiles**, alongside the earlier **18 expanded briefs**. Across the floorplan, **19 of 248 candidates have some profile** and **229 have none**; Terrapinn is an additional entity outside that floorplan universe. Only **1 of the 248** has this new depth. The tier inventory contains **17 sponsor assets** and **17 partner/pavilion assets**; no sponsor has received a full deep profile in this block. Do not add these different counts.
 
 ## Evidence rules
 

@@ -1,4 +1,4 @@
-**New depth layer:** [organizer deep profiles](../deep-profiles/README.md) and [current union coverage](../../coverage.json). The directory below describes the earlier 18-company study.
+**Latest: [five deep profiles, including KB Financial Group, Kira AI and Integra](../deep-profiles/README.md).** Current union: 20/248 floorplan candidates have a profile; 228 remain; 3 additional profiled entities are outside that snapshot. The historical study below retains its original scope.
 
 # Research field guide
 

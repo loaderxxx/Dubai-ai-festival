@@ -1,0 +1,11 @@
+service,problem,buyer,deployment_availability,interfaces_dependencies,pricing,evidence_status,source_ids
+iCode,AI-assisted SDLC,CTO; engineering manager,customer environment; vendor case,Bedrock; Q; Jira; Confluence; GitHub MCP; AgentCore,arranged funded trial; AWS usage charges; ongoing terms unknown,VENDOR CLAIM,IN09;IN17
+GenAI CoE,custom assistants analytics content,business/technology sponsor,custom implementation; region per project unknown,AWS GenAI services; exact solution dependent,free assessment advertised; production pricing unknown,VENDOR CLAIM,IN13
+CloudSure,AWS operations support,IT operations director,customer AWS; details contract dependent,AWS-native monitoring IaC service desk,ticket support from AED7500/year; reactive/proactive quote monthly/yearly,VENDOR CLAIM,IN08
+Cloud professional services,architecture migration security optimization,CIO; CTO,custom cloud projects,AWS; architecture/security/DevOps packages,quote required,VENDOR CLAIM,IN14
+Migration assessment,discovery waves dependency/TCO planning,infrastructure owner; finance sponsor,assessment service,AWS Migration Evaluator; R frameworks,unknown,VENDOR CLAIM,IN15
+Managed DevOps,CI/CD implementation automation maintenance,engineering/platform manager,AWS-oriented service,toolchain defined per engagement,unknown,VENDOR CLAIM,IN10
+Managed Security,monitoring threat response cloud posture,CISO; security operations,Dubai SOC vendor claim; cloud/hybrid workload,Trend Vision One; AWS security services,unknown,VENDOR CLAIM,IN16;IN24
+OpenShift services,hybrid application platform modernization,platform director,on-premise; cloud; ROSA options,Red Hat OpenShift; supported versions unknown,unknown subscription and delivery scope,VENDOR CLAIM,IN12
+API management,governed integration access and API operations,integration architect,cloud/on-premise gateway options,WSO2; TIBCO; OAuth/SAML platform capabilities,unknown,VENDOR CLAIM,IN11
+Data platforms,ingest transform discover analyze data,CDO; data engineering lead,custom platform deployment,AWS; OCI mentioned; connector inventory unknown,unknown,VENDOR CLAIM,IN18

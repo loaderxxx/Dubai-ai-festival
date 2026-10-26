@@ -1,4 +1,4 @@
-**Update:** [organizer block](../../research/deep-profiles/README.md) adds Dubai AI Campus and Terrapinn. Current all-layer coverage is [coverage.json](../../coverage.json): 19/248 floorplan candidates with any profile, 229 without, plus Terrapinn outside the floorplan. The two-layer counts below remain historical/depth-specific.
+**Latest: [five deep profiles, including KB Financial Group, Kira AI and Integra](../../research/deep-profiles/README.md).** Current union: 20/248 floorplan candidates have a profile; 228 remain; 3 additional profiled entities are outside that snapshot. The historical study below retains its original scope.
 
 # Research status and coverage
 

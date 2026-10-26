@@ -10,7 +10,7 @@ Checked 26 October 2026.
 - OPEN — event contracting entities, service-specific DPA/subprocessors, certificate scope and provider territories.
 - OPEN — independently measured corporate outcomes and sponsor ROI.
 - NOT RUN — product/API/security benchmarks, private-system access, buyer interviews and pilot execution.
-- NOT STARTED — deep sponsor profiles; the tier inventory is a queue, not completion.
+- UPDATE — sponsor batch 01 adds three deep profiles; [current sponsor readiness](sponsors-01/readiness.en.md).
 
 A desk-research profile is complete when the requested questions are answered with evidence or explicit unknowns. It is not complete for procurement until the material unknowns are resolved with the correct service owner. Re-check fees, cohorts, terms and roles before any commercial action.
 

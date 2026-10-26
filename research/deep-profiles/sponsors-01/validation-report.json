@@ -1,0 +1,114 @@
+{
+  "checked_on": "2026-10-26",
+  "scope": "Three sponsor desk profiles; local integrity and bilingual consistency, not live product/security/API tests",
+  "profiles": {
+    "kb-financial-group": {
+      "source_records": 25,
+      "unique_source_urls": 25,
+      "en_words": 2161,
+      "ru_words": 2074,
+      "url_multiset_parity": true,
+      "normalized_numeric_counter_parity": true,
+      "section_ids": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M"
+      ],
+      "section_parity": true,
+      "csv_rows": {
+        "service-matrix.csv": 10,
+        "competitor-matrix.csv": 5
+      }
+    },
+    "kira-ai": {
+      "source_records": 33,
+      "unique_source_urls": 33,
+      "en_words": 2257,
+      "ru_words": 2375,
+      "url_multiset_parity": true,
+      "normalized_numeric_counter_parity": true,
+      "section_ids": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M"
+      ],
+      "section_parity": true,
+      "csv_rows": {
+        "service-matrix.csv": 7,
+        "competitor-matrix.csv": 4
+      }
+    },
+    "integra": {
+      "source_records": 30,
+      "unique_source_urls": 30,
+      "en_words": 2230,
+      "ru_words": 2094,
+      "url_multiset_parity": true,
+      "normalized_numeric_counter_parity": true,
+      "section_ids": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M"
+      ],
+      "section_parity": true,
+      "csv_rows": {
+        "service-matrix.csv": 10,
+        "competitor-matrix.csv": 4
+      }
+    }
+  },
+  "issues": [],
+  "coverage_computed": {
+    "floorplan": 248,
+    "floorplan_covered": 20,
+    "floorplan_deep": 2,
+    "all_deep": 5,
+    "outside_profiled": 3
+  },
+  "source_records": 88,
+  "unique_source_urls": 86,
+  "checks": {
+    "validate_public_research.py": {
+      "exit_code": 0,
+      "output": "{\n  \"result\": \"PASS\",\n  \"checked_on\": \"2026-10-26\",\n  \"scope\": \"Local data integrity, bilingual fields, provenance references, exact row conservation, classifications, CSV parity and relative links; not live web verification.\",\n  \"counts\": {\n    \"floorplan_rows\": 264,\n    \"labels\": 262,\n    \"organization_candidates\": 248,\n    \"initial_profiles\": 12,\n    \"not_profiled\": 236,\n    \"official_sources\": 23,\n    \"facts\": 37,\n    \"crossresearch_edges\": 14\n  },\n  \"private_attendee_data_used\": false,\n  \"legal_company_count_established\": false\n}\n"
+    },
+    "validate_navigation.py": {
+      "exit_code": 0,
+      "output": "{\n  \"result\": \"PASS\",\n  \"scope\": \"Offline relative files, Markdown heading anchors, image alt labels and SVG structure only; not live web/source verification.\",\n  \"counts\": {\n    \"markdown_files\": 53,\n    \"links\": 1629,\n    \"heading_links\": 170,\n    \"image_embeds\": 8,\n    \"svg_files\": 6\n  },\n  \"errors\": []\n}\n"
+    },
+    "audit_public_tree.py": {
+      "exit_code": 0,
+      "output": "{\n  \"result\": \"PASS\",\n  \"scope\": \"Local public-source boundary markers, credential patterns, UTF-8/JSON, local Markdown paths and passive self-contained SVGs; not source completeness or independent privacy certification.\",\n  \"files_checked\": 110,\n  \"local_links_checked\": 629,\n  \"heading_anchors_checked\": 170,\n  \"svg_assets_checked\": 6,\n  \"errors\": [],\n  \"warnings\": [\n    \"Email-like text requires human review: companies/kb-financial-group/profile.ru.md\",\n    \"Email-like text requires human review: companies/kb-financial-group/profile.en.md\",\n    \"Email-like text requires human review: companies/kb-financial-group/sources.json\",\n    \"Email-like text requires human review: companies/dubai-ai-campus/profile.ru.md\",\n    \"Email-like text requires human review: companies/dubai-ai-campus/profile.en.md\",\n    \"Email-like text requires human review: companies/kira-ai/profile.ru.md\",\n    \"Email-like text requires human review: companies/kira-ai/profile.en.md\",\n    \"Email-like text requires human review: companies/kira-ai/sources.json\",\n    \"Email-like text requires human review: companies/terrapinn/profile.ru.md\",\n    \"Email-like text requires human review: companies/terrapinn/profile.en.md\"\n  ]\n}\n"
+    },
+    "validate_value_chain.py": {
+      "exit_code": 0,
+      "output": "{\n  \"result\": \"PASS\",\n  \"scope\": \"Local public baseline joins, coverage union, claim/source/edge integrity, EN/RU fields and report sources, CSV parity; not live web or integration testing.\",\n  \"counts\": {\n    \"companies\": 18,\n    \"used_official_sources\": 38,\n    \"claim_records\": 61,\n    \"relationship_records\": 21,\n    \"documented_integration_links\": 4,\n    \"vendor_named_alliances\": 2,\n    \"advertised_offering_links\": 1,\n    \"analyst_hypotheses\": 7,\n    \"analyst_overlaps\": 7,\n    \"current_unprofiled_candidates\": 230\n  }\n}\n"
+    }
+  },
+  "result": "PASS",
+  "manual_review": "Named-entity/role binding, key pricing/incumbent/security sources and private separation reviewed. No exhaustive live-link validation or independent customer-outcome audit."
+}

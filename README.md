@@ -1,4 +1,4 @@
-**New: [organizer deep profiles — Dubai AI Campus and Terrapinn](research/deep-profiles/README.md).** Current union: 19/248 floorplan candidates have a profile, plus Terrapinn; 2 deep profiles total. [Coverage](coverage.json). The older 18-company study below retains its original scope.
+**Latest: [five deep profiles, including KB Financial Group, Kira AI and Integra](research/deep-profiles/README.md).** Current union: 20/248 floorplan candidates have a profile; 228 remain; 3 additional profiled entities are outside that snapshot. The historical study below retains its original scope.
 
 ![Dubai AI Festival research atlas: public evidence, connected companies and testable opportunities.](assets/research-header.svg)
 

@@ -2,19 +2,21 @@
   "schema_version": "1.0",
   "reviewed_on": "2026-10-26",
   "public_only": true,
-  "scope": "Union of historical baseline, expanded briefs and the organizer deep-profile block; identity counts are not legal-company counts.",
+  "scope": "Union of historical baseline, expanded briefs, organizer deep profiles and sponsor batch 01; brand candidates are not verified legal-company counts.",
   "counts": {
     "floorplan_organization_candidates": 248,
     "initial_profiles": 12,
     "expanded_briefs": 18,
-    "deep_desk_profiles": 2,
-    "floorplan_candidates_with_any_profile": 19,
-    "floorplan_candidates_without_profile": 229,
-    "floorplan_candidates_without_deep_profile": 247,
-    "profiled_entities_outside_floorplan": 1,
-    "distinct_profiled_brand_candidates": 20,
+    "deep_desk_profiles": 5,
+    "floorplan_candidates_with_any_profile": 20,
+    "floorplan_candidates_without_profile": 228,
+    "floorplan_candidates_without_deep_profile": 246,
+    "profiled_entities_outside_floorplan": 3,
+    "distinct_profiled_brand_candidates": 23,
     "sponsor_tier_assets_in_inventory": 17,
-    "sponsor_deep_profiles_completed_in_this_block": 0
+    "sponsor_deep_profiles_completed_in_this_block": 3,
+    "sponsor_deep_profiles_total": 3,
+    "sponsor_tier_assets_pending_deep_profile": 14
   },
   "readiness": {
     "public_source_desk_block_complete": true,
@@ -23,13 +25,16 @@
     "procurement_ready": false,
     "legal_identities_all_verified": false,
     "outreach_sent": false,
-    "sponsor_research_status": "Inventory complete for visible tier assets; deep profiles not started",
+    "sponsor_research_status": "KB Financial Group, Kira AI and Integra desk profiles complete; 14 sponsor-tier assets pending.",
     "remaining_gates": [
       "Resolve service contracting entities and current quotes",
       "Validate delivery appetite, budget owner and partner onboarding",
       "Confirm event-specific data permissions before integrations",
       "Revalidate current country/territory eligibility",
-      "Maintain separate sponsor/partner/pavilion identities; resolve Mantika domain binding"
+      "Maintain separate sponsor/partner/pavilion identities; resolve Mantika domain binding",
+      "Reconcile Kira architecture, policy and platform availability statements",
+      "Select KB subsidiary and current procurement/open-innovation route",
+      "Confirm Integra delivery scope, current vendor credentials and contract terms"
     ]
   },
   "records": [
@@ -903,8 +908,12 @@
       "company_id": "kira-ai",
       "label": "KIRA AI",
       "in_floorplan_universe": true,
-      "depth": "inventory_only",
-      "profile_links": null
+      "depth": "deep_desk_profile",
+      "profile_links": {
+        "en": "companies/kira-ai/profile.en.md",
+        "ru": "companies/kira-ai/profile.ru.md"
+      },
+      "sponsor_role": "Platinum Sponsor"
     },
     {
       "company_id": "klovertech",
@@ -1835,6 +1844,28 @@
         "en": "companies/terrapinn/profile.en.md",
         "ru": "companies/terrapinn/profile.ru.md"
       }
+    },
+    {
+      "company_id": "kb-financial-group",
+      "label": "KB Financial Group",
+      "in_floorplan_universe": false,
+      "depth": "deep_desk_profile",
+      "profile_links": {
+        "en": "companies/kb-financial-group/profile.en.md",
+        "ru": "companies/kb-financial-group/profile.ru.md"
+      },
+      "sponsor_role": "Diamond Sponsor"
+    },
+    {
+      "company_id": "integra",
+      "label": "Integra",
+      "in_floorplan_universe": false,
+      "depth": "deep_desk_profile",
+      "profile_links": {
+        "en": "companies/integra/profile.en.md",
+        "ru": "companies/integra/profile.ru.md"
+      },
+      "sponsor_role": "Gold Sponsor"
     }
   ]
 }

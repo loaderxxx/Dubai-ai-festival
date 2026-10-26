@@ -7,7 +7,8 @@
     "sponsor_tier_assets": 17,
     "other_partner_pavilion_assets": 17,
     "total_heading_assets": 34,
-    "organizer_manager_profiles": 2
+    "organizer_manager_profiles": 2,
+    "sponsor_deep_profiles": 3
   },
   "caveats": [
     "These are displayed logo-role assignments, not counts of verified unique legal companies.",
@@ -77,11 +78,13 @@
       "asset_url": "https://dubaiaifestival.com/wp-content/uploads/2026/04/KB-Financial-Group-logo.webp",
       "checked_on": "2026-10-26",
       "role_evidence": "Asset linked under the named page heading; not legal entity verification",
-      "identity_status": "brand_candidate_from_official_asset_filename",
+      "identity_status": "brand_domain_chain_researched_see_profile",
       "legal_entity_verified": false,
-      "deep_profile_status": "not_started",
+      "deep_profile_status": "desk_research_complete",
       "prior_brief": "none_in_18_company_study",
-      "identity_blocker": "Exact legal identity and official domain need confirmation"
+      "identity_blocker": "Contracting entity/service scope requires confirmation; see profile",
+      "profile_en": "companies/kb-financial-group/profile.en.md",
+      "profile_ru": "companies/kb-financial-group/profile.ru.md"
     },
     {
       "label": "AWS",
@@ -103,11 +106,13 @@
       "asset_url": "https://dubaiaifestival.com/wp-content/uploads/2026/10/kira_ai_logo_2x.webp",
       "checked_on": "2026-10-26",
       "role_evidence": "Asset linked under the named page heading; not legal entity verification",
-      "identity_status": "brand_candidate_from_official_asset_filename",
+      "identity_status": "brand_domain_chain_researched_see_profile",
       "legal_entity_verified": false,
-      "deep_profile_status": "not_started",
+      "deep_profile_status": "desk_research_complete",
       "prior_brief": "none_in_18_company_study",
-      "identity_blocker": "Exact legal identity and official domain need confirmation"
+      "identity_blocker": "Contracting entity/service scope requires confirmation; see profile",
+      "profile_en": "companies/kira-ai/profile.en.md",
+      "profile_ru": "companies/kira-ai/profile.ru.md"
     },
     {
       "label": "Dubai Future Foundation",
@@ -207,11 +212,13 @@
       "asset_url": "https://dubaiaifestival.com/wp-content/uploads/2026/10/integra_logo_2x.webp",
       "checked_on": "2026-10-26",
       "role_evidence": "Asset linked under the named page heading; not legal entity verification",
-      "identity_status": "brand_candidate_from_official_asset_filename",
+      "identity_status": "brand_domain_chain_researched_see_profile",
       "legal_entity_verified": false,
-      "deep_profile_status": "not_started",
+      "deep_profile_status": "desk_research_complete",
       "prior_brief": "none_in_18_company_study",
-      "identity_blocker": "Exact legal identity and official domain need confirmation"
+      "identity_blocker": "Contracting entity/service scope requires confirmation; see profile",
+      "profile_en": "companies/integra/profile.en.md",
+      "profile_ru": "companies/integra/profile.ru.md"
     },
     {
       "label": "Mantika",

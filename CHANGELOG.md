@@ -8,3 +8,7 @@
 - Preserved the 12-profile baseline and 18-company expanded study. New coverage is a union, not the sum of overlapping layers.
 - Public records contain no authenticated attendee data or personal commercial plan. No outreach or product testing.
 - Work prepared in an isolated branch from 085b16e20e5379e1ecccfcde685483ea2d75d487.
+
+## 2026-10-26 — Sponsor deep profiles, batch 01
+
+Added public EN/RU profiles and evidence/service/competitor matrices for KB Financial Group, Kira AI and Integra; eight typed cross-company combinations, readiness and updated coverage. Five deep profiles in total; 20/248 floorplan candidates have any profile, 228 remain, and three profiled entities are outside that snapshot. Integra is not merged with Advanced Integration. Historical 12/18-profile datasets retain their original scope. No private contacts, commercial notes or outreach.

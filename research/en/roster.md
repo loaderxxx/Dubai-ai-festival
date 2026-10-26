@@ -1,4 +1,4 @@
-**Depth supplement:** [Dubai AI Campus deep profile](../../companies/dubai-ai-campus/profile.en.md); [Terrapinn (outside this floorplan universe)](../../companies/terrapinn/profile.en.md). This roster retains the initial + expanded study checkpoint; [coverage.json](../../coverage.json) is the current union.
+**Latest: [five deep profiles, including KB Financial Group, Kira AI and Integra](../deep-profiles/README.md).** Current union: 20/248 floorplan candidates have a profile; 228 remain; 3 additional profiled entities are outside that snapshot. The historical study below retains its original scope.
 
 # Complete public candidate roster
 
