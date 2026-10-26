@@ -1,3 +1,5 @@
+**New: [organizer deep profiles — Dubai AI Campus and Terrapinn](research/deep-profiles/README.md).** Current union: 19/248 floorplan candidates have a profile, plus Terrapinn; 2 deep profiles total. [Coverage](coverage.json). The older 18-company study below retains its original scope.
+
 ![Dubai AI Festival research atlas: public evidence, connected companies and testable opportunities.](assets/research-header.svg)
 
 # Dubai AI Festival · Research Atlas

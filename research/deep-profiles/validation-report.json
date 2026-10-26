@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-10-26",
+  "result": "PASS",
+  "scope": "New deep-profile structural, EN/RU numerical/source and section parity; local navigation; targeted privacy review. Not a product test or exhaustive live URL check.",
+  "profiles": {
+    "dubai-ai-campus": {
+      "normalized_numeric_set_parity": true,
+      "url_set_parity": true,
+      "section_ids": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M"
+      ]
+    },
+    "terrapinn": {
+      "normalized_numeric_set_parity": true,
+      "url_set_parity": true,
+      "section_ids": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M"
+      ]
+    }
+  },
+  "independent_review": "Three issues found and corrected: relationship wording, CSV source IDs, moved private links.",
+  "published_business_routes_reviewed": true,
+  "private_dataset_validation": "NOT RERUN; unchanged baseline dataset blobs will be verified in remote tree."
+}

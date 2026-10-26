@@ -1,0 +1,1840 @@
+{
+  "schema_version": "1.0",
+  "reviewed_on": "2026-10-26",
+  "public_only": true,
+  "scope": "Union of historical baseline, expanded briefs and the organizer deep-profile block; identity counts are not legal-company counts.",
+  "counts": {
+    "floorplan_organization_candidates": 248,
+    "initial_profiles": 12,
+    "expanded_briefs": 18,
+    "deep_desk_profiles": 2,
+    "floorplan_candidates_with_any_profile": 19,
+    "floorplan_candidates_without_profile": 229,
+    "floorplan_candidates_without_deep_profile": 247,
+    "profiled_entities_outside_floorplan": 1,
+    "distinct_profiled_brand_candidates": 20,
+    "sponsor_tier_assets_in_inventory": 17,
+    "sponsor_deep_profiles_completed_in_this_block": 0
+  },
+  "readiness": {
+    "public_source_desk_block_complete": true,
+    "product_or_api_tests_run": false,
+    "independent_outcome_validation_complete": false,
+    "procurement_ready": false,
+    "legal_identities_all_verified": false,
+    "outreach_sent": false,
+    "sponsor_research_status": "Inventory complete for visible tier assets; deep profiles not started",
+    "remaining_gates": [
+      "Resolve service contracting entities and current quotes",
+      "Validate delivery appetite, budget owner and partner onboarding",
+      "Confirm event-specific data permissions before integrations",
+      "Revalidate current country/territory eligibility",
+      "Maintain separate sponsor/partner/pavilion identities; resolve Mantika domain binding"
+    ]
+  },
+  "records": [
+    {
+      "company_id": "1datacloud",
+      "label": "1DataCloud",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "10-leaves",
+      "label": "10 Leaves",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "17-ai",
+      "label": "17.AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "550ai",
+      "label": "550Ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "abigail-ai",
+      "label": "Abigail AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "adaptech",
+      "label": "Adaptech",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "advanced-integration",
+      "label": "Advanced Integration",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aecendir",
+      "label": "Aecendir",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aero-aegis-inc",
+      "label": "Aero Aegis Inc",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aetheryx-ai",
+      "label": "Aetheryx AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "agenyx-ai",
+      "label": "Agenyx AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "ai-champions",
+      "label": "AI Champions",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "ai-security-academy",
+      "label": "AI Security Academy",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aia-orbis",
+      "label": "AIA Orbis",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aiden-ai",
+      "label": "Aiden Ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aifluxx",
+      "label": "AiFluxx",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aimoga",
+      "label": "AiMOGA",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "ainfinite-ai",
+      "label": "AInfinite Ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aivi-in",
+      "label": "Aivi.in",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aivista",
+      "label": "AIVista",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aivorahc",
+      "label": "AIVORAHC",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "al-alfiya",
+      "label": "Al Alfiya",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "al-amen-technology",
+      "label": "Al Amen Technology",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "alibaba-cloud",
+      "label": "Alibaba Cloud",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#alibaba-cloud",
+        "ru": "research/ru/value-chains.md#alibaba-cloud"
+      }
+    },
+    {
+      "company_id": "alokin",
+      "label": "Alokin",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "amira-ai-almost-human",
+      "label": "Amira AI - almost human",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "anylegal-ai",
+      "label": "Anylegal.ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "apgar-group",
+      "label": "Apgar Group",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#apgar-group",
+        "ru": "research/ru/value-chains.md#apgar-group"
+      }
+    },
+    {
+      "company_id": "applause",
+      "label": "Applause",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#applause",
+        "ru": "research/ru/value-chains.md#applause"
+      }
+    },
+    {
+      "company_id": "approduct",
+      "label": "Approduct",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aradi",
+      "label": "Aradi",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "artifact-innovations-ltd",
+      "label": "Artifact Innovations Ltd",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "artisan-ai",
+      "label": "Artisan AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "asano",
+      "label": "Asano",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "ascentia",
+      "label": "ASCENTIA",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "atelic-ai",
+      "label": "ATELIC AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "atelier-digital",
+      "label": "Atelier Digital",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "atlan",
+      "label": "Atlan",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#atlan",
+        "ru": "research/ru/value-chains.md#atlan"
+      }
+    },
+    {
+      "company_id": "audit-sense",
+      "label": "Audit Sense",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aud",
+      "label": "AUD",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aunova",
+      "label": "Aunova",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "avita-inc",
+      "label": "Avita Inc.",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "aws",
+      "label": "AWS",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#aws",
+        "ru": "research/ru/value-chains.md#aws"
+      }
+    },
+    {
+      "company_id": "banza",
+      "label": "Banza",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "baytukum",
+      "label": "Baytukum",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "belfry-labs",
+      "label": "Belfry Labs",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "berry-labs",
+      "label": "Berry Labs",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "black-cloud-solutions",
+      "label": "Black Cloud Solutions",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "bnc-media-group",
+      "label": "BNC MEDIA GROUP",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "business-pulse",
+      "label": "Business Pulse",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "casabot-technology",
+      "label": "Casabot Technology",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "catalab-solutions",
+      "label": "Catalab Solutions",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "chatvertize",
+      "label": "Chatvertize",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "cleverbrain-tech",
+      "label": "Cleverbrain Tech",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "clickup",
+      "label": "ClickUp",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#clickup",
+        "ru": "research/ru/value-chains.md#clickup"
+      }
+    },
+    {
+      "company_id": "climaty-ai",
+      "label": "Climaty AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "clique-ai",
+      "label": "Clique AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "cogniai-inc",
+      "label": "CogniAI Inc",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "contilio",
+      "label": "Contilio",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "convoi-ai",
+      "label": "Convoi.ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "crayon-labs-ai",
+      "label": "Crayon Labs.ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "crtl-studio",
+      "label": "CRTL Studio",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "cusp-wealth",
+      "label": "Cusp Wealth",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "daleel",
+      "label": "Daleel",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "datacamp",
+      "label": "DataCamp",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#datacamp",
+        "ru": "research/ru/value-chains.md#datacamp"
+      }
+    },
+    {
+      "company_id": "datavent",
+      "label": "datavent",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "datellers",
+      "label": "datellers",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "ddi-daode-investment",
+      "label": "DDI (DaoDe Investment)",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "decisimo",
+      "label": "Decisimo",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "deepnovacore",
+      "label": "Deepnovacore",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "demand-logic",
+      "label": "Demand Logic",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "deployed",
+      "label": "Deployed",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "digi-ai",
+      "label": "digi.ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "digital-cubic-smart-solutions",
+      "label": "Digital Cubic Smart Solutions",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "diss-co",
+      "label": "Diss-Co",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "dravya-ai",
+      "label": "Dravya AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "dubai-ai-campus",
+      "label": "Dubai AI Campus",
+      "in_floorplan_universe": true,
+      "depth": "deep_desk_profile",
+      "profile_links": {
+        "en": "companies/dubai-ai-campus/profile.en.md",
+        "ru": "companies/dubai-ai-campus/profile.ru.md"
+      }
+    },
+    {
+      "company_id": "dubai-medical-university",
+      "label": "Dubai Medical University",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "eatova",
+      "label": "eatova",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "elastic",
+      "label": "Elastic",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#elastic",
+        "ru": "research/ru/value-chains.md#elastic"
+      }
+    },
+    {
+      "company_id": "eleven-labs",
+      "label": "Eleven Labs",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#elevenlabs",
+        "ru": "research/ru/value-chains.md#elevenlabs"
+      }
+    },
+    {
+      "company_id": "emotii-ai",
+      "label": "emotii.ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "exec-roundtables-ai",
+      "label": "Exec Roundtables AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "exordium-bugloud",
+      "label": "Exordium – BugLoud",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "fariq-ai",
+      "label": "Fariq.AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "fast-company",
+      "label": "Fast Company",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "feasly",
+      "label": "Feasly",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "fedtuna",
+      "label": "FedTuna",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "finalytics",
+      "label": "Finalytics",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "finbursa",
+      "label": "FinBursa",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "flintx",
+      "label": "FlintX",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "forgenix",
+      "label": "Forgenix",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "fp-advisory-services",
+      "label": "FP Advisory Services",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "freeda",
+      "label": "Freeda",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "gaadin-ai",
+      "label": "Gaadin AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "gbuilder",
+      "label": "GBuilder",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "genesis-ai-ltd",
+      "label": "Genesis AI Ltd",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "ghostly-solutions",
+      "label": "Ghostly Solutions",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "go-ai-guru",
+      "label": "Go AI Guru",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "grantify",
+      "label": "Grantify",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "grid-studio",
+      "label": "Grid Studio",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "gudakesa-tech",
+      "label": "Gudakesa Tech",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "gx1",
+      "label": "GX1",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "habytat-realm9",
+      "label": "Habytat / Realm9",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "handover-ai",
+      "label": "Handover AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "haptik-ai",
+      "label": "Haptik AI",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#haptik",
+        "ru": "research/ru/value-chains.md#haptik"
+      }
+    },
+    {
+      "company_id": "hatchio",
+      "label": "Hatchio",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "hive-technologies",
+      "label": "Hive Technologies",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "imposter-hunter",
+      "label": "Imposter Hunter",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "inspire-tech",
+      "label": "Inspire Tech",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "interloom",
+      "label": "Interloom",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "isovia",
+      "label": "Isovia",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "jalubro",
+      "label": "Jalubro",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "k-j-technologies-ltd",
+      "label": "K&J Technologies Ltd.",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "kakoo-software",
+      "label": "Kakoo Software",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "katrix-ai",
+      "label": "Katrix.AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "kenza-living",
+      "label": "Kenza Living",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "keytron-ai",
+      "label": "Keytron.ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "khurram-badar-com",
+      "label": "khurram badar.com",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "kira-ai",
+      "label": "KIRA AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "klovertech",
+      "label": "KloverTech",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "kter",
+      "label": "KTER",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "laine-ai",
+      "label": "Laine.ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "lana",
+      "label": "LANA / لنا",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "launchpod",
+      "label": "LaunchPod",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "lazulite",
+      "label": "Lazulite",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "leapsoft-consulting",
+      "label": "LeapSoft Consulting",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "legaline",
+      "label": "Legaline",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "legend-x-robotics",
+      "label": "Legend X Robotics",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "lexarius",
+      "label": "Lexarius",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "life-intelligence-group",
+      "label": "Life Intelligence Group",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "loyyal",
+      "label": "Loyyal",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "luma-brush",
+      "label": "Luma Brush",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "lxium",
+      "label": "Lxium",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "m5wealth",
+      "label": "M5Wealth",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "macgence",
+      "label": "Macgence",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#macgence",
+        "ru": "research/ru/value-chains.md#macgence"
+      }
+    },
+    {
+      "company_id": "magure",
+      "label": "Magure",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "main-sequence",
+      "label": "Main Sequence",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "mantika",
+      "label": "Mantika",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "mcfill-media",
+      "label": "McFill Media",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "mechasys",
+      "label": "Mechasys",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "mena-tech",
+      "label": "MENA Tech",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "metis",
+      "label": "Metis",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "mind-ai",
+      "label": "Mind AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "misraj",
+      "label": "Misraj",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "music-ecosystem",
+      "label": "Music Ecosystem",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "myndlab",
+      "label": "Myndlab",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "nash",
+      "label": "Nash",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "nedrix-ai",
+      "label": "Nedrix.ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "nestor-analytics",
+      "label": "Nestor Analytics",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "neura-voz",
+      "label": "Neura Voz",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "neuraserv",
+      "label": "Neuraserv",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "nodex8-ai",
+      "label": "Nodex8 AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "not-boring",
+      "label": "Not Boring",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "nova-pilot-ai",
+      "label": "Nova pilot.ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "novusai",
+      "label": "NovusAI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "nuvin",
+      "label": "Nuvin",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "omnix",
+      "label": "Omnix",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "only-office",
+      "label": "ONLY OFFICE",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#onlyoffice",
+        "ru": "research/ru/value-chains.md#onlyoffice"
+      }
+    },
+    {
+      "company_id": "openneko",
+      "label": "OpenNeko",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "orbo-work",
+      "label": "orbo. work",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "ordinary-wisdom",
+      "label": "Ordinary Wisdom",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "oryx-ai",
+      "label": "Oryx AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "osiris-ai",
+      "label": "Osiris AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "otobiz",
+      "label": "Otobiz",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "otonomi-technologies",
+      "label": "Otonomi Technologies",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "palgu",
+      "label": "Palgu",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "pentx",
+      "label": "PentX",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "perflo",
+      "label": "Perflo",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "periscope-technologies",
+      "label": "Periscope Technologies",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "placeos",
+      "label": "PlaceOS",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#placeos",
+        "ru": "research/ru/value-chains.md#placeos"
+      }
+    },
+    {
+      "company_id": "planytics-ai",
+      "label": "Planytics AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "plexe-ai",
+      "label": "Plexe AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "privinotch",
+      "label": "PRIVINOTCH",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "probis",
+      "label": "Probis",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "proptech-ai",
+      "label": "Proptech AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "propvr",
+      "label": "PropVR",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "provance",
+      "label": "Provance",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "purpl-tech-solutions",
+      "label": "Purpl Tech Solutions",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "rahaai-technologies",
+      "label": "RahaAi technologies",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "raisetalks",
+      "label": "Raisetalks",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "red-rock-technology",
+      "label": "Red Rock Technology",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "relm-insurance",
+      "label": "RELM Insurance",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "remo-ai",
+      "label": "Remo AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "rensair",
+      "label": "Rensair",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "researchcollab-technologies",
+      "label": "ResearchCollab Technologies",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "revent",
+      "label": "Revent",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "riskvantage",
+      "label": "RiskVantage",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "rsk",
+      "label": "RSK",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "sahaba-club-technologies",
+      "label": "Sahaba Club Technologies",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "selira",
+      "label": "Selira",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "sia-partners",
+      "label": "SIA Partners",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#sia-partners",
+        "ru": "research/ru/value-chains.md#sia-partners"
+      }
+    },
+    {
+      "company_id": "sief",
+      "label": "SIEF",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "simsy",
+      "label": "Simsy",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "sinorfi",
+      "label": "Sinorfi",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "skrooge-ai",
+      "label": "Skrooge. ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "skyetron-ai",
+      "label": "Skyetron.ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "skysay-ai",
+      "label": "SkySay AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "skyxops",
+      "label": "SKYXOPS",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "slan",
+      "label": "SLAN",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "smart-spaces",
+      "label": "Smart Spaces",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#smart-spaces",
+        "ru": "research/ru/value-chains.md#smart-spaces"
+      }
+    },
+    {
+      "company_id": "snowflake",
+      "label": "Snowflake",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#snowflake",
+        "ru": "research/ru/value-chains.md#snowflake"
+      }
+    },
+    {
+      "company_id": "soika-labs",
+      "label": "Soika Labs",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "solvagence",
+      "label": "Solvagence",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "squash-app",
+      "label": "Squash App",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "studioyt",
+      "label": "StudioYT",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "sukuun",
+      "label": "Sukuun",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "synthesys",
+      "label": "Synthesys",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "sywa-ai",
+      "label": "SYWA.ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "t-knowledge",
+      "label": "T-Knowledge",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "taksit",
+      "label": "Taksit",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "talos-wealth",
+      "label": "Talos Wealth",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "tatbiq-ai",
+      "label": "TatbiQ.ai",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "tawasol-services",
+      "label": "Tawasol Services",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "techno-polis",
+      "label": "Techno Polis",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "terramine",
+      "label": "Terramine",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "the-cutting-edge-school",
+      "label": "The Cutting Edge School",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "times-of-ai",
+      "label": "Times of AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "togal",
+      "label": "Togal",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "tokeniz-ed",
+      "label": "Tokeniz-Ed",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "totl-resource-international-llc-tri",
+      "label": "TOTL Resource International LLC (TRI)",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "udai-ai",
+      "label": "UDAI AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "umain-tech-limited",
+      "label": "Umain Tech Limited",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "uney",
+      "label": "UNEY",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "unison",
+      "label": "Unison",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "uno-infotech-systems-ltd",
+      "label": "UNO Infotech Systems Ltd",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "uverest",
+      "label": "UVEREST",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "vassutech",
+      "label": "Vassutech",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "ventur-os",
+      "label": "Ventur-os",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "vernovi",
+      "label": "Vernovi",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "watergate",
+      "label": "Watergate",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#watergate",
+        "ru": "research/ru/value-chains.md#watergate"
+      }
+    },
+    {
+      "company_id": "wiiz",
+      "label": "WiiZ",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "works-platform",
+      "label": "Works Platform",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "xenonstack",
+      "label": "Xenonstack",
+      "in_floorplan_universe": true,
+      "depth": "extended_brief",
+      "profile_links": {
+        "en": "research/en/value-chains.md#xenonstack",
+        "ru": "research/ru/value-chains.md#xenonstack"
+      }
+    },
+    {
+      "company_id": "xixum",
+      "label": "Xixum",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "xnterprise",
+      "label": "Xnterprise",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "xoom-carbon",
+      "label": "Xoom Carbon",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "xopa-information-technology",
+      "label": "Xopa Information Technology",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "xtek",
+      "label": "XTEK",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "xyra-ai",
+      "label": "XYRA AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "yara-society",
+      "label": "Yara Society",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "yodaplus",
+      "label": "Yodaplus",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "yoorz-ai-ltd",
+      "label": "yoorz.ai Ltd",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "younea",
+      "label": "Younea",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "zaken",
+      "label": "Zaken",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "zakool-ai",
+      "label": "Zakool AI",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "zelos",
+      "label": "Zelos",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "zwag-ai-ltd",
+      "label": "ZWAG AI Ltd",
+      "in_floorplan_universe": true,
+      "depth": "inventory_only",
+      "profile_links": null
+    },
+    {
+      "company_id": "terrapinn",
+      "label": "Terrapinn",
+      "in_floorplan_universe": false,
+      "depth": "deep_desk_profile",
+      "profile_links": {
+        "en": "companies/terrapinn/profile.en.md",
+        "ru": "companies/terrapinn/profile.ru.md"
+      }
+    }
+  ]
+}

@@ -1,3 +1,5 @@
+**Depth supplement:** [Dubai AI Campus deep profile](../../companies/dubai-ai-campus/profile.en.md); [Terrapinn (outside this floorplan universe)](../../companies/terrapinn/profile.en.md). This roster retains the initial + expanded study checkpoint; [coverage.json](../../coverage.json) is the current union.
+
 # Complete public candidate roster
 
 [English](../../research/en/roster.md) · [Русский](../../research/ru/roster.md)

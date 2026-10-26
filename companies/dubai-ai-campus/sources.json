@@ -1,0 +1,518 @@
+{
+  "company_slug": "dubai-ai-campus",
+  "research_date": "2026-10-26",
+  "timezone": "Asia/Dubai",
+  "research_method": "Public primary-source review and targeted gap pass; no tests or outreach.",
+  "evidence_labels": [
+    "FACT",
+    "VENDOR CLAIM",
+    "INFERENCE",
+    "PROPOSAL",
+    "UNKNOWN"
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "DGHR collaborates with Dubai AI Campus",
+      "url": "https://dubaiaicampus.com/blog/announcement/dghr-collaborates-with-dubai-ai-campus-to-accelerate-ai-driven-workforce-development",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": "2025-06-13",
+      "locator": "Announcement, date and opening paragraphs",
+      "source_type": "official initiative announcement",
+      "confidence": "high",
+      "supported_claims": [
+        "DIFC initiative",
+        "DGHR training MoU",
+        "2030 target not realised total"
+      ],
+      "retrieval_reference": "turn24view1",
+      "status": "retrieved",
+      "limitations": null
+    },
+    {
+      "id": "S02",
+      "title": "Get in touch",
+      "url": "https://dubaiaicampus.com/get-in-touch",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Phone / Email / Office",
+      "source_type": "official contact page",
+      "confidence": "high",
+      "supported_claims": [
+        "Public organisational routes and Innovation One office"
+      ],
+      "retrieval_reference": "turn7view2",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S03",
+      "title": "Dubai AI Festival 2026 global collaboration",
+      "url": "https://www.difc.com/whats-on/news/dubai-ai-festival-2026-global-collaboration",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": "2026-10-20",
+      "locator": "Opening, date and edition bullets",
+      "source_type": "official organiser announcement",
+      "confidence": "high",
+      "supported_claims": [
+        "Campus organiser",
+        "26–27 October 2026",
+        "DWTC",
+        "UAE AI Office partnership"
+      ],
+      "retrieval_reference": "turn14view2",
+      "status": "retrieved",
+      "limitations": null
+    },
+    {
+      "id": "S04",
+      "title": "About Dubai AI Festival",
+      "url": "https://dubaiaifestival.com/about-us/",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "About Us; organiser statement",
+      "source_type": "official event page",
+      "confidence": "high",
+      "supported_claims": [
+        "Organiser corroboration",
+        "stale Dates to be announced text coexists with actual dates"
+      ],
+      "retrieval_reference": "turn14view3",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S05",
+      "title": "DIFC AI Licence",
+      "url": "https://www.difc.com/business/establish-a-business/ai-licence",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "AI Licence; Three easy steps",
+      "source_type": "official licensing authority page",
+      "confidence": "high",
+      "supported_claims": [
+        "Annual licence USD 1500",
+        "space procurement",
+        "complimentary Ignyte",
+        "MEASA positioning"
+      ],
+      "retrieval_reference": "turn3view2",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S06",
+      "title": "DIFC Dubai AI Licence offer",
+      "url": "https://landing.difc.ae/ai-licence-offer",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Attractive pricing; perks; offer footnote",
+      "source_type": "official promotional landing page",
+      "confidence": "high",
+      "supported_claims": [
+        "New-registrants-only offer",
+        "prices",
+        "advertised partner infrastructure benefits"
+      ],
+      "retrieval_reference": "turn14view0",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S07",
+      "title": "Coworking spaces",
+      "url": "https://dubaiaicampus.com/coworking-spaces",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Service introduction and enquiry form",
+      "source_type": "official service page",
+      "confidence": "high",
+      "supported_claims": [
+        "Coworking service",
+        "enquiry route"
+      ],
+      "retrieval_reference": "turn6view2",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S08",
+      "title": "Bespoke offices",
+      "url": "https://dubaiaicampus.com/bespoke-offices",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Service introduction and enquiry form",
+      "source_type": "official service page",
+      "confidence": "high",
+      "supported_claims": [
+        "Custom office service",
+        "no public price located"
+      ],
+      "retrieval_reference": "turn19view0",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S09",
+      "title": "Dubai AI Academy",
+      "url": "https://dubaiaicampus.com/the-campus",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Programmes; partners; tailored programmes",
+      "source_type": "official education overview",
+      "confidence": "high",
+      "supported_claims": [
+        "Minerva and Udacity associations",
+        "custom and open-enrolment learning"
+      ],
+      "retrieval_reference": "turn6view4",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S10",
+      "title": "Nestlé collaborates with Dubai AI Campus",
+      "url": "https://www.nestle-mena.com/en/media/pressreleases/allpressreleases/nestle-collaborates-with-dubai-ai-campus",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": "2025-02-04",
+      "locator": "Opening; MoU paragraph",
+      "source_type": "counterparty official announcement",
+      "confidence": "high",
+      "supported_claims": [
+        "Product-innovation AI tool collaboration",
+        "no measured outcome in release"
+      ],
+      "retrieval_reference": "turn14view4",
+      "status": "retrieved",
+      "limitations": null
+    },
+    {
+      "id": "S11",
+      "title": "Leading in the Age of AI",
+      "url": "https://dubaiaicampus.com/leading-in-the-age-of-ai",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Description; Dates; Fees",
+      "source_type": "official course listing",
+      "confidence": "high",
+      "supported_claims": [
+        "Five sessions ten hours",
+        "Forum",
+        "October–November 2026",
+        "USD 3000"
+      ],
+      "retrieval_reference": "turn21view3",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S12",
+      "title": "GenAI for Civil Service",
+      "url": "https://dubaiaicampus.com/generative-ai-for-civil-service-nanodegree",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Programme Description; Dates; Fees",
+      "source_type": "official course listing",
+      "confidence": "high",
+      "supported_claims": [
+        "Four–six weeks",
+        "bilingual mentors",
+        "October–November 2026",
+        "USD 3000"
+      ],
+      "retrieval_reference": "turn19view3",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S13",
+      "title": "AI for Business Programme",
+      "url": "https://dubaiaicampus.com/business-ai-leadership-course",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Programme Description; Dates; Fees",
+      "source_type": "official course listing",
+      "confidence": "high",
+      "supported_claims": [
+        "Saïd three-day programme",
+        "April 2027 current display",
+        "USD 9000"
+      ],
+      "retrieval_reference": "turn21view0",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S14",
+      "title": "AI for Everyone — Campus",
+      "url": "https://dubaiaicampus.com/ai-for-everyone",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Dates and Fees; Apply Now destination",
+      "source_type": "official course listing",
+      "confidence": "high",
+      "supported_claims": [
+        "Current open shows April 2027",
+        "USD 800",
+        "search cache differed"
+      ],
+      "retrieval_reference": "turn16view1",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S15",
+      "title": "AI for Everyone — DIFC Academy",
+      "url": "https://academy.difc.ae/Management-Future-Readiness/ai-everyone",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Dates; Delivery mode; Course Fees",
+      "source_type": "official education booking page",
+      "confidence": "high",
+      "supported_claims": [
+        "November–December 2026",
+        "USD 1000 excluding VAT",
+        "live online"
+      ],
+      "retrieval_reference": "turn14view5",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S16",
+      "title": "Future Chief AI Officer Programme",
+      "url": "https://dubaiaicampus.com/future-chief-ai-officer-programme",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Description; Dates; Fees",
+      "source_type": "official course listing",
+      "confidence": "high",
+      "supported_claims": [
+        "Blended delivery",
+        "September–December 2026",
+        "USD 13500"
+      ],
+      "retrieval_reference": "turn21view1",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S17",
+      "title": "Leading in the Agentic Era",
+      "url": "https://dubaiaicampus.com/leading-in-the-agentic-era",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Target Audience; Dates; Fees",
+      "source_type": "official course listing",
+      "confidence": "high",
+      "supported_claims": [
+        "March 2027 dates",
+        "USD 10500 excluding VAT",
+        "senior-leader programme"
+      ],
+      "retrieval_reference": "turn21view2",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S18",
+      "title": "Corporate Innovation",
+      "url": "https://dubaiaicampus.com/corporate-innovation",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Benefits section",
+      "source_type": "official programme page",
+      "confidence": "medium",
+      "supported_claims": [
+        "Innovation offering and ecosystem access",
+        "detailed scope and fee not located"
+      ],
+      "retrieval_reference": "turn6view1",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S19",
+      "title": "Business Accelerators",
+      "url": "https://dubaiaicampus.com/business-accelerators",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Benefits section; page title",
+      "source_type": "official programme page",
+      "confidence": "medium",
+      "supported_claims": [
+        "Accelerator route",
+        "page title Global AI Challenge for Civil Defense",
+        "no current intake validated"
+      ],
+      "retrieval_reference": "turn6view0",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S20",
+      "title": "Campus and Google Cloud collaboration",
+      "url": "https://www.difc.com/whats-on/news/dubai-ai-campus-and-google-cloud-announce-collaboration",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": "2024-08-29",
+      "locator": "Opening bullets; Under this collaboration",
+      "source_type": "official institutional announcement",
+      "confidence": "high",
+      "supported_claims": [
+        "Selected-startup mentorship and intended Gen AI Startup School",
+        "current entitlements unverified"
+      ],
+      "retrieval_reference": "turn14view1",
+      "status": "retrieved",
+      "limitations": null
+    },
+    {
+      "id": "S21",
+      "title": "DIFC Our Policies",
+      "url": "https://www.difc.com/our-policies",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Online Data Protection / Information Security",
+      "source_type": "official policy overview",
+      "confidence": "medium",
+      "supported_claims": [
+        "Published policy categories",
+        "no service-specific certification scope established"
+      ],
+      "retrieval_reference": "turn7view3",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S22",
+      "title": "AI License activities",
+      "url": "https://dubaiaicampus.com/license",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Permitted Activities; registration steps",
+      "source_type": "official initiative licensing guide",
+      "confidence": "high",
+      "supported_claims": [
+        "Activity-specific limits",
+        "approval and annual licence/lease renewal process"
+      ],
+      "retrieval_reference": "turn7view0",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S23",
+      "title": "in5 Business Setup",
+      "url": "https://infive.ae/business-setup/",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Pricing table; notes; How to Apply",
+      "source_type": "alternative official service page",
+      "confidence": "high",
+      "supported_claims": [
+        "DDA FZ-LLC",
+        "AED 1000 licence",
+        "desk AED 15000 year one",
+        "three-year subsidy ceiling"
+      ],
+      "retrieval_reference": "turn19view1",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    },
+    {
+      "id": "S24",
+      "title": "Dtec Coworking",
+      "url": "https://dtec.ae/coworking/",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Official indexed content: Flexi Desk and Fixed Desk",
+      "source_type": "alternative official service page via search index",
+      "confidence": "medium",
+      "supported_claims": [
+        "Year-one AED 18000 flexi and AED 24200 fixed",
+        "direct open returned 500"
+      ],
+      "retrieval_reference": "turn16search0",
+      "status": "indexed_primary_partial",
+      "limitations": "Direct page open returned HTTP 500; official-domain indexed text used, obtain current quote."
+    },
+    {
+      "id": "S25",
+      "title": "Hub71 Access Programme",
+      "url": "https://www.hub71.com/program/access-programme",
+      "accessed_at": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "publication_date": null,
+      "locator": "Selected startups; Requirements; Access Programme",
+      "source_type": "alternative official programme page",
+      "confidence": "high",
+      "supported_claims": [
+        "AED 250000 in-kind plus AED 250000 cash SAFE",
+        "relocation",
+        "selection"
+      ],
+      "retrieval_reference": "turn16view0",
+      "status": "retrieved",
+      "limitations": "Publication date not stated on reviewed page."
+    }
+  ],
+  "contradictions": [
+    {
+      "id": "C01",
+      "source_ids": [
+        "S14",
+        "S15"
+      ],
+      "description": "Campus current open lists April 2027 / USD 800; Academy lists 17 November–17 December 2026 / USD 1000, excluding VAT. Different published cohorts, not asserted same-cohort overcharge.",
+      "resolution": "Request authoritative cohort-specific quote; do not assume availability."
+    },
+    {
+      "id": "C02",
+      "source_ids": [
+        "S14"
+      ],
+      "description": "Search-index snippet showed 17 November–17 December 2026 while direct open showed 1 April 2027 / April 2027.",
+      "resolution": "Use direct-open current value with freshness caveat."
+    },
+    {
+      "id": "C03",
+      "source_ids": [
+        "S04",
+        "S03"
+      ],
+      "description": "Festival About page retains Dates to be announced and Register for 2025 alongside 2026 dates.",
+      "resolution": "Date/role anchored to dated 20 October 2026 DIFC announcement."
+    }
+  ],
+  "unknowns": [
+    "Campus brand separate legal entity and service contracting entity",
+    "Complete incorporation/renewal costs and offer expiry",
+    "External partner onboarding and budget authority",
+    "Service-specific DPA, retention, subprocessors, model-training and hosting terms",
+    "Measured production outcomes and independent evaluation"
+  ]
+}

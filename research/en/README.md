@@ -1,3 +1,5 @@
+**New depth layer:** [organizer deep profiles](../deep-profiles/README.md) and [current union coverage](../../coverage.json). The directory below describes the earlier 18-company study.
+
 # Research field guide
 
 [Home](../../README.md) · [Русский](../ru/README.md) · [Coverage](../../docs/en/research-status.md)

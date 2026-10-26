@@ -3798,5 +3798,7 @@
       "report_anchor": null,
       "profile_links": null
     }
-  ]
+  ],
+  "scope": "Historical initial + expanded brief layers only. For all current depth layers use ../coverage.json.",
+  "current_all_layer_coverage": "../coverage.json"
 }

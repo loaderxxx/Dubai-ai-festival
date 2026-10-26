@@ -1,3 +1,5 @@
+**Дополнение глубины:** [профиль Dubai AI Campus](../../companies/dubai-ai-campus/profile.ru.md); [Terrapinn вне этой выборки плана](../../companies/terrapinn/profile.ru.md). Таблица сохраняет срез начальных + расширенных обзоров; [coverage.json](../../coverage.json) содержит текущее объединение.
+
 # Полный публичный реестр кандидатов
 
 [English](../../research/en/roster.md) · [Русский](../../research/ru/roster.md)

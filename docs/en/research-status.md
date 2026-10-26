@@ -1,3 +1,5 @@
+**Update:** [organizer block](../../research/deep-profiles/README.md) adds Dubai AI Campus and Terrapinn. Current all-layer coverage is [coverage.json](../../coverage.json): 19/248 floorplan candidates with any profile, 229 without, plus Terrapinn outside the floorplan. The two-layer counts below remain historical/depth-specific.
+
 # Research status and coverage
 
 [Home](../../README.md) · [Field guide](../../research/en/README.md) · [Русский](../ru/research-status.md)
