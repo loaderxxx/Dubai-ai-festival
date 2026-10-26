@@ -36,6 +36,10 @@
 
 Указанные исходные JSON сохраняют контрольную точку из **12 профилей**. Ещё 6 компаний рассмотрены в расширенном исследовании. Текущий реестр объединяет уровни: расширенные 18 **включают** исходные 12. Текущий пробел — 230 кандидатов; исходный составлял 236.
 
+## Standalone supplementary research / Отдельные исследования
+
+- [Planytics AI and VERA — structured public claims](research-supplements/planytics-ai.json) · [English](../research/en/spotlights/planytics-ai.md) · [Русский](../research/ru/spotlights/planytics-ai.md). **Outside the original 12-profile and selected 18-company datasets.** This file does not change their fixed counts. / Отдельное дополнение на основе открытых источников; исходные подсчёты не изменены.
+
 ## Safe reuse / Корректное использование
 
 Carry the source URL, review date, claim type and limitation into any derivative table or graph. Do not relabel hypotheses as partnerships or inventory labels as verified legal companies. No private dataset should be imported here.
