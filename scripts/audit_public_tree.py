@@ -4,12 +4,13 @@
 This is a preventive local check, not an independent source-quality or privacy guarantee.
 """
 from __future__ import annotations
-import json,re,sys
+import json,re,sys,hashlib
 from pathlib import Path
 from urllib.parse import unquote,urlsplit
 import xml.etree.ElementTree as ET
 
 ROOT=Path(__file__).resolve().parents[1]
+APPROVED_BINARY={'assets/russian-ai-intelligence-banner.png':'5166d8abcf6161892229d2276b5ab1d317e179162c18e5820f410782a549ca8d'}
 errors=[];warnings=[];checked_links=0;checked_anchors=0;svg_count=0
 def heading_anchors(path):
     body=re.sub(r"```.*?```","",path.read_text(),flags=re.S)
@@ -30,7 +31,8 @@ files=[p for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.parts and '
 for p in files:
     relative=p.relative_to(ROOT).as_posix()
     if p.suffix.lower() in {'.png','.jpg','.jpeg','.webp','.gif','.pdf','.zip'}:
-        errors.append(f'Unexpected binary artifact needs explicit provenance review: {relative}')
+        if relative not in APPROVED_BINARY or hashlib.sha256(p.read_bytes()).hexdigest()!=APPROVED_BINARY[relative]:
+            errors.append(f'Unexpected or modified binary artifact needs explicit provenance review: {relative}')
         continue
     try:text=p.read_text(encoding='utf-8')
     except UnicodeDecodeError:

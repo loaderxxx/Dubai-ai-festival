@@ -6,6 +6,13 @@
 
 An independent, public-source research showcase: what selected exhibitors offer, where their capabilities connect, where they overlap, and which questions would turn a plausible idea into a testable next step. **Not an organizer publication, a partnership announcement or a qualified lead list.**
 
+[![Meet LYRA & Her Future AI Friends — English / Русский](assets/meet-lira-friends.svg)](research/ai-friends/README.md)
+
+**[Meet LYRA & Her Future AI Friends →](research/ai-friends/README.md)** · **[Лира и её будущие AI-друзья →](research/ai-friends/README.ru.md)**
+
+A private personal AI meets named assistants, conversational platforms and specialist teams. An independent research collection—not a partnership announcement.
+
+
 ## Choose your starting point
 
 | Your question | Start here | What you will find |
@@ -30,6 +37,13 @@ An independent, public-source research showcase: what selected exhibitors offer,
 Evidence counts are per study and overlap; do not add the two rows into a unique source or fact total.
 
 The current roster combines both layers. Original data files preserve the **12-profile baseline**; the separate current-coverage register tracks all 18 covered companies and the remaining 230. [Coverage, definitions and remaining work →](docs/en/research-status.md)
+
+## Russian AI Intelligence in Action
+
+![Russian AI Intelligence in Action — independent Dubai AI Festival research by Vladimir Uzbek and Quantum Bow.](assets/russian-ai-intelligence-banner.png)
+
+Independent research by Vladimir Uzbek · Quantum Bow. This is our project branding, not an organizer, government or sponsor endorsement.
+
 
 ## Private archive — aggregate only
 

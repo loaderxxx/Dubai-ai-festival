@@ -15,3 +15,7 @@ Original, dependency-free SVG illustrations created for this research repository
 Each SVG includes an accessible title and description; Markdown embeds include descriptive alternative text. The role map is also available as a searchable [English table](../research/en/README.md#browse-by-role) / [таблица на русском](../research/ru/README.md#навигация-по-ролям). Labels, not color alone, convey meaning.
 
 Каждый SVG содержит доступные заголовок и описание, а в Markdown — альтернативный текст. Роли также доступны в текстовых таблицах. Значение передаётся подписями, а не только цветом.
+
+## Project banner
+
+`russian-ai-intelligence-banner.png`: owner-approved generated project branding, 2172×724 PNG, inspected for public publication on 26 October 2026. Not an official event asset or proof of affiliation. No private contact information.
