@@ -13,6 +13,12 @@ An independent, public-source research showcase: what selected exhibitors offer,
 
 A private personal AI meets named assistants, conversational platforms and specialist teams. An independent research collection—not a partnership announcement.
 
+[![Deep Research: Completed Company Profiles](assets/completed-deep-research.svg)](research/completed-deep-research/README.md)
+
+**[Deep Research: Completed Company Profiles →](research/completed-deep-research/README.md)** · **[Русская версия →](research/completed-deep-research/README.ru.md)**
+
+**7 completed studies: 5 companies + 2 organiser / event-manager profiles.** KB Financial Group · Kira AI · Integra Technologies · ImposterHunter · Planytics / VERA; separately, Dubai AI Campus and Terrapinn. Evidence, services, limitations and collaboration hypotheses. Public-source desk research, not independent product audits.
+
 ## 🧭 Expanded festival atlas · 26 October 2026
 
 Start with the **new public-source directories** below. English is primary; every reading route has a Russian counterpart. They extend—not replace—the original 18-company evidence study.
