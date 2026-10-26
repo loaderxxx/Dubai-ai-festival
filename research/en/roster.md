@@ -185,7 +185,7 @@ This is not a verified legal-company count. A public profile can include an unce
 | 169 | Perflo | S153 | Not profiled | — |
 | 170 | Periscope Technologies | S07 | Not profiled | — |
 | 171 | PlaceOS | S51 | [Initial + expanded](value-chains.md#placeos) | [Official source](https://www.placeos.com/) |
-| 172 | Planytics AI | S69 | Not profiled | — |
+| 172 | Planytics AI | S69 | Outside selected 18; [standalone research](spotlights/planytics-ai.md) | [Vendor site](https://planytics.ai/) |
 | 173 | Plexe AI | S143 | Not profiled | — |
 | 174 | PRIVINOTCH | S111 | Not profiled | — |
 | 175 | Probis | S163 | Not profiled | — |
