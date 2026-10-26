@@ -1,0 +1,1350 @@
+{
+  "schema_version": "1.0",
+  "public_only": true,
+  "accessed_on": "2026-10-26",
+  "count": 12,
+  "selection_basis": {
+    "en": "First research batch selected for visible relevance to business-system integration, automation, data infrastructure and enterprise AI assurance. Not a ranked lead list or validated sales pipeline.",
+    "ru": "Первая исследовательская выборка по видимой связи с интеграцией бизнес-систем, автоматизацией, инфраструктурой данных и проверкой корпоративного AI. Не рейтинг лидов и не подтверждённая воронка продаж."
+  },
+  "sources": [
+    {
+      "id": "aws-agentcore",
+      "url": "https://aws.amazon.com/bedrock/agentcore/",
+      "title": "Amazon Bedrock AgentCore",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Overview; Connect across your stack; Debug faster",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "aws-classic",
+      "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html",
+      "title": "Amazon Bedrock Agents documentation",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Maintenance-mode notice at top",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "alibaba-genai",
+      "url": "https://www.alibabacloud.com/en/solutions/generative-ai",
+      "title": "Alibaba Cloud for Generative AI",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Overview; GenAI Development; Model Studio",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "alibaba-qwen-api",
+      "url": "https://docs.modelstudio.console.alibabacloud.com/en/model-studio/first-api-call-to-qwen",
+      "title": "Make your first API call to Qwen",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_documentation_search_extract",
+      "evidence_locator": "Opening description; API compatibility",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "atlan-home",
+      "url": "https://atlan.com/",
+      "title": "Atlan",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Enterprise Context Layer; business systems; enterprise customers",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "atlan-connectors",
+      "url": "https://atlan.com/connectors/",
+      "title": "Atlan connectors",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Connector setup; App Framework; FAQ listing Snowflake",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "clickup-brain",
+      "url": "https://clickup.com/brain",
+      "title": "ClickUp Brain",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "AI tasks, projects and workspace context",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "clickup-api",
+      "url": "https://developer.clickup.com/",
+      "title": "ClickUp developer portal",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Public API; MCP; webhooks; OAuth",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "clickup-webhooks",
+      "url": "https://developer.clickup.com/docs/webhooks",
+      "title": "ClickUp webhooks",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Scope; signature; task events",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "elastic-product",
+      "url": "https://www.elastic.co/elasticsearch",
+      "title": "Elasticsearch",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Search; observability; security; deployment options",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "elastic-ecosystem",
+      "url": "https://www.elastic.co/partners/ai-ecosystem",
+      "title": "Elastic AI Ecosystem",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Meet the ecosystem: AWS and Alibaba Cloud named",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "eleven-agents",
+      "url": "https://elevenlabs.io/agents",
+      "title": "ElevenLabs Agents",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Support, sales and operational use cases; configuration and testing",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "eleven-tools",
+      "url": "https://elevenlabs.io/docs/eleven-agents/customization/tools",
+      "title": "ElevenLabs tools",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Client, webhook, code, MCP and system tools",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "snowflake-ai",
+      "url": "https://www.snowflake.com/en/product/ai/",
+      "title": "Snowflake for AI",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Data agents; unstructured data; ML workflows",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "snowflake-search",
+      "url": "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/cortex-search-overview",
+      "title": "Cortex Search documentation",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Overview; use cases; REST API example",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "haptik-home",
+      "url": "https://www.haptik.ai/",
+      "title": "Jio Haptik",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Support, sales, booking and lead qualification agents; industries",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "haptik-integrations",
+      "url": "https://www.haptik.ai/platform/integrations",
+      "title": "Haptik integrations",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "CRM and live chat; API integration; Salesforce, HubSpot and Zendesk",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "onlyoffice-developer",
+      "url": "https://www.onlyoffice.com/for-developers",
+      "title": "ONLYOFFICE Docs Developer",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Embedded editing; APIs; connectors; AI-ready",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "applause-eval",
+      "url": "https://www.applause.com/ai-evaluation-and-benchmarking/",
+      "title": "Applause AI Evaluation & Benchmarking",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Evaluation service; enterprise QA; domain experts",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "applause-agentic",
+      "url": "https://www.applause.com/agentic-ai-testing/",
+      "title": "Applause Agentic AI Testing",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Trace, tool-call, retrieval and task-completion evaluation",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "placeos-home",
+      "url": "https://www.placeos.com/",
+      "title": "PlaceOS",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Platform overview; products; drivers and APIs",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "xenon-home",
+      "url": "https://www.xenonstack.com/",
+      "title": "XenonStack",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Foundry; domains; integration list",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "xenon-snowflake",
+      "url": "https://www.xenonstack.com/ai-agents/snowflake-ai-agents/",
+      "title": "XenonStack Snowflake AI Agents",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Integration offering; use cases; not a verified performance benchmark",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    }
+  ],
+  "profiles": [
+    {
+      "company_id": "aws",
+      "display_name": "AWS",
+      "official_website": "https://aws.amazon.com/",
+      "reviewed_on": "2026-10-26",
+      "research_status": "initial_public_profile",
+      "tags": [
+        "agent-runtime",
+        "enterprise-integration",
+        "identity-and-security"
+      ],
+      "identity_basis": {
+        "en": "Floorplan brand label matched to an official brand site; legal exhibitor entity and onsite attendance are not independently confirmed.",
+        "ru": "Название бренда на плане сопоставлено с официальным сайтом; юридическое лицо экспонента и фактическое присутствие отдельно не подтверждены."
+      },
+      "facts": [
+        {
+          "id": "aws-offering",
+          "category": "offering",
+          "statement": {
+            "en": "AgentCore provides infrastructure for deploying and operating production AI agents across models and frameworks.",
+            "ru": "AgentCore предоставляет инфраструктуру для развёртывания и эксплуатации AI-агентов с разными моделями и фреймворками."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "aws-agentcore"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "aws-integration",
+          "category": "integration_surface",
+          "statement": {
+            "en": "Its documented integration scope includes MCP servers, internal APIs, knowledge bases and Lambda, with authentication and access controls.",
+            "ru": "Документированы подключения MCP-серверов, внутренних API, баз знаний и Lambda с аутентификацией и управлением доступом."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "aws-agentcore"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "aws-users",
+          "category": "advertised_users",
+          "statement": {
+            "en": "The page addresses developers moving agents from prototypes into production.",
+            "ru": "Страница адресована разработчикам, переводящим агентов из прототипа в промышленную эксплуатацию."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "aws-agentcore"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "aws-caveat",
+          "category": "availability_caveat",
+          "statement": {
+            "en": "The separate Bedrock Agents Classic documentation says it is closed to new customers and directs them to AgentCore.",
+            "ru": "Документация отдельного Bedrock Agents Classic сообщает о закрытии для новых клиентов и направляет их к AgentCore."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "aws-classic"
+          ],
+          "accessed_on": "2026-10-26"
+        }
+      ],
+      "analyst_hypotheses": [
+        {
+          "type": "integration_or_partnership_discussion",
+          "statement": {
+            "en": "Explore a governed business-system agent pilot; choose the current service before architecture work.",
+            "ru": "Обсудить пилот агента для бизнес-систем с контролем доступа; сначала выбрать актуальный сервис."
+          },
+          "status": "unvalidated",
+          "not_a_claim_of_company_interest": true
+        }
+      ],
+      "target_buyer_roles_to_validate": {
+        "statement": {
+          "en": "Platform engineering or enterprise AI leaders.",
+          "ru": "Руководители платформенной разработки или корпоративного AI."
+        },
+        "status": "analyst_inference_not_confirmed_buyer"
+      },
+      "discovery_question": {
+        "en": "Which regional deployment, tool-permission and evaluation requirements must a pilot meet?",
+        "ru": "Какие требования к региону развёртывания, правам инструментов и оценке должен выполнить пилот?"
+      },
+      "unknowns": {
+        "en": "Current buyer, budget, regional delivery, data-residency terms, integration acceptance and willingness to partner are unknown.",
+        "ru": "Неизвестны конкретный покупатель, бюджет, региональная доступность, условия хранения данных, приемлемость интеграции и готовность к партнёрству."
+      },
+      "lead_priority": null,
+      "buying_intent_verified": false,
+      "partnership_intent_verified": false,
+      "floorplan_name": "AWS",
+      "stands": [
+        "H40"
+      ],
+      "event_source_url": "https://dubaiaifestival.com/floorplan/"
+    },
+    {
+      "company_id": "alibaba-cloud",
+      "display_name": "Alibaba Cloud",
+      "official_website": "https://www.alibabacloud.com/",
+      "reviewed_on": "2026-10-26",
+      "research_status": "initial_public_profile",
+      "tags": [
+        "model-platform",
+        "cloud-ai",
+        "enterprise-integration"
+      ],
+      "identity_basis": {
+        "en": "Floorplan brand label matched to an official brand site; legal exhibitor entity and onsite attendance are not independently confirmed.",
+        "ru": "Название бренда на плане сопоставлено с официальным сайтом; юридическое лицо экспонента и фактическое присутствие отдельно не подтверждены."
+      },
+      "facts": [
+        {
+          "id": "alibaba-offering",
+          "category": "offering",
+          "statement": {
+            "en": "Alibaba Cloud describes infrastructure, model development and deployment services; Model Studio hosts Qwen models and supports application development.",
+            "ru": "Alibaba Cloud описывает инфраструктуру, разработку и развёртывание моделей; Model Studio предоставляет модели Qwen и средства разработки приложений."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "alibaba-genai"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "alibaba-integration",
+          "category": "integration_surface",
+          "statement": {
+            "en": "Official Qwen documentation describes OpenAI-compatible APIs and the DashScope SDK.",
+            "ru": "Официальная документация Qwen описывает OpenAI-совместимые API и DashScope SDK."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "alibaba-qwen-api"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "alibaba-users",
+          "category": "advertised_users",
+          "statement": {
+            "en": "The generative-AI solution targets businesses building or customizing models and AI applications.",
+            "ru": "Решение предназначено для компаний, разрабатывающих или адаптирующих модели и AI-приложения."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "alibaba-genai"
+          ],
+          "accessed_on": "2026-10-26"
+        }
+      ],
+      "analyst_hypotheses": [
+        {
+          "type": "integration_or_partnership_discussion",
+          "statement": {
+            "en": "Evaluate Qwen as a candidate model backend for a document or workflow product; compatibility still needs testing.",
+            "ru": "Проверить Qwen как возможный модельный бэкенд документооборота или автоматизации; совместимость требует тестов."
+          },
+          "status": "unvalidated",
+          "not_a_claim_of_company_interest": true
+        }
+      ],
+      "target_buyer_roles_to_validate": {
+        "statement": {
+          "en": "AI application engineering or cloud-platform owners.",
+          "ru": "Руководители разработки AI-приложений или облачной платформы."
+        },
+        "status": "analyst_inference_not_confirmed_buyer"
+      },
+      "discovery_question": {
+        "en": "Which model, region and API features are available for our exact workflow?",
+        "ru": "Какие модель, регион и функции API доступны для конкретного процесса?"
+      },
+      "unknowns": {
+        "en": "Current buyer, budget, regional delivery, data-residency terms, integration acceptance and willingness to partner are unknown.",
+        "ru": "Неизвестны конкретный покупатель, бюджет, региональная доступность, условия хранения данных, приемлемость интеграции и готовность к партнёрству."
+      },
+      "lead_priority": null,
+      "buying_intent_verified": false,
+      "partnership_intent_verified": false,
+      "floorplan_name": "Alibaba Cloud",
+      "stands": [
+        "F30"
+      ],
+      "event_source_url": "https://dubaiaifestival.com/floorplan/"
+    },
+    {
+      "company_id": "atlan",
+      "display_name": "Atlan",
+      "official_website": "https://atlan.com/",
+      "reviewed_on": "2026-10-26",
+      "research_status": "initial_public_profile",
+      "tags": [
+        "data-context",
+        "governance",
+        "connectors"
+      ],
+      "identity_basis": {
+        "en": "Floorplan brand label matched to an official brand site; legal exhibitor entity and onsite attendance are not independently confirmed.",
+        "ru": "Название бренда на плане сопоставлено с официальным сайтом; юридическое лицо экспонента и фактическое присутствие отдельно не подтверждены."
+      },
+      "facts": [
+        {
+          "id": "atlan-offering",
+          "category": "offering",
+          "statement": {
+            "en": "Atlan offers an enterprise context layer combining data structure, business semantics, lineage and organizational knowledge for AI use.",
+            "ru": "Atlan предлагает корпоративный слой контекста: структуру данных, бизнес-семантику, происхождение данных и знания организации для AI."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "atlan-home"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "atlan-integration",
+          "category": "integration_surface",
+          "statement": {
+            "en": "Its connector documentation names Snowflake and describes custom connectors through the App Framework and SDK.",
+            "ru": "В описании коннекторов указаны Snowflake и создание собственных коннекторов через App Framework и SDK."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "atlan-connectors"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "atlan-users",
+          "category": "advertised_users",
+          "statement": {
+            "en": "The product addresses enterprise data and AI teams, including developers, partners and system integrators extending connectors.",
+            "ru": "Продукт адресован корпоративным командам данных и AI, включая разработчиков, партнёров и интеграторов, расширяющих коннекторы."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "atlan-connectors"
+          ],
+          "accessed_on": "2026-10-26"
+        }
+      ],
+      "analyst_hypotheses": [
+        {
+          "type": "integration_or_partnership_discussion",
+          "statement": {
+            "en": "Explore governed context for a Snowflake-based business assistant rather than assuming the connector solves end-user authorization.",
+            "ru": "Обсудить управляемый контекст для бизнес-ассистента на Snowflake, не предполагая, что коннектор решает авторизацию конечных пользователей."
+          },
+          "status": "unvalidated",
+          "not_a_claim_of_company_interest": true
+        }
+      ],
+      "target_buyer_roles_to_validate": {
+        "statement": {
+          "en": "Data platform, governance or enterprise AI leaders.",
+          "ru": "Руководители платформы данных, управления данными или корпоративного AI."
+        },
+        "status": "analyst_inference_not_confirmed_buyer"
+      },
+      "discovery_question": {
+        "en": "How are business definitions, freshness and end-user permissions exposed to downstream agents?",
+        "ru": "Как агентам передаются бизнес-определения, актуальность данных и права конечного пользователя?"
+      },
+      "unknowns": {
+        "en": "Current buyer, budget, regional delivery, data-residency terms, integration acceptance and willingness to partner are unknown.",
+        "ru": "Неизвестны конкретный покупатель, бюджет, региональная доступность, условия хранения данных, приемлемость интеграции и готовность к партнёрству."
+      },
+      "lead_priority": null,
+      "buying_intent_verified": false,
+      "partnership_intent_verified": false,
+      "floorplan_name": "Atlan",
+      "stands": [
+        "H76"
+      ],
+      "event_source_url": "https://dubaiaifestival.com/floorplan/"
+    },
+    {
+      "company_id": "clickup",
+      "display_name": "ClickUp",
+      "official_website": "https://clickup.com/",
+      "reviewed_on": "2026-10-26",
+      "research_status": "initial_public_profile",
+      "tags": [
+        "work-management",
+        "workflow-automation",
+        "business-system"
+      ],
+      "identity_basis": {
+        "en": "Floorplan brand label matched to an official brand site; legal exhibitor entity and onsite attendance are not independently confirmed.",
+        "ru": "Название бренда на плане сопоставлено с официальным сайтом; юридическое лицо экспонента и фактическое присутствие отдельно не подтверждены."
+      },
+      "facts": [
+        {
+          "id": "clickup-offering",
+          "category": "offering",
+          "statement": {
+            "en": "ClickUp combines work-management features with contextual AI for tasks, projects and team collaboration.",
+            "ru": "ClickUp сочетает управление работой с контекстным AI для задач, проектов и командной работы."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "clickup-brain"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "clickup-integration",
+          "category": "integration_surface",
+          "statement": {
+            "en": "The developer portal provides a public API, MCP server, OAuth and event webhooks.",
+            "ru": "Портал разработчика предлагает публичный API, MCP-сервер, OAuth и вебхуки событий."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "clickup-api"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "clickup-control",
+          "category": "implementation_caveat",
+          "statement": {
+            "en": "Webhook subscriptions are tied to the creating user; documentation specifies signed events and task-related event types.",
+            "ru": "Подписки вебхуков связаны с создавшим их пользователем; документация описывает подпись событий и события задач."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "clickup-webhooks"
+          ],
+          "accessed_on": "2026-10-26"
+        }
+      ],
+      "analyst_hypotheses": [
+        {
+          "type": "integration_or_partnership_discussion",
+          "statement": {
+            "en": "Test conversation-to-task automation with explicit approvals, deduplication and an auditable write path.",
+            "ru": "Проверить создание задач из диалогов с явным подтверждением, устранением дублей и журналируемой записью."
+          },
+          "status": "unvalidated",
+          "not_a_claim_of_company_interest": true
+        }
+      ],
+      "target_buyer_roles_to_validate": {
+        "statement": {
+          "en": "Operations, project-management or workspace platform owners.",
+          "ru": "Руководители операций, проектного управления или корпоративной рабочей платформы."
+        },
+        "status": "analyst_inference_not_confirmed_buyer"
+      },
+      "discovery_question": {
+        "en": "Which task actions may an external agent perform, and who owns its OAuth and webhook lifecycle?",
+        "ru": "Какие действия с задачами разрешены внешнему агенту и кто управляет OAuth и жизненным циклом вебхуков?"
+      },
+      "unknowns": {
+        "en": "Current buyer, budget, regional delivery, data-residency terms, integration acceptance and willingness to partner are unknown.",
+        "ru": "Неизвестны конкретный покупатель, бюджет, региональная доступность, условия хранения данных, приемлемость интеграции и готовность к партнёрству."
+      },
+      "lead_priority": null,
+      "buying_intent_verified": false,
+      "partnership_intent_verified": false,
+      "floorplan_name": "ClickUp",
+      "stands": [
+        "H65"
+      ],
+      "event_source_url": "https://dubaiaifestival.com/floorplan/"
+    },
+    {
+      "company_id": "elastic",
+      "display_name": "Elastic",
+      "official_website": "https://www.elastic.co/",
+      "reviewed_on": "2026-10-26",
+      "research_status": "initial_public_profile",
+      "tags": [
+        "retrieval",
+        "observability",
+        "security"
+      ],
+      "identity_basis": {
+        "en": "Floorplan brand label matched to an official brand site; legal exhibitor entity and onsite attendance are not independently confirmed.",
+        "ru": "Название бренда на плане сопоставлено с официальным сайтом; юридическое лицо экспонента и фактическое присутствие отдельно не подтверждены."
+      },
+      "facts": [
+        {
+          "id": "elastic-offering",
+          "category": "offering",
+          "statement": {
+            "en": "Elastic offers search and vector retrieval, observability and security capabilities built around Elasticsearch.",
+            "ru": "Elastic предлагает поиск и векторное извлечение, наблюдаемость и средства безопасности на базе Elasticsearch."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "elastic-product"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "elastic-integration",
+          "category": "integration_surface",
+          "statement": {
+            "en": "Elastic publicly lists AWS and Alibaba Cloud in its AI ecosystem. This alone does not establish a specific deployed integration.",
+            "ru": "Elastic публично указывает AWS и Alibaba Cloud в AI-экосистеме. Само по себе это не подтверждает конкретную работающую интеграцию."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "elastic-ecosystem"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "elastic-users",
+          "category": "advertised_users",
+          "statement": {
+            "en": "Its advertised use cases include search applications, customer support search, infrastructure monitoring and security operations.",
+            "ru": "Среди заявленных сценариев — поисковые приложения, поиск для поддержки, мониторинг инфраструктуры и операции безопасности."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "elastic-product"
+          ],
+          "accessed_on": "2026-10-26"
+        }
+      ],
+      "analyst_hypotheses": [
+        {
+          "type": "integration_or_partnership_discussion",
+          "statement": {
+            "en": "Explore an access-controlled retrieval and observability layer for an enterprise agent.",
+            "ru": "Обсудить слой извлечения знаний и наблюдаемости корпоративного агента с контролем доступа."
+          },
+          "status": "unvalidated",
+          "not_a_claim_of_company_interest": true
+        }
+      ],
+      "target_buyer_roles_to_validate": {
+        "statement": {
+          "en": "Search engineering, SRE or security-platform leaders.",
+          "ru": "Руководители поисковой разработки, SRE или платформы безопасности."
+        },
+        "status": "analyst_inference_not_confirmed_buyer"
+      },
+      "discovery_question": {
+        "en": "Which connector, permission model and retrieval-quality benchmark apply to the proposed data sources?",
+        "ru": "Какие коннектор, модель прав и критерий качества поиска подходят для выбранных источников данных?"
+      },
+      "unknowns": {
+        "en": "Current buyer, budget, regional delivery, data-residency terms, integration acceptance and willingness to partner are unknown.",
+        "ru": "Неизвестны конкретный покупатель, бюджет, региональная доступность, условия хранения данных, приемлемость интеграции и готовность к партнёрству."
+      },
+      "lead_priority": null,
+      "buying_intent_verified": false,
+      "partnership_intent_verified": false,
+      "floorplan_name": "Elastic",
+      "stands": [
+        "G86"
+      ],
+      "event_source_url": "https://dubaiaifestival.com/floorplan/"
+    },
+    {
+      "company_id": "eleven-labs",
+      "display_name": "ElevenLabs",
+      "official_website": "https://elevenlabs.io/",
+      "reviewed_on": "2026-10-26",
+      "research_status": "initial_public_profile",
+      "tags": [
+        "voice-agents",
+        "customer-experience",
+        "tool-integration"
+      ],
+      "identity_basis": {
+        "en": "Floorplan brand label matched to an official brand site; legal exhibitor entity and onsite attendance are not independently confirmed.",
+        "ru": "Название бренда на плане сопоставлено с официальным сайтом; юридическое лицо экспонента и фактическое присутствие отдельно не подтверждены."
+      },
+      "facts": [
+        {
+          "id": "eleven-offering",
+          "category": "offering",
+          "statement": {
+            "en": "ElevenLabs offers conversational agents for customer support, sales and operational workflows.",
+            "ru": "ElevenLabs предлагает разговорных агентов для поддержки клиентов, продаж и операционных процессов."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "eleven-agents"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "eleven-integration",
+          "category": "integration_surface",
+          "statement": {
+            "en": "Its agent tools include external API webhooks, client actions and MCP integrations.",
+            "ru": "Инструменты агентов включают вебхуки внешних API, клиентские действия и интеграции MCP."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "eleven-tools"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "eleven-testing",
+          "category": "quality_surface",
+          "statement": {
+            "en": "The product describes agent simulations, automated behavioral tests and monitoring.",
+            "ru": "В продукте описаны симуляции, автоматические тесты поведения агентов и мониторинг."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "eleven-agents"
+          ],
+          "accessed_on": "2026-10-26"
+        }
+      ],
+      "analyst_hypotheses": [
+        {
+          "type": "integration_or_partnership_discussion",
+          "statement": {
+            "en": "Prototype a voice front end that proposes approved actions in a business system rather than unrestricted writes.",
+            "ru": "Создать прототип голосового интерфейса, предлагающего подтверждаемые действия в бизнес-системе вместо неограниченной записи."
+          },
+          "status": "unvalidated",
+          "not_a_claim_of_company_interest": true
+        }
+      ],
+      "target_buyer_roles_to_validate": {
+        "statement": {
+          "en": "Customer-experience, operations or application-platform leaders.",
+          "ru": "Руководители клиентского опыта, операций или платформы приложений."
+        },
+        "status": "analyst_inference_not_confirmed_buyer"
+      },
+      "discovery_question": {
+        "en": "How are identity, human handoff, tool authorization and measurable task completion implemented?",
+        "ru": "Как реализованы идентификация, передача человеку, авторизация инструментов и измерение выполнения задачи?"
+      },
+      "unknowns": {
+        "en": "Current buyer, budget, regional delivery, data-residency terms, integration acceptance and willingness to partner are unknown.",
+        "ru": "Неизвестны конкретный покупатель, бюджет, региональная доступность, условия хранения данных, приемлемость интеграции и готовность к партнёрству."
+      },
+      "lead_priority": null,
+      "buying_intent_verified": false,
+      "partnership_intent_verified": false,
+      "floorplan_name": "Eleven Labs",
+      "stands": [
+        "H70"
+      ],
+      "event_source_url": "https://dubaiaifestival.com/floorplan/"
+    },
+    {
+      "company_id": "snowflake",
+      "display_name": "Snowflake",
+      "official_website": "https://www.snowflake.com/",
+      "reviewed_on": "2026-10-26",
+      "research_status": "initial_public_profile",
+      "tags": [
+        "data-platform",
+        "enterprise-ai",
+        "retrieval"
+      ],
+      "identity_basis": {
+        "en": "Floorplan brand label matched to an official brand site; legal exhibitor entity and onsite attendance are not independently confirmed.",
+        "ru": "Название бренда на плане сопоставлено с официальным сайтом; юридическое лицо экспонента и фактическое присутствие отдельно не подтверждены."
+      },
+      "facts": [
+        {
+          "id": "snowflake-offering",
+          "category": "offering",
+          "statement": {
+            "en": "Snowflake offers data agents, unstructured-data analysis and ML workflows within its governed data platform.",
+            "ru": "Snowflake предлагает агентов для данных, анализ неструктурированных данных и ML-процессы в своей управляемой платформе данных."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "snowflake-ai"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "snowflake-integration",
+          "category": "integration_surface",
+          "statement": {
+            "en": "Cortex Search supports hybrid retrieval for RAG and enterprise search; documentation includes REST API queries.",
+            "ru": "Cortex Search поддерживает гибридное извлечение для RAG и корпоративного поиска; документация содержит запросы через REST API."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "snowflake-search"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "snowflake-users",
+          "category": "advertised_users",
+          "statement": {
+            "en": "The offerings target enterprises building applications and analytical workflows on their existing data.",
+            "ru": "Предложения адресованы компаниям, создающим приложения и аналитические процессы на своих данных."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "snowflake-ai"
+          ],
+          "accessed_on": "2026-10-26"
+        }
+      ],
+      "analyst_hypotheses": [
+        {
+          "type": "integration_or_partnership_discussion",
+          "statement": {
+            "en": "Evaluate a governed knowledge backend for business assistants, with an explicit permission and freshness test.",
+            "ru": "Проверить управляемый бэкенд знаний для бизнес-ассистентов с явной проверкой прав и актуальности."
+          },
+          "status": "unvalidated",
+          "not_a_claim_of_company_interest": true
+        }
+      ],
+      "target_buyer_roles_to_validate": {
+        "statement": {
+          "en": "Data platform, analytics or enterprise AI leaders.",
+          "ru": "Руководители платформы данных, аналитики или корпоративного AI."
+        },
+        "status": "analyst_inference_not_confirmed_buyer"
+      },
+      "discovery_question": {
+        "en": "Which datasets, retrieval scopes and region-specific AI services are allowed in the pilot?",
+        "ru": "Какие наборы данных, области поиска и региональные AI-сервисы разрешены в пилоте?"
+      },
+      "unknowns": {
+        "en": "Current buyer, budget, regional delivery, data-residency terms, integration acceptance and willingness to partner are unknown.",
+        "ru": "Неизвестны конкретный покупатель, бюджет, региональная доступность, условия хранения данных, приемлемость интеграции и готовность к партнёрству."
+      },
+      "lead_priority": null,
+      "buying_intent_verified": false,
+      "partnership_intent_verified": false,
+      "floorplan_name": "Snowflake",
+      "stands": [
+        "G76"
+      ],
+      "event_source_url": "https://dubaiaifestival.com/floorplan/"
+    },
+    {
+      "company_id": "haptik-ai",
+      "display_name": "Haptik AI / Jio Haptik",
+      "official_website": "https://www.haptik.ai/",
+      "reviewed_on": "2026-10-26",
+      "research_status": "initial_public_profile",
+      "tags": [
+        "conversational-ai",
+        "customer-service",
+        "crm-integration"
+      ],
+      "identity_basis": {
+        "en": "Floorplan brand label matched to an official brand site; legal exhibitor entity and onsite attendance are not independently confirmed.",
+        "ru": "Название бренда на плане сопоставлено с официальным сайтом; юридическое лицо экспонента и фактическое присутствие отдельно не подтверждены."
+      },
+      "facts": [
+        {
+          "id": "haptik-offering",
+          "category": "offering",
+          "statement": {
+            "en": "Haptik markets agents for customer service, sales, bookings and lead qualification across conversational channels.",
+            "ru": "Haptik предлагает агентов для обслуживания, продаж, бронирования и квалификации лидов в разговорных каналах."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "haptik-home"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "haptik-integration",
+          "category": "integration_surface",
+          "statement": {
+            "en": "Its integration catalog names Salesforce, HubSpot and Zendesk, and describes connections to API-enabled software.",
+            "ru": "В каталоге интеграций указаны Salesforce, HubSpot и Zendesk; описано подключение ПО с API."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "haptik-integrations"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "haptik-users",
+          "category": "advertised_users",
+          "statement": {
+            "en": "The integration page addresses support, sales, marketing and customer-engagement teams.",
+            "ru": "Страница интеграций адресована командам поддержки, продаж, маркетинга и взаимодействия с клиентами."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "haptik-integrations"
+          ],
+          "accessed_on": "2026-10-26"
+        }
+      ],
+      "analyst_hypotheses": [
+        {
+          "type": "integration_or_partnership_discussion",
+          "statement": {
+            "en": "Explore CRM-connected service automation; compare overlap with other voice-agent platforms before assuming partnership fit.",
+            "ru": "Обсудить автоматизацию обслуживания с CRM; проверить пересечение с другими платформами голосовых агентов, прежде чем предполагать партнёрство."
+          },
+          "status": "unvalidated",
+          "not_a_claim_of_company_interest": true
+        }
+      ],
+      "target_buyer_roles_to_validate": {
+        "statement": {
+          "en": "Customer service, CX or revenue-operations leaders.",
+          "ru": "Руководители клиентского обслуживания, CX или коммерческих операций."
+        },
+        "status": "analyst_inference_not_confirmed_buyer"
+      },
+      "discovery_question": {
+        "en": "Which integrations are native, how does human handoff work, and what is the required deployment model?",
+        "ru": "Какие интеграции нативные, как работает передача человеку и какая модель развёртывания требуется?"
+      },
+      "unknowns": {
+        "en": "Current buyer, budget, regional delivery, data-residency terms, integration acceptance and willingness to partner are unknown.",
+        "ru": "Неизвестны конкретный покупатель, бюджет, региональная доступность, условия хранения данных, приемлемость интеграции и готовность к партнёрству."
+      },
+      "lead_priority": null,
+      "buying_intent_verified": false,
+      "partnership_intent_verified": false,
+      "floorplan_name": "Haptik AI",
+      "stands": [
+        "G77"
+      ],
+      "event_source_url": "https://dubaiaifestival.com/floorplan/"
+    },
+    {
+      "company_id": "only-office",
+      "display_name": "ONLYOFFICE",
+      "official_website": "https://www.onlyoffice.com/",
+      "reviewed_on": "2026-10-26",
+      "research_status": "initial_public_profile",
+      "tags": [
+        "document-workflows",
+        "embedded-software",
+        "business-system"
+      ],
+      "identity_basis": {
+        "en": "Floorplan brand label matched to an official brand site; legal exhibitor entity and onsite attendance are not independently confirmed.",
+        "ru": "Название бренда на плане сопоставлено с официальным сайтом; юридическое лицо экспонента и фактическое присутствие отдельно не подтверждены."
+      },
+      "facts": [
+        {
+          "id": "onlyoffice-offering",
+          "category": "offering",
+          "statement": {
+            "en": "ONLYOFFICE provides embeddable collaborative editors for documents, spreadsheets, presentations, forms and PDF.",
+            "ru": "ONLYOFFICE предоставляет встраиваемые совместные редакторы документов, таблиц, презентаций, форм и PDF."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "onlyoffice-developer"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "onlyoffice-integration",
+          "category": "integration_surface",
+          "statement": {
+            "en": "The developer offering lists JavaScript and REST APIs, WOPI, connectors and integrations with custom language models.",
+            "ru": "Предложение для разработчиков включает JavaScript- и REST-API, WOPI, коннекторы и интеграции с собственными языковыми моделями."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "onlyoffice-developer"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "onlyoffice-users",
+          "category": "advertised_users",
+          "statement": {
+            "en": "It targets developers embedding editing into their own applications.",
+            "ru": "Продукт адресован разработчикам, встраивающим редактирование в собственные приложения."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "onlyoffice-developer"
+          ],
+          "accessed_on": "2026-10-26"
+        }
+      ],
+      "analyst_hypotheses": [
+        {
+          "type": "integration_or_partnership_discussion",
+          "statement": {
+            "en": "Test an AI-assisted document workflow with a selected model backend; API compatibility is not a verified integration.",
+            "ru": "Проверить AI-сценарий работы с документами с выбранным модельным бэкендом; совместимость API не равна подтверждённой интеграции."
+          },
+          "status": "unvalidated",
+          "not_a_claim_of_company_interest": true
+        }
+      ],
+      "target_buyer_roles_to_validate": {
+        "statement": {
+          "en": "Software product or document-platform owners.",
+          "ru": "Руководители программного продукта или платформы документооборота."
+        },
+        "status": "analyst_inference_not_confirmed_buyer"
+      },
+      "discovery_question": {
+        "en": "What deployment, licensing and document-permission boundaries apply to embedding and AI calls?",
+        "ru": "Какие условия развёртывания, лицензирования и права документов действуют для встраивания и AI-вызовов?"
+      },
+      "unknowns": {
+        "en": "Current buyer, budget, regional delivery, data-residency terms, integration acceptance and willingness to partner are unknown.",
+        "ru": "Неизвестны конкретный покупатель, бюджет, региональная доступность, условия хранения данных, приемлемость интеграции и готовность к партнёрству."
+      },
+      "lead_priority": null,
+      "buying_intent_verified": false,
+      "partnership_intent_verified": false,
+      "floorplan_name": "ONLY OFFICE",
+      "stands": [
+        "G82"
+      ],
+      "event_source_url": "https://dubaiaifestival.com/floorplan/"
+    },
+    {
+      "company_id": "applause",
+      "display_name": "Applause",
+      "official_website": "https://www.applause.com/",
+      "reviewed_on": "2026-10-26",
+      "research_status": "initial_public_profile",
+      "tags": [
+        "ai-evaluation",
+        "quality-assurance",
+        "agent-safety"
+      ],
+      "identity_basis": {
+        "en": "Floorplan brand label matched to an official brand site; legal exhibitor entity and onsite attendance are not independently confirmed.",
+        "ru": "Название бренда на плане сопоставлено с официальным сайтом; юридическое лицо экспонента и фактическое присутствие отдельно не подтверждены."
+      },
+      "facts": [
+        {
+          "id": "applause-offering",
+          "category": "offering",
+          "statement": {
+            "en": "Applause provides managed AI evaluation combining automated assessment and human/domain-expert review.",
+            "ru": "Applause предоставляет управляемую оценку AI, сочетая автоматическую проверку с участием людей и отраслевых экспертов."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "applause-eval"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "applause-evaluation",
+          "category": "evaluation_scope",
+          "statement": {
+            "en": "Its agent-testing service describes trace assessment, tool-call correctness, retrieval relevance and end-to-end task completion.",
+            "ru": "Услуга тестирования агентов включает оценку трасс, корректности вызовов инструментов, релевантности поиска и полного выполнения задач."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "applause-agentic"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "applause-users",
+          "category": "advertised_users",
+          "statement": {
+            "en": "The evaluation program is presented for enterprise AI and quality-assurance teams.",
+            "ru": "Программа оценки адресована корпоративным командам AI и обеспечения качества."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "applause-eval"
+          ],
+          "accessed_on": "2026-10-26"
+        }
+      ],
+      "analyst_hypotheses": [
+        {
+          "type": "integration_or_partnership_discussion",
+          "statement": {
+            "en": "Explore independent acceptance testing for a voice or business-system agent pilot.",
+            "ru": "Обсудить независимые приёмочные испытания пилота голосового агента или агента бизнес-систем."
+          },
+          "status": "unvalidated",
+          "not_a_claim_of_company_interest": true
+        }
+      ],
+      "target_buyer_roles_to_validate": {
+        "statement": {
+          "en": "AI product, quality engineering or responsible-AI owners.",
+          "ru": "Руководители AI-продукта, качества разработки или ответственного AI."
+        },
+        "status": "analyst_inference_not_confirmed_buyer"
+      },
+      "discovery_question": {
+        "en": "Can the program measure task success and unsafe-action rates using consented, non-sensitive test cases?",
+        "ru": "Можно ли измерять успешность задач и частоту небезопасных действий на согласованных несекретных тестовых сценариях?"
+      },
+      "unknowns": {
+        "en": "Current buyer, budget, regional delivery, data-residency terms, integration acceptance and willingness to partner are unknown.",
+        "ru": "Неизвестны конкретный покупатель, бюджет, региональная доступность, условия хранения данных, приемлемость интеграции и готовность к партнёрству."
+      },
+      "lead_priority": null,
+      "buying_intent_verified": false,
+      "partnership_intent_verified": false,
+      "floorplan_name": "Applause",
+      "stands": [
+        "G112"
+      ],
+      "event_source_url": "https://dubaiaifestival.com/floorplan/"
+    },
+    {
+      "company_id": "placeos",
+      "display_name": "PlaceOS",
+      "official_website": "https://www.placeos.com/",
+      "reviewed_on": "2026-10-26",
+      "research_status": "initial_public_profile",
+      "tags": [
+        "building-automation",
+        "physical-systems",
+        "integration-platform"
+      ],
+      "identity_basis": {
+        "en": "Floorplan brand label matched to an official brand site; legal exhibitor entity and onsite attendance are not independently confirmed.",
+        "ru": "Название бренда на плане сопоставлено с официальным сайтом; юридическое лицо экспонента и фактическое присутствие отдельно не подтверждены."
+      },
+      "facts": [
+        {
+          "id": "placeos-offering",
+          "category": "offering",
+          "statement": {
+            "en": "PlaceOS offers integration and automation for workplaces, rooms, buildings and digital displays.",
+            "ru": "PlaceOS предлагает интеграцию и автоматизацию рабочих пространств, комнат, зданий и цифровых экранов."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "placeos-home"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "placeos-integration",
+          "category": "integration_surface",
+          "statement": {
+            "en": "Its drivers connect AV, HVAC, access control, sensors and calendars; APIs expose configured integrations and actions.",
+            "ru": "Драйверы подключают AV, HVAC, контроль доступа, датчики и календари; API предоставляют настроенные интеграции и действия."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "placeos-home"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "placeos-users",
+          "category": "advertised_users",
+          "statement": {
+            "en": "The site supports teams building their own workplace applications and delivery through PlaceOS partners.",
+            "ru": "Сайт предлагает создание собственных приложений рабочего пространства командами и реализацию через партнёров PlaceOS."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "placeos-home"
+          ],
+          "accessed_on": "2026-10-26"
+        }
+      ],
+      "analyst_hypotheses": [
+        {
+          "type": "integration_or_partnership_discussion",
+          "statement": {
+            "en": "Explore a voice-assisted room-booking or facilities workflow with safety-gated actions.",
+            "ru": "Обсудить голосовое бронирование комнат или заявки эксплуатации с безопасным подтверждением действий."
+          },
+          "status": "unvalidated",
+          "not_a_claim_of_company_interest": true
+        }
+      ],
+      "target_buyer_roles_to_validate": {
+        "statement": {
+          "en": "Workplace technology, facilities or smart-building platform owners.",
+          "ru": "Руководители технологий рабочего пространства, эксплуатации или платформы умного здания."
+        },
+        "status": "analyst_inference_not_confirmed_buyer"
+      },
+      "discovery_question": {
+        "en": "Which actions are read-only, approval-gated or prohibited, and how is occupancy data minimized?",
+        "ru": "Какие действия только читают данные, требуют подтверждения или запрещены, и как минимизируются данные о присутствии?"
+      },
+      "unknowns": {
+        "en": "Current buyer, budget, regional delivery, data-residency terms, integration acceptance and willingness to partner are unknown.",
+        "ru": "Неизвестны конкретный покупатель, бюджет, региональная доступность, условия хранения данных, приемлемость интеграции и готовность к партнёрству."
+      },
+      "lead_priority": null,
+      "buying_intent_verified": false,
+      "partnership_intent_verified": false,
+      "floorplan_name": "PlaceOS",
+      "stands": [
+        "S51"
+      ],
+      "event_source_url": "https://dubaiaifestival.com/floorplan/"
+    },
+    {
+      "company_id": "xenonstack",
+      "display_name": "XenonStack",
+      "official_website": "https://www.xenonstack.com/",
+      "reviewed_on": "2026-10-26",
+      "research_status": "initial_public_profile",
+      "tags": [
+        "systems-integration",
+        "agentic-operations",
+        "security-and-governance"
+      ],
+      "identity_basis": {
+        "en": "Floorplan brand label matched to an official brand site; legal exhibitor entity and onsite attendance are not independently confirmed.",
+        "ru": "Название бренда на плане сопоставлено с официальным сайтом; юридическое лицо экспонента и фактическое присутствие отдельно не подтверждены."
+      },
+      "facts": [
+        {
+          "id": "xenon-offering",
+          "category": "offering",
+          "statement": {
+            "en": "XenonStack markets agent orchestration, analytics, infrastructure automation and security/governance offerings.",
+            "ru": "XenonStack предлагает оркестрацию агентов, аналитику, автоматизацию инфраструктуры и решения безопасности и управления."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "xenon-home"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "xenon-integration",
+          "category": "integration_surface",
+          "statement": {
+            "en": "Its site advertises Snowflake AI Agents and lists ServiceNow, SAP, Jira and Oracle-oriented agent integrations.",
+            "ru": "Сайт предлагает Snowflake AI Agents и перечисляет интеграции агентов с ServiceNow, SAP, Jira и Oracle."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "xenon-home",
+            "xenon-snowflake"
+          ],
+          "accessed_on": "2026-10-26"
+        },
+        {
+          "id": "xenon-users",
+          "category": "advertised_users",
+          "statement": {
+            "en": "Advertised domains include IT operations, finance, risk, analytics and security.",
+            "ru": "Заявленные области включают IT-операции, финансы, риски, аналитику и безопасность."
+          },
+          "evidence_kind": "official_vendor_statement",
+          "source_ids": [
+            "xenon-home"
+          ],
+          "accessed_on": "2026-10-26"
+        }
+      ],
+      "analyst_hypotheses": [
+        {
+          "type": "integration_or_partnership_discussion",
+          "statement": {
+            "en": "Explore an implementation or co-delivery discussion for a narrowly scoped enterprise-agent workflow.",
+            "ru": "Обсудить внедрение или совместную реализацию узкого процесса корпоративного агента."
+          },
+          "status": "unvalidated",
+          "not_a_claim_of_company_interest": true
+        }
+      ],
+      "target_buyer_roles_to_validate": {
+        "statement": {
+          "en": "Enterprise transformation, IT operations or data-platform leaders.",
+          "ru": "Руководители корпоративной трансформации, IT-операций или платформы данных."
+        },
+        "status": "analyst_inference_not_confirmed_buyer"
+      },
+      "discovery_question": {
+        "en": "Which production references, connector ownership and support responsibilities can be demonstrated?",
+        "ru": "Какие промышленные референсы, владение коннекторами и обязанности поддержки можно подтвердить?"
+      },
+      "unknowns": {
+        "en": "Current buyer, budget, regional delivery, data-residency terms, integration acceptance and willingness to partner are unknown.",
+        "ru": "Неизвестны конкретный покупатель, бюджет, региональная доступность, условия хранения данных, приемлемость интеграции и готовность к партнёрству."
+      },
+      "lead_priority": null,
+      "buying_intent_verified": false,
+      "partnership_intent_verified": false,
+      "floorplan_name": "Xenonstack",
+      "stands": [
+        "G91"
+      ],
+      "event_source_url": "https://dubaiaifestival.com/floorplan/"
+    }
+  ]
+}

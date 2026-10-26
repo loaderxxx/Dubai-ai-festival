@@ -1,0 +1,235 @@
+{
+  "accessed_on": "2026-10-26",
+  "sources": [
+    {
+      "id": "aws-agentcore",
+      "url": "https://aws.amazon.com/bedrock/agentcore/",
+      "title": "Amazon Bedrock AgentCore",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Overview; Connect across your stack; Debug faster",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "aws-classic",
+      "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html",
+      "title": "Amazon Bedrock Agents documentation",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Maintenance-mode notice at top",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "alibaba-genai",
+      "url": "https://www.alibabacloud.com/en/solutions/generative-ai",
+      "title": "Alibaba Cloud for Generative AI",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Overview; GenAI Development; Model Studio",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "alibaba-qwen-api",
+      "url": "https://docs.modelstudio.console.alibabacloud.com/en/model-studio/first-api-call-to-qwen",
+      "title": "Make your first API call to Qwen",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_documentation_search_extract",
+      "evidence_locator": "Opening description; API compatibility",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "atlan-home",
+      "url": "https://atlan.com/",
+      "title": "Atlan",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Enterprise Context Layer; business systems; enterprise customers",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "atlan-connectors",
+      "url": "https://atlan.com/connectors/",
+      "title": "Atlan connectors",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Connector setup; App Framework; FAQ listing Snowflake",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "clickup-brain",
+      "url": "https://clickup.com/brain",
+      "title": "ClickUp Brain",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "AI tasks, projects and workspace context",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "clickup-api",
+      "url": "https://developer.clickup.com/",
+      "title": "ClickUp developer portal",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Public API; MCP; webhooks; OAuth",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "clickup-webhooks",
+      "url": "https://developer.clickup.com/docs/webhooks",
+      "title": "ClickUp webhooks",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Scope; signature; task events",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "elastic-product",
+      "url": "https://www.elastic.co/elasticsearch",
+      "title": "Elasticsearch",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Search; observability; security; deployment options",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "elastic-ecosystem",
+      "url": "https://www.elastic.co/partners/ai-ecosystem",
+      "title": "Elastic AI Ecosystem",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Meet the ecosystem: AWS and Alibaba Cloud named",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "eleven-agents",
+      "url": "https://elevenlabs.io/agents",
+      "title": "ElevenLabs Agents",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Support, sales and operational use cases; configuration and testing",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "eleven-tools",
+      "url": "https://elevenlabs.io/docs/eleven-agents/customization/tools",
+      "title": "ElevenLabs tools",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Client, webhook, code, MCP and system tools",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "snowflake-ai",
+      "url": "https://www.snowflake.com/en/product/ai/",
+      "title": "Snowflake for AI",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Data agents; unstructured data; ML workflows",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "snowflake-search",
+      "url": "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/cortex-search-overview",
+      "title": "Cortex Search documentation",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Overview; use cases; REST API example",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "haptik-home",
+      "url": "https://www.haptik.ai/",
+      "title": "Jio Haptik",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Support, sales, booking and lead qualification agents; industries",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "haptik-integrations",
+      "url": "https://www.haptik.ai/platform/integrations",
+      "title": "Haptik integrations",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "CRM and live chat; API integration; Salesforce, HubSpot and Zendesk",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "onlyoffice-developer",
+      "url": "https://www.onlyoffice.com/for-developers",
+      "title": "ONLYOFFICE Docs Developer",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Embedded editing; APIs; connectors; AI-ready",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "applause-eval",
+      "url": "https://www.applause.com/ai-evaluation-and-benchmarking/",
+      "title": "Applause AI Evaluation & Benchmarking",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Evaluation service; enterprise QA; domain experts",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "applause-agentic",
+      "url": "https://www.applause.com/agentic-ai-testing/",
+      "title": "Applause Agentic AI Testing",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Trace, tool-call, retrieval and task-completion evaluation",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "placeos-home",
+      "url": "https://www.placeos.com/",
+      "title": "PlaceOS",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Platform overview; products; drivers and APIs",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "xenon-home",
+      "url": "https://www.xenonstack.com/",
+      "title": "XenonStack",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Foundry; domains; integration list",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    },
+    {
+      "id": "xenon-snowflake",
+      "url": "https://www.xenonstack.com/ai-agents/snowflake-ai-agents/",
+      "title": "XenonStack Snowflake AI Agents",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Integration offering; use cases; not a verified performance benchmark",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation."
+    }
+  ]
+}

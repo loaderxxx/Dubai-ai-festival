@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "event": "Dubai AI Festival 2026",
+  "accessed_on": "2026-10-26",
+  "source_url": "https://dubaiaifestival.com/floorplan/",
+  "normalization": "NFKC; collapse whitespace; casefold for grouping. No fuzzy merge. Keep all stand assignments. Preserve raw spellings. Do not split co-branded labels without evidence.",
+  "public_only": true,
+  "private_app_data_used": false,
+  "counts": {
+    "raw_populated_rows": 264,
+    "distinct_normalized_labels": 262,
+    "organization_candidates": 248,
+    "amenity_or_event_service_labels": 12,
+    "pavilion_labels": 1,
+    "unknown_labels": 1,
+    "duplicate_label_extra_rows": 2,
+    "unique_nonempty_stand_codes": 258,
+    "rows_without_stand": 1,
+    "shared_stand_codes": {
+      "G103": [
+        "Aecendir",
+        "Handover AI",
+        "RSVD",
+        "TOTL Resource International LLC (TRI)"
+      ],
+      "G105": [
+        "ATELIC AI",
+        "Grid Studio"
+      ],
+      "G104": [
+        "Grid Studio",
+        "Jalubro"
+      ]
+    },
+    "verified_unique_legal_company_count": null,
+    "initial_public_profiles": 12,
+    "organization_candidates_not_profiled": 236
+  }
+}
