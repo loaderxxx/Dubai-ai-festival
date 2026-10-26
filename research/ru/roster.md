@@ -185,7 +185,7 @@
 | 169 | Perflo | S153 | Нет профиля | — |
 | 170 | Periscope Technologies | S07 | Нет профиля | — |
 | 171 | PlaceOS | S51 | [Первичный + расширенный](value-chains.md#placeos) | [Официальный источник](https://www.placeos.com/) |
-| 172 | Planytics AI | S69 | Нет профиля | — |
+| 172 | Planytics AI | S69 | Вне выборки 18; [отдельное исследование](spotlights/planytics-ai.md) | [Сайт](https://planytics.ai/) |
 | 173 | Plexe AI | S143 | Нет профиля | — |
 | 174 | PRIVINOTCH | S111 | Нет профиля | — |
 | 175 | Probis | S163 | Нет профиля | — |
