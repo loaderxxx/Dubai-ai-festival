@@ -1,5 +1,8 @@
 # Startup Stage · public agenda supplement
 
+> **Earlier partial agenda capture.** See the [two-day speaker/session atlas](../speakers/README.md) for the later public-source capture and explicit date conflicts.
+
+
 [Home](../../README.md) · [Русская версия](../ru/startup-agenda.md) · [Structured observations](../../data/startup-agenda-supplement-2026-10-26.json)
 
 **Checked 26 October 2026. All times are Dubai local time (GST, UTC+4).** This is a selected public-source supplement, not the whole festival programme or a live schedule.

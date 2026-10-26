@@ -1,0 +1,21 @@
+{
+  "as_of": "2026-10-26",
+  "public_only": true,
+  "private_app_data_used": false,
+  "organization_candidates": 248,
+  "depth_counts": {
+    "primary_source_brief": 172,
+    "floorplan_only": 58,
+    "multi_source_profile": 18
+  },
+  "identity_gaps": 58,
+  "identity_search_attempted": 248,
+  "not_yet_attempted": 0,
+  "raw_rows": 264,
+  "normalized_labels": 262,
+  "excluded_noncompany_labels": 14,
+  "legal_entity_count": null,
+  "performance_tests_run": false,
+  "complete_deep_research": false,
+  "limitation": "Full observed public floorplan baseline, not all legal companies or all event participants. Unresolved rows deliberately retain unknown capabilities."
+}

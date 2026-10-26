@@ -6,12 +6,29 @@
 
 An independent, public-source research showcase: what selected exhibitors offer, where their capabilities connect, where they overlap, and which questions would turn a plausible idea into a testable next step. **Not an organizer publication, a partnership announcement or a qualified lead list.**
 
+
 [![Meet LYRA & Her Future AI Friends — English / Русский](assets/meet-lira-friends.svg)](research/ai-friends/README.md)
 
 **[Meet LYRA & Her Future AI Friends →](research/ai-friends/README.md)** · **[Лира и её будущие AI-друзья →](research/ai-friends/README.ru.md)**
 
 A private personal AI meets named assistants, conversational platforms and specialist teams. An independent research collection—not a partnership announcement.
 
+## 🧭 Expanded festival atlas · 26 October 2026
+
+Start with the **new public-source directories** below. English is primary; every reading route has a Russian counterpart. They extend—not replace—the original 18-company evidence study.
+
+| Explore | English | Русский |
+|---|---|---|
+| 🏢 Companies, capabilities and collaboration questions | [Company atlas](research/company-atlas/README.md) · [Matrix](research/company-atlas/matrix.en.md) | [Компании](research/company-atlas/README.ru.md) · [Матрица](research/company-atlas/matrix.ru.md) |
+| 🎤 Speakers and announced session topics | [Speaker atlas](research/speakers/README.md) · [By company](research/speakers/by-company.md) | [Спикеры](research/speakers/README.ru.md) · [По компаниям](research/speakers/by-company.ru.md) |
+| 🤝 Organizers, sponsors and official contact routes | [Partner directory](research/organizers-sponsors/README.md) | [Организаторы и спонсоры](research/organizers-sponsors/README.ru.md) |
+| 🔎 Coverage and limitations across all layers | [Atlas coverage](docs/en/atlas-coverage.md) | [Покрытие атласа](docs/ru/atlas-coverage.md) |
+
+**Read the status, not just the name:** a floorplan label is not a researched company; a scheduled session is not a verified delivered talk; a possible collaboration is not an existing partnership. No private attendee profiles or personal meeting notes are included.
+
+### Original evidence study
+
+The routes and counts below describe the preserved **18-company value-chain study**, not the total number of briefs in the new atlas. Its original sources, claims and typed relationships remain intact.
 
 ## Choose your starting point
 
@@ -43,7 +60,6 @@ The current roster combines both layers. Original data files preserve the **12-p
 ![Russian AI Intelligence in Action — independent Dubai AI Festival research by Vladimir Uzbek and Quantum Bow.](assets/russian-ai-intelligence-banner.png)
 
 Independent research by Vladimir Uzbek · Quantum Bow. This is our project branding, not an organizer, government or sponsor endorsement.
-
 
 ## Private archive — aggregate only
 

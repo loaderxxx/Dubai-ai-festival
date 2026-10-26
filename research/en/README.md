@@ -1,5 +1,8 @@
 # Research field guide
 
+> **Historical study checkpoint.** For the later company, speaker and organizer expansion, see [current atlas coverage](../../docs/en/atlas-coverage.md). Counts/statuses on this page remain scoped to the preserved original study.
+
+
 [Home](../../README.md) · [Русский](../ru/README.md) · [Coverage](../../docs/en/research-status.md)
 
 Move from a company name to its product, its place in a workflow, the evidence and a question worth validating. No hidden lead scoring.

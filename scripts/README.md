@@ -9,6 +9,7 @@ Run these commands from the repository root with Python 3. The scripts operate o
 ## Check the bundle / Проверить набор
 
 ```sh
+python scripts/validate_atlas_expansion.py
 python scripts/validate_public_research.py
 python scripts/validate_navigation.py
 python scripts/validate_value_chain.py
@@ -55,3 +56,7 @@ The repeated normalization step joins the original profiles back to the candidat
 Keep the baseline and expanded schemas distinct unless a deliberate migration updates every consumer and validator. Never make a historical count look current by changing a number without changing the underlying records.
 
 Не смешивайте структуры исходного и расширенного исследования без явной миграции всех потребителей и проверок. Нельзя делать историческое число «текущим», меняя только число без записей.
+
+## Atlas expansion checks / Проверки расширения
+
+`validate_atlas_expansion.py` verifies company/profile/source coverage and speaker/session/topic references in the newer public directories. It does not re-fetch websites or establish legal identity, attendance, delivered talks, tested integrations or commercial intent. Проверяет структуру и ссылки новых публичных разделов, но не достоверность сайтов, юридическую идентичность, посещение, содержание выступлений или коммерческие намерения.

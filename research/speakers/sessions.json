@@ -1,0 +1,2135 @@
+[
+  {
+    "id": "session-26-01",
+    "date": "2026-10-26",
+    "time_as_published": "10:00 am 10:20 am",
+    "stage": "Plenary Stage",
+    "title_en": "Opening Remarks",
+    "format": "Opening Remarks",
+    "people": [
+      {
+        "name": "H.E. Arif Amiri",
+        "role": "Chief Executive Officer",
+        "company": "DIFC Authority",
+        "participation": "Speaker",
+        "speaker_id": "speaker-35451"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Вступительные замечания",
+    "topic_ids": [
+      "general"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-02",
+    "date": "2026-10-26",
+    "time_as_published": "10:00 am 11:00 am",
+    "stage": "Startups Stage",
+    "title_en": "Create AI agents championship: turn your idea into an opportunity | Organised by Dubai Chamber of Digital Economy",
+    "format": "Workshop",
+    "people": [],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Чемпионат по созданию AI-агентов: превратить идею в возможность | Dubai Chamber of Digital Economy",
+    "topic_ids": [
+      "agents",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": [
+      "Workshop day conflicts with dedicated startup agenda. Confirm with organizer."
+    ]
+  },
+  {
+    "id": "session-26-03",
+    "date": "2026-10-26",
+    "time_as_published": "1:20 pm 1:40 pm",
+    "stage": "Plenary Stage",
+    "title_en": "The AI-native nation: turning vision into national advantage",
+    "format": "Opening Keynote",
+    "people": [
+      {
+        "name": "H.E. Omar Sultan Al Olama",
+        "role": "Minister of State for Artificial Intelligence, Digital Economy, and Remote Work",
+        "company": "Government of the United Arab Emirates",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36871"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "AI-ориентированное государство: от видения к национальному преимуществу",
+    "topic_ids": [
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-04",
+    "date": "2026-10-26",
+    "time_as_published": "10:15 am 11:45 am",
+    "stage": "Roundtables",
+    "title_en": "Unlocking the Agentic AI Advantage: From Experimentation to Enterprise Value | Organised by CFTE",
+    "format": "Roundtable",
+    "people": [],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Преимущества агентного AI: от экспериментов к ценности для бизнеса | CFTE",
+    "topic_ids": [
+      "agents"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-05",
+    "date": "2026-10-26",
+    "time_as_published": "10:20 am 10:40 am",
+    "stage": "Plenary Stage",
+    "title_en": "Shaping the Middle East’s AI future: leadership, collaboration and opportunity",
+    "format": "Keynote Fireside Chat",
+    "people": [
+      {
+        "name": "H.E. Qubad Talabani",
+        "role": "Deputy Prime Minister",
+        "company": "Kurdistan Regional Government",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36638"
+      },
+      {
+        "name": "Karl Tlais",
+        "role": "Founder & CEO",
+        "company": "iAdvisory",
+        "participation": "",
+        "speaker_id": "speaker-37166"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Будущее AI на Ближнем Востоке: лидерство, сотрудничество и возможности",
+    "topic_ids": [
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-06",
+    "date": "2026-10-26",
+    "time_as_published": "10:40 am 11:00 am",
+    "stage": "Plenary Stage",
+    "title_en": "Building the digital infrastructure for the next economy",
+    "format": "Keynote Fireside Chat",
+    "people": [
+      {
+        "name": "Fahad Al Hassawi Al Hassawi",
+        "role": "Chief Executive Officer",
+        "company": "du",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37072"
+      },
+      {
+        "name": "Jane Witherspoon",
+        "role": "Managing Editor, Middle East, Central Asia and South Caucasus",
+        "company": "Euronews",
+        "participation": "",
+        "speaker_id": "speaker-35161"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Цифровая инфраструктура следующей экономики",
+    "topic_ids": [
+      "infrastructure",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-07",
+    "date": "2026-10-26",
+    "time_as_published": "11:00 am 11:20 am",
+    "stage": "Plenary Stage",
+    "title_en": "Intelligence everywhere: rethinking nations, industries and opportunity",
+    "format": "Keynote Fireside Chat",
+    "people": [
+      {
+        "name": "Peng Xiao",
+        "role": "Group Chief Executive Officer",
+        "company": "G42",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37068"
+      },
+      {
+        "name": "David Panhans",
+        "role": "Managing Director & Senior Partner",
+        "company": "BCG",
+        "participation": "",
+        "speaker_id": "speaker-37063"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Интеллект повсюду: переосмысление государств, отраслей и возможностей",
+    "topic_ids": [
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-08",
+    "date": "2026-10-26",
+    "time_as_published": "11:30 am 11:50 am",
+    "stage": "Innovation Stage",
+    "title_en": "Enabling innovation through regulatory experimentation",
+    "format": "Presentation",
+    "people": [
+      {
+        "name": "Ammar Al Awadhi",
+        "role": "Operations Lead",
+        "company": "Sandbox Dubai",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36882"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Инновации через регуляторные эксперименты",
+    "topic_ids": [
+      "governance"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-09",
+    "date": "2026-10-26",
+    "time_as_published": "11:50 am 12:10 pm",
+    "stage": "Innovation Stage",
+    "title_en": "Kira ai. The only AI that becomes you",
+    "format": "Product Launch",
+    "people": [
+      {
+        "name": "Delcado Clarke",
+        "role": "Founder & CEO",
+        "company": "Kira AI",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36791"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Kira AI: AI, который становится вами",
+    "topic_ids": [
+      "general"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-10",
+    "date": "2026-10-26",
+    "time_as_published": "11:20 pm 12:00 pm",
+    "stage": "Plenary Stage",
+    "title_en": "From human-driven to AI-first: leading the transition to autonomous and proactive business models",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Rashid Alabbar",
+        "role": "Chairman",
+        "company": "Nshama Properties",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36647"
+      },
+      {
+        "name": "Charles Chebli",
+        "role": "Managing Director of the UAE and Head of AI Cloud",
+        "company": "Qualcomm",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37303"
+      },
+      {
+        "name": "Dana Khraiche",
+        "role": "UAE Bureau Chief",
+        "company": "Bloomberg",
+        "participation": "",
+        "speaker_id": "speaker-34562"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "От управления людьми к AI-first: переход к автономным и проактивным бизнес-моделям",
+    "topic_ids": [
+      "agents"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": [
+      "Published time sequence is inconsistent; do not silently correct pm to am."
+    ]
+  },
+  {
+    "id": "session-26-11",
+    "date": "2026-10-26",
+    "time_as_published": "12:10 pm 12:30 pm",
+    "stage": "Innovation Stage",
+    "title_en": "Building trusted AI agents: the enterprise context layer in action",
+    "format": "Case Study",
+    "people": [
+      {
+        "name": "Thomas Ruitort",
+        "role": "GTM Lead EMEA",
+        "company": "Atlan",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36665"
+      },
+      {
+        "name": "Ayemal Mir Ahmed",
+        "role": "Director, Data Governance",
+        "company": "Miral",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36932"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Доверенные AI-агенты: корпоративный контекстный слой на практике",
+    "topic_ids": [
+      "agents",
+      "governance",
+      "infrastructure"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-12",
+    "date": "2026-10-26",
+    "time_as_published": "12:30 pm 1:10 pm",
+    "stage": "Innovation Stage",
+    "title_en": "How AI is re-engineering banking operations and risk",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Xi Liang",
+        "role": "Chief AI Officer",
+        "company": "Mashreq",
+        "participation": "Speaker",
+        "speaker_id": "speaker-35702"
+      },
+      {
+        "name": "Haishan Wu",
+        "role": "Head of AI",
+        "company": "Zand",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36772"
+      },
+      {
+        "name": "Shaarawy Mohamed",
+        "role": "Chief Technology & Information Officer",
+        "company": "FABMISR",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36774"
+      },
+      {
+        "name": "Yan Bechet",
+        "role": "Chief Operating Officer UAE and Interim Head of International Wealth and Premier Banking UAE",
+        "company": "HSBC",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36780"
+      },
+      {
+        "name": "Görkem Köseoğlu",
+        "role": "Group Chief Customer & AI Officer",
+        "company": "Network International",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37055"
+      },
+      {
+        "name": "Akshay Khanna",
+        "role": "Managing Partner",
+        "company": "Avasant",
+        "participation": "",
+        "speaker_id": "speaker-34678"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Как AI меняет банковские операции и управление рисками",
+    "topic_ids": [
+      "finance"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-13",
+    "date": "2026-10-26",
+    "time_as_published": "12:00 pm 12:40 pm",
+    "stage": "Plenary Stage",
+    "title_en": "Turning AI breakthroughs into scalable markets",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Matthew Fitzpatrick",
+        "role": "Chief Executive Officer",
+        "company": "Invisible Technologies",
+        "participation": "Speaker",
+        "speaker_id": "speaker-35157"
+      },
+      {
+        "name": "Joseph Ziolkowski",
+        "role": "Founder & Global Chief Executive Officer",
+        "company": "Relm Insurance",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36573"
+      },
+      {
+        "name": "Dirk Jungnickel",
+        "role": "Senior Vice President of Enterprise Data & Analytics",
+        "company": "Emirates Airline",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37306"
+      },
+      {
+        "name": "Faisal Hamady",
+        "role": "Managing Director & Partner, Global Lead for Innovation for Economic Development",
+        "company": "BCG",
+        "participation": "",
+        "speaker_id": "speaker-36668"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "От AI-прорывов к масштабируемым рынкам",
+    "topic_ids": [
+      "capital"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-14",
+    "date": "2026-10-26",
+    "time_as_published": "1:10 pm 1:50 pm",
+    "stage": "Innovation Stage",
+    "title_en": "How governments are deploying AI across public services",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Sharan Chandradath Singh",
+        "role": "Chief Growth Officer",
+        "company": "Minerva Project, Minerva University",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36695"
+      },
+      {
+        "name": "Amna Al Owais",
+        "role": "Deputy Director",
+        "company": "DIFC Courts",
+        "participation": "Speaker",
+        "speaker_id": "speaker-31371"
+      },
+      {
+        "name": "Ahmad El Sayed",
+        "role": "Public Sector Lead",
+        "company": "Google Cloud",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36892"
+      },
+      {
+        "name": "William El Sayed",
+        "role": "Public Sector Initiatives Lead",
+        "company": "Mistral AI",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37002"
+      },
+      {
+        "name": "Taha Benali",
+        "role": "Partner",
+        "company": "Kearney",
+        "participation": "",
+        "speaker_id": "speaker-36673"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Как правительства внедряют AI в государственные услуги",
+    "topic_ids": [
+      "governance"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-15",
+    "date": "2026-10-26",
+    "time_as_published": "12:40 pm 1:00 pm",
+    "stage": "Plenary Stage",
+    "title_en": "The next innings: how AI Is changing the way fans experience cricket",
+    "format": "Fireside Chat",
+    "people": [
+      {
+        "name": "Sanjog Gupta",
+        "role": "Chief Executive Officer",
+        "company": "International Cricket Council",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36640"
+      },
+      {
+        "name": "Dr Anish Shivdasani",
+        "role": "Senior Advisor",
+        "company": "Roland Berger",
+        "participation": "",
+        "speaker_id": "speaker-36702"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Новый этап: как AI меняет опыт болельщиков крикета",
+    "topic_ids": [
+      "creative"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-16",
+    "date": "2026-10-26",
+    "time_as_published": "1:00 pm 1:20 pm",
+    "stage": "Plenary Stage",
+    "title_en": "Turning data into better decisions: scaling AI across cities and society",
+    "format": "Fireside Chat",
+    "people": [
+      {
+        "name": "H.E. Younus Al Nasser",
+        "role": "Chief Executive Officer",
+        "company": "Dubai Data & Statistics Establishment at Digital Dubai",
+        "participation": "Speaker",
+        "speaker_id": "speaker-35164"
+      },
+      {
+        "name": "Dr. Akram Awad",
+        "role": "Managing Director & Partner",
+        "company": "BCG",
+        "participation": "",
+        "speaker_id": "speaker-36670"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "От данных к лучшим решениям: масштабирование AI в городах и обществе",
+    "topic_ids": [
+      "infrastructure",
+      "physical"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-17",
+    "date": "2026-10-26",
+    "time_as_published": "1:50 pm 2:10 pm",
+    "stage": "Innovation Stage",
+    "title_en": "Generative AI for drug discovery and healthcare delivery",
+    "format": "Presentation",
+    "people": [
+      {
+        "name": "Alex Aliper",
+        "role": "Co-Founder & President",
+        "company": "Insilico Medicine",
+        "participation": "Speaker",
+        "speaker_id": "speaker-33388"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Генеративный AI в разработке лекарств и оказании медицинской помощи",
+    "topic_ids": [
+      "health"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-18",
+    "date": "2026-10-26",
+    "time_as_published": "2:00 pm 3:30 pm",
+    "stage": "Roundtables",
+    "title_en": "The future of creator economy | Organised by ORF Middle East",
+    "format": "Roundtable",
+    "people": [],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Будущее экономики авторов | ORF Middle East",
+    "topic_ids": [
+      "creative",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-19",
+    "date": "2026-10-26",
+    "time_as_published": "2:00 pm 3:30 pm",
+    "stage": "Roundtables",
+    "title_en": "Owning your AI: what sovereign AI actually means for an organization and how to get there | Organised by Mistral AI",
+    "format": "Roundtable",
+    "people": [],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Собственный AI: что суверенный AI означает для организации и как его построить | Mistral AI",
+    "topic_ids": [
+      "governance"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-20",
+    "date": "2026-10-26",
+    "time_as_published": "1:40 pm 2:20 pm",
+    "stage": "Plenary Stage",
+    "title_en": "Sovereignty in the age of AI: building an innovation ecosystem and global partnerships",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Husni Khuffash",
+        "role": "Middle East & Africa Managing Director",
+        "company": "Positron AI",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36615"
+      },
+      {
+        "name": "H.E Major General Khaled Nasser AlRazooqi",
+        "role": "Director, General Department of Artificial Intelligence",
+        "company": "Dubai Police",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36711"
+      },
+      {
+        "name": "Maurice Tanas",
+        "role": "Senior Manager, Digital Economy Ecosystem & Acceleration",
+        "company": "Dubai Chamber of Digital Economy",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36916"
+      },
+      {
+        "name": "Trevor Thompson",
+        "role": "President, International",
+        "company": "Scale AI",
+        "participation": "Speaker",
+        "speaker_id": "speaker-35696"
+      },
+      {
+        "name": "Anand Joawn",
+        "role": "General Manager",
+        "company": "Dow Jones Middle East",
+        "participation": "",
+        "speaker_id": "speaker-36866"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Суверенитет в эпоху AI: инновационная экосистема и глобальные партнёрства",
+    "topic_ids": [
+      "governance",
+      "capital",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-21",
+    "date": "2026-10-26",
+    "time_as_published": "2:10 pm 2:50 pm",
+    "stage": "Innovation Stage",
+    "title_en": "Leveraging smarter AI tools to drive enterprise transformation",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Joseph Aoun",
+        "role": "Data & AI Solutions Director",
+        "company": "APGAR",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36678"
+      },
+      {
+        "name": "Dipesh Makwana",
+        "role": "Head of Business Development - META",
+        "company": "Alibaba Cloud",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36987"
+      },
+      {
+        "name": "Nick Morgan",
+        "role": "Chief Client & Commercial Officer",
+        "company": "Ephiria",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36824"
+      },
+      {
+        "name": "Andreas Tsindos",
+        "role": "Chief Executive Officer",
+        "company": "MWAN",
+        "participation": "",
+        "speaker_id": "speaker-34717"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Умные AI-инструменты для трансформации предприятий",
+    "topic_ids": [
+      "agents"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-22",
+    "date": "2026-10-26",
+    "time_as_published": "2:20 pm 2:40 pm",
+    "stage": "Plenary Stage",
+    "title_en": "AI and space as economic infrastructure",
+    "format": "Fireside Chat",
+    "people": [
+      {
+        "name": "H.E. Salem Humaid Al Marri",
+        "role": "Director General",
+        "company": "Mohammed Bin Rashid Space Centre",
+        "participation": "Speaker",
+        "speaker_id": "speaker-34777"
+      },
+      {
+        "name": "Faisal Hamady",
+        "role": "Managing Director & Partner, Global Lead for Innovation for Economic Development",
+        "company": "BCG",
+        "participation": "",
+        "speaker_id": "speaker-36668"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "AI и космос как экономическая инфраструктура",
+    "topic_ids": [
+      "infrastructure",
+      "physical",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-23",
+    "date": "2026-10-26",
+    "time_as_published": "3:00 pm 3:30 pm",
+    "stage": "Innovation Stage",
+    "title_en": "Dubai Proptech Hub Annual Awards",
+    "format": "Awards",
+    "people": [],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Ежегодная премия Dubai Proptech Hub",
+    "topic_ids": [
+      "physical"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-24",
+    "date": "2026-10-26",
+    "time_as_published": "2:40 pm 3:20 pm",
+    "stage": "Plenary Stage",
+    "title_en": "How businesses can deploy innovation responsibly and design trustworthy AI at scale",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Matthew White",
+        "role": "Global Chief Technology Officer of AI",
+        "company": "Linux Foundation",
+        "participation": "Speaker",
+        "speaker_id": "speaker-35153"
+      },
+      {
+        "name": "Anis Harb",
+        "role": "Co-Founder & Chief Executive Officer",
+        "company": "Algebra AI",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36651"
+      },
+      {
+        "name": "Serene Haddad",
+        "role": "VP Innovation & AI",
+        "company": "Nestle",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36793"
+      },
+      {
+        "name": "Nikhil Lohade",
+        "role": "Wall Street Journal Newswires Editor",
+        "company": "Dow Jones Middle East",
+        "participation": "",
+        "speaker_id": "speaker-36977"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Ответственное внедрение инноваций и доверенный AI в масштабе",
+    "topic_ids": [
+      "governance"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-25",
+    "date": "2026-10-26",
+    "time_as_published": "3:30 pm 5:00 pm",
+    "stage": "Innovation Stage",
+    "title_en": "RELM Geospatial Accelerator (DIFC Innovation Hub)",
+    "format": "Pitch Competition",
+    "people": [],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Геопространственный акселератор RELM | DIFC Innovation Hub",
+    "topic_ids": [
+      "capital",
+      "physical"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-26",
+    "date": "2026-10-26",
+    "time_as_published": "3:45 pm 5:15 pm",
+    "stage": "Roundtables",
+    "title_en": "DIFC AI Majlis | Organised by Ghalia / Bushra",
+    "format": "Roundtable",
+    "people": [],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "DIFC AI Majlis | Ghalia / Bushra",
+    "topic_ids": [
+      "capital"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-26-27",
+    "date": "2026-10-26",
+    "time_as_published": "3:20 pm 4:00 pm",
+    "stage": "Plenary Stage",
+    "title_en": "Who sets the rules for global AI governance?",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Dr Marwan Al Zarouni",
+        "role": "Chief AI Officer, Strategic Advisor - Special Projects Department",
+        "company": "Dubai Department of Economy and Tourism",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36649"
+      },
+      {
+        "name": "Ramez Shehadi",
+        "role": "Global Chair of Digital, Analytics and AI",
+        "company": "Kearney",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37163"
+      },
+      {
+        "name": "Mikkel Andersen",
+        "role": "Chief Risk Officer",
+        "company": "Commercial Bank of Dubai (CBD)",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37175"
+      },
+      {
+        "name": "Dana Khraiche",
+        "role": "UAE Bureau Chief",
+        "company": "Bloomberg",
+        "participation": "",
+        "speaker_id": "speaker-34562"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "26 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Кто устанавливает правила глобального управления AI?",
+    "topic_ids": [
+      "governance",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "same_day_announced_delivery_unverified",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-01",
+    "date": "2026-10-27",
+    "time_as_published": "10:40 am 11:00 am",
+    "stage": "Plenary Stage",
+    "title_en": "Building for tomorrow: how AI could reshape real estate demand",
+    "format": "Fireside Chat",
+    "people": [
+      {
+        "name": "Muhammad Binghatti",
+        "role": "Chairman & Chief Architect",
+        "company": "BinGhatti",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37173"
+      },
+      {
+        "name": "Anand Joawn",
+        "role": "General Manager",
+        "company": "Dow Jones Middle East",
+        "participation": "",
+        "speaker_id": "speaker-36866"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Строить для будущего: как AI может изменить спрос на недвижимость",
+    "topic_ids": [
+      "physical"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-02",
+    "date": "2026-10-27",
+    "time_as_published": "9:30 am 10:30 am",
+    "stage": "Innovation Stage",
+    "title_en": "Ignyte x ElevenLabs",
+    "format": "Pitch Competition",
+    "people": [],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Ignyte × ElevenLabs",
+    "topic_ids": [
+      "capital"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-03",
+    "date": "2026-10-27",
+    "time_as_published": "10:00 am 11:00 am",
+    "stage": "Startups Stage",
+    "title_en": "Create smarter. Design faster with Canva AI | Organised by Dubai Chamber of Digital Economy",
+    "format": "Workshop",
+    "people": [],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Создавать умнее, проектировать быстрее с Canva AI | Dubai Chamber of Digital Economy",
+    "topic_ids": [
+      "creative",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": [
+      "Workshop day conflicts with dedicated startup agenda. Confirm with organizer."
+    ]
+  },
+  {
+    "id": "session-27-04",
+    "date": "2026-10-27",
+    "time_as_published": "10:15 am 11:45 am",
+    "stage": "Roundtables",
+    "title_en": "AI Upskilling in Practice: CHRO Perspectives on Talent, Change, and Capability Building | Organised by Dubai AI Academy",
+    "format": "Roundtable",
+    "people": [],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Практика AI-обучения: взгляд HR-директоров на таланты, изменения и компетенции | Dubai AI Academy",
+    "topic_ids": [
+      "talent"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-05",
+    "date": "2026-10-27",
+    "time_as_published": "10:20 am 10:40 am",
+    "stage": "Plenary Stage",
+    "title_en": "Industrial mobile autonomy is inevitable: how physical AI will transform logistics",
+    "format": "Fireside Chat",
+    "people": [
+      {
+        "name": "Prof. Paul Newman CBE",
+        "role": "Founder & CEO",
+        "company": "Oxa",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36729"
+      },
+      {
+        "name": "Jolyon Kimble",
+        "role": "Chief Growth Officer",
+        "company": "APCO",
+        "participation": "",
+        "speaker_id": "speaker-36981"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Промышленная мобильная автономность: как физический AI изменит логистику",
+    "topic_ids": [
+      "agents",
+      "physical"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-06",
+    "date": "2026-10-27",
+    "time_as_published": "10:30 am 10:50 am",
+    "stage": "Innovation Stage",
+    "title_en": "Building trust in AI-powered healthcare: regulation, innovation and patient safety in the UAE",
+    "format": "Fireside Chat",
+    "people": [
+      {
+        "name": "H.E. Dr. Amin Al Ameeri",
+        "role": "Assistant Undersecretary for the Health Regulation Sector",
+        "company": "UAE Ministry of Health & Prevention",
+        "participation": "Speaker",
+        "speaker_id": "speaker-34536"
+      },
+      {
+        "name": "Rachel McArthur",
+        "role": "Managing Editor, Healthcare",
+        "company": "Digital Ink Media",
+        "participation": "",
+        "speaker_id": "speaker-36677"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Доверие к AI в здравоохранении: регулирование, инновации и безопасность пациентов в ОАЭ",
+    "topic_ids": [
+      "governance",
+      "health"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-07",
+    "date": "2026-10-27",
+    "time_as_published": "10:50 am 11:30 am",
+    "stage": "Innovation Stage",
+    "title_en": "How brands use AI to redefine customer experience",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Dr. Samar Ibrahim",
+        "role": "Assistant Professor of Artificial Intelligence",
+        "company": "American University in Dubai",
+        "participation": "Speaker",
+        "speaker_id": "speaker-34665"
+      },
+      {
+        "name": "Finn Bradshaw",
+        "role": "Head of Digital",
+        "company": "International Cricket Council (ICC)",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36783"
+      },
+      {
+        "name": "Maaz Qureshi",
+        "role": "Vice President, Customer Experience & Innovation",
+        "company": "ADNOC",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36912"
+      },
+      {
+        "name": "Julia Upiterskaya",
+        "role": "Co-Founder",
+        "company": "JULS",
+        "participation": "",
+        "speaker_id": "speaker-34538"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Как бренды используют AI для изменения клиентского опыта",
+    "topic_ids": [
+      "creative"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-08",
+    "date": "2026-10-27",
+    "time_as_published": "11:00 am 11:40 am",
+    "stage": "Plenary Stage",
+    "title_en": "Supercharge your business with agentic AI: real results, real impact",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Mohamed Sadawy",
+        "role": "Group Chief Information Officer",
+        "company": "Bukhatir Group",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36635"
+      },
+      {
+        "name": "Delcado Clarke",
+        "role": "Founder & CEO",
+        "company": "Kira AI",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36791"
+      },
+      {
+        "name": "Joseph Noujaim",
+        "role": "Head of Global AI Products and Experience",
+        "company": "British American Tobacco",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36712"
+      },
+      {
+        "name": "Syed Ghazi",
+        "role": "Senior Partner, MEA Ignite Lead",
+        "company": "Kearney",
+        "participation": "",
+        "speaker_id": "speaker-36675"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Ускорение бизнеса с агентным AI: реальные результаты и эффект",
+    "topic_ids": [
+      "agents"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-09",
+    "date": "2026-10-27",
+    "time_as_published": "11:30 am 12:10 pm",
+    "stage": "Innovation Stage",
+    "title_en": "Workplace redefined: women shaping AI ready organisations â talent, culture, and skills for an AI driven economy",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Shayma Kurz",
+        "role": "Head of Data and AI at Women in AI UAE & Founder of Digital Advice Consulting",
+        "company": "Women in AI",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36693"
+      },
+      {
+        "name": "Fatiha Chikh",
+        "role": "Co-Founder",
+        "company": "LeLab Plus",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36691"
+      },
+      {
+        "name": "Musata Matei",
+        "role": "Partnerships Lead",
+        "company": "Women in AI",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36692"
+      },
+      {
+        "name": "Eng. Israa Lulu",
+        "role": "Head of Innovation & Digital Learning / Education Lead",
+        "company": "American School of Creative Science / Women in AI",
+        "participation": "",
+        "speaker_id": "speaker-36674"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Рабочее место будущего: женщины, формирующие готовые к AI организации",
+    "topic_ids": [
+      "talent",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-10",
+    "date": "2026-10-27",
+    "time_as_published": "11:40 am 12:20 pm",
+    "stage": "Plenary Stage",
+    "title_en": "How to regulate AI at a time of innovation",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Olivier Proust",
+        "role": "Founder & Manager",
+        "company": "Proust Legal",
+        "participation": "Speaker",
+        "speaker_id": "speaker-34692"
+      },
+      {
+        "name": "Emma Johnson",
+        "role": "Responsible AI Expert and Regulation 10 Advisory Board Member",
+        "company": "Emma Johnson",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36698"
+      },
+      {
+        "name": "Nick Roudev",
+        "role": "Partner",
+        "company": "Greenberg Traurig LLP",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36786"
+      },
+      {
+        "name": "Lori Baker",
+        "role": "Vice President â Data Protection & Regulatory Compliance",
+        "company": "DIFC Authority",
+        "participation": "",
+        "speaker_id": "speaker-36672"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Как регулировать AI в период инноваций",
+    "topic_ids": [
+      "governance"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-11",
+    "date": "2026-10-27",
+    "time_as_published": "12:00 pm 1:30 pm",
+    "stage": "Roundtables",
+    "title_en": "Mastercard Lighthouse | Organised by Dubai AI Campus x Mastercard",
+    "format": "Roundtable",
+    "people": [],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Mastercard Lighthouse | Dubai AI Campus × Mastercard",
+    "topic_ids": [
+      "capital",
+      "finance"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-12",
+    "date": "2026-10-27",
+    "time_as_published": "12:10 pm 12:50 pm",
+    "stage": "Innovation Stage",
+    "title_en": "Who powers the global AI infrastructure?",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Fabrizio Del Maffeo",
+        "role": "Co-Founder and Chief Executive Officer",
+        "company": "Axelera AI",
+        "participation": "Speaker",
+        "speaker_id": "speaker-34680"
+      },
+      {
+        "name": "Akhil Koka",
+        "role": "Chief Executive Officer",
+        "company": "Magure",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36682"
+      },
+      {
+        "name": "Kamel Al-Tawil",
+        "role": "Managing Director, MENA",
+        "company": "Equinix",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36737"
+      },
+      {
+        "name": "David Abt",
+        "role": "Senior Managing Director, AI Infrastructure Lead",
+        "company": "FTI Consulting Middle East",
+        "participation": "",
+        "speaker_id": "speaker-34505"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Кто обеспечивает глобальную AI-инфраструктуру?",
+    "topic_ids": [
+      "infrastructure",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-13",
+    "date": "2026-10-27",
+    "time_as_published": "12:20 pm 1:00 pm",
+    "stage": "Plenary Stage",
+    "title_en": "How AI Is reshaping jobs, skills and leadership",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Mayank Kumar",
+        "role": "Co-Founder & Managing Director",
+        "company": "Borderplus & UpGrad",
+        "participation": "Speaker",
+        "speaker_id": "speaker-34507"
+      },
+      {
+        "name": "Nicky Verd",
+        "role": "Digital Futurist & Author",
+        "company": "",
+        "participation": "Speaker",
+        "speaker_id": "speaker-34503"
+      },
+      {
+        "name": "Ben Nelson",
+        "role": "Founder and Chief Executive Officer",
+        "company": "Minerva Project, Minerva University",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36145"
+      },
+      {
+        "name": "Dr. Mohamed Alkhemairi",
+        "role": "Chief Business Development Officer",
+        "company": "ASPIRE",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37042"
+      },
+      {
+        "name": "Chris Erasmus",
+        "role": "Managing Director, UAE & MENA Growth Markets",
+        "company": "Amazon Web Services (AWS)",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37168"
+      },
+      {
+        "name": "Dr. Tariq Qureishy",
+        "role": "CEO & Founder",
+        "company": "Future Readiness Forum",
+        "participation": "",
+        "speaker_id": "speaker-34564"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Как AI меняет рабочие места, навыки и лидерство",
+    "topic_ids": [
+      "talent",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-14",
+    "date": "2026-10-27",
+    "time_as_published": "12:50 pm 1:10 pm",
+    "stage": "Innovation Stage",
+    "title_en": "Beyond the pilot – the economics of the agentic enterprise",
+    "format": "Presentation",
+    "people": [
+      {
+        "name": "Abu-Bakr Khan",
+        "role": "GTM AI Leader - Middle East, Turkey & Africa",
+        "company": "Snowflake",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37028"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "За пределами пилота: экономика агентного предприятия",
+    "topic_ids": [
+      "agents",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-15",
+    "date": "2026-10-27",
+    "time_as_published": "1:00 pm 1:30 pm",
+    "stage": "Plenary Stage",
+    "title_en": "Physical & Applied AI and beyond",
+    "format": "Fireside Chat",
+    "people": [
+      {
+        "name": "Mohan Kumar",
+        "role": "Founder",
+        "company": "Avataar Venture Partners",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36813"
+      },
+      {
+        "name": "Dr. Nagendra Nagaraja",
+        "role": "Founder, Chief Executive Officer and Chairman",
+        "company": "QpiAI",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36982"
+      },
+      {
+        "name": "Jolyon Kimble",
+        "role": "Chief Growth Officer",
+        "company": "APCO",
+        "participation": "",
+        "speaker_id": "speaker-36981"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Физический и прикладной AI — и далее",
+    "topic_ids": [
+      "physical"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-16",
+    "date": "2026-10-27",
+    "time_as_published": "1:10 pm 1:30 pm",
+    "stage": "Innovation Stage",
+    "title_en": "Real-time AI at scale: turning enterprise data into commercial impact",
+    "format": "Interview",
+    "people": [
+      {
+        "name": "Salah Al Rifai",
+        "role": "Chief Executive Officer",
+        "company": "Mantika",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36681"
+      },
+      {
+        "name": "Ziad Nassar",
+        "role": "Co-founder and Deputy CEO",
+        "company": "Huspy",
+        "participation": "",
+        "speaker_id": "speaker-36914"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "AI в реальном времени и масштабе: от корпоративных данных к коммерческому эффекту",
+    "topic_ids": [
+      "agents",
+      "infrastructure"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-17",
+    "date": "2026-10-27",
+    "time_as_published": "1:30 pm 1:50 pm",
+    "stage": "Innovation Stage",
+    "title_en": "AI for every business: from enterprise to entrepreneurs",
+    "format": "Presentation",
+    "people": [
+      {
+        "name": "Ahshad Jussawala",
+        "role": "Chief Executive Officer",
+        "company": "Jio Haptik",
+        "participation": "Speaker",
+        "speaker_id": "speaker-29653"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "AI для любого бизнеса: от корпораций до предпринимателей",
+    "topic_ids": [
+      "agents",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-18",
+    "date": "2026-10-27",
+    "time_as_published": "1:30 pm 2:00 pm",
+    "stage": "Plenary Stage",
+    "title_en": "When expertise becomes abundant: AI and the future of professional services",
+    "format": "Fireside Chat",
+    "people": [
+      {
+        "name": "Colin Short",
+        "role": "Chief Information Officer",
+        "company": "Al Tamimi & Company",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36983"
+      },
+      {
+        "name": "Leonard Schreij",
+        "role": "Vice President MENA",
+        "company": "Legora",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36984"
+      },
+      {
+        "name": "Suvo Sarkar",
+        "role": "Host",
+        "company": "Money Majlis Podcast",
+        "participation": "",
+        "speaker_id": "speaker-37308"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Когда экспертиза становится доступной: AI и будущее профессиональных услуг",
+    "topic_ids": [
+      "talent"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-19",
+    "date": "2026-10-27",
+    "time_as_published": "1:50 pm 2:30 pm",
+    "stage": "Innovation Stage",
+    "title_en": "Using AI to scale climate and sustainability solutions",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "H.E. Claudia Pinto",
+        "role": "Senior Government Advisor for Sustainability, Founder & CEO",
+        "company": "Empowering Women Middle East (EWME)",
+        "participation": "Speaker",
+        "speaker_id": "speaker-34715"
+      },
+      {
+        "name": "Dr. Mary Jane Alvero-Al Mahdi",
+        "role": "Group Chief Executive Officer",
+        "company": "PRIME Group",
+        "participation": "Speaker",
+        "speaker_id": "speaker-34537"
+      },
+      {
+        "name": "Kiran Nair",
+        "role": "Chief Digital Officer",
+        "company": "Adani Green Energy Limited",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36707"
+      },
+      {
+        "name": "Jeffrey Beyer",
+        "role": "Managing Director",
+        "company": "Zest Associates",
+        "participation": "",
+        "speaker_id": "speaker-36991"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "AI для масштабирования климатических и устойчивых решений",
+    "topic_ids": [
+      "physical"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-20",
+    "date": "2026-10-27",
+    "time_as_published": "2:00 pm 2:40 pm",
+    "stage": "Plenary Stage",
+    "title_en": "Where global capital is moving in the AI economy",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Reda Nidhakou",
+        "role": "Chief Executive Officer",
+        "company": "VentureOne",
+        "participation": "Speaker",
+        "speaker_id": "speaker-34626"
+      },
+      {
+        "name": "Joseph Ziolkowski",
+        "role": "Founder & Global Chief Executive Officer",
+        "company": "Relm Insurance",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36573"
+      },
+      {
+        "name": "Ahmed Abdelkhalek",
+        "role": "Head of Startups, Digital Natives and VCs",
+        "company": "Google Cloud",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36806"
+      },
+      {
+        "name": "Latifa AlShehhi",
+        "role": "Chief Artificial Intelligence Officer",
+        "company": "Ministry of Investment",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36690"
+      },
+      {
+        "name": "Sarah Halls",
+        "role": "Host",
+        "company": "Pivot to Progress",
+        "participation": "",
+        "speaker_id": "speaker-36767"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Куда движется глобальный капитал в AI-экономике",
+    "topic_ids": [
+      "capital",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-21",
+    "date": "2026-10-27",
+    "time_as_published": "2:30 pm 3:10 pm",
+    "stage": "Innovation Stage",
+    "title_en": "How nations are rebuilding economies around AI",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Himanshu Shrivastava",
+        "role": "Group Chief Technology Officer",
+        "company": "Al-Futtaim",
+        "participation": "Speaker",
+        "speaker_id": "speaker-32844"
+      },
+      {
+        "name": "Rizwan Tufail",
+        "role": "Group Chief Data Officer",
+        "company": "PureHealth",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36725"
+      },
+      {
+        "name": "Ahmed Docrat",
+        "role": "Vice President - Digital Transformation",
+        "company": "Saudi Tourism Authority",
+        "participation": "Speaker",
+        "speaker_id": "speaker-34545"
+      },
+      {
+        "name": "Ali AlAjmi",
+        "role": "Director, Information Technology",
+        "company": "Dubai Chamber of Digital Economy",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36917"
+      },
+      {
+        "name": "Dr. Rafael Lemaitre",
+        "role": "Partner and UAE Market Leader",
+        "company": "Sia Partners",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37164"
+      },
+      {
+        "name": "Dr. Akram Awad",
+        "role": "Managing Director & Partner",
+        "company": "BCG",
+        "participation": "",
+        "speaker_id": "speaker-36670"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Как государства перестраивают экономику вокруг AI",
+    "topic_ids": [
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-22",
+    "date": "2026-10-27",
+    "time_as_published": "3:00 pm 3:20 pm",
+    "stage": "Plenary Stage",
+    "title_en": "How AI is redrawing global trade and connectivity",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Tobias Maier",
+        "role": "Chief Executive Officer, Middle East & Africa",
+        "company": "DHL Global Forwarding",
+        "participation": "Speaker",
+        "speaker_id": "speaker-34657"
+      },
+      {
+        "name": "Farid Zahran",
+        "role": "Senior Managing Director, AI and Transformation Lead",
+        "company": "FTI Consulting Middle East",
+        "participation": "",
+        "speaker_id": "speaker-36680"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Как AI меняет глобальную торговлю и связи",
+    "topic_ids": [
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-23",
+    "date": "2026-10-27",
+    "time_as_published": "3:10 pm 3:30 pm",
+    "stage": "Innovation Stage",
+    "title_en": "Sovereign cloud for the AI era",
+    "format": "Presentation",
+    "people": [
+      {
+        "name": "Dominic Williams",
+        "role": "President & Chief Scientist",
+        "company": "DFINITY Foundation",
+        "participation": "Speaker",
+        "speaker_id": "speaker-35765"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Суверенное облако для эпохи AI",
+    "topic_ids": [
+      "governance",
+      "infrastructure"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-24",
+    "date": "2026-10-27",
+    "time_as_published": "3:30 pm 3:50 pm",
+    "stage": "Innovation Stage",
+    "title_en": "AI Special Report Official Launch",
+    "format": "Presentation",
+    "people": [
+      {
+        "name": "Erika Welch",
+        "role": "Chief Content Officer",
+        "company": "Lucidity Insights",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37056"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Официальный запуск специального отчёта об AI",
+    "topic_ids": [
+      "general"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-25",
+    "date": "2026-10-27",
+    "time_as_published": "3:50 pm 4:10 pm",
+    "stage": "Innovation Stage",
+    "title_en": "Intelligence as an asset – The automation of cognition and who will own it",
+    "format": "Presentation",
+    "people": [
+      {
+        "name": "David Paulson",
+        "role": "CEO",
+        "company": "AIA Orbis",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36822"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Интеллект как актив: автоматизация мышления и кому она будет принадлежать",
+    "topic_ids": [
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  },
+  {
+    "id": "session-27-26",
+    "date": "2026-10-27",
+    "time_as_published": "3:20 pm 4:00 pm",
+    "stage": "Plenary Stage",
+    "title_en": "Financing the AI economy: venture capital in a shifting risk landscape",
+    "format": "Panel Discussion",
+    "people": [
+      {
+        "name": "Shanti Mohan",
+        "role": "Founder",
+        "company": "LVX",
+        "participation": "Speaker",
+        "speaker_id": "speaker-36985"
+      },
+      {
+        "name": "Mathangi Sri Ramachandran",
+        "role": "CEO & Co Founder",
+        "company": "YuVerse",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37169"
+      },
+      {
+        "name": "William Wang",
+        "role": "Chief Representative for Middle East & Africa",
+        "company": "SIEF",
+        "participation": "Speaker",
+        "speaker_id": "speaker-37301"
+      },
+      {
+        "name": "Amit Grover",
+        "role": "Managing Partner & CEO",
+        "company": "Grover Impact Ventures",
+        "participation": "",
+        "speaker_id": "speaker-36738"
+      }
+    ],
+    "source_url": "https://dubaiaifestival.com/agenda/",
+    "source_day_filter": "27 oct",
+    "evidence_type": "announced_agenda_not_transcript",
+    "delivery_verified": false,
+    "recording_url": null,
+    "transcript_url": null,
+    "title_ru": "Финансирование AI-экономики: венчурный капитал в меняющемся рисковом ландшафте",
+    "topic_ids": [
+      "capital",
+      "finance",
+      "strategy"
+    ],
+    "retrieved_at_utc": "2026-10-26T13:17:00Z",
+    "recording_status": "No recording/transcript link identified in inspected official agenda cards; availability elsewhere not established.",
+    "temporal_status": "future_announced",
+    "quality_flags": []
+  }
+]

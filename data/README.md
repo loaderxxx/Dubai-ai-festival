@@ -4,6 +4,10 @@
 
 **Public-source data only.** The complete inventory and research coverage are different things. / **Только открытые данные.** Полнота списка и глубина исследования — разные характеристики.
 
+## Later atlas layers / Новые разделы атласа
+
+[Current atlas coverage / Покрытие](../docs/en/atlas-coverage.md) · [Компании](../research/company-atlas/README.ru.md) · [Speakers](../research/speakers/README.md) · [Organizers and sponsors](../research/organizers-sponsors/README.md). The original data files below preserve their 12/18-company study checkpoints; newer directories have separate schemas and coverage registers. Исходные файлы ниже сохраняют контрольные точки исследований 12/18 компаний; у новых разделов свои структуры и реестры покрытия.
+
 ## Start with the question / Начните с вопроса
 
 | Question / Вопрос | File / Файл | Scope / Границы |

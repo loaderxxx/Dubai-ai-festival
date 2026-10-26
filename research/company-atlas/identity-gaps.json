@@ -1,0 +1,1524 @@
+[
+  {
+    "company_id": "17-ai",
+    "floorplan_name": "17.AI",
+    "stands": [
+      "S130"
+    ],
+    "status": "identity_unresolved_after_secondary_review",
+    "reviewed_on": "2026-10-26",
+    "claim": {
+      "en": "Stand-qualified search did not find a defensible identity. Candidate 17.ai was inaccessible; no exact-label match in the startup agenda. Search noise mostly concerned laptop models.",
+      "ru": "Поиск со стендом не установил идентичность. Предполагаемый 17.ai недоступен; точного названия в стартап-программе нет. Результаты преимущественно относились к ноутбукам."
+    },
+    "source_url": "https://dubaiaifestival.com/start-up-agenda/",
+    "evidence_urls": [
+      "https://dubaiaifestival.com/start-up-agenda/",
+      "https://17.ai/"
+    ],
+    "attempted_queries": [
+      "\"17.AI\" \"S130\"",
+      "\"17.ai\" startup Dubai -laptop -notebook -MSI",
+      "open https://17.ai/",
+      "find 17.AI in startup agenda"
+    ],
+    "source_ids": [
+      "b03-startup-agenda"
+    ],
+    "next_evidence_needed": {
+      "en": "An organizer/company-owned record binding this exact floorplan label to the correct domain or an explicit documented alias.",
+      "ru": "Запись организатора/компании, связывающая точное название на плане с правильным доменом либо явно документированным прежним названием."
+    },
+    "event_evidence": {
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    "offering_attached_to_exhibitor": false,
+    "legal_entity_verified": false
+  },
+  {
+    "company_id": "550ai",
+    "floorplan_name": "550Ai",
+    "stands": [
+      "S140"
+    ],
+    "status": "identity_unresolved_after_secondary_review",
+    "reviewed_on": "2026-10-26",
+    "claim": {
+      "en": "Stand-qualified and product-filtered searches did not establish an official exhibitor. Candidate 550.ai was inaccessible. A third-party AI directory mentions a similarly named chatbot, but provides no festival binding; it was not promoted to a profile.",
+      "ru": "Поиск со стендом и фильтрами не установил официального экспонента. Предполагаемый 550.ai недоступен. Сторонний AI-каталог упоминает похожий чатбот без связи с фестивалем; профиль не создан."
+    },
+    "source_url": "https://dubaiaifestival.com/start-up-agenda/",
+    "evidence_urls": [
+      "https://dubaiaifestival.com/start-up-agenda/",
+      "https://550.ai/"
+    ],
+    "attempted_queries": [
+      "\"550Ai\" \"S140\"",
+      "\"550ai\" company -biotest -medical -analyzer -analyser",
+      "open https://550.ai/",
+      "find 550Ai in startup agenda"
+    ],
+    "source_ids": [
+      "b03-startup-agenda"
+    ],
+    "next_evidence_needed": {
+      "en": "An organizer/company-owned record binding this exact floorplan label to the correct domain or an explicit documented alias.",
+      "ru": "Запись организатора/компании, связывающая точное название на плане с правильным доменом либо явно документированным прежним названием."
+    },
+    "event_evidence": {
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    "offering_attached_to_exhibitor": false,
+    "legal_entity_verified": false
+  },
+  {
+    "company_id": "aetheryx-ai",
+    "floorplan_name": "Aetheryx AI",
+    "stands": [
+      "S80"
+    ],
+    "status": "candidate_domain_found_offering_unresolved",
+    "reviewed_on": "2026-10-26",
+    "claim": {
+      "en": "The candidate aetheryx.ai page title describes sales intelligence, but its readable body only says Starting up. No adequate first-party product description or festival-domain binding was obtained; no capability profile was created.",
+      "ru": "Заголовок предполагаемого сайта aetheryx.ai относится к аналитике продаж, но читаемое содержимое ограничивается Starting up. Достаточное собственное описание продукта и связь с фестивалем не получены; профиль возможностей не создан."
+    },
+    "source_url": "https://aetheryx.ai/",
+    "evidence_urls": [
+      "https://aetheryx.ai/"
+    ],
+    "attempted_queries": [
+      "\"Aetheryx AI\"",
+      "\"Aetheryx AI\" Dubai",
+      "\"Aetheryx\" AI company",
+      "site:aetheryx.ai",
+      "\"Aetheryx\" site:linkedin.com/company",
+      "\"Aetheryx\" site:dubaiaifestival.com"
+    ],
+    "source_ids": [
+      "b02-aetheryx-home"
+    ],
+    "next_evidence_needed": {
+      "en": "Readable company-owned product documentation plus organizer/company evidence linking the floorplan name to the domain.",
+      "ru": "Читаемая документация компании и доказательство организатора/компании, связывающее название на плане с доменом."
+    },
+    "event_evidence": {
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    "offering_attached_to_exhibitor": false,
+    "legal_entity_verified": false
+  },
+  {
+    "company_id": "aifluxx",
+    "floorplan_name": "AiFluxx",
+    "stands": [
+      "S39"
+    ],
+    "status": "conflicting_branding_identity_and_current_offering_unresolved",
+    "reviewed_on": "2026-10-26",
+    "claim": {
+      "en": "aifluxx.ae currently returns a Truest page title, while indexed /about and aifluxx.com/login material uses AIFluxx. The organizer agenda separately lists Truest. No first-party rebrand/continuity explanation was found; these labels were not merged and no current product profile attached.",
+      "ru": "aifluxx.ae сейчас возвращает заголовок Truest, тогда как индексированные /about и aifluxx.com/login используют AIFluxx. Программа организатора отдельно содержит Truest. Объяснение ребрендинга/преемственности от компании не найдено; названия не объединены и текущий продуктовый профиль не присвоен."
+    },
+    "source_url": "https://aifluxx.ae/",
+    "evidence_urls": [
+      "https://aifluxx.ae/",
+      "https://aifluxx.ae/about/",
+      "https://aifluxx.com/login",
+      "https://dubaiaifestival.com/start-up-agenda/"
+    ],
+    "attempted_queries": [
+      "\"AiFluxx\"",
+      "\"AIFluxx\" \"Truest\"",
+      "site:aifluxx.ae",
+      "site:aifluxx.com"
+    ],
+    "source_ids": [
+      "b02-aifluxx-home",
+      "b02-aifluxx-about",
+      "b02-aifluxx-login",
+      "b02-startup-agenda"
+    ],
+    "next_evidence_needed": {
+      "en": "First-party explanation of brand continuity, the correct current product domain, and explicit festival identity evidence.",
+      "ru": "Объяснение преемственности брендов от компании, правильный текущий домен продукта и явное подтверждение фестивальной идентичности."
+    },
+    "event_evidence": {
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    "offering_attached_to_exhibitor": false,
+    "legal_entity_verified": false
+  },
+  {
+    "company_id": "aivorahc",
+    "floorplan_name": "AIVORAHC",
+    "stands": [
+      "S148"
+    ],
+    "status": "identity_unresolved_after_secondary_review",
+    "reviewed_on": "2026-10-26",
+    "claim": {
+      "en": "Dubai-qualified exact-label search and startup-agenda check yielded no defensible company/domain binding. No spelling correction was assumed.",
+      "ru": "Поиск точного названия с Dubai и проверка стартап-программы не дали обоснованной связи компании и домена. Исправление написания не предполагалось."
+    },
+    "source_url": "https://dubaiaifestival.com/start-up-agenda/",
+    "evidence_urls": [
+      "https://dubaiaifestival.com/start-up-agenda/"
+    ],
+    "attempted_queries": [
+      "\"AIVORAHC\" Dubai",
+      "find AIVORAHC in startup agenda"
+    ],
+    "source_ids": [
+      "b03-startup-agenda"
+    ],
+    "next_evidence_needed": {
+      "en": "An organizer/company-owned record binding this exact floorplan label to the correct domain or an explicit documented alias.",
+      "ru": "Запись организатора/компании, связывающая точное название на плане с правильным доменом либо явно документированным прежним названием."
+    },
+    "event_evidence": {
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    "offering_attached_to_exhibitor": false,
+    "legal_entity_verified": false
+  },
+  {
+    "company_id": "aunova",
+    "floorplan_name": "Aunova",
+    "stands": [
+      "S170"
+    ],
+    "status": "identity_unresolved_after_secondary_review",
+    "reviewed_on": "2026-10-26",
+    "claim": {
+      "en": "New company-owned evidence links aunova.net and aunova.ae to a Dubai building-record business. A public PropTech Hub staff activity mentions an Aunova festival exhibitor, but retrieved text does not bind its tag/domain. With multiple same-name companies, the gap remains; candidate information is not attached as a confirmed offering.",
+      "ru": "Новые материалы компании связывают aunova.net и aunova.ae с бизнесом цифровых записей зданий в Дубае. Публичная активность сотрудника PropTech Hub упоминает экспонента Aunova, но не связывает его с доменом. При нескольких одноимённых компаниях пробел сохранён; предложение не присвоено как подтверждённое."
+    },
+    "source_url": "https://aunova.ae/",
+    "evidence_urls": [
+      "https://aunova.ae/",
+      "https://www.linkedin.com/company/aunova-ou",
+      "https://fr.linkedin.com/in/lfultonsin",
+      "https://dubaiaifestival.com/exhibitors/"
+    ],
+    "attempted_queries": [
+      "\"Aunova\" \"S170\"",
+      "\"Aunova\" site:linkedin.com \"Dubai\"",
+      "\"Aunova\" \"Festival\"",
+      "\"Aunova\" \"PropTech Elevate\"",
+      "site:aunova.ae \"festival\"",
+      "find Aunova in startup agenda and exhibitor directory"
+    ],
+    "source_ids": [
+      "b03-aunova-home",
+      "b03-aunova-social",
+      "b03-aunova-context",
+      "b03-exhibitors"
+    ],
+    "next_evidence_needed": {
+      "en": "An organizer/company-owned record binding this exact floorplan label to the correct domain or an explicit documented alias.",
+      "ru": "Запись организатора/компании, связывающая точное название на плане с правильным доменом либо явно документированным прежним названием."
+    },
+    "event_evidence": {
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    "offering_attached_to_exhibitor": false,
+    "legal_entity_verified": false
+  },
+  {
+    "company_id": "crtl-studio",
+    "floorplan_name": "CRTL Studio",
+    "stands": [
+      "S09"
+    ],
+    "status": "identity_unresolved_after_secondary_review",
+    "reviewed_on": "2026-10-26",
+    "claim": {
+      "en": "Stand-qualified and Dubai-qualified exact-label searches did not resolve the vendor. Startup agenda has no CRTL match. CTRL/CRTL spelling equivalence was not assumed.",
+      "ru": "Поиск точного названия со стендом и Dubai не установил поставщика. В программе нет CRTL. Эквивалентность написаний CTRL/CRTL не предполагалась."
+    },
+    "source_url": "https://dubaiaifestival.com/start-up-agenda/",
+    "evidence_urls": [
+      "https://dubaiaifestival.com/start-up-agenda/"
+    ],
+    "attempted_queries": [
+      "\"CRTL\" \"S09\"",
+      "\"CRTL Studio\" Dubai -pdf",
+      "find CRTL in startup agenda"
+    ],
+    "source_ids": [
+      "b03-startup-agenda"
+    ],
+    "next_evidence_needed": {
+      "en": "An organizer/company-owned record binding this exact floorplan label to the correct domain or an explicit documented alias.",
+      "ru": "Запись организатора/компании, связывающая точное название на плане с правильным доменом либо явно документированным прежним названием."
+    },
+    "event_evidence": {
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    "offering_attached_to_exhibitor": false,
+    "legal_entity_verified": false
+  },
+  {
+    "company_id": "daleel",
+    "floorplan_name": "Daleel",
+    "stands": [
+      "S82"
+    ],
+    "status": "identity_unresolved_after_secondary_review",
+    "reviewed_on": "2026-10-26",
+    "claim": {
+      "en": "Stand-, organizer- and event-qualified checks still did not bind this generic name to one domain. The startup agenda and legacy exhibitor directory lack an exact match. Unrelated petroleum, research and other Daleel brands were not merged.",
+      "ru": "Проверки по стенду, организатору и событию не связали общее название с одним доменом. В стартап-программе и старом каталоге точного совпадения нет. Нефтяные, исследовательские и другие одноимённые бренды не объединены."
+    },
+    "source_url": "https://dubaiaifestival.com/start-up-agenda/",
+    "evidence_urls": [
+      "https://dubaiaifestival.com/start-up-agenda/",
+      "https://dubaiaifestival.com/exhibitors/"
+    ],
+    "attempted_queries": [
+      "\"Daleel\" \"S82\"",
+      "\"Daleel\" site:linkedin.com \"Festival\" \"2026\"",
+      "\"Daleel\" \"Dubai AI\" -petroleum -oman",
+      "\"Daleel\" site:dubaiaifestival.com/exhibitors",
+      "find Daleel in startup agenda and exhibitor directory"
+    ],
+    "source_ids": [
+      "b03-startup-agenda",
+      "b03-exhibitors"
+    ],
+    "next_evidence_needed": {
+      "en": "An organizer/company-owned record binding this exact floorplan label to the correct domain or an explicit documented alias.",
+      "ru": "Запись организатора/компании, связывающая точное название на плане с правильным доменом либо явно документированным прежним названием."
+    },
+    "event_evidence": {
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    "offering_attached_to_exhibitor": false,
+    "legal_entity_verified": false
+  },
+  {
+    "company_id": "deepnovacore",
+    "floorplan_name": "Deepnovacore",
+    "stands": [
+      "G116"
+    ],
+    "status": "identity_unresolved_after_secondary_review",
+    "reviewed_on": "2026-10-26",
+    "claim": {
+      "en": "The original public GitHub organization was successfully read, improving on the earlier mirror-only evidence. It publishes agent and ML research repositories, but no festival identity binding was found. Candidate deepnovacore.com was inaccessible; no offering attached to the exhibitor.",
+      "ru": "Удалось прочитать исходную публичную GitHub-организацию вместо прежнего зеркала. Она публикует репозитории агентов и ML-исследований, но связь с фестивальным экспонентом не найдена. deepnovacore.com недоступен; предложение экспоненту не присвоено."
+    },
+    "source_url": "https://github.com/deepnovacore",
+    "evidence_urls": [
+      "https://github.com/deepnovacore",
+      "https://deepnovacore.com/",
+      "https://dubaiaifestival.com/start-up-agenda/"
+    ],
+    "attempted_queries": [
+      "\"Deepnovacore\" \"G116\"",
+      "\"Deepnovacore\" company AI",
+      "open https://github.com/deepnovacore",
+      "open https://deepnovacore.com/",
+      "find Deepnovacore in startup agenda"
+    ],
+    "source_ids": [
+      "b03-deepnova-github",
+      "b03-startup-agenda"
+    ],
+    "next_evidence_needed": {
+      "en": "An organizer/company-owned record binding this exact floorplan label to the correct domain or an explicit documented alias.",
+      "ru": "Запись организатора/компании, связывающая точное название на плане с правильным доменом либо явно документированным прежним названием."
+    },
+    "event_evidence": {
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    "offering_attached_to_exhibitor": false,
+    "legal_entity_verified": false
+  },
+  {
+    "company_id": "exec-roundtables-ai",
+    "floorplan_name": "Exec Roundtables AI",
+    "stands": [
+      "S56"
+    ],
+    "status": "identity_unresolved_after_secondary_review",
+    "reviewed_on": "2026-10-26",
+    "claim": {
+      "en": "Event-context search produced generic roundtable programs rather than a matching company. Candidate execroundtables.ai was inaccessible, and the startup agenda has no exact match.",
+      "ru": "Поиск с контекстом события дал общие программы круглых столов, а не компанию. Предполагаемый execroundtables.ai недоступен; точного совпадения в стартап-программе нет."
+    },
+    "source_url": "https://dubaiaifestival.com/start-up-agenda/",
+    "evidence_urls": [
+      "https://dubaiaifestival.com/start-up-agenda/",
+      "https://execroundtables.ai/"
+    ],
+    "attempted_queries": [
+      "\"Exec Roundtables\" Dubai AI",
+      "open https://execroundtables.ai/",
+      "find Exec Roundtables in startup agenda"
+    ],
+    "source_ids": [
+      "b03-startup-agenda"
+    ],
+    "next_evidence_needed": {
+      "en": "An organizer/company-owned record binding this exact floorplan label to the correct domain or an explicit documented alias.",
+      "ru": "Запись организатора/компании, связывающая точное название на плане с правильным доменом либо явно документированным прежним названием."
+    },
+    "event_evidence": {
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    "offering_attached_to_exhibitor": false,
+    "legal_entity_verified": false
+  },
+  {
+    "company_id": "finalytics",
+    "floorplan_name": "Finalytics",
+    "status": "identity_unresolved_after_public_search",
+    "reason": {
+      "en": "Multiple distinct vendors use Finalytics: healthcare remittance, bank personalisation, ad analytics and ERP. No event-to-domain match established.",
+      "ru": "Несколько компаний Finalytics: медицинские платежи, персонализация банков, рекламная аналитика и ERP. Связь события с доменом не установлена."
+    },
+    "candidate_urls_not_identity_confirmation": [
+      "https://finalytics.com/",
+      "https://finalytics.ai/what-we-do/",
+      "https://finalytics.agency/",
+      "https://www.finalytics.tech/"
+    ],
+    "reviewed_on": "2026-10-26",
+    "next_step": {
+      "en": "Obtain a public exhibitor website link or independently matching company/founder identifier.",
+      "ru": "Получить публичную ссылку экспонента либо независимо совпадающий идентификатор компании/основателя."
+    },
+    "claim": {
+      "en": "Multiple distinct vendors use Finalytics: healthcare remittance, bank personalisation, ad analytics and ERP. No event-to-domain match established.",
+      "ru": "Несколько компаний Finalytics: медицинские платежи, персонализация банков, рекламная аналитика и ERP. Связь события с доменом не установлена."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "company_id": "freeda",
+    "floorplan_name": "Freeda",
+    "status": "identity_unresolved_after_public_search",
+    "reason": {
+      "en": "Freeda.so construction-plan checking and Freeda.ai menopause support are distinct businesses. Public event binding not established.",
+      "ru": "Freeda.so проверяет строительные планы, Freeda.ai поддерживает здоровье при менопаузе. Это разные компании; связь с событием не установлена."
+    },
+    "candidate_urls_not_identity_confirmation": [
+      "https://www.freeda.so/",
+      "https://freeda.ai/"
+    ],
+    "reviewed_on": "2026-10-26",
+    "next_step": {
+      "en": "Obtain a public exhibitor website link or independently matching company/founder identifier.",
+      "ru": "Получить публичную ссылку экспонента либо независимо совпадающий идентификатор компании/основателя."
+    },
+    "claim": {
+      "en": "Freeda.so construction-plan checking and Freeda.ai menopause support are distinct businesses. Public event binding not established.",
+      "ru": "Freeda.so проверяет строительные планы, Freeda.ai поддерживает здоровье при менопаузе. Это разные компании; связь с событием не установлена."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "company_id": "go-ai-guru",
+    "floorplan_name": "Go AI Guru",
+    "status": "identity_unresolved_after_public_search",
+    "reason": {
+      "en": "Exact-name and compact-name searches did not establish a unique official business identity; similarly named AI Guru accounts are insufficient.",
+      "ru": "Поиск точного и слитного названия не установил однозначную официальную компанию; похожие аккаунты AI Guru недостаточны."
+    },
+    "candidate_urls_not_identity_confirmation": [],
+    "reviewed_on": "2026-10-26",
+    "next_step": {
+      "en": "Obtain a public exhibitor website link or independently matching company/founder identifier.",
+      "ru": "Получить публичную ссылку экспонента либо независимо совпадающий идентификатор компании/основателя."
+    },
+    "claim": {
+      "en": "Exact-name and compact-name searches did not establish a unique official business identity; similarly named AI Guru accounts are insufficient.",
+      "ru": "Поиск точного и слитного названия не установил однозначную официальную компанию; похожие аккаунты AI Guru недостаточны."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "company_id": "grid-studio",
+    "floorplan_name": "Grid Studio",
+    "status": "identity_unresolved_after_public_search",
+    "reason": {
+      "en": "Several creative/software businesses and an archived open-source data-science project share Grid Studio. Dubai agency is a candidate, not confirmed exhibitor.",
+      "ru": "Название Grid Studio используют студии и архивный open-source проект. Дубайское агентство — кандидат, не подтверждённый экспонент."
+    },
+    "candidate_urls_not_identity_confirmation": [
+      "https://gridstudio.dev/",
+      "https://www.thatgridagency.com/",
+      "https://github.com/ricklamers/gridstudio"
+    ],
+    "reviewed_on": "2026-10-26",
+    "next_step": {
+      "en": "Obtain a public exhibitor website link or independently matching company/founder identifier.",
+      "ru": "Получить публичную ссылку экспонента либо независимо совпадающий идентификатор компании/основателя."
+    },
+    "claim": {
+      "en": "Several creative/software businesses and an archived open-source data-science project share Grid Studio. Dubai agency is a candidate, not confirmed exhibitor.",
+      "ru": "Название Grid Studio используют студии и архивный open-source проект. Дубайское агентство — кандидат, не подтверждённый экспонент."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "company_id": "handover-ai",
+    "floorplan_name": "Handover AI",
+    "status": "identity_unresolved_after_public_search",
+    "reason": {
+      "en": "Maritime assistant Handover AI and business knowledge-transfer Handover are distinct; no source connects the roster label to one.",
+      "ru": "Морской помощник Handover AI и сервис передачи бизнес-знаний Handover различаются; связь с названием на плане не установлена."
+    },
+    "candidate_urls_not_identity_confirmation": [
+      "https://avunia.com/",
+      "https://www.gethandover.ai/"
+    ],
+    "reviewed_on": "2026-10-26",
+    "next_step": {
+      "en": "Obtain a public exhibitor website link or independently matching company/founder identifier.",
+      "ru": "Получить публичную ссылку экспонента либо независимо совпадающий идентификатор компании/основателя."
+    },
+    "claim": {
+      "en": "Maritime assistant Handover AI and business knowledge-transfer Handover are distinct; no source connects the roster label to one.",
+      "ru": "Морской помощник Handover AI и сервис передачи бизнес-знаний Handover различаются; связь с названием на плане не установлена."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "company_id": "hive-technologies",
+    "floorplan_name": "Hive Technologies",
+    "status": "identity_unresolved_after_public_search",
+    "reason": {
+      "en": "Multiple unrelated Hive Technologies firms found; no authoritative roster-to-website binding established.",
+      "ru": "Найдено несколько несвязанных Hive Technologies; надёжная связь названия на плане с сайтом не установлена."
+    },
+    "candidate_urls_not_identity_confirmation": [
+      "https://hiveholding.org/"
+    ],
+    "reviewed_on": "2026-10-26",
+    "next_step": {
+      "en": "Obtain a public exhibitor website link or independently matching company/founder identifier.",
+      "ru": "Получить публичную ссылку экспонента либо независимо совпадающий идентификатор компании/основателя."
+    },
+    "claim": {
+      "en": "Multiple unrelated Hive Technologies firms found; no authoritative roster-to-website binding established.",
+      "ru": "Найдено несколько несвязанных Hive Technologies; надёжная связь названия на плане с сайтом не установлена."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "company_id": "inspire-tech",
+    "floorplan_name": "Inspire Tech",
+    "status": "identity_unresolved_after_public_search",
+    "reason": {
+      "en": "Inspire-Tech Singapore file-security vendor is plausible but similar UAE businesses exist; event binding not established.",
+      "ru": "Сингапурский Inspire-Tech, поставщик защиты файлов, вероятный кандидат, но существуют похожие компании ОАЭ; связь с событием не установлена."
+    },
+    "candidate_urls_not_identity_confirmation": [
+      "https://www.inspire-tech.com/",
+      "https://www.inspiretechuae.com/"
+    ],
+    "reviewed_on": "2026-10-26",
+    "next_step": {
+      "en": "Obtain a public exhibitor website link or independently matching company/founder identifier.",
+      "ru": "Получить публичную ссылку экспонента либо независимо совпадающий идентификатор компании/основателя."
+    },
+    "claim": {
+      "en": "Inspire-Tech Singapore file-security vendor is plausible but similar UAE businesses exist; event binding not established.",
+      "ru": "Сингапурский Inspire-Tech, поставщик защиты файлов, вероятный кандидат, но существуют похожие компании ОАЭ; связь с событием не установлена."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "company_id": "keytron-ai",
+    "floorplan_name": "Keytron.ai",
+    "status": "identity_unresolved_after_public_search",
+    "reason": {
+      "en": "Exact Keytron.ai URL was inaccessible; other Keytron vendors cannot be substituted safely.",
+      "ru": "Точный URL Keytron.ai недоступен; другие компании Keytron нельзя безопасно подставлять вместо него."
+    },
+    "candidate_urls_not_identity_confirmation": [
+      "https://keytron.ai/"
+    ],
+    "reviewed_on": "2026-10-26",
+    "next_step": {
+      "en": "Obtain a public exhibitor website link or independently matching company/founder identifier.",
+      "ru": "Получить публичную ссылку экспонента либо независимо совпадающий идентификатор компании/основателя."
+    },
+    "claim": {
+      "en": "Exact Keytron.ai URL was inaccessible; other Keytron vendors cannot be substituted safely.",
+      "ru": "Точный URL Keytron.ai недоступен; другие компании Keytron нельзя безопасно подставлять вместо него."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "MENA Tech",
+    "company_id": "mena-tech",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"MENA Tech\" official"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Multiple different official brands found; media portal versus AI consultancy requires event binding.",
+      "ru": "Найдены разные бренды: медиапортал и AI-консалтинг; нужна привязка к мероприятию."
+    },
+    "candidate_source_urls": [
+      "https://menatech.net/about-us/",
+      "https://mena-tech.ai/"
+    ],
+    "claim": {
+      "en": "Multiple different official brands found; media portal versus AI consultancy requires event binding.",
+      "ru": "Найдены разные бренды: медиапортал и AI-консалтинг; нужна привязка к мероприятию."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Metis",
+    "company_id": "metis",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Metis\" \"Dubai AI Festival\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No unambiguous official company identity returned.",
+      "ru": "Однозначная официальная компания не установлена."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No unambiguous official company identity returned.",
+      "ru": "Однозначная официальная компания не установлена."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Mind AI",
+    "company_id": "mind-ai",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Mind AI\" official company"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Neuro-symbolic AI and security-company naming collision; event binding not established.",
+      "ru": "Совпадение названий нейросимвольного AI и компании безопасности; связь с мероприятием не установлена."
+    },
+    "candidate_source_urls": [
+      "https://www.mind.ai/"
+    ],
+    "claim": {
+      "en": "Neuro-symbolic AI and security-company naming collision; event binding not established.",
+      "ru": "Совпадение названий нейросимвольного AI и компании безопасности; связь с мероприятием не установлена."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Music Ecosystem",
+    "company_id": "music-ecosystem",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Music Ecosystem\" \"Adi\" AI"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Agenda identifies founder Adi Abdulkadir but no official product site established.",
+      "ru": "Программа называет основателя Adi Abdulkadir, но официальный продуктовый сайт не установлен."
+    },
+    "candidate_source_urls": [
+      "https://dubaiaifestival.com/start-up-agenda/"
+    ],
+    "claim": {
+      "en": "Agenda identifies founder Adi Abdulkadir but no official product site established.",
+      "ru": "Программа называет основателя Adi Abdulkadir, но официальный продуктовый сайт не установлен."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Nash",
+    "company_id": "nash",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Nash\" \"Dubai AI Festival\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Festival sources mention Nashdata and Nash fintechX across editions; current identity not established.",
+      "ru": "Источники фестиваля разных лет упоминают Nashdata и Nash fintechX; текущая компания не установлена."
+    },
+    "candidate_source_urls": [
+      "https://dubaiaifestival.com/exhibitors/"
+    ],
+    "claim": {
+      "en": "Festival sources mention Nashdata and Nash fintechX across editions; current identity not established.",
+      "ru": "Источники фестиваля разных лет упоминают Nashdata и Nash fintechX; текущая компания не установлена."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Nedrix.ai",
+    "company_id": "nedrix-ai",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Nedrix.ai\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient official vendor product/identity evidence returned.",
+      "ru": "Не получено достаточных официальных данных о продукте и компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient official vendor product/identity evidence returned.",
+      "ru": "Не получено достаточных официальных данных о продукте и компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Nestor Analytics",
+    "company_id": "nestor-analytics",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Nestor Analytics\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Distinct Hungarian media-intelligence and Indian education businesses share this name.",
+      "ru": "Название совпадает у венгерского медиааналитического и индийского образовательного бизнеса."
+    },
+    "candidate_source_urls": [
+      "https://nestoranalytics.hu/",
+      "https://www.nestoranalytics.com/about-us.php"
+    ],
+    "claim": {
+      "en": "Distinct Hungarian media-intelligence and Indian education businesses share this name.",
+      "ru": "Название совпадает у венгерского медиааналитического и индийского образовательного бизнеса."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Neura Voz",
+    "company_id": "neura-voz",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Neura Voz\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient official vendor product/identity evidence returned.",
+      "ru": "Не получено достаточных официальных данных о продукте и компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient official vendor product/identity evidence returned.",
+      "ru": "Не получено достаточных официальных данных о продукте и компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Nova pilot.ai",
+    "company_id": "nova-pilot-ai",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Nova pilot.ai\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient official vendor product/identity evidence returned.",
+      "ru": "Не получено достаточных официальных данных о продукте и компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient official vendor product/identity evidence returned.",
+      "ru": "Не получено достаточных официальных данных о продукте и компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "NovusAI",
+    "company_id": "novusai",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"NovusAI\" company Dubai"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Several official NovusAI brands found; Dubai consultancy plausible but event binding remains unverified.",
+      "ru": "Несколько официальных брендов NovusAI; дубайский консалтинг вероятен, но привязка не подтверждена."
+    },
+    "candidate_source_urls": [
+      "https://www.novusai.technology/about",
+      "https://www.novusai.dev/",
+      "https://www.novusai.org/contact"
+    ],
+    "claim": {
+      "en": "Several official NovusAI brands found; Dubai consultancy plausible but event binding remains unverified.",
+      "ru": "Несколько официальных брендов NovusAI; дубайский консалтинг вероятен, но привязка не подтверждена."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "orbo. work",
+    "company_id": "orbo-work",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"orbo.work\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient official vendor product/identity evidence returned.",
+      "ru": "Не получено достаточных официальных данных о продукте и компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient official vendor product/identity evidence returned.",
+      "ru": "Не получено достаточных официальных данных о продукте и компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Oryx AI",
+    "company_id": "oryx-ai",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Oryx Artificial Intelligence\" official"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Multiple Oryx AI brands and insufficient official site binding.",
+      "ru": "Несколько брендов Oryx AI, недостаточно данных для выбора официального сайта."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "Multiple Oryx AI brands and insufficient official site binding.",
+      "ru": "Несколько брендов Oryx AI, недостаточно данных для выбора официального сайта."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "PentX",
+    "company_id": "pentx",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"PentX\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient official vendor product/identity evidence returned.",
+      "ru": "Не получено достаточных официальных данных о продукте и компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient official vendor product/identity evidence returned.",
+      "ru": "Не получено достаточных официальных данных о продукте и компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "RahaAi technologies",
+    "company_id": "rahaai-technologies",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"RahaAi\" technologies"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Revent",
+    "company_id": "revent",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Revent\" \"Dubai AI Festival\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "RiskVantage",
+    "company_id": "riskvantage",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"RiskVantage\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Legal AI, recruiting and insurance brands share name; event binding not established.",
+      "ru": "Название совпадает у юридического AI, рекрутинга и страхования; нужна привязка к фестивалю."
+    },
+    "candidate_source_urls": [
+      "https://riskvantage.ai/"
+    ],
+    "claim": {
+      "en": "Legal AI, recruiting and insurance brands share name; event binding not established.",
+      "ru": "Название совпадает у юридического AI, рекрутинга и страхования; нужна привязка к фестивалю."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Sahaba Club Technologies",
+    "company_id": "sahaba-club-technologies",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Sahaba Club Technologies\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "SIEF",
+    "company_id": "sief",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"SIEF\" \"Dubai AI Festival\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Federation identity appears in event sources; coordination with organiser/partner directory needed, not a software vendor.",
+      "ru": "В источниках события указана федерация; нужна координация с каталогом партнёров, это не поставщик ПО."
+    },
+    "candidate_source_urls": [
+      "https://dubaiaifestival.com/exhibitors/"
+    ],
+    "claim": {
+      "en": "Federation identity appears in event sources; coordination with organiser/partner directory needed, not a software vendor.",
+      "ru": "В источниках события указана федерация; нужна координация с каталогом партнёров, это не поставщик ПО."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "SLAN",
+    "company_id": "slan",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"SLAN\" \"Dubai AI Festival\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Public company post advertises AI coaching but official product-site identity not resolved.",
+      "ru": "Публичный пост компании заявляет AI-коучинг, но официальный продуктовый сайт не установлен."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "Public company post advertises AI coaching but official product-site identity not resolved.",
+      "ru": "Публичный пост компании заявляет AI-коучинг, но официальный продуктовый сайт не установлен."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Squash App",
+    "company_id": "squash-app",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Squash App\" AI"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Sukuun",
+    "company_id": "sukuun",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Sukuun\" AI"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "App-store listing found, product and event binding not sufficiently established.",
+      "ru": "Найдена карточка магазина приложений, но продукт и связь с событием недостаточно установлены."
+    },
+    "candidate_source_urls": [
+      "https://play.google.com/store/apps/details?hl=en_GB&id=sukuun.app"
+    ],
+    "claim": {
+      "en": "App-store listing found, product and event binding not sufficiently established.",
+      "ru": "Найдена карточка магазина приложений, но продукт и связь с событием недостаточно установлены."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Synthesys",
+    "company_id": "synthesys",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Synthesys\" \"Dubai AI Festival\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "T-Knowledge",
+    "company_id": "t-knowledge",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"T-Knowledge\" AI"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Taksit",
+    "company_id": "taksit",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Taksit\" AI Dubai"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Talos Wealth",
+    "company_id": "talos-wealth",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Talos Wealth\" Dubai AI"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Festival startup agenda says Telos Wealth, not Talos; identity unresolved.",
+      "ru": "В стартап-программе указано Telos Wealth, не Talos; идентичность не установлена."
+    },
+    "candidate_source_urls": [
+      "https://dubaiaifestival.com/start-up-agenda/"
+    ],
+    "claim": {
+      "en": "Festival startup agenda says Telos Wealth, not Talos; identity unresolved.",
+      "ru": "В стартап-программе указано Telos Wealth, не Talos; идентичность не установлена."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Tawasol Services",
+    "company_id": "tawasol-services",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Tawasol Services\" AI"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Tawasol Solution and Services is plausible; distinct Tawasol brands exist, event binding missing.",
+      "ru": "Tawasol Solution and Services вероятен; существуют разные бренды, привязки к событию нет."
+    },
+    "candidate_source_urls": [
+      "https://www.tawasolservices.com",
+      "https://www.tawasolit.com/"
+    ],
+    "claim": {
+      "en": "Tawasol Solution and Services is plausible; distinct Tawasol brands exist, event binding missing.",
+      "ru": "Tawasol Solution and Services вероятен; существуют разные бренды, привязки к событию нет."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Terramine",
+    "company_id": "terramine",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Terramine\" AI"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Mining AI, virtual-property game and CRM brands collide; event identity unresolved.",
+      "ru": "Совпадают названия горного AI, игры и CRM; компания мероприятия не установлена."
+    },
+    "candidate_source_urls": [
+      "https://terramineai.com/",
+      "https://terramine.app/",
+      "https://terraminedesk.com/systems/work"
+    ],
+    "claim": {
+      "en": "Mining AI, virtual-property game and CRM brands collide; event identity unresolved.",
+      "ru": "Совпадают названия горного AI, игры и CRM; компания мероприятия не установлена."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Times of AI",
+    "company_id": "times-of-ai",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Times of AI\" about"
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Several media brands use this name; official sponsor-site link needed.",
+      "ru": "Несколько медиабрендов используют название; нужна ссылка организатора."
+    },
+    "candidate_source_urls": [
+      "https://timesof.ai/",
+      "https://www.timesofai.com/about-us/",
+      "https://www.ai-tech-times.com/times-of-ai-about-times-of-ai"
+    ],
+    "claim": {
+      "en": "Several media brands use this name; official sponsor-site link needed.",
+      "ru": "Несколько медиабрендов используют название; нужна ссылка организатора."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Umain Tech Limited",
+    "company_id": "umain-tech-limited",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Umain Tech Limited\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Unison",
+    "company_id": "unison",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Unison\" \"Dubai AI Festival\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Company event post found for Unison Group, exact official product site not established.",
+      "ru": "Найден пост Unison Group об участии, точный официальный продуктовый сайт не установлен."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "Company event post found for Unison Group, exact official product site not established.",
+      "ru": "Найден пост Unison Group об участии, точный официальный продуктовый сайт не установлен."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "UNO Infotech Systems Ltd",
+    "company_id": "uno-infotech-systems-ltd",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"UNO Infotech Systems Ltd\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Ventur-os",
+    "company_id": "ventur-os",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Ventur-os\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Competing ventur-os.app and venturos.app brand/domain candidates; cannot bind either to floorplan safely.",
+      "ru": "Найдены ventur-os.app и venturos.app; безопасно связать с планом не удалось."
+    },
+    "candidate_source_urls": [
+      "https://www.ventur-os.app/",
+      "https://venturos.app/"
+    ],
+    "claim": {
+      "en": "Competing ventur-os.app and venturos.app brand/domain candidates; cannot bind either to floorplan safely.",
+      "ru": "Найдены ventur-os.app и venturos.app; безопасно связать с планом не удалось."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Vernovi",
+    "company_id": "vernovi",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Vernovi\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Xoom Carbon",
+    "company_id": "xoom-carbon",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Xoom Carbon\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "XTEK",
+    "company_id": "xtek",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"XTEK\" \"Dubai AI Festival\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "XYRA AI",
+    "company_id": "xyra-ai",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"XYRA AI\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Engineering, personal OS and accounting products share XYRA brand; event binding needed.",
+      "ru": "XYRA используется инженерным ПО, персональной ОС и бухгалтерией; нужна привязка к фестивалю."
+    },
+    "candidate_source_urls": [
+      "https://www.xyra-ai.com/",
+      "https://xyra.dev/",
+      "https://thexyra.ai/"
+    ],
+    "claim": {
+      "en": "Engineering, personal OS and accounting products share XYRA brand; event binding needed.",
+      "ru": "XYRA используется инженерным ПО, персональной ОС и бухгалтерией; нужна привязка к фестивалю."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Yara Society",
+    "company_id": "yara-society",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Yara Society\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Zaken",
+    "company_id": "zaken",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Zaken\" \"Dubai AI Festival\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "Zelos",
+    "company_id": "zelos",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"Zelos\" \"Dubai AI Festival\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "candidate_source_urls": [],
+    "claim": {
+      "en": "No sufficient unambiguous official vendor evidence returned.",
+      "ru": "Недостаточно однозначных официальных данных о компании."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  },
+  {
+    "floorplan_name": "ZWAG AI Ltd",
+    "company_id": "zwag-ai-ltd",
+    "status": "identity_unresolved_after_public_search",
+    "search_queries": [
+      "\"ZWAG AI Ltd\""
+    ],
+    "reviewed_on": "2026-10-26",
+    "reason": {
+      "en": "Company announcement identifies Mātr/matrintelligence.com but official site inaccessible; public primary page needed for product verification.",
+      "ru": "Анонс компании связывает её с Mātr/matrintelligence.com, но сайт недоступен; нужен публичный первичный источник продукта."
+    },
+    "candidate_source_urls": [
+      "https://matrintelligence.com/"
+    ],
+    "claim": {
+      "en": "Company announcement identifies Mātr/matrintelligence.com but official site inaccessible; public primary page needed for product verification.",
+      "ru": "Анонс компании связывает её с Mātr/matrintelligence.com, но сайт недоступен; нужен публичный первичный источник продукта."
+    },
+    "next_evidence_needed": {
+      "en": "A company-owned or organiser source binding the label to its official domain.",
+      "ru": "Источник компании или организатора, связывающий название с официальным доменом."
+    }
+  }
+]

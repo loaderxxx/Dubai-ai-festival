@@ -1,0 +1,13 @@
+{
+  "unique_speaker_ids": 115,
+  "unique_session_ids": 53,
+  "conference_people_links": 120,
+  "startup_table_rows": 69,
+  "all_internal_files_resolve": true,
+  "all_speaker_session_references_resolve": true,
+  "all_sessions_have_ru_title": true,
+  "all_transcript_and_recording_urls_null": true,
+  "no_bios_or_contact_fields": true,
+  "known_quality_flags_retained": true,
+  "checked_at_utc": "2026-10-26T13:21:00Z"
+}

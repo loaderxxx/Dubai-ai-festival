@@ -1,0 +1,14 @@
+{
+  "records": 248,
+  "unique_record_ids": 248,
+  "source_records": 263,
+  "duplicate_source_ids": [],
+  "missing_sources": [],
+  "broken_local_links": [],
+  "not_yet_attempted": 0,
+  "profiles": 248,
+  "excluded_labels": 14,
+  "private_data_used": false,
+  "bilingual_offerings": true,
+  "passed": true
+}

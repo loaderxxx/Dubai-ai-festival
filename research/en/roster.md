@@ -1,5 +1,8 @@
 # Complete public candidate roster
 
+> **Historical study checkpoint.** For the later company, speaker and organizer expansion, see [current atlas coverage](../../docs/en/atlas-coverage.md). Counts/statuses on this page remain scoped to the preserved original study.
+
+
 [English](../../research/en/roster.md) · [Русский](../../research/ru/roster.md)
 
 **248 candidate organization labels · 18 with public profiles · 230 not yet profiled.**

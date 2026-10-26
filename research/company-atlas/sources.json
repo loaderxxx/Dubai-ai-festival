@@ -1,0 +1,2403 @@
+{
+  "sources": [
+    {
+      "id": "festival-floorplan",
+      "url": "https://dubaiaifestival.com/floorplan/",
+      "embedded_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+      "accessed_on": "2026-10-26",
+      "observed_at_utc": "2026-10-26T03:30:39Z",
+      "source_type": "official_event_floorplan",
+      "evidence_locator": "All 264 populated rows; deterministic normalization preserves duplicates and shared stands."
+    },
+    {
+      "id": "aws-agentcore",
+      "url": "https://aws.amazon.com/bedrock/agentcore/",
+      "title": "Amazon Bedrock AgentCore",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Overview; Connect across your stack; Debug faster",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "aws-classic",
+      "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html",
+      "title": "Amazon Bedrock Agents documentation",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Maintenance-mode notice at top",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "alibaba-genai",
+      "url": "https://www.alibabacloud.com/en/solutions/generative-ai",
+      "title": "Alibaba Cloud for Generative AI",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Overview; GenAI Development; Model Studio",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "alibaba-qwen-api",
+      "url": "https://www.alibabacloud.com/help/en/model-studio/first-api-call-to-qwen",
+      "title": "Make your first API call to Qwen",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_documentation_search_extract",
+      "evidence_locator": "Opening description; API compatibility",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true,
+      "retrieval_note": "Original console-doc URL exceeded fetch size. Official Documentation Center search extract independently confirmed OpenAI-compatible APIs and DashScope on 2026-10-26."
+    },
+    {
+      "id": "atlan-home",
+      "url": "https://atlan.com/",
+      "title": "Atlan",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Enterprise Context Layer; business systems; enterprise customers",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "clickup-brain",
+      "url": "https://clickup.com/brain",
+      "title": "ClickUp Brain",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "AI tasks, projects and workspace context",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "clickup-api",
+      "url": "https://developer.clickup.com/",
+      "title": "ClickUp developer portal",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Public API; MCP; webhooks; OAuth",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "clickup-webhooks",
+      "url": "https://developer.clickup.com/docs/webhooks",
+      "title": "ClickUp webhooks",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Scope; signature; task events",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "elastic-product",
+      "url": "https://www.elastic.co/elasticsearch",
+      "title": "Elasticsearch",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Search; observability; security; deployment options",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "eleven-agents",
+      "url": "https://elevenlabs.io/agents",
+      "title": "ElevenLabs Agents",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Support, sales and operational use cases; configuration and testing",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "eleven-tools",
+      "url": "https://elevenlabs.io/docs/eleven-agents/customization/tools",
+      "title": "ElevenLabs tools",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Client, webhook, code, MCP and system tools",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "snowflake-ai",
+      "url": "https://www.snowflake.com/en/product/ai/",
+      "title": "Snowflake for AI",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Data agents; unstructured data; ML workflows",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "snowflake-search",
+      "url": "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/cortex-search-overview",
+      "title": "Cortex Search documentation",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Overview; use cases; REST API example",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "haptik-home",
+      "url": "https://www.haptik.ai/",
+      "title": "Jio Haptik",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Support, sales, booking and lead qualification agents; industries",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "haptik-integrations",
+      "url": "https://www.haptik.ai/platform/integrations",
+      "title": "Haptik integrations",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "CRM and live chat; API integration; Salesforce, HubSpot and Zendesk",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "onlyoffice-developer",
+      "url": "https://www.onlyoffice.com/for-developers",
+      "title": "ONLYOFFICE Docs Developer",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Embedded editing; APIs; connectors; AI-ready",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "applause-eval",
+      "url": "https://www.applause.com/ai-evaluation-and-benchmarking/",
+      "title": "Applause AI Evaluation & Benchmarking",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Evaluation service; enterprise QA; domain experts",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "applause-agentic",
+      "url": "https://www.applause.com/agentic-ai-testing/",
+      "title": "Applause Agentic AI Testing",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Trace, tool-call, retrieval and task-completion evaluation",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "placeos-home",
+      "url": "https://www.placeos.com/",
+      "title": "PlaceOS",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Platform overview; products; drivers and APIs",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "xenon-home",
+      "url": "https://www.xenonstack.com/",
+      "title": "XenonStack",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Foundry; domains; integration list",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "xenon-snowflake",
+      "url": "https://www.xenonstack.com/ai-agents/snowflake-ai-agents/",
+      "title": "XenonStack Snowflake AI Agents",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Integration offering; use cases; not a verified performance benchmark",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "atlan-snowflake-crawl",
+      "url": "https://docs.atlan.com/apps/connectors/data-warehouses/snowflake/how-tos/crawl-snowflake",
+      "title": "How to crawl Snowflake in Atlan",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_documentation",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Opening description; Provide credentials; Configure connection; Configure crawler",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "elastic-bedrock-api",
+      "url": "https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-inference-put-amazonbedrock",
+      "title": "Create an Amazon Bedrock inference endpoint",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_documentation",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Endpoint overview; required authorization; task_type; key rotation note",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "elastic-alibaba-api",
+      "url": "https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-inference-put-alibabacloud",
+      "title": "Create an AlibabaCloud AI Search inference endpoint",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_documentation",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Endpoint overview; task_type; request examples",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "apgar-home",
+      "url": "https://apgar-group.com/",
+      "title": "Apgar: Data and AI partner",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Expertise; Business Solutions; ApgarIA",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "apgar-quality",
+      "url": "https://apgar-group.com/our-expertise/data-quality/",
+      "title": "Data Quality Management",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Data Quality Management: Build Trusted Data Across Your Organization",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "apgar-integration",
+      "url": "https://apgar-group.com/our-expertise/data-integration/",
+      "title": "Data Integration",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "How we can help you; Functional Architecture; Software Architecture",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "datacamp-business",
+      "url": "https://www.datacamp.com/business/",
+      "title": "DataCamp for Business",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Enterprise-wide learning; custom curriculum; blended learning",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "datacamp-integration",
+      "url": "https://www.datacamp.com/business/integration",
+      "title": "LMS, SSO and Enterprise Integrations",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "SSO; LMS/LXP/HRMS integrations; Data Connector; FAQ plan limitation",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "macgence-home",
+      "url": "https://macgence.com/",
+      "title": "AI training data services",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "evidence_locator": "AI Training Data; Language Services; Build AI",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment.",
+      "retrieval_note": "Search returned substantive official-page text; a subsequent direct open timed out. About page read directly."
+    },
+    {
+      "id": "macgence-about",
+      "url": "https://macgence.com/our-company/about-us/",
+      "title": "About Macgence",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "AI Data Services, Language Services, AI Engineering; human-in-the-loop",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "sia-ai",
+      "url": "https://www.sia-partners.com/en/about-us/siaai",
+      "title": "Sia AI",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Sia Applied Intelligence; Agent Store; Sia Forward; Our Tech accelerators. Direct /siaai read used over the older /heka redirect snapshot.",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment.",
+      "retrieval_note": "Legacy /en/about-us/heka redirected to a cached older four-pillar view. Direct /en/about-us/siaai was re-read; final claims use its Applied Intelligence, Sia Forward, Agent Store and named alliance text."
+    },
+    {
+      "id": "smartspaces-os",
+      "url": "https://www.smartspaces.app/smart-building-os/",
+      "title": "Smart Building OS",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Facility Management; Analytics; Digital Twin; Master Systems Integrator",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "smartspaces-ssi",
+      "url": "https://www.smartspaces.app/software-systems-integrator/",
+      "title": "Software Systems Integrator",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "What is an SSI?; Validating your building networks",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "smartspaces-watergate",
+      "url": "https://www.smartspaces.app/our-partners/watergate/",
+      "title": "Watergate: Integration Partner",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor_partner_documentation",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Integration Partner; Technical compatibility: API; integration description",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "watergate-home",
+      "url": "https://watergate.ai/",
+      "title": "Watergate: Smart water leak detection",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Products: Sonic, Server, Mobile App, Dashboard; integrations navigation",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "watergate-docs",
+      "url": "https://docs.watergate.ai/home/",
+      "title": "Watergate developer documentation",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_documentation",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Cloud API; Local API; reference materials",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "watergate-local",
+      "url": "https://docs.watergate.ai/api/local/",
+      "title": "Sonic local API",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_documentation",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Get valve state; Set valve state",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "omnix-home",
+      "url": "https://omnix.com/",
+      "title": "Omnix International",
+      "evidence_locator": "Solutions offering; Explore by Industries; footer legal brand",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "omnix-conversational",
+      "url": "https://omnix.com/omnix-news/the-promise-of-generative-ai/",
+      "title": "Omnix Generative Conversational AI",
+      "evidence_locator": "No-code authoring; native connector; RPA and API connectivity; HR/IT/sales use cases",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "omnix-event",
+      "url": "https://in.linkedin.com/company/omnix",
+      "title": "Omnix International official company account",
+      "evidence_locator": "Company update: Dubai AI Festival 2026, 26–27 October, booth G95",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_company_social",
+      "retrieval_method": "official_company_social_search_extract",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "propvr-home",
+      "url": "https://propvr.ai/",
+      "title": "PropVR",
+      "evidence_locator": "Spatial Ecosystem; Industries We Power",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "propvr-twin",
+      "url": "https://propvr.ai/platform/spatial-twin",
+      "title": "PropVR Spatial Twin",
+      "evidence_locator": "Input Flexibility; Multi-Device Delivery; real-time walkthroughs",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "rensair-home",
+      "url": "https://rensair.com/",
+      "title": "Rensair",
+      "evidence_locator": "Connected HVAC/air-quality proposition; service areas",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "rensair-cloud",
+      "url": "https://rensair.com/rensair-cloud/",
+      "title": "Rensair Cloud",
+      "evidence_locator": "Asset management; Streaming analytics; existing HVAC and Building Management systems; FAQ",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "10leaves-home",
+      "url": "https://10leaves.ae/",
+      "title": "10 Leaves",
+      "evidence_locator": "DIFC services; ADGM services",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "10leaves-about",
+      "url": "https://10leaves.ae/about",
+      "title": "10 Leaves: Consultancy for the Digital Age",
+      "evidence_locator": "Approach; market entry, corporate structuring and authorisations; clientele",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "10leaves-event",
+      "url": "https://jm.linkedin.com/company/10leaves",
+      "title": "10 Leaves official company account",
+      "evidence_locator": "Company update: Dubai AI Festival 2026, Stand G120",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_company_social",
+      "retrieval_method": "official_company_social_search_extract",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "relm-home",
+      "url": "https://relminsurance.com/",
+      "title": "Relm Insurance",
+      "evidence_locator": "Emerging industries; insurance solutions",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "relm-ai",
+      "url": "https://relminsurance.com/industry/artificial-intelligence-insurance/",
+      "title": "Relm Artificial Intelligence Insurance",
+      "evidence_locator": "Four risk categories; footer jurisdiction and policy-terms qualification",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "probis-home",
+      "url": "https://en.prob.is/",
+      "title": "PROBIS Financial Command Center",
+      "evidence_locator": "Budgets, contracts, forecasts, cash flow; Built For; interfaces",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "probis-faq",
+      "url": "https://en.prob.is/resources/faq",
+      "title": "PROBIS FAQ",
+      "evidence_locator": "Platform & Fundamentals; Integration & Technology; AI & Automation",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "mechasys-home",
+      "url": "https://www.mechasys.ca/",
+      "title": "Mechasys Laser Layout",
+      "evidence_locator": "XR Projector; CAD imports; 3D point export; BIM/tablet/web workflow",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "magure-home",
+      "url": "https://www.magureinc.com/",
+      "title": "Magure / MagOneAI",
+      "evidence_locator": "Platform vs services; private deployment; governance; LLM support",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "magure-about",
+      "url": "https://www.magureinc.com/about-us",
+      "title": "About Magure",
+      "evidence_locator": "GenAI; computer vision; AI consulting; enterprise delivery",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "deployed-home",
+      "url": "https://www.deployed.co/",
+      "title": "Deployed Document Assembly",
+      "evidence_locator": "Questionnaires; clause libraries; digital output; Designed for your team",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "researchcollab-tech",
+      "url": "https://researchcollabtech.com/",
+      "title": "ResearchCollab Technologies",
+      "evidence_locator": "Custom Agentic Solutions; AI Strategy and Audits; training; live vs coming soon",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "researchcollab-product",
+      "url": "https://researchcollab.ai/",
+      "title": "ResearchCollab.ai",
+      "evidence_locator": "Find, Review, Write; Evidence Tracker; Research Agent",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Vendor material documents advertised offerings, not independently tested performance."
+    },
+    {
+      "id": "mz-m5wealth",
+      "url": "https://m5wealth.com/",
+      "title": "M5Wealth official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-mantika",
+      "url": "https://mantika.ca/",
+      "title": "Mantika official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-mcfill-media",
+      "url": "https://thefinanceworld.com/wp-content/uploads/2024/09/Finance-World-Magazine-Media-Kit-2024.pdf",
+      "title": "McFill Media official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-myndlab",
+      "url": "https://www.myndlab.ai/",
+      "title": "Myndlab official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-misraj",
+      "url": "https://misraj.sa/en/ventures/misraj-ai",
+      "title": "Misraj official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-main-sequence",
+      "url": "https://www.main-sequence.io/",
+      "title": "Main Sequence official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-neuraserv",
+      "url": "https://www.neuraserv.com/",
+      "title": "Neuraserv official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-nodex8-ai",
+      "url": "https://www.nodex8.ai/",
+      "title": "Nodex8 AI official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-not-boring",
+      "url": "https://notboring.ae/",
+      "title": "Not Boring official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-openneko",
+      "url": "https://openneko.app/",
+      "title": "OpenNeko official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-nuvin",
+      "url": "https://nuvintech.ai/aboutus",
+      "title": "Nuvin official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-ordinary-wisdom",
+      "url": "https://ordinarywisdom.ai/about/",
+      "title": "Ordinary Wisdom official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-osiris-ai",
+      "url": "https://ai-osiris.com/osiris-ai/",
+      "title": "Osiris AI official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-otobiz",
+      "url": "https://otobiz.ai/",
+      "title": "Otobiz official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-otonomi-technologies",
+      "url": "https://otonomi.co/",
+      "title": "Otonomi Technologies official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-palgu",
+      "url": "https://www.srooter.ai/",
+      "title": "Palgu official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-periscope-technologies",
+      "url": "https://periscope-tech.com/",
+      "title": "Periscope Technologies official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-planytics-ai",
+      "url": "https://planytics.ai/",
+      "title": "Planytics AI official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-purpl-tech-solutions",
+      "url": "https://purplai.com/",
+      "title": "Purpl Tech Solutions official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-raisetalks",
+      "url": "https://raisetalks.com/",
+      "title": "Raisetalks official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-red-rock-technology",
+      "url": "https://redrock.io/",
+      "title": "Red Rock Technology official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-remo-ai",
+      "url": "https://byremo.ai/",
+      "title": "Remo AI official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-simsy",
+      "url": "https://simsy.ai/contact",
+      "title": "Simsy official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-sinorfi",
+      "url": "https://www.ibm.com/partnerplus/directory/company/9817",
+      "title": "Sinorfi official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-skrooge-ai",
+      "url": "https://skrooge.ai/contact-us/",
+      "title": "Skrooge. ai official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-skyetron-ai",
+      "url": "https://skyetron.ai/",
+      "title": "Skyetron.ai official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-skysay-ai",
+      "url": "https://skysay.ai/",
+      "title": "SkySay AI official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-skyxops",
+      "url": "https://skyxops.com/",
+      "title": "SKYXOPS official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-soika-labs",
+      "url": "https://www.soikalabs.com/",
+      "title": "Soika Labs official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-solvagence",
+      "url": "https://solvagence.com/",
+      "title": "Solvagence official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-studioyt",
+      "url": "https://www.linkedin.com/company/simplystudioyt/",
+      "title": "StudioYT official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-sywa-ai",
+      "url": "https://www.linkedin.com/company/sywa-ai/",
+      "title": "SYWA.ai official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-tatbiq-ai",
+      "url": "https://tatbiq.ai/",
+      "title": "TatbiQ.ai official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-the-cutting-edge-school",
+      "url": "https://cuttingedge.school/",
+      "title": "The Cutting Edge School official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-udai-ai",
+      "url": "https://udai.ai/about",
+      "title": "UDAI AI official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-uney",
+      "url": "https://uney.com/",
+      "title": "UNEY official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-uverest",
+      "url": "https://uverest.com/faq/",
+      "title": "UVEREST official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-vassutech",
+      "url": "https://www.vassutech.com/",
+      "title": "Vassutech official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-wiiz",
+      "url": "https://wiiz.it/",
+      "title": "WiiZ official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-works-platform",
+      "url": "https://www.linkedin.com/company/worksplatform/",
+      "title": "Works Platform official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-xixum",
+      "url": "https://xixum.org/",
+      "title": "Xixum official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-xnterprise",
+      "url": "https://www.xnterprise.com/",
+      "title": "Xnterprise official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-yoorz-ai-ltd",
+      "url": "https://yoorz.ai/",
+      "title": "yoorz.ai Ltd official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-zakool-ai",
+      "url": "https://zakool.ai/",
+      "title": "Zakool AI official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-younea",
+      "url": "https://www.younea.ai/",
+      "title": "Younea official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-totl-resource-international-llc-tri",
+      "url": "https://www.triuae.org/",
+      "title": "TOTL Resource International LLC (TRI) official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-tokeniz-ed",
+      "url": "https://www.rewaaj.com/",
+      "title": "Tokeniz-Ed official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-techno-polis",
+      "url": "https://techno-polis.com/",
+      "title": "Techno Polis official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-privinotch",
+      "url": "https://privinotch.co.uk/",
+      "title": "PRIVINOTCH official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-perflo",
+      "url": "https://perflo.ai/",
+      "title": "Perflo official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-tokeniz-ed-operator",
+      "url": "https://www.rewaaj.com/privacy",
+      "title": "Rewaaj operator privacy policy",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-rsk",
+      "url": "https://rsk-bsl.com/ai-solutions/",
+      "title": "RSK official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-selira",
+      "url": "https://selira.com/about/",
+      "title": "Selira official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-proptech-ai",
+      "url": "https://proptechai.ae/",
+      "title": "Proptech AI official source",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-rsk-event",
+      "url": "https://rsk-bsl.com/",
+      "title": "RSK official festival announcement",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor"
+    },
+    {
+      "id": "mz-startup-agenda",
+      "url": "https://dubaiaifestival.com/start-up-agenda/",
+      "title": "Official startup agenda",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_event"
+    },
+    {
+      "source_id": "fariq-ai-official-fl",
+      "id": "fariq-ai-official-fl",
+      "url": "https://fariq.ai/",
+      "title": "Fariq.AI — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "fast-company-official-fl",
+      "id": "fast-company-official-fl",
+      "url": "https://fastcompanyme.com/about-us/",
+      "title": "Fast Company — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "feasly-official-fl",
+      "id": "feasly-official-fl",
+      "url": "https://feasly.com/",
+      "title": "Feasly — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "fedtuna-official-fl",
+      "id": "fedtuna-official-fl",
+      "url": "https://fedtuna.ai/",
+      "title": "FedTuna — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "finbursa-official-fl",
+      "id": "finbursa-official-fl",
+      "url": "https://finbursa.com/",
+      "title": "FinBursa — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "flintx-official-fl",
+      "id": "flintx-official-fl",
+      "url": "https://flintx.ai/",
+      "title": "FlintX — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "forgenix-official-fl",
+      "id": "forgenix-official-fl",
+      "url": "https://forgenix.ai/index.html",
+      "title": "Forgenix — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "gaadin-ai-official-fl",
+      "id": "gaadin-ai-official-fl",
+      "url": "https://www.gaadin.ai/",
+      "title": "Gaadin AI — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "genesis-ai-ltd-official-fl",
+      "id": "genesis-ai-ltd-official-fl",
+      "url": "https://genesisdigitalsolutions.pt/2026/06/15/press-release-ronda-de-investimento-em-empresa-portuguesa/",
+      "title": "Genesis AI Ltd — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "ghostly-solutions-official-fl",
+      "id": "ghostly-solutions-official-fl",
+      "url": "https://ghostlysolutions.com/",
+      "title": "Ghostly Solutions — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "gudakesa-tech-official-fl",
+      "id": "gudakesa-tech-official-fl",
+      "url": "https://gudakesa.com/about-us/",
+      "title": "Gudakesa Tech — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "gx1-official-fl",
+      "id": "gx1-official-fl",
+      "url": "https://gx1.ai/en/company/about",
+      "title": "GX1 — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "habytat-realm9-official-fl",
+      "id": "habytat-realm9-official-fl",
+      "url": "https://realm9.ae/index.html",
+      "title": "Habytat / Realm9 — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "hatchio-official-fl",
+      "id": "hatchio-official-fl",
+      "url": "https://www.hatchioai.com/",
+      "title": "Hatchio — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "imposter-hunter-official-fl",
+      "id": "imposter-hunter-official-fl",
+      "url": "https://imposterhunter.com/",
+      "title": "Imposter Hunter — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "kakoo-software-official-fl",
+      "id": "kakoo-software-official-fl",
+      "url": "https://kakoo-software.com/home/",
+      "title": "Kakoo Software — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "katrix-ai-official-fl",
+      "id": "katrix-ai-official-fl",
+      "url": "https://katrix.ai/",
+      "title": "Katrix.AI — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "kenza-living-official-fl",
+      "id": "kenza-living-official-fl",
+      "url": "https://www.kenza.ae/",
+      "title": "Kenza Living — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "khurram-badar-com-official-fl",
+      "id": "khurram-badar-com-official-fl",
+      "url": "https://khurrambadar.com/?lang=ar",
+      "title": "khurram badar.com — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "klovertech-official-fl",
+      "id": "klovertech-official-fl",
+      "url": "https://klovertech.io/",
+      "title": "KloverTech — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "kter-official-fl",
+      "id": "kter-official-fl",
+      "url": "https://kter.ai/",
+      "title": "KTER — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "laine-ai-official-fl",
+      "id": "laine-ai-official-fl",
+      "url": "https://www.laine.ai/",
+      "title": "Laine.ai — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "launchpod-official-fl",
+      "id": "launchpod-official-fl",
+      "url": "https://launchfoundry.ai/",
+      "title": "LaunchPod — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "legend-x-robotics-official-fl",
+      "id": "legend-x-robotics-official-fl",
+      "url": "https://legendx.ae/",
+      "title": "Legend X Robotics — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "lexarius-official-fl",
+      "id": "lexarius-official-fl",
+      "url": "https://www.lexarius.com/",
+      "title": "Lexarius — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "life-intelligence-group-official-fl",
+      "id": "life-intelligence-group-official-fl",
+      "url": "https://lifeintelligencegroup.com/",
+      "title": "Life Intelligence Group — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "source_id": "luma-brush-official-fl",
+      "id": "luma-brush-official-fl",
+      "url": "https://lumabrush.ai/products/luma-brush",
+      "title": "Luma Brush — official website",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "fp-advisory-services-official-fl",
+      "source_id": "fp-advisory-services-official-fl",
+      "url": "https://fpadvisory.ae/",
+      "title": "FP Advisory Services official source",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "isovia-official-fl",
+      "source_id": "isovia-official-fl",
+      "url": "https://isovia.ae/events/dubai-ai-festival-2026",
+      "title": "Isovia official source",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "k-j-technologies-ltd-official-fl",
+      "source_id": "k-j-technologies-ltd-official-fl",
+      "url": "https://www.kjtech.ai/home",
+      "title": "K&J Technologies Ltd. official source",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "legaline-official-fl",
+      "source_id": "legaline-official-fl",
+      "url": "https://pro.legaline.ae/",
+      "title": "Legaline official source",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "lana-official-fl",
+      "source_id": "lana-official-fl",
+      "url": "https://en.lanatime.com/tech/dubai-ai-festival-2026-difc-targets-100-ai-powered-client-servicing-by-2027-2026-10-26/",
+      "title": "LANA / لنا official source",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "lazulite-official-fl",
+      "source_id": "lazulite-official-fl",
+      "url": "https://www.lazulite.ae/about-us",
+      "title": "Lazulite official source",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "leapsoft-consulting-official-fl",
+      "source_id": "leapsoft-consulting-official-fl",
+      "url": "https://www.leapsoftconsulting.com/about_us.html",
+      "title": "LeapSoft Consulting official source",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "lxium-official-fl",
+      "source_id": "lxium-official-fl",
+      "url": "https://www.lxium.com/privacy",
+      "title": "Lxium official source",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "genesis-ai-ltd-support-fl-35",
+      "source_id": "genesis-ai-ltd-support-fl-35",
+      "url": "https://dubaiaifestival.com/start-up-agenda/",
+      "title": "Festival agenda names GenesisAI Ltd and Guido dos Santos",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "k-j-technologies-ltd-support-fl-36",
+      "source_id": "k-j-technologies-ltd-support-fl-36",
+      "url": "https://www.linkedin.com/company/kj-tech/",
+      "title": "Official company profile with Kamal Tarhini and smart workplace offering",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "k-j-technologies-ltd-support-fl-37",
+      "source_id": "k-j-technologies-ltd-support-fl-37",
+      "url": "https://dubaiaifestival.com/start-up-agenda/",
+      "title": "Festival agenda names KJTech and Kamal Tarhini",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "fp-advisory-services-support-fl-38",
+      "source_id": "fp-advisory-services-support-fl-38",
+      "url": "https://dubaiaifestival.com/start-up-agenda/",
+      "title": "Festival agenda names First Principles Advisory and Bernardita",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "lana-support-fl-39",
+      "source_id": "lana-support-fl-39",
+      "url": "https://ae.linkedin.com/company/lanatimenews",
+      "title": "Official Lana company account reposts festival media-partner announcement",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "gx1-support-fl-40",
+      "source_id": "gx1-support-fl-40",
+      "url": "https://gx1.ai/en/press",
+      "title": "Official GX1 festival announcement",
+      "source_type": "first_party",
+      "accessed_on": "2026-10-26"
+    },
+    {
+      "id": "b02-aero-home",
+      "url": "https://aeroaegis.com/",
+      "title": "AeroAegis official site",
+      "evidence_locator": "Page title; body requires JavaScript",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Only page title and JavaScript notice readable; product claims sourced separately to company account."
+    },
+    {
+      "id": "b02-aero-social",
+      "url": "https://www.linkedin.com/company/aeroaegis",
+      "title": "Aero Aegis Inc. company account",
+      "evidence_locator": "About: website, digital product engineering, AI/ML, cloud, application modernization",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_company_social",
+      "retrieval_method": "official_company_social_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-aetheryx-home",
+      "url": "https://aetheryx.ai/",
+      "title": "Aetheryx AI — The Intelligence Layer for Modern Sales",
+      "evidence_locator": "Page title and Starting up message",
+      "accessed_on": "2026-10-26",
+      "source_type": "candidate_vendor",
+      "retrieval_method": "public_candidate_page_read",
+      "caution": "Candidate domain; no readable product body or explicit festival binding obtained."
+    },
+    {
+      "id": "b02-agenyx-home",
+      "url": "https://agenyx.ai/",
+      "title": "Agenyx AI",
+      "evidence_locator": "Tendr, Bidr, Sourcing, Salesflow; supported versus coming-soon ERP integrations",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-champions-social",
+      "url": "https://www.linkedin.com/company/ai-champions",
+      "title": "AI Champions company account",
+      "evidence_locator": "About: AI education and strategy; website theaichampions.com; Priyanka Rao",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_company_social",
+      "retrieval_method": "official_company_social_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-champions-faculty",
+      "url": "https://vjal.ai/faculties/priyanka-rao/",
+      "title": "Vjal: Priyanka Rao",
+      "evidence_locator": "Chief Champion at AI Champions; AI education and business training",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_partner",
+      "retrieval_method": "official_partner_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-startup-agenda",
+      "url": "https://dubaiaifestival.com/start-up-agenda/",
+      "title": "Dubai AI Festival startup agenda",
+      "evidence_locator": "Detailed AI Champions card names Priyanka Rao; ATELIER DIGITAL.AI card; Truest separate label",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_organizer",
+      "retrieval_method": "public_official_page_read",
+      "caution": "AI Champions table and detailed card disagree on person spelling; use as contextual identity evidence, not legal identity. Scheduled content does not prove delivery."
+    },
+    {
+      "id": "b02-security-about",
+      "url": "https://www.aisecurityacademy.ai/about",
+      "title": "AI Security Academy: About",
+      "evidence_locator": "Hands-on role-based training, simulations, AI security domains and readiness assessment",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-security-event",
+      "url": "https://uk.linkedin.com/company/ai-security-academy",
+      "title": "AI Security Academy company account",
+      "evidence_locator": "Reposted festival introduction: Dubai AI Festival 2026, stand S46",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_company_social",
+      "retrieval_method": "official_company_social_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-orbis-product",
+      "url": "https://www.aiaorbis.ai/products/aia-intelligence",
+      "title": "AIA Intelligence",
+      "evidence_locator": "On-premise organizational intelligence; enterprise data/system categories",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-orbis-vision",
+      "url": "https://www.aiaorbis.ai/vision",
+      "title": "AIA Orbis: Vision",
+      "evidence_locator": "Roadmap: 2026–27 Deploy; later Scale and Tower phases",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Roadmap and vendor architecture claims are not proof of shipped products or production deployments."
+    },
+    {
+      "id": "b02-event-speakers",
+      "url": "https://dubaiaifestival.com/2026-speakers/",
+      "title": "Dubai AI Festival 2026 speakers",
+      "evidence_locator": "David Paulson biography: CEO AIA Orbis; sovereign on-premise systems",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_organizer",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-aiden-home",
+      "url": "https://aidenai.com/",
+      "title": "AidenAI",
+      "evidence_locator": "AI Builder and AiDAP; enterprise agents and legacy modernization",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-aiden-event",
+      "url": "https://is.linkedin.com/company/aiden-ai-inc",
+      "title": "AidenAI company account",
+      "evidence_locator": "Dubai AI Festival 2026, October 26–27, booth G124",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_company_social",
+      "retrieval_method": "official_company_social_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-aifluxx-home",
+      "url": "https://aifluxx.ae/",
+      "title": "Truest — AI Advisory Workforce for UAE Businesses",
+      "evidence_locator": "Current page title at aifluxx.ae; empty extracted body",
+      "accessed_on": "2026-10-26",
+      "source_type": "candidate_vendor",
+      "retrieval_method": "public_candidate_page_read",
+      "caution": "Domain title differs from floorplan label. No first-party rebrand explanation obtained."
+    },
+    {
+      "id": "b02-aifluxx-about",
+      "url": "https://aifluxx.ae/about/",
+      "title": "AIFluxx / Truest About",
+      "evidence_locator": "Search extract uses AIFluxx; opened page title uses Truest",
+      "accessed_on": "2026-10-26",
+      "source_type": "candidate_vendor",
+      "retrieval_method": "mixed_search_extract_and_page_title",
+      "caution": "Conflicting branding; do not merge AIFluxx with Truest from this alone."
+    },
+    {
+      "id": "b02-aifluxx-login",
+      "url": "https://aifluxx.com/login",
+      "title": "AIFluxx login landing page",
+      "evidence_locator": "Public indexed extract advertises AI workforce",
+      "accessed_on": "2026-10-26",
+      "source_type": "candidate_vendor",
+      "retrieval_method": "public_search_extract_only",
+      "caution": "No login, signup or private access used; current product and domain relationship unresolved."
+    },
+    {
+      "id": "b02-aimoga-mornine",
+      "url": "https://www.aimoga-robot.com/global/en/mornine/",
+      "title": "AiMOGA Mornine",
+      "evidence_locator": "Service use cases; custom LLM API integration and custom RAG knowledge bases",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-aimoga-news",
+      "url": "https://www.aimoga-robot.com/cn/en/newsDetails/6vr3dh/",
+      "title": "AiMOGA World Robot Conference 2026 update",
+      "evidence_locator": "20 August 2026; reception/guidance, dealership and public-service scenarios",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-ainfinite-home",
+      "url": "https://ainfinite.ai/",
+      "title": "Ainfinite AI",
+      "evidence_locator": "Enterprise products and services; Core; named integration categories and deployment options",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-ainfinite-event",
+      "url": "https://in.linkedin.com/company/ainfinite-ai",
+      "title": "Ainfinite AI company account",
+      "evidence_locator": "Festival 26–27 October 2026, H75; CORE and ADAM showcase",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_company_social",
+      "retrieval_method": "official_company_social_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-aivi-home",
+      "url": "https://aivi.in/",
+      "title": "aivi.in",
+      "evidence_locator": "regreen.earth; EcoStrat.AI; PlastiCured; human-in-the-loop sustainability products",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-aivista-about",
+      "url": "https://aivista.io/about-us/",
+      "title": "AIVista: About",
+      "evidence_locator": "AI photo editing/generation, templates, photobooth and merchandising",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-aivista-machine",
+      "url": "https://aivista.io/machine/",
+      "title": "AIVista AI photobooth",
+      "evidence_locator": "Customizable templates, buy/rent model, event use cases",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-legacy-exhibitors",
+      "url": "https://dubaiaifestival.com/exhibitors/",
+      "title": "Dubai AI Festival exhibitor directory — mixed/legacy roster",
+      "evidence_locator": "AIVISTA links aivista.io; American University in Dubai (AUD) links aud.edu",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_organizer",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Contains old/different booth assignments (AIVISTA G22, AUD G34); used only to corroborate brand-domain relationship, not current 2026 stands or attendance."
+    },
+    {
+      "id": "b02-aradi-home",
+      "url": "https://aradi.ai/",
+      "title": "Aradi",
+      "evidence_locator": "Dubai property intelligence, comparables, feasibility and exports; invite-only beta",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-aradi-faq",
+      "url": "https://aradi.ai/faqs",
+      "title": "Aradi FAQ",
+      "evidence_locator": "June 2026 FAQ: present features, intended users and coming-next roadmap",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Invite-only beta; distinguish roadmap features from available functions. No investment recommendation or data-accuracy validation."
+    },
+    {
+      "id": "b02-artifact-home",
+      "url": "https://www.artifactinnovations.com/",
+      "title": "Artifact Innovations",
+      "evidence_locator": "AI assessment/audit, decision roadmaps and optional AI development",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-artifact-method",
+      "url": "https://www.artifactinnovations.com/methodology",
+      "title": "Artifact Innovations methodology",
+      "evidence_locator": "Evidence-led business assessment; exclusions and authorized scope",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-asano-home",
+      "url": "https://asano.ai/",
+      "title": "Asano",
+      "evidence_locator": "Development financial models, scenarios, 3D links, calculation engine and human approvals",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-ascentia-services",
+      "url": "https://ascentiame.com/services/",
+      "title": "Ascentia services",
+      "evidence_locator": "Formation, accounting, advisory, payroll and technology advisory",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-ascentia-event",
+      "url": "https://ae.linkedin.com/company/ascentia-corporate-services-global",
+      "title": "Ascentia company account",
+      "evidence_locator": "Dubai AI Festival 2026, October 26–27, booth S103",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_company_social",
+      "retrieval_method": "official_company_social_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-atelic-home",
+      "url": "https://atelic.ai/",
+      "title": "ATELIC AI",
+      "evidence_locator": "Industrial knowledge, physics-based reasoning, data harmonization and read-only boundaries",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-atelier-home",
+      "url": "https://atelierdigital.ai/",
+      "title": "Atelier Digital",
+      "evidence_locator": "AI virtual try-on for digital and physical retail; FAQ question list",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "FAQ mentions integration topics without readable answers; does not establish a Shopify/CMS connector."
+    },
+    {
+      "id": "b02-auditsense-home",
+      "url": "https://auditsense.ai/",
+      "title": "Audit Sense",
+      "evidence_locator": "Spreadsheet analysis, anomalies, risk workflow and Ask Athena",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-auditsense-privacy",
+      "url": "https://auditsense.ai/privacy-security/",
+      "title": "Audit Sense Privacy & Security",
+      "evidence_locator": "Effective May 1 2026; model providers, human signoff, current versus planned controls",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Provider APIs are not proof of a public customer API. Planned controls not treated as implemented."
+    },
+    {
+      "id": "b02-aud-bba",
+      "url": "https://apply.aud.edu/aiinbusiness/",
+      "title": "AUD: AI in Business",
+      "evidence_locator": "BBA major in AI in Business; coursework, projects and internships",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_university",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b02-aud-hackathon",
+      "url": "https://www.aud.edu/all-news/aud-hosts-leading-ai-engineers-for-ruya-ai-hackathon-focused-on-self-improving-systems/",
+      "title": "AUD Ruya AI Hackathon",
+      "evidence_locator": "February 14, 2026; documented university-hosted industry hackathon",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_university",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b03-banza-social",
+      "url": "https://ae.linkedin.com/company/banzaofficial",
+      "title": "Banza App official company account",
+      "evidence_locator": "About links banza.xyz; repost of Dubai AI Festival 2026 demo at S88; cart comparison proposition",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_company_social",
+      "retrieval_method": "official_company_social_search_extract",
+      "caution": "Advertised capabilities; lowest-price, privacy and accuracy claims not independently validated."
+    },
+    {
+      "id": "b03-eatova-home",
+      "url": "https://eatova.ai/",
+      "title": "eatova official site",
+      "evidence_locator": "Dietary profile and menu scan; links to app IDs 6759956411 and com.aligneat.app",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b03-eatova-play",
+      "url": "https://play.google.com/store/apps/details?id=com.aligneat.app",
+      "title": "eatova — Google Play developer listing",
+      "evidence_locator": "Product eatova; developer Ascent Oriental; package com.aligneat.app",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_developer_app_listing",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b03-eatova-apple",
+      "url": "https://apps.apple.com/us/app/aligneat/id6759956411",
+      "title": "AlignEat — Apple developer listing",
+      "evidence_locator": "Product AlignEat; developer Ascent Oriental FZ-LLC; same Apple ID linked from eatova.ai",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_developer_app_listing",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b03-eatova-support",
+      "url": "https://support.eatova.ai/hc/support-eatova/articles/what-aligneat-is",
+      "title": "eatova support: What AlignEat is and how it works",
+      "evidence_locator": "June 11, 2026 support article retains AlignEat name; menu/profile process and staff-confirmation caveat",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b03-startup-agenda",
+      "url": "https://dubaiaifestival.com/start-up-agenda/",
+      "title": "Dubai AI Festival startup agenda",
+      "evidence_locator": "Ascent Oriental – AlignEat / Karim Paul Chbib 12:35; AgentixLake GmbH / Ahsan Bibi 15:20; negative exact-label checks recorded in gaps",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_organizer",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Scheduled participation does not prove delivery or physical presence; absence of a label here does not disprove floorplan listing."
+    },
+    {
+      "id": "b03-agentix-social",
+      "url": "https://de.linkedin.com/company/agentixlake",
+      "title": "AgentixLake official company account",
+      "evidence_locator": "Explicit announcements: Datavent is now AgentixLake GmbH; datavent.io new name, same team",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_company_social",
+      "retrieval_method": "official_company_social_search_extract",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b03-agentix-home",
+      "url": "https://agentixlake.com/",
+      "title": "AgentixLake",
+      "evidence_locator": "Production Sprint, Data & AI Platform Build, Managed; platform matrix; human-reviewed changes; own agents in development",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Advertised offering, not independently tested performance."
+    },
+    {
+      "id": "b03-aunova-social",
+      "url": "https://www.linkedin.com/company/aunova-ou",
+      "title": "Aunova official company account",
+      "evidence_locator": "About links aunova.net; company update links new aunova.ae; Greenblocks and building-passport proposition",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_company_social",
+      "retrieval_method": "official_company_social_search_extract",
+      "caution": "Corroborates domain continuity for this candidate, not an explicit festival-domain binding."
+    },
+    {
+      "id": "b03-aunova-home",
+      "url": "https://aunova.ae/",
+      "title": "Aunova Technologies",
+      "evidence_locator": "Digital building record / Aunova Trust Infrastructure",
+      "accessed_on": "2026-10-26",
+      "source_type": "candidate_vendor",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Plausible floorplan candidate; festival binding still unresolved among same-name vendors."
+    },
+    {
+      "id": "b03-aunova-context",
+      "url": "https://fr.linkedin.com/in/lfultonsin",
+      "title": "Dubai Chambers staff public activity: PropTech Hub awards",
+      "evidence_locator": "Public Luke Graham post shared/liked in staff activity names Aunova among festival PropTech exhibitors",
+      "accessed_on": "2026-10-26",
+      "source_type": "public_partner_staff_social",
+      "retrieval_method": "public_social_search_extract",
+      "caution": "Contextual lead only; retrieved text did not provide a direct Aunova company tag/domain. Not used as decisive identity proof."
+    },
+    {
+      "id": "b03-exhibitors",
+      "url": "https://dubaiaifestival.com/exhibitors/",
+      "title": "Organizer exhibitor directory — mixed/legacy roster",
+      "evidence_locator": "Exact-label finds for Daleel and Aunova returned no match",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_organizer",
+      "retrieval_method": "public_official_page_read",
+      "caution": "Mixed/legacy directory; absence does not establish non-participation."
+    },
+    {
+      "id": "b03-deepnova-github",
+      "url": "https://github.com/deepnovacore",
+      "title": "DeepNovaCore public GitHub organization",
+      "evidence_locator": "Organization lists NovaPersonalAgent, GAC and GCPO repositories",
+      "accessed_on": "2026-10-26",
+      "source_type": "candidate_project_owner",
+      "retrieval_method": "public_candidate_page_read",
+      "caution": "Original project-owner account was read, not just a mirror; relation to festival exhibitor not established."
+    },
+    {
+      "id": "brief-1datacloud",
+      "url": "https://1datacloud.ai/roadmap/",
+      "title": "1DataCloud — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Live Today; In Development; Planned",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-abigail-ai",
+      "url": "https://abigail.app/patentbench",
+      "title": "Abigail AI — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "PatentBench introduction and white-paper overview",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-adaptech",
+      "url": "https://adaptech.ai/about",
+      "title": "Adaptech — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "How we work; holding company product statement",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-advanced-integration",
+      "url": "https://www.advanced-integration.ae/news/",
+      "title": "Advanced Integration — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "AI Workstation Powered by NVIDIA GPUs; About Advanced Integration",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-aecendir",
+      "url": "https://aecendir.com/",
+      "title": "Aecendir — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Services; Resource Augmentation",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-al-alfiya",
+      "url": "https://ae.linkedin.com/company/al-alfiya-space-corporation",
+      "title": "Al Alfiya — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Company-owned LinkedIn About: https://ae.linkedin.com/company/al-alfiya-space-corporation",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-al-amen-technology",
+      "url": "https://www.al-amentech.io/",
+      "title": "Al Amen Technology — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "AI Application Development Partner; meet us at Dubai AI Festival 2026",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-alokin",
+      "url": "https://alokin.in/about-us/",
+      "title": "Alokin — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "We are Alokin",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-amira-ai-almost-human",
+      "url": "https://amira-ai.com/Home",
+      "title": "Amira AI - almost human — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "AI-native Customer Operations Platform; Human in the loop",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-anylegal-ai",
+      "url": "https://anylegal.ai/",
+      "title": "Anylegal.ai — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Any Channel; Telegram available now / Email coming soon; Enterprise",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-approduct",
+      "url": "https://approduct.ai/",
+      "title": "Approduct — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "How it works; QA agent; report in Slack and Jira",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-artisan-ai",
+      "url": "https://www.artisan.co/",
+      "title": "Artisan AI — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Ava overview; Alongside your stack; How Ava runs outbound",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-avita-inc",
+      "url": "https://avita.co.jp/en/news/eweLs2bT",
+      "title": "Avita Inc. — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Explore Our AI Avatar Solutions; event dates/venue",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-baytukum",
+      "url": "https://baytukum.ae/about-us/",
+      "title": "Baytukum — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Mission & Vision; Our Team",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-belfry-labs",
+      "url": "https://www.linkedin.com/company/belfry-labs",
+      "title": "Belfry Labs — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "About us",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-berry-labs",
+      "url": "https://getberry.ai/en/about",
+      "title": "Berry Labs — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Berry Labs manifesto; We just started",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-black-cloud-solutions",
+      "url": "https://www.blackcloudsolutions.ai/",
+      "title": "Black Cloud Solutions — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "UAE Regulatory Intelligence; by Black Cloud Solutions",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-bnc-media-group",
+      "url": "https://bncpublishing.net/",
+      "title": "BNC MEDIA GROUP — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Brands; Our Services",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-business-pulse",
+      "url": "https://www.businesspulse.ai/",
+      "title": "Business Pulse — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Data Chat; FAQ data sources and active connection",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-casabot-technology",
+      "url": "https://casabot.com/about",
+      "title": "Casabot Technology — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "We are building the AI Home; Channel",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-catalab-solutions",
+      "url": "https://www.catalab.in/",
+      "title": "Catalab Solutions — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Our Services; Technology and AI as an enabler",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-chatvertize",
+      "url": "https://www.chatvertize.io/",
+      "title": "Chatvertize — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Scan Chat Convert; Easily connect existing CRM",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-cleverbrain-tech",
+      "url": "https://cleverbrain.in/",
+      "title": "Cleverbrain Tech — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "AI-Native No-Code Platform; enterprise architecture",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-climaty-ai",
+      "url": "https://climaty.ai/",
+      "title": "Climaty AI — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Campaign Builder AI; Programmatic+; Measure emissions",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-clique-ai",
+      "url": "https://cliquehub.digital/",
+      "title": "Clique AI — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Intelligence Platform; Cleo; API-first; Launching on stores",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-cogniai-inc",
+      "url": "https://cogniai.com/",
+      "title": "CogniAI Inc — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Official indexed homepage description; direct page empty",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-contilio",
+      "url": "https://www.contilio.com/",
+      "title": "Contilio — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Real-time insights; How it works",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-convoi-ai",
+      "url": "https://convoi.ai/",
+      "title": "Convoi.ai — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Features; Industry-Ready Voice AI; Integrations",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-crayon-labs-ai",
+      "url": "https://www.crayonlabs.ai/",
+      "title": "Crayon Labs.ai — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Introducing QLFY; engine powering Autopilots",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-cusp-wealth",
+      "url": "https://cuspwealth.com/",
+      "title": "Cusp Wealth — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Portfolio insights; legal disclosure",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-datellers",
+      "url": "https://datellers.com/",
+      "title": "datellers — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Services; Custom Visuals; About Us",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-ddi-daode-investment",
+      "url": "https://www.daodeinvestment.com/en/about",
+      "title": "DDI (DaoDe Investment) — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "About DDI; whole PV industry chain",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-decisimo",
+      "url": "https://decisimo.com/",
+      "title": "Decisimo — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "From written policy to a decision; assistant proposes, team decides",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-demand-logic",
+      "url": "https://www.demandlogic.co.uk/",
+      "title": "Demand Logic — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Optimise your buildings performance; live intelligence; data-led maintenance",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-digi-ai",
+      "url": "https://www.linkedin.com/company/digi-ai",
+      "title": "digi.ai — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "About us",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-digital-cubic-smart-solutions",
+      "url": "https://digitalcubic.ae/about/",
+      "title": "Digital Cubic Smart Solutions — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "What we build; product list; ownership statement",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-diss-co",
+      "url": "https://diss-co.tech/wp-content/uploads/2024/02/DISS-CO_SIP_2-pager_Vendor-Due-Diligence_EN.pdf",
+      "title": "Diss-Co — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Vendor Due Diligence Made Easy; Smart Integrity Platform; vendor PDF dated 2024",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-dravya-ai",
+      "url": "https://www.dravya.ai/",
+      "title": "Dravya AI — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Riverfront platform; full lifecycle; Dubai AI Festival S123 banner",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-dubai-ai-campus",
+      "url": "https://dubaiaicampus.com/",
+      "title": "Dubai AI Campus — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Business Set-Up; Programmes; Empower your Innovation",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-dubai-medical-university",
+      "url": "https://dmu.ae/home/com-programs/",
+      "title": "Dubai Medical University — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "College of Medicine Programs",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-emotii-ai",
+      "url": "https://emotii.ai/",
+      "title": "emotii.ai — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Multilingual solutions; API for Text; API for Voice; Meetings; Conference",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-exordium-bugloud",
+      "url": "https://www.exordium.me/",
+      "title": "Exordium – BugLoud — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Security research with direction; Our expertise",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-gbuilder",
+      "url": "https://www.gbuilder.com/",
+      "title": "GBuilder — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Solutions for real estate development; Integrations / API",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-grantify",
+      "url": "https://www.grantify.io/",
+      "title": "Grantify — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "End-to-end funding application support; Built for UK SMEs",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-interloom",
+      "url": "https://interloom.com/en/",
+      "title": "Interloom — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Power Your Operations; Integrations; Join beta",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-jalubro",
+      "url": "https://www.jalubro.com/",
+      "title": "Jalubro — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "What We Do: five disciplines; legal technology and enterprise transformation",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-kira-ai",
+      "url": "https://kiraai.ai/",
+      "title": "KIRA AI — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Feature strip; Calendar; Messaging; AI Call Agents",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-loyyal",
+      "url": "https://www.loyyal.com/",
+      "title": "Loyyal — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Access Point; Xpand Point; Game Point; Offer Point",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-plexe-ai",
+      "url": "https://plexe.ai/",
+      "title": "Plexe AI — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Everything you need to run AI in production; Industries",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-provance",
+      "url": "https://www.provance.ai/",
+      "title": "Provance — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Vision; PRO modules; founder Atilla Aydemir matches official startup agenda",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-togal",
+      "url": "https://www.togal.ai/",
+      "title": "Togal — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Construction Takeoff Software; Collaborate in the Cloud; Compare Quickly",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-xopa-information-technology",
+      "url": "https://www.x0pa.com/",
+      "title": "Xopa Information Technology — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Products; Integrations; Partner Program; AI Hiring Agents",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "brief-yodaplus",
+      "url": "https://www.linkedin.com/company/yodaplus",
+      "title": "Yodaplus — official public offering",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "evidence_locator": "Official company LinkedIn About us section",
+      "caution": "Vendor claims; not a product test or confirmed event legal-entity match."
+    },
+    {
+      "id": "anylegal-privacy",
+      "url": "https://anylegal.ai/privacy",
+      "title": "anylegal-privacy",
+      "accessed_on": "2026-10-26",
+      "evidence_locator": "Self-Hosted Option: Modified MIT and managed-service restrictions",
+      "source_type": "official_primary"
+    },
+    {
+      "id": "approduct-terms",
+      "url": "https://approduct.ai/terms",
+      "title": "approduct-terms",
+      "accessed_on": "2026-10-26",
+      "evidence_locator": "Sections 5,7,9; authorized content, resale written agreement, integrations",
+      "source_type": "official_primary"
+    },
+    {
+      "id": "provance-event",
+      "url": "https://dubaiaifestival.com/start-up-agenda/",
+      "title": "provance-event",
+      "accessed_on": "2026-10-26",
+      "evidence_locator": "Provance AI Proptech Solutions Ltd; founder Atilla Kahan Aydemir",
+      "source_type": "official_primary"
+    }
+  ]
+}

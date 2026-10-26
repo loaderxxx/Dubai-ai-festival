@@ -1,0 +1,249 @@
+id,name,stands,lookup_status,depth,reviewed_on,source_ids,gap_reason
+1datacloud,1DataCloud,S33,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-1datacloud,
+10-leaves,10 Leaves,G120,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; 10leaves-home; 10leaves-about; 10leaves-event,
+17-ai,17.AI,S130,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Stand-qualified search did not find a defensible identity. Candidate 17.ai was inaccessible; no exact-label match in the startup agenda. Search noise mostly concerned laptop models.
+550ai,550Ai,S140,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"Stand-qualified and product-filtered searches did not establish an official exhibitor. Candidate 550.ai was inaccessible. A third-party AI directory mentions a similarly named chatbot, but provides no festival binding; it was not promoted to a profile."
+abigail-ai,Abigail AI,S144,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-abigail-ai,
+adaptech,Adaptech,S78,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-adaptech,
+advanced-integration,Advanced Integration,G101,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-advanced-integration,
+aecendir,Aecendir,G103; S174,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-aecendir,
+aero-aegis-inc,Aero Aegis Inc,S91,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-aero-home; b02-aero-social,
+aetheryx-ai,Aetheryx AI,S80,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"The candidate aetheryx.ai page title describes sales intelligence, but its readable body only says Starting up. No adequate first-party product description or festival-domain binding was obtained; no capability profile was created."
+agenyx-ai,Agenyx AI,S29,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-agenyx-home,
+ai-champions,AI Champions,S36,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-champions-social; b02-champions-faculty; b02-startup-agenda,
+ai-security-academy,AI Security Academy,S46,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-security-about; b02-security-event,
+aia-orbis,AIA Orbis,G140,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-orbis-product; b02-orbis-vision; b02-event-speakers,
+aiden-ai,Aiden Ai,G124,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-aiden-home; b02-aiden-event,
+aifluxx,AiFluxx,S39,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"aifluxx.ae currently returns a Truest page title, while indexed /about and aifluxx.com/login material uses AIFluxx. The organizer agenda separately lists Truest. No first-party rebrand/continuity explanation was found; these labels were not merged and no current product profile attached."
+aimoga,AiMOGA,H80,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-aimoga-mornine; b02-aimoga-news,
+ainfinite-ai,AInfinite Ai,H75,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-ainfinite-home; b02-ainfinite-event,
+aivi-in,Aivi.in,S79,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-aivi-home,
+aivista,AIVista,G97,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-aivista-about; b02-aivista-machine; b02-legacy-exhibitors,
+aivorahc,AIVORAHC,S148,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Dubai-qualified exact-label search and startup-agenda check yielded no defensible company/domain binding. No spelling correction was assumed.
+al-alfiya,Al Alfiya,G61,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-al-alfiya,
+al-amen-technology,Al Amen Technology,S77,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-al-amen-technology,
+alibaba-cloud,Alibaba Cloud,F30,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; alibaba-genai; alibaba-qwen-api; elastic-alibaba-api,
+alokin,Alokin,S57,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-alokin,
+amira-ai-almost-human,Amira AI - almost human,G60,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-amira-ai-almost-human,
+anylegal-ai,Anylegal.ai,S41,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-anylegal-ai; anylegal-privacy,
+apgar-group,Apgar Group,G71,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; apgar-home; apgar-quality; apgar-integration,
+applause,Applause,G112,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; applause-eval; applause-agentic,
+approduct,Approduct,S116,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-approduct; approduct-terms,
+aradi,Aradi,S149,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-aradi-home; b02-aradi-faq,
+artifact-innovations-ltd,Artifact Innovations Ltd,S02,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-artifact-home; b02-artifact-method,
+artisan-ai,Artisan AI,S17,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-artisan-ai,
+asano,Asano,S169,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-asano-home,
+ascentia,ASCENTIA,S103,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-ascentia-services; b02-ascentia-event,
+atelic-ai,ATELIC AI,G105,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-atelic-home,
+atelier-digital,Atelier Digital,S59,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-atelier-home; b02-startup-agenda,
+atlan,Atlan,H76,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; atlan-home; atlan-snowflake-crawl,
+audit-sense,Audit Sense,S54,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-auditsense-home; b02-auditsense-privacy,
+aud,AUD,G80,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b02-aud-bba; b02-aud-hackathon; b02-legacy-exhibitors,
+aunova,Aunova,S170,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"New company-owned evidence links aunova.net and aunova.ae to a Dubai building-record business. A public PropTech Hub staff activity mentions an Aunova festival exhibitor, but retrieved text does not bind its tag/domain. With multiple same-name companies, the gap remains; candidate information is not attached as a confirmed offering."
+avita-inc,Avita Inc.,S73,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-avita-inc,
+aws,AWS,H40,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; aws-agentcore; aws-classic; elastic-bedrock-api,
+banza,Banza,S88,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b03-banza-social,
+baytukum,Baytukum,S176,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-baytukum,
+belfry-labs,Belfry Labs,S126,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-belfry-labs,
+berry-labs,Berry Labs,S28,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-berry-labs,
+black-cloud-solutions,Black Cloud Solutions,S106,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-black-cloud-solutions,
+bnc-media-group,BNC MEDIA GROUP,G132,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-bnc-media-group,
+business-pulse,Business Pulse,S49,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-business-pulse,
+casabot-technology,Casabot Technology,S81,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-casabot-technology,
+catalab-solutions,Catalab Solutions,S125,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-catalab-solutions,
+chatvertize,Chatvertize,S61,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-chatvertize,
+cleverbrain-tech,Cleverbrain Tech,S105,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-cleverbrain-tech,
+clickup,ClickUp,H65,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; clickup-brain; clickup-api; clickup-webhooks,
+climaty-ai,Climaty AI,G94,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-climaty-ai,
+clique-ai,Clique AI,S55,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-clique-ai,
+cogniai-inc,CogniAI Inc,S131,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-cogniai-inc,
+contilio,Contilio,S166,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-contilio,
+convoi-ai,Convoi.ai,S50,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-convoi-ai,
+crayon-labs-ai,Crayon Labs.ai,S74,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-crayon-labs-ai,
+crtl-studio,CRTL Studio,S09,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Stand-qualified and Dubai-qualified exact-label searches did not resolve the vendor. Startup agenda has no CRTL match. CTRL/CRTL spelling equivalence was not assumed.
+cusp-wealth,Cusp Wealth,S114,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-cusp-wealth,
+daleel,Daleel,S82,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"Stand-, organizer- and event-qualified checks still did not bind this generic name to one domain. The startup agenda and legacy exhibitor directory lack an exact match. Unrelated petroleum, research and other Daleel brands were not merged."
+datacamp,DataCamp,H62,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; datacamp-business; datacamp-integration,
+datavent,datavent,S72,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b03-agentix-social; b03-agentix-home; b03-startup-agenda,
+datellers,datellers,S06,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-datellers,
+ddi-daode-investment,DDI (DaoDe Investment),G50,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-ddi-daode-investment,
+decisimo,Decisimo,S42,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-decisimo,
+deepnovacore,Deepnovacore,G116,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"The original public GitHub organization was successfully read, improving on the earlier mirror-only evidence. It publishes agent and ML research repositories, but no festival identity binding was found. Candidate deepnovacore.com was inaccessible; no offering attached to the exhibitor."
+demand-logic,Demand Logic,S161,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-demand-logic,
+deployed,Deployed,S89,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; deployed-home,
+digi-ai,digi.ai,S14,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-digi-ai,
+digital-cubic-smart-solutions,Digital Cubic Smart Solutions,S133,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-digital-cubic-smart-solutions,
+diss-co,Diss-Co,S67,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-diss-co,
+dravya-ai,Dravya AI,S123,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-dravya-ai,
+dubai-ai-campus,Dubai AI Campus,G30,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-dubai-ai-campus,
+dubai-medical-university,Dubai Medical University,F50,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-dubai-medical-university,
+eatova,eatova,S62,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; b03-eatova-home; b03-eatova-play; b03-eatova-apple; b03-eatova-support; b03-startup-agenda,
+elastic,Elastic,G86,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; elastic-product; elastic-bedrock-api; elastic-alibaba-api,
+eleven-labs,Eleven Labs,H70,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; eleven-agents; eleven-tools,
+emotii-ai,emotii.ai,S66,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-emotii-ai,
+exec-roundtables-ai,Exec Roundtables AI,S56,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"Event-context search produced generic roundtable programs rather than a matching company. Candidate execroundtables.ai was inaccessible, and the startup agenda has no exact match."
+exordium-bugloud,Exordium – BugLoud,G66,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-exordium-bugloud,
+fariq-ai,Fariq.AI,S154,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; fariq-ai-official-fl,
+fast-company,Fast Company,G136,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; fast-company-official-fl,
+feasly,Feasly,S171,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; feasly-official-fl,
+fedtuna,FedTuna,S43,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; fedtuna-official-fl,
+finalytics,Finalytics,S38,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"Multiple distinct vendors use Finalytics: healthcare remittance, bank personalisation, ad analytics and ERP. No event-to-domain match established."
+finbursa,FinBursa,S90,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; finbursa-official-fl,
+flintx,FlintX,S99,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; flintx-official-fl,
+forgenix,Forgenix,S134,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; forgenix-official-fl,
+fp-advisory-services,FP Advisory Services,S45,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; fp-advisory-services-official-fl; fp-advisory-services-support-fl-38,
+freeda,Freeda,S160,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Freeda.so construction-plan checking and Freeda.ai menopause support are distinct businesses. Public event binding not established.
+gaadin-ai,Gaadin AI,S65,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; gaadin-ai-official-fl,
+gbuilder,GBuilder,S162,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-gbuilder,
+genesis-ai-ltd,Genesis AI Ltd,S12,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; genesis-ai-ltd-official-fl; genesis-ai-ltd-support-fl-35,
+ghostly-solutions,Ghostly Solutions,S35,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; ghostly-solutions-official-fl,
+go-ai-guru,Go AI Guru,S76,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Exact-name and compact-name searches did not establish a unique official business identity; similarly named AI Guru accounts are insufficient.
+grantify,Grantify,S142,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-grantify,
+grid-studio,Grid Studio,G105; G104,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"Several creative/software businesses and an archived open-source data-science project share Grid Studio. Dubai agency is a candidate, not confirmed exhibitor."
+gudakesa-tech,Gudakesa Tech,S75,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; gudakesa-tech-official-fl,
+gx1,GX1,S47,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; gx1-official-fl; gx1-support-fl-40,
+habytat-realm9,Habytat / Realm9,S172,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; habytat-realm9-official-fl,
+handover-ai,Handover AI,G103,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Maritime assistant Handover AI and business knowledge-transfer Handover are distinct; no source connects the roster label to one.
+haptik-ai,Haptik AI,G77,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; haptik-home; haptik-integrations,
+hatchio,Hatchio,S146,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; hatchio-official-fl,
+hive-technologies,Hive Technologies,G62,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Multiple unrelated Hive Technologies firms found; no authoritative roster-to-website binding established.
+imposter-hunter,Imposter Hunter,G113,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; imposter-hunter-official-fl,
+inspire-tech,Inspire Tech,S101,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Inspire-Tech Singapore file-security vendor is plausible but similar UAE businesses exist; event binding not established.
+interloom,Interloom,S168,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-interloom,
+isovia,Isovia,G85,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; isovia-official-fl,
+jalubro,Jalubro,G104,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-jalubro,
+k-j-technologies-ltd,K&J Technologies Ltd.,S52,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; k-j-technologies-ltd-official-fl; k-j-technologies-ltd-support-fl-36; k-j-technologies-ltd-support-fl-37,
+kakoo-software,Kakoo Software,S127,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; kakoo-software-official-fl,
+katrix-ai,Katrix.AI,S102,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; katrix-ai-official-fl,
+kenza-living,Kenza Living,S119,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; kenza-living-official-fl,
+keytron-ai,Keytron.ai,S84,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Exact Keytron.ai URL was inaccessible; other Keytron vendors cannot be substituted safely.
+khurram-badar-com,khurram badar.com,S129,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; khurram-badar-com-official-fl,
+kira-ai,KIRA AI,H86,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-kira-ai,
+klovertech,KloverTech,S01,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; klovertech-official-fl,
+kter,KTER,S137,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; kter-official-fl,
+laine-ai,Laine.ai,S08,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; laine-ai-official-fl,
+lana,LANA / لنا,G130,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; lana-official-fl; lana-support-fl-39,
+launchpod,LaunchPod,H54,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; launchpod-official-fl,
+lazulite,Lazulite,G111,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; lazulite-official-fl,
+leapsoft-consulting,LeapSoft Consulting,S138,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; leapsoft-consulting-official-fl,
+legaline,Legaline,G87,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; legaline-official-fl,
+legend-x-robotics,Legend X Robotics,H56,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; legend-x-robotics-official-fl,
+lexarius,Lexarius,S135,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; lexarius-official-fl,
+life-intelligence-group,Life Intelligence Group,G110,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; life-intelligence-group-official-fl,
+loyyal,Loyyal,S109,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-loyyal,
+luma-brush,Luma Brush,S132,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; luma-brush-official-fl,
+lxium,Lxium,S107,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; lxium-official-fl,
+m5wealth,M5Wealth,S150,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-m5wealth,
+macgence,Macgence,S63,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; macgence-home; macgence-about,
+magure,Magure,G100,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; magure-home; magure-about,
+main-sequence,Main Sequence,S18,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-main-sequence,
+mantika,Mantika,E30,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-mantika,
+mcfill-media,McFill Media,G122,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-mcfill-media,
+mechasys,Mechasys,S167,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mechasys-home,
+mena-tech,MENA Tech,G134,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Multiple different official brands found; media portal versus AI consultancy requires event binding.
+metis,Metis,S92,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No unambiguous official company identity returned.
+mind-ai,Mind AI,S04,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Neuro-symbolic AI and security-company naming collision; event binding not established.
+misraj,Misraj,S34,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-misraj,
+music-ecosystem,Music Ecosystem,S27,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Agenda identifies founder Adi Abdulkadir but no official product site established.
+myndlab,Myndlab,H74,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-myndlab,
+nash,Nash,G74,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Festival sources mention Nashdata and Nash fintechX across editions; current identity not established.
+nedrix-ai,Nedrix.ai,S83,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient official vendor product/identity evidence returned.
+nestor-analytics,Nestor Analytics,S40,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Distinct Hungarian media-intelligence and Indian education businesses share this name.
+neura-voz,Neura Voz,S15,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient official vendor product/identity evidence returned.
+neuraserv,Neuraserv,S151,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-neuraserv,
+nodex8-ai,Nodex8 AI,S124,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-nodex8-ai,
+not-boring,Not Boring,S68,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-not-boring,
+nova-pilot-ai,Nova pilot.ai,S20,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient official vendor product/identity evidence returned.
+novusai,NovusAI,S120,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Several official NovusAI brands found; Dubai consultancy plausible but event binding remains unverified.
+nuvin,Nuvin,G70,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-nuvin,
+omnix,Omnix,G95,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; omnix-home; omnix-conversational; omnix-event,
+only-office,ONLY OFFICE,G82,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; onlyoffice-developer,
+openneko,OpenNeko,S53,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-openneko,
+orbo-work,orbo. work,S139,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient official vendor product/identity evidence returned.
+ordinary-wisdom,Ordinary Wisdom,S113,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-ordinary-wisdom,
+oryx-ai,Oryx AI,S110,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Multiple Oryx AI brands and insufficient official site binding.
+osiris-ai,Osiris AI,S136,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-osiris-ai,
+otobiz,Otobiz,S118,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-otobiz,
+otonomi-technologies,Otonomi Technologies,S30,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-otonomi-technologies,
+palgu,Palgu,S112,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-palgu,
+pentx,PentX,S96,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient official vendor product/identity evidence returned.
+perflo,Perflo,S153,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-perflo,
+periscope-technologies,Periscope Technologies,S07,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-periscope-technologies,
+placeos,PlaceOS,S51,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; placeos-home,
+planytics-ai,Planytics AI,S69,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-planytics-ai,
+plexe-ai,Plexe AI,S143,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-plexe-ai,
+privinotch,PRIVINOTCH,S111,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-privinotch,
+probis,Probis,S163,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; probis-home; probis-faq,
+proptech-ai,Proptech AI,G90,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-proptech-ai,
+propvr,PropVR,S97,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; propvr-home; propvr-twin,
+provance,Provance,S87,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-provance; provance-event,
+purpl-tech-solutions,Purpl Tech Solutions,S16,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-purpl-tech-solutions,
+rahaai-technologies,RahaAi technologies,S85,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+raisetalks,Raisetalks,S19,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-raisetalks,
+red-rock-technology,Red Rock Technology,G75,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-red-rock-technology,
+relm-insurance,RELM Insurance,H30,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; relm-home; relm-ai,
+remo-ai,Remo AI,H50,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-remo-ai,
+rensair,Rensair,S158,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; rensair-home; rensair-cloud,
+researchcollab-technologies,ResearchCollab Technologies,S31,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; researchcollab-tech; researchcollab-product,
+revent,Revent,S152,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+riskvantage,RiskVantage,S95,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"Legal AI, recruiting and insurance brands share name; event binding not established."
+rsk,RSK,G115,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-rsk; mz-rsk-event,
+sahaba-club-technologies,Sahaba Club Technologies,S108,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+selira,Selira,S25,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-selira; mz-startup-agenda,
+sia-partners,SIA Partners,H84,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; sia-ai,
+sief,SIEF,E40,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"Federation identity appears in event sources; coordination with organiser/partner directory needed, not a software vendor."
+simsy,Simsy,S141,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-simsy,
+sinorfi,Sinorfi,G65,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-sinorfi,
+skrooge-ai,Skrooge. ai,S13,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-skrooge-ai,
+skyetron-ai,Skyetron.ai,S21,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-skyetron-ai,
+skysay-ai,SkySay AI,S98,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-skysay-ai,
+skyxops,SKYXOPS,S121,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-skyxops,
+slan,SLAN,S175,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Public company post advertises AI coaching but official product-site identity not resolved.
+smart-spaces,Smart Spaces,S157,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; smartspaces-os; smartspaces-ssi; smartspaces-watergate,
+snowflake,Snowflake,G76,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; snowflake-ai; snowflake-search; atlan-snowflake-crawl,
+soika-labs,Soika Labs,H52,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-soika-labs,
+solvagence,Solvagence,S94,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-solvagence,
+squash-app,Squash App,G72,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+studioyt,StudioYT,H64,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-studioyt,
+sukuun,Sukuun,S156,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"App-store listing found, product and event binding not sufficiently established."
+synthesys,Synthesys,S71,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+sywa-ai,SYWA.ai,S100,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-sywa-ai,
+t-knowledge,T-Knowledge,S155,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+taksit,Taksit,S122,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+talos-wealth,Talos Wealth,S104,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"Festival startup agenda says Telos Wealth, not Talos; identity unresolved."
+tatbiq-ai,TatbiQ.ai,H66,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-tatbiq-ai,
+tawasol-services,Tawasol Services,G96,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"Tawasol Solution and Services is plausible; distinct Tawasol brands exist, event binding missing."
+techno-polis,Techno Polis,S117,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-techno-polis,
+terramine,Terramine,S145,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"Mining AI, virtual-property game and CRM brands collide; event identity unresolved."
+the-cutting-edge-school,The Cutting Edge School,G64,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-the-cutting-edge-school,
+times-of-ai,Times of AI,G126,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Several media brands use this name; official sponsor-site link needed.
+togal,Togal,S164,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-togal,
+tokeniz-ed,Tokeniz-Ed,S60,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-tokeniz-ed; mz-tokeniz-ed-operator,
+totl-resource-international-llc-tri,TOTL Resource International LLC (TRI),G103,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-totl-resource-international-llc-tri,
+udai-ai,UDAI AI,S10,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-udai-ai,
+umain-tech-limited,Umain Tech Limited,S93,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+uney,UNEY,S22,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-uney,
+unison,Unison,G84,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"Company event post found for Unison Group, exact official product site not established."
+uno-infotech-systems-ltd,UNO Infotech Systems Ltd,S11,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+uverest,UVEREST,S64,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-uverest,
+vassutech,Vassutech,S44,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-vassutech,
+ventur-os,Ventur-os,S58,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Competing ventur-os.app and venturos.app brand/domain candidates; cannot bind either to floorplan safely.
+vernovi,Vernovi,S70,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+watergate,Watergate,S159,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; watergate-home; watergate-docs; watergate-local; smartspaces-watergate,
+wiiz,WiiZ,S86,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-wiiz,
+works-platform,Works Platform,G117,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-works-platform,
+xenonstack,Xenonstack,G91,public_source_profiled,multi_source_profile,2026-10-26,festival-floorplan; xenon-home; xenon-snowflake,
+xixum,Xixum,S115,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-xixum,
+xnterprise,Xnterprise,S32,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-xnterprise,
+xoom-carbon,Xoom Carbon,S23,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+xopa-information-technology,Xopa Information Technology,S37,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-xopa-information-technology,
+xtek,XTEK,S128,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+xyra-ai,XYRA AI,G63,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,"Engineering, personal OS and accounting products share XYRA brand; event binding needed."
+yara-society,Yara Society,S26,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+yodaplus,Yodaplus,G83,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; brief-yodaplus,
+yoorz-ai-ltd,yoorz.ai Ltd,S03,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-yoorz-ai-ltd,
+younea,Younea,S48,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-younea,
+zaken,Zaken,S147,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+zakool-ai,Zakool AI,S05,public_source_profiled,primary_source_brief,2026-10-26,festival-floorplan; mz-zakool-ai,
+zelos,Zelos,H60,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,No sufficient unambiguous official vendor evidence returned.
+zwag-ai-ltd,ZWAG AI Ltd,S24,unresolved_after_public_search,floorplan_only,2026-10-26,festival-floorplan,Company announcement identifies Mātr/matrintelligence.com but official site inaccessible; public primary page needed for product verification.

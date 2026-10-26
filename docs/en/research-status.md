@@ -1,5 +1,8 @@
 # Research status and coverage
 
+> **Historical study checkpoint.** For the later company, speaker and organizer expansion, see [current atlas coverage](../../docs/en/atlas-coverage.md). Counts/statuses on this page remain scoped to the preserved original study.
+
+
 [Home](../../README.md) · [Field guide](../../research/en/README.md) · [Русский](../ru/research-status.md)
 
 **Research snapshot: 26 October 2026. Partial coverage, not a completed census.**

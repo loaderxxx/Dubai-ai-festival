@@ -1,0 +1,91 @@
+{
+  "as_of_utc": "2026-10-26T13:18:00Z",
+  "scope": "Public official directory + both conference agenda date filters + startup pitch table; not all event attendance or actual talks.",
+  "public_directory_cards": 115,
+  "public_directory_linked_to_sessions": 113,
+  "conference_sessions": {
+    "2026-10-26": 27,
+    "2026-10-27": 26
+  },
+  "speaker_session_links": 120,
+  "startup_pitch_table_rows": 69,
+  "coverage_denominator": "All cards returned in these inspected public page responses; completeness beyond these sources not established.",
+  "no_pagination_controls_observed": true,
+  "authenticated_app_data_used": false,
+  "verified_transcripts": 0,
+  "recording_search_scope": "Inspected official agenda cards only",
+  "unmatched_directory_names": [
+    "Laura Leyva",
+    "Katie Jensen"
+  ],
+  "gaps": [
+    "Standalone startup page contains additional workshop/programme cards; these are not all merged into the 53 conference sessions. See existing startup-agenda supplement.",
+    "No independent verification of actual delivery, attendance, cancelled/changed sessions or verbatim remarks.",
+    "No public recording/transcript corpus established.",
+    "Time/day contradictions remain unresolved.",
+    "Startup table and card identity spellings require organizer confirmation."
+  ],
+  "conflicts": [
+    {
+      "kind": "day",
+      "subject": "AI-agent championship / Canva workshop",
+      "conference_agenda": "Agent championship 26 Oct / Canva 27 Oct",
+      "startup_page": "Canva 26 Oct / agent championship 27 Oct"
+    },
+    {
+      "kind": "time",
+      "session_id": "session-26-10",
+      "published": "11:20 pm 12:00 pm",
+      "resolution": "Unresolved; not silently corrected"
+    },
+    {
+      "kind": "identity",
+      "company": "BANDHURE SOLUTIONS LLP",
+      "table": "Ashwini Gadhwar",
+      "card": "Ashwani Gautam",
+      "resolution": "Table retained as source claim; identity unverified"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://dubaiaifestival.com/2026-speakers/",
+      "retrieved_at_utc": "2026-10-26T13:18:00Z"
+    },
+    {
+      "url": "https://dubaiaifestival.com/agenda/",
+      "retrieved_at_utc": "2026-10-26T13:18:00Z"
+    },
+    {
+      "url": "https://dubaiaifestival.com/start-up-agenda/",
+      "retrieved_at_utc": "2026-10-26T13:18:00Z"
+    }
+  ],
+  "extraction_method": {
+    "speakers": "Public HTML speaker cards; no bios copied",
+    "agenda26": "Public HTML selected day value 26 oct",
+    "agenda27": "Same public website filter_agenda request with agendaDate=27 oct, all other filters blank; no authentication",
+    "startup": "Public HTML table; no biographies/contact details"
+  },
+  "response_hashes_sha256": {
+    "speaker_directory": "717071d7c12f0be476ccbf3a5f3b4995b03a220d782f0ab2719a8bd7ca8bca1f",
+    "agenda_26": "aab10dd6ed2ef41a6d1bc0806ce5f1b42a8d2ffefcee9f1cacb640f4c8527061",
+    "agenda_27": "0e7c2a2ef8daa2a7071833ba0fa4ab2335b3e5ae7bc22b0d2a9957de1b5ebbd2",
+    "startup_agenda": "a939eb48aa4bdf73ef06f1a7755aa5d77ab072317be5c4a3af10868cb966d65c"
+  },
+  "public_filter_reproduction": {
+    "method": "POST",
+    "url": "https://dubaiaifestival.com/wp-admin/admin-ajax.php",
+    "parameters": {
+      "action": "filter_agenda",
+      "postType": "agenda",
+      "agendaDate": "27 oct",
+      "agendaTheme": "",
+      "agendaStage": "",
+      "agendaSessionType": "",
+      "search_term": "",
+      "paged": 1
+    },
+    "public_ui_script": "https://dubaiaifestival.com/wp-content/themes/date/assets/js/script.js",
+    "note": "Read-only public website filter action; not authentication or administrative mutation."
+  }
+}

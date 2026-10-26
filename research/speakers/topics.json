@@ -1,0 +1,169 @@
+[
+  {
+    "id": "agents",
+    "label_en": "Agents & enterprise automation",
+    "label_ru": "Агенты и автоматизация бизнеса",
+    "classification": "editorial_title_based",
+    "session_ids": [
+      "session-26-02",
+      "session-26-04",
+      "session-26-10",
+      "session-26-11",
+      "session-26-21",
+      "session-27-05",
+      "session-27-08",
+      "session-27-14",
+      "session-27-16",
+      "session-27-17"
+    ]
+  },
+  {
+    "id": "governance",
+    "label_en": "Governance, trust & sovereignty",
+    "label_ru": "Управление, доверие и суверенитет",
+    "classification": "editorial_title_based",
+    "session_ids": [
+      "session-26-08",
+      "session-26-11",
+      "session-26-14",
+      "session-26-19",
+      "session-26-20",
+      "session-26-24",
+      "session-26-27",
+      "session-27-06",
+      "session-27-10",
+      "session-27-23"
+    ]
+  },
+  {
+    "id": "infrastructure",
+    "label_en": "Infrastructure, cloud & data",
+    "label_ru": "Инфраструктура, облака и данные",
+    "classification": "editorial_title_based",
+    "session_ids": [
+      "session-26-06",
+      "session-26-11",
+      "session-26-16",
+      "session-26-22",
+      "session-27-12",
+      "session-27-16",
+      "session-27-23"
+    ]
+  },
+  {
+    "id": "capital",
+    "label_en": "Capital, markets & ecosystems",
+    "label_ru": "Капитал, рынки и экосистемы",
+    "classification": "editorial_title_based",
+    "session_ids": [
+      "session-26-13",
+      "session-26-20",
+      "session-26-25",
+      "session-26-26",
+      "session-27-02",
+      "session-27-11",
+      "session-27-20",
+      "session-27-26"
+    ]
+  },
+  {
+    "id": "health",
+    "label_en": "Healthcare & life sciences",
+    "label_ru": "Здравоохранение и науки о жизни",
+    "classification": "editorial_title_based",
+    "session_ids": [
+      "session-26-17",
+      "session-27-06"
+    ]
+  },
+  {
+    "id": "finance",
+    "label_en": "Banking & risk",
+    "label_ru": "Банкинг и риски",
+    "classification": "editorial_title_based",
+    "session_ids": [
+      "session-26-12",
+      "session-27-11",
+      "session-27-26"
+    ]
+  },
+  {
+    "id": "talent",
+    "label_en": "Talent, skills & work",
+    "label_ru": "Таланты, навыки и работа",
+    "classification": "editorial_title_based",
+    "session_ids": [
+      "session-27-04",
+      "session-27-09",
+      "session-27-13",
+      "session-27-18"
+    ]
+  },
+  {
+    "id": "creative",
+    "label_en": "Creative tools, media & customer experience",
+    "label_ru": "Творческие инструменты, медиа и клиентский опыт",
+    "classification": "editorial_title_based",
+    "session_ids": [
+      "session-26-15",
+      "session-26-18",
+      "session-27-03",
+      "session-27-07"
+    ]
+  },
+  {
+    "id": "physical",
+    "label_en": "Physical AI, property & sustainability",
+    "label_ru": "Физический AI, недвижимость и устойчивость",
+    "classification": "editorial_title_based",
+    "session_ids": [
+      "session-26-16",
+      "session-26-22",
+      "session-26-23",
+      "session-26-25",
+      "session-27-01",
+      "session-27-05",
+      "session-27-15",
+      "session-27-19"
+    ]
+  },
+  {
+    "id": "strategy",
+    "label_en": "AI strategy & economy",
+    "label_ru": "AI-стратегия и экономика",
+    "classification": "editorial_title_based",
+    "session_ids": [
+      "session-26-02",
+      "session-26-03",
+      "session-26-05",
+      "session-26-06",
+      "session-26-07",
+      "session-26-18",
+      "session-26-20",
+      "session-26-22",
+      "session-26-27",
+      "session-27-03",
+      "session-27-09",
+      "session-27-12",
+      "session-27-13",
+      "session-27-14",
+      "session-27-17",
+      "session-27-20",
+      "session-27-21",
+      "session-27-22",
+      "session-27-25",
+      "session-27-26"
+    ]
+  },
+  {
+    "id": "general",
+    "label_en": "General programme",
+    "label_ru": "Общая программа",
+    "classification": "editorial_title_based",
+    "session_ids": [
+      "session-26-01",
+      "session-26-09",
+      "session-27-24"
+    ]
+  }
+]

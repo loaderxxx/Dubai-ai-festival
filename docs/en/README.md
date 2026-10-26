@@ -1,5 +1,8 @@
 # Documentation
 
+> **Historical study checkpoint.** For the later company, speaker and organizer expansion, see [current atlas coverage](../../docs/en/atlas-coverage.md). Counts/statuses on this page remain scoped to the preserved original study.
+
+
 [Home](../../README.md) · [Research](../../research/en/README.md) · [Русский](../ru/README.md)
 
 1. **[Research status](research-status.md)** — the difference between 264 rows, 262 labels, 248 candidates, 12 original profiles and 18 companies in the expanded study; 230 candidates remain outside it.
