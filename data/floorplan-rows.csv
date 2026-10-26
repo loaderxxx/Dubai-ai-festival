@@ -1,0 +1,265 @@
+row_number,stand,name,entity_id,record_type,source_url,observed_at_utc
+1,S33,1DataCloud,1datacloud,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+2,G120,10 Leaves,10-leaves,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+3,S130,17.AI,17-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+4,S140,550Ai,550ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+5,S144,Abigail AI,abigail-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+6,E55,Activation Zone,activation-zone,amenity_or_event_service,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+7,S78,Adaptech,adaptech,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+8,G101,Advanced Integration,advanced-integration,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+9,G103,Aecendir,aecendir,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+10,S174,Aecendir,aecendir,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+11,S91,Aero Aegis Inc,aero-aegis-inc,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+12,S80,Aetheryx AI,aetheryx-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+13,S29,Agenyx AI,agenyx-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+14,S36,AI Champions,ai-champions,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+15,S46,AI Security Academy,ai-security-academy,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+16,G140,AIA Orbis,aia-orbis,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+17,G124,Aiden Ai,aiden-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+18,S39,AiFluxx,aifluxx,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+19,H80,AiMOGA,aimoga,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+20,H75,AInfinite Ai,ainfinite-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+21,S79,Aivi.in,aivi-in,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+22,G97,AIVista,aivista,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+23,S148,AIVORAHC,aivorahc,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+24,G61,Al Alfiya,al-alfiya,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+25,S77,Al Amen Technology,al-amen-technology,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+26,F30,Alibaba Cloud,alibaba-cloud,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+27,S57,Alokin,alokin,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+28,G60,Amira AI - almost human,amira-ai-almost-human,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+29,S41,Anylegal.ai,anylegal-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+30,G71,Apgar Group,apgar-group,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+31,G112,Applause,applause,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+32,S116,Approduct,approduct,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+33,S149,Aradi,aradi,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+34,S02,Artifact Innovations Ltd,artifact-innovations-ltd,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+35,S17,Artisan AI,artisan-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+36,S169,Asano,asano,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+37,S103,ASCENTIA,ascentia,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+38,G105,ATELIC AI,atelic-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+39,S59,Atelier Digital,atelier-digital,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+40,H76,Atlan,atlan,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+41,S54,Audit Sense,audit-sense,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+42,G80,AUD,aud,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+43,S170,Aunova,aunova,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+44,S73,Avita Inc.,avita-inc,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+45,H40,AWS,aws,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+46,S88,Banza,banza,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+47,S176,Baytukum,baytukum,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+48,S126,Belfry Labs,belfry-labs,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+49,S28,Berry Labs,berry-labs,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+50,S106,Black Cloud Solutions,black-cloud-solutions,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+51,G132,BNC MEDIA GROUP,bnc-media-group,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+52,S49,Business Pulse,business-pulse,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+53,E120,Cafe. Food Trucks,cafe-food-trucks,amenity_or_event_service,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+54,S81,Casabot Technology,casabot-technology,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+55,S125,Catalab Solutions,catalab-solutions,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+56,S61,Chatvertize,chatvertize,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+57,S105,Cleverbrain Tech,cleverbrain-tech,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+58,H65,ClickUp,clickup,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+59,G94,Climaty AI,climaty-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+60,S55,Clique AI,clique-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+61,S131,CogniAI Inc,cogniai-inc,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+62,S166,Contilio,contilio,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+63,S50,Convoi.ai,convoi-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+64,S74,Crayon Labs.ai,crayon-labs-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+65,S09,CRTL Studio,crtl-studio,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+66,S114,Cusp Wealth,cusp-wealth,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+67,S82,Daleel,daleel,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+68,H62,DataCamp,datacamp,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+69,S72,datavent,datavent,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+70,S06,datellers,datellers,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+71,G50,DDI (DaoDe Investment),ddi-daode-investment,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+72,S42,Decisimo,decisimo,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+73,G116,Deepnovacore,deepnovacore,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+74,S161,Demand Logic,demand-logic,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+75,S89,Deployed,deployed,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+76,S14,digi.ai,digi-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+77,S133,Digital Cubic Smart Solutions,digital-cubic-smart-solutions,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+78,S67,Diss-Co,diss-co,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+79,S123,Dravya AI,dravya-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+80,G30,Dubai AI Campus,dubai-ai-campus,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+81,H110,Dubai AI Festival 2027 Sales Stand,dubai-ai-festival-2027-sales-stand,amenity_or_event_service,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+82,F50,Dubai Medical University,dubai-medical-university,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+83,S62,eatova,eatova,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+84,G86,Elastic,elastic,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+85,H70,Eleven Labs,eleven-labs,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+86,S66,emotii.ai,emotii-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+87,S56,Exec Roundtables AI,exec-roundtables-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+88,G66,Exordium – BugLoud,exordium-bugloud,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+89,S154,Fariq.AI,fariq-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+90,G136,Fast Company,fast-company,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+91,S171,Feasly,feasly,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+92,S43,FedTuna,fedtuna,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+93,S38,Finalytics,finalytics,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+94,S90,FinBursa,finbursa,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+95,S99,FlintX,flintx,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+96,S134,Forgenix,forgenix,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+97,S45,FP Advisory Services,fp-advisory-services,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+98,S160,Freeda,freeda,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+99,S65,Gaadin AI,gaadin-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+100,S162,GBuilder,gbuilder,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+101,S12,Genesis AI Ltd,genesis-ai-ltd,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+102,S35,Ghostly Solutions,ghostly-solutions,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+103,S76,Go AI Guru,go-ai-guru,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+104,S142,Grantify,grantify,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+105,G105,Grid Studio,grid-studio,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+106,G104,Grid Studio,grid-studio,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+107,S75,Gudakesa Tech,gudakesa-tech,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+108,S47,GX1,gx1,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+109,S172,Habytat / Realm9,habytat-realm9,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+110,G103,Handover AI,handover-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+111,G77,Haptik AI,haptik-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+112,S146,Hatchio,hatchio,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+113,H63,Helpdesk,helpdesk,amenity_or_event_service,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+114,G62,Hive Technologies,hive-technologies,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+115,G113,Imposter Hunter,imposter-hunter,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+116,H90,India Pavilion,india-pavilion,pavilion,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+117,H120,INNOVATION STAGE,innovation-stage,amenity_or_event_service,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+118,S101,Inspire Tech,inspire-tech,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+119,S168,Interloom,interloom,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+120,F80,Investors Lounge,investors-lounge,amenity_or_event_service,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+121,G85,Isovia,isovia,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+122,G104,Jalubro,jalubro,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+123,S52,K&J Technologies Ltd.,k-j-technologies-ltd,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+124,S127,Kakoo Software,kakoo-software,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+125,S102,Katrix.AI,katrix-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+126,S119,Kenza Living,kenza-living,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+127,S84,Keytron.ai,keytron-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+128,S129,khurram badar.com,khurram-badar-com,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+129,H86,KIRA AI,kira-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+130,S01,KloverTech,klovertech,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+131,S137,KTER,kter,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+132,S08,Laine.ai,laine-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+133,G130,LANA / لنا,lana,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+134,H54,LaunchPod,launchpod,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+135,G111,Lazulite,lazulite,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+136,S138,LeapSoft Consulting,leapsoft-consulting,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+137,G87,Legaline,legaline,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+138,H56,Legend X Robotics,legend-x-robotics,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+139,S135,Lexarius,lexarius,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+140,G110,Life Intelligence Group,life-intelligence-group,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+141,S109,Loyyal,loyyal,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+142,S132,Luma Brush,luma-brush,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+143,S107,Lxium,lxium,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+144,S150,M5Wealth,m5wealth,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+145,S63,Macgence,macgence,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+146,G100,Magure,magure,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+147,S18,Main Sequence,main-sequence,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+148,E30,Mantika,mantika,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+149,G122,McFill Media,mcfill-media,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+150,S167,Mechasys,mechasys,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+151,G134,MENA Tech,mena-tech,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+152,S92,Metis,metis,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+153,S04,Mind AI,mind-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+154,S34,Misraj,misraj,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+155,E50,MOU Signing Stage,mou-signing-stage,amenity_or_event_service,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+156,S27,Music Ecosystem,music-ecosystem,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+157,H74,Myndlab,myndlab,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+158,G74,Nash,nash,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+159,S83,Nedrix.ai,nedrix-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+160,S40,Nestor Analytics,nestor-analytics,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+161,S15,Neura Voz,neura-voz,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+162,S151,Neuraserv,neuraserv,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+163,S124,Nodex8 AI,nodex8-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+164,S68,Not Boring,not-boring,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+165,S20,Nova pilot.ai,nova-pilot-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+166,S120,NovusAI,novusai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+167,G70,Nuvin,nuvin,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+168,G95,Omnix,omnix,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+169,G82,ONLY OFFICE,only-office,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+170,S53,OpenNeko,openneko,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+171,S139,orbo. work,orbo-work,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+172,S113,Ordinary Wisdom,ordinary-wisdom,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+173,S110,Oryx AI,oryx-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+174,S136,Osiris AI,osiris-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+175,S118,Otobiz,otobiz,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+176,S30,Otonomi Technologies,otonomi-technologies,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+177,S112,Palgu,palgu,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+178,S96,PentX,pentx,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+179,S153,Perflo,perflo,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+180,S07,Periscope Technologies,periscope-technologies,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+181,H116,Photo Op,photo-op,amenity_or_event_service,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+182,S51,PlaceOS,placeos,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+183,S69,Planytics AI,planytics-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+184,D10,PLENARY,plenary,amenity_or_event_service,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+185,S143,Plexe AI,plexe-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+186,H118,PREMIUM LOUNGE,premium-lounge,amenity_or_event_service,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+187,,Press & Media Zone,press-media-zone,amenity_or_event_service,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+188,S111,PRIVINOTCH,privinotch,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+189,S163,Probis,probis,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+190,G90,Proptech AI,proptech-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+191,S97,PropVR,propvr,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+192,S87,Provance,provance,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+193,S16,Purpl Tech Solutions,purpl-tech-solutions,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+194,S85,RahaAi technologies,rahaai-technologies,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+195,S19,Raisetalks,raisetalks,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+196,G75,Red Rock Technology,red-rock-technology,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+197,H30,RELM Insurance,relm-insurance,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+198,H50,Remo AI,remo-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+199,S158,Rensair,rensair,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+200,S31,ResearchCollab Technologies,researchcollab-technologies,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+201,S152,Revent,revent,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+202,S95,RiskVantage,riskvantage,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+203,G115,RSK,rsk,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+204,G103,RSVD,rsvd,unknown,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+205,S108,Sahaba Club Technologies,sahaba-club-technologies,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+206,S25,Selira,selira,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+207,H84,SIA Partners,sia-partners,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+208,E40,SIEF,sief,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+209,S141,Simsy,simsy,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+210,G65,Sinorfi,sinorfi,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+211,S13,Skrooge. ai,skrooge-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+212,S21,Skyetron.ai,skyetron-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+213,S98,SkySay AI,skysay-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+214,S121,SKYXOPS,skyxops,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+215,S175,SLAN,slan,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+216,S157,Smart Spaces,smart-spaces,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+217,G76,Snowflake,snowflake,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+218,H52,Soika Labs,soika-labs,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+219,S94,Solvagence,solvagence,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+220,G72,Squash App,squash-app,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+221,E70,START-UP STAGE,start-up-stage,amenity_or_event_service,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+222,H64,StudioYT,studioyt,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+223,S156,Sukuun,sukuun,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+224,S71,Synthesys,synthesys,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+225,S100,SYWA.ai,sywa-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+226,S155,T-Knowledge,t-knowledge,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+227,S122,Taksit,taksit,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+228,S104,Talos Wealth,talos-wealth,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+229,H66,TatbiQ.ai,tatbiq-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+230,G96,Tawasol Services,tawasol-services,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+231,S117,Techno Polis,techno-polis,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+232,S145,Terramine,terramine,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+233,G64,The Cutting Edge School,the-cutting-edge-school,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+234,G126,Times of AI,times-of-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+235,S164,Togal,togal,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+236,S60,Tokeniz-Ed,tokeniz-ed,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+237,G103,TOTL Resource International LLC (TRI),totl-resource-international-llc-tri,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+238,S10,UDAI AI,udai-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+239,S93,Umain Tech Limited,umain-tech-limited,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+240,S22,UNEY,uney,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+241,G84,Unison,unison,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+242,S11,UNO Infotech Systems Ltd,uno-infotech-systems-ltd,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+243,S64,UVEREST,uverest,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+244,S44,Vassutech,vassutech,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+245,S58,Ventur-os,ventur-os,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+246,S70,Vernovi,vernovi,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+247,S159,Watergate,watergate,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+248,S86,WiiZ,wiiz,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+249,G117,Works Platform,works-platform,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+250,G91,Xenonstack,xenonstack,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+251,S115,Xixum,xixum,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+252,S32,Xnterprise,xnterprise,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+253,S23,Xoom Carbon,xoom-carbon,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+254,S37,Xopa Information Technology,xopa-information-technology,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+255,S128,XTEK,xtek,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+256,G63,XYRA AI,xyra-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+257,S26,Yara Society,yara-society,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+258,G83,Yodaplus,yodaplus,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+259,S03,yoorz.ai Ltd,yoorz-ai-ltd,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+260,S48,Younea,younea,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+261,S147,Zaken,zaken,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+262,S05,Zakool AI,zakool-ai,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+263,H60,Zelos,zelos,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z
+264,S24,ZWAG AI Ltd,zwag-ai-ltd,organization_candidate,https://dubaiaifestival.com/floorplan/,2026-10-26T03:30:39Z

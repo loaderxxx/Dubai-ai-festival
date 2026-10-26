@@ -1,0 +1,1112 @@
+{
+  "event": "Dubai AI Festival 2026",
+  "observed_at_utc": "2026-10-26T03:30:39Z",
+  "source_url": "https://dubaiaifestival.com/floorplan/",
+  "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+  "source_method": "Read visible table rows from embedded live floorplan DOM; no hidden state/API use",
+  "coverage": {
+    "row_count": 264,
+    "first": {
+      "stand": "S33",
+      "name": "1DataCloud"
+    },
+    "last": {
+      "stand": "S24",
+      "name": "ZWAG AI Ltd"
+    },
+    "note": "All populated rows returned by the displayed exhibitors table, alphabetically 1DataCloud through ZWAG AI Ltd; 7 blank trailing rows and an all-zero footer excluded. Table contains venues/amenities and repeated companies/stands; count is not unique exhibitor count."
+  },
+  "verified_map_labels": [
+    "26 - 27 October 2026",
+    "Halls 5 to 7",
+    "DWTC"
+  ],
+  "verified_venue_rows": [
+    {
+      "stand": "H63",
+      "name": "Helpdesk"
+    },
+    {
+      "stand": "H120",
+      "name": "INNOVATION STAGE"
+    },
+    {
+      "stand": "F80",
+      "name": "Investors Lounge"
+    },
+    {
+      "stand": "D10",
+      "name": "PLENARY"
+    },
+    {
+      "stand": "H118",
+      "name": "PREMIUM LOUNGE"
+    },
+    {
+      "stand": "E70",
+      "name": "START-UP STAGE"
+    }
+  ],
+  "cautions": [
+    "No direct stage-to-numbered-hall statement found; map geometry suggests Innovation Stage at Hall 7 end, Plenary at opposite Hall 5 / Al Wasl end, but this is not a verified exact hall assignment.",
+    "Exec Roundtables AI is exhibitor S56 and is NOT evidence of the location of agenda ROUNDTABLES."
+  ],
+  "rows": [
+    {
+      "stand": "S33",
+      "name": "1DataCloud"
+    },
+    {
+      "stand": "G120",
+      "name": "10 Leaves"
+    },
+    {
+      "stand": "S130",
+      "name": "17.AI"
+    },
+    {
+      "stand": "S140",
+      "name": "550Ai"
+    },
+    {
+      "stand": "S144",
+      "name": "Abigail AI"
+    },
+    {
+      "stand": "E55",
+      "name": "Activation Zone"
+    },
+    {
+      "stand": "S78",
+      "name": "Adaptech"
+    },
+    {
+      "stand": "G101",
+      "name": "Advanced Integration"
+    },
+    {
+      "stand": "G103",
+      "name": "Aecendir"
+    },
+    {
+      "stand": "S174",
+      "name": "Aecendir"
+    },
+    {
+      "stand": "S91",
+      "name": "Aero Aegis Inc"
+    },
+    {
+      "stand": "S80",
+      "name": "Aetheryx AI"
+    },
+    {
+      "stand": "S29",
+      "name": "Agenyx AI"
+    },
+    {
+      "stand": "S36",
+      "name": "AI Champions"
+    },
+    {
+      "stand": "S46",
+      "name": "AI Security Academy"
+    },
+    {
+      "stand": "G140",
+      "name": "AIA Orbis"
+    },
+    {
+      "stand": "G124",
+      "name": "Aiden Ai"
+    },
+    {
+      "stand": "S39",
+      "name": "AiFluxx"
+    },
+    {
+      "stand": "H80",
+      "name": "AiMOGA"
+    },
+    {
+      "stand": "H75",
+      "name": "AInfinite Ai"
+    },
+    {
+      "stand": "S79",
+      "name": "Aivi.in"
+    },
+    {
+      "stand": "G97",
+      "name": "AIVista"
+    },
+    {
+      "stand": "S148",
+      "name": "AIVORAHC"
+    },
+    {
+      "stand": "G61",
+      "name": "Al Alfiya"
+    },
+    {
+      "stand": "S77",
+      "name": "Al Amen Technology"
+    },
+    {
+      "stand": "F30",
+      "name": "Alibaba Cloud"
+    },
+    {
+      "stand": "S57",
+      "name": "Alokin"
+    },
+    {
+      "stand": "G60",
+      "name": "Amira AI - almost human"
+    },
+    {
+      "stand": "S41",
+      "name": "Anylegal.ai"
+    },
+    {
+      "stand": "G71",
+      "name": "Apgar Group"
+    },
+    {
+      "stand": "G112",
+      "name": "Applause"
+    },
+    {
+      "stand": "S116",
+      "name": "Approduct"
+    },
+    {
+      "stand": "S149",
+      "name": "Aradi"
+    },
+    {
+      "stand": "S02",
+      "name": "Artifact Innovations Ltd"
+    },
+    {
+      "stand": "S17",
+      "name": "Artisan AI"
+    },
+    {
+      "stand": "S169",
+      "name": "Asano"
+    },
+    {
+      "stand": "S103",
+      "name": "ASCENTIA"
+    },
+    {
+      "stand": "G105",
+      "name": "ATELIC AI"
+    },
+    {
+      "stand": "S59",
+      "name": "Atelier Digital"
+    },
+    {
+      "stand": "H76",
+      "name": "Atlan"
+    },
+    {
+      "stand": "S54",
+      "name": "Audit Sense"
+    },
+    {
+      "stand": "G80",
+      "name": "AUD"
+    },
+    {
+      "stand": "S170",
+      "name": "Aunova"
+    },
+    {
+      "stand": "S73",
+      "name": "Avita Inc."
+    },
+    {
+      "stand": "H40",
+      "name": "AWS"
+    },
+    {
+      "stand": "S88",
+      "name": "Banza"
+    },
+    {
+      "stand": "S176",
+      "name": "Baytukum"
+    },
+    {
+      "stand": "S126",
+      "name": "Belfry Labs"
+    },
+    {
+      "stand": "S28",
+      "name": "Berry Labs"
+    },
+    {
+      "stand": "S106",
+      "name": "Black Cloud Solutions"
+    },
+    {
+      "stand": "G132",
+      "name": "BNC MEDIA GROUP"
+    },
+    {
+      "stand": "S49",
+      "name": "Business Pulse"
+    },
+    {
+      "stand": "E120",
+      "name": "Cafe. Food Trucks"
+    },
+    {
+      "stand": "S81",
+      "name": "Casabot Technology"
+    },
+    {
+      "stand": "S125",
+      "name": "Catalab Solutions"
+    },
+    {
+      "stand": "S61",
+      "name": "Chatvertize"
+    },
+    {
+      "stand": "S105",
+      "name": "Cleverbrain Tech"
+    },
+    {
+      "stand": "H65",
+      "name": "ClickUp"
+    },
+    {
+      "stand": "G94",
+      "name": "Climaty AI"
+    },
+    {
+      "stand": "S55",
+      "name": "Clique AI"
+    },
+    {
+      "stand": "S131",
+      "name": "CogniAI Inc"
+    },
+    {
+      "stand": "S166",
+      "name": "Contilio"
+    },
+    {
+      "stand": "S50",
+      "name": "Convoi.ai"
+    },
+    {
+      "stand": "S74",
+      "name": "Crayon Labs.ai"
+    },
+    {
+      "stand": "S09",
+      "name": "CRTL Studio"
+    },
+    {
+      "stand": "S114",
+      "name": "Cusp Wealth"
+    },
+    {
+      "stand": "S82",
+      "name": "Daleel"
+    },
+    {
+      "stand": "H62",
+      "name": "DataCamp"
+    },
+    {
+      "stand": "S72",
+      "name": "datavent"
+    },
+    {
+      "stand": "S06",
+      "name": "datellers"
+    },
+    {
+      "stand": "G50",
+      "name": "DDI (DaoDe Investment)"
+    },
+    {
+      "stand": "S42",
+      "name": "Decisimo"
+    },
+    {
+      "stand": "G116",
+      "name": "Deepnovacore"
+    },
+    {
+      "stand": "S161",
+      "name": "Demand Logic"
+    },
+    {
+      "stand": "S89",
+      "name": "Deployed"
+    },
+    {
+      "stand": "S14",
+      "name": "digi.ai"
+    },
+    {
+      "stand": "S133",
+      "name": "Digital Cubic Smart Solutions"
+    },
+    {
+      "stand": "S67",
+      "name": "Diss-Co"
+    },
+    {
+      "stand": "S123",
+      "name": "Dravya AI"
+    },
+    {
+      "stand": "G30",
+      "name": "Dubai AI Campus"
+    },
+    {
+      "stand": "H110",
+      "name": "Dubai AI Festival 2027 Sales Stand"
+    },
+    {
+      "stand": "F50",
+      "name": "Dubai Medical University"
+    },
+    {
+      "stand": "S62",
+      "name": "eatova"
+    },
+    {
+      "stand": "G86",
+      "name": "Elastic"
+    },
+    {
+      "stand": "H70",
+      "name": "Eleven Labs"
+    },
+    {
+      "stand": "S66",
+      "name": "emotii.ai"
+    },
+    {
+      "stand": "S56",
+      "name": "Exec Roundtables AI"
+    },
+    {
+      "stand": "G66",
+      "name": "Exordium – BugLoud"
+    },
+    {
+      "stand": "S154",
+      "name": "Fariq.AI"
+    },
+    {
+      "stand": "G136",
+      "name": "Fast Company"
+    },
+    {
+      "stand": "S171",
+      "name": "Feasly"
+    },
+    {
+      "stand": "S43",
+      "name": "FedTuna"
+    },
+    {
+      "stand": "S38",
+      "name": "Finalytics"
+    },
+    {
+      "stand": "S90",
+      "name": "FinBursa"
+    },
+    {
+      "stand": "S99",
+      "name": "FlintX"
+    },
+    {
+      "stand": "S134",
+      "name": "Forgenix"
+    },
+    {
+      "stand": "S45",
+      "name": "FP Advisory Services"
+    },
+    {
+      "stand": "S160",
+      "name": "Freeda"
+    },
+    {
+      "stand": "S65",
+      "name": "Gaadin AI"
+    },
+    {
+      "stand": "S162",
+      "name": "GBuilder"
+    },
+    {
+      "stand": "S12",
+      "name": "Genesis AI Ltd"
+    },
+    {
+      "stand": "S35",
+      "name": "Ghostly Solutions"
+    },
+    {
+      "stand": "S76",
+      "name": "Go AI Guru"
+    },
+    {
+      "stand": "S142",
+      "name": "Grantify"
+    },
+    {
+      "stand": "G105",
+      "name": "Grid Studio"
+    },
+    {
+      "stand": "G104",
+      "name": "Grid Studio"
+    },
+    {
+      "stand": "S75",
+      "name": "Gudakesa Tech"
+    },
+    {
+      "stand": "S47",
+      "name": "GX1"
+    },
+    {
+      "stand": "S172",
+      "name": "Habytat / Realm9"
+    },
+    {
+      "stand": "G103",
+      "name": "Handover AI"
+    },
+    {
+      "stand": "G77",
+      "name": "Haptik AI"
+    },
+    {
+      "stand": "S146",
+      "name": "Hatchio"
+    },
+    {
+      "stand": "H63",
+      "name": "Helpdesk"
+    },
+    {
+      "stand": "G62",
+      "name": "Hive Technologies"
+    },
+    {
+      "stand": "G113",
+      "name": "Imposter Hunter"
+    },
+    {
+      "stand": "H90",
+      "name": "India Pavilion"
+    },
+    {
+      "stand": "H120",
+      "name": "INNOVATION STAGE"
+    },
+    {
+      "stand": "S101",
+      "name": "Inspire Tech"
+    },
+    {
+      "stand": "S168",
+      "name": "Interloom"
+    },
+    {
+      "stand": "F80",
+      "name": "Investors Lounge"
+    },
+    {
+      "stand": "G85",
+      "name": "Isovia"
+    },
+    {
+      "stand": "G104",
+      "name": "Jalubro"
+    },
+    {
+      "stand": "S52",
+      "name": "K&J Technologies Ltd."
+    },
+    {
+      "stand": "S127",
+      "name": "Kakoo Software"
+    },
+    {
+      "stand": "S102",
+      "name": "Katrix.AI"
+    },
+    {
+      "stand": "S119",
+      "name": "Kenza Living"
+    },
+    {
+      "stand": "S84",
+      "name": "Keytron.ai"
+    },
+    {
+      "stand": "S129",
+      "name": "khurram badar.com"
+    },
+    {
+      "stand": "H86",
+      "name": "KIRA AI"
+    },
+    {
+      "stand": "S01",
+      "name": "KloverTech"
+    },
+    {
+      "stand": "S137",
+      "name": "KTER"
+    },
+    {
+      "stand": "S08",
+      "name": "Laine.ai"
+    },
+    {
+      "stand": "G130",
+      "name": "LANA / لنا"
+    },
+    {
+      "stand": "H54",
+      "name": "LaunchPod"
+    },
+    {
+      "stand": "G111",
+      "name": "Lazulite"
+    },
+    {
+      "stand": "S138",
+      "name": "LeapSoft Consulting"
+    },
+    {
+      "stand": "G87",
+      "name": "Legaline"
+    },
+    {
+      "stand": "H56",
+      "name": "Legend X Robotics"
+    },
+    {
+      "stand": "S135",
+      "name": "Lexarius"
+    },
+    {
+      "stand": "G110",
+      "name": "Life Intelligence Group"
+    },
+    {
+      "stand": "S109",
+      "name": "Loyyal"
+    },
+    {
+      "stand": "S132",
+      "name": "Luma Brush"
+    },
+    {
+      "stand": "S107",
+      "name": "Lxium"
+    },
+    {
+      "stand": "S150",
+      "name": "M5Wealth"
+    },
+    {
+      "stand": "S63",
+      "name": "Macgence"
+    },
+    {
+      "stand": "G100",
+      "name": "Magure"
+    },
+    {
+      "stand": "S18",
+      "name": "Main Sequence"
+    },
+    {
+      "stand": "E30",
+      "name": "Mantika"
+    },
+    {
+      "stand": "G122",
+      "name": "McFill Media"
+    },
+    {
+      "stand": "S167",
+      "name": "Mechasys"
+    },
+    {
+      "stand": "G134",
+      "name": "MENA Tech"
+    },
+    {
+      "stand": "S92",
+      "name": "Metis"
+    },
+    {
+      "stand": "S04",
+      "name": "Mind AI"
+    },
+    {
+      "stand": "S34",
+      "name": "Misraj"
+    },
+    {
+      "stand": "E50",
+      "name": "MOU Signing Stage"
+    },
+    {
+      "stand": "S27",
+      "name": "Music Ecosystem"
+    },
+    {
+      "stand": "H74",
+      "name": "Myndlab"
+    },
+    {
+      "stand": "G74",
+      "name": "Nash"
+    },
+    {
+      "stand": "S83",
+      "name": "Nedrix.ai"
+    },
+    {
+      "stand": "S40",
+      "name": "Nestor Analytics"
+    },
+    {
+      "stand": "S15",
+      "name": "Neura Voz"
+    },
+    {
+      "stand": "S151",
+      "name": "Neuraserv"
+    },
+    {
+      "stand": "S124",
+      "name": "Nodex8 AI"
+    },
+    {
+      "stand": "S68",
+      "name": "Not Boring"
+    },
+    {
+      "stand": "S20",
+      "name": "Nova pilot.ai"
+    },
+    {
+      "stand": "S120",
+      "name": "NovusAI"
+    },
+    {
+      "stand": "G70",
+      "name": "Nuvin"
+    },
+    {
+      "stand": "G95",
+      "name": "Omnix"
+    },
+    {
+      "stand": "G82",
+      "name": "ONLY OFFICE"
+    },
+    {
+      "stand": "S53",
+      "name": "OpenNeko"
+    },
+    {
+      "stand": "S139",
+      "name": "orbo. work"
+    },
+    {
+      "stand": "S113",
+      "name": "Ordinary Wisdom"
+    },
+    {
+      "stand": "S110",
+      "name": "Oryx AI"
+    },
+    {
+      "stand": "S136",
+      "name": "Osiris AI"
+    },
+    {
+      "stand": "S118",
+      "name": "Otobiz"
+    },
+    {
+      "stand": "S30",
+      "name": "Otonomi Technologies"
+    },
+    {
+      "stand": "S112",
+      "name": "Palgu"
+    },
+    {
+      "stand": "S96",
+      "name": "PentX"
+    },
+    {
+      "stand": "S153",
+      "name": "Perflo"
+    },
+    {
+      "stand": "S07",
+      "name": "Periscope Technologies"
+    },
+    {
+      "stand": "H116",
+      "name": "Photo Op"
+    },
+    {
+      "stand": "S51",
+      "name": "PlaceOS"
+    },
+    {
+      "stand": "S69",
+      "name": "Planytics AI"
+    },
+    {
+      "stand": "D10",
+      "name": "PLENARY"
+    },
+    {
+      "stand": "S143",
+      "name": "Plexe AI"
+    },
+    {
+      "stand": "H118",
+      "name": "PREMIUM LOUNGE"
+    },
+    {
+      "stand": null,
+      "name": "Press & Media Zone"
+    },
+    {
+      "stand": "S111",
+      "name": "PRIVINOTCH"
+    },
+    {
+      "stand": "S163",
+      "name": "Probis"
+    },
+    {
+      "stand": "G90",
+      "name": "Proptech AI"
+    },
+    {
+      "stand": "S97",
+      "name": "PropVR"
+    },
+    {
+      "stand": "S87",
+      "name": "Provance"
+    },
+    {
+      "stand": "S16",
+      "name": "Purpl Tech Solutions"
+    },
+    {
+      "stand": "S85",
+      "name": "RahaAi technologies"
+    },
+    {
+      "stand": "S19",
+      "name": "Raisetalks"
+    },
+    {
+      "stand": "G75",
+      "name": "Red Rock Technology"
+    },
+    {
+      "stand": "H30",
+      "name": "RELM Insurance"
+    },
+    {
+      "stand": "H50",
+      "name": "Remo AI"
+    },
+    {
+      "stand": "S158",
+      "name": "Rensair"
+    },
+    {
+      "stand": "S31",
+      "name": "ResearchCollab Technologies"
+    },
+    {
+      "stand": "S152",
+      "name": "Revent"
+    },
+    {
+      "stand": "S95",
+      "name": "RiskVantage"
+    },
+    {
+      "stand": "G115",
+      "name": "RSK"
+    },
+    {
+      "stand": "G103",
+      "name": "RSVD"
+    },
+    {
+      "stand": "S108",
+      "name": "Sahaba Club Technologies"
+    },
+    {
+      "stand": "S25",
+      "name": "Selira"
+    },
+    {
+      "stand": "H84",
+      "name": "SIA Partners"
+    },
+    {
+      "stand": "E40",
+      "name": "SIEF"
+    },
+    {
+      "stand": "S141",
+      "name": "Simsy"
+    },
+    {
+      "stand": "G65",
+      "name": "Sinorfi"
+    },
+    {
+      "stand": "S13",
+      "name": "Skrooge. ai"
+    },
+    {
+      "stand": "S21",
+      "name": "Skyetron.ai"
+    },
+    {
+      "stand": "S98",
+      "name": "SkySay AI"
+    },
+    {
+      "stand": "S121",
+      "name": "SKYXOPS"
+    },
+    {
+      "stand": "S175",
+      "name": "SLAN"
+    },
+    {
+      "stand": "S157",
+      "name": "Smart Spaces"
+    },
+    {
+      "stand": "G76",
+      "name": "Snowflake"
+    },
+    {
+      "stand": "H52",
+      "name": "Soika Labs"
+    },
+    {
+      "stand": "S94",
+      "name": "Solvagence"
+    },
+    {
+      "stand": "G72",
+      "name": "Squash App"
+    },
+    {
+      "stand": "E70",
+      "name": "START-UP STAGE"
+    },
+    {
+      "stand": "H64",
+      "name": "StudioYT"
+    },
+    {
+      "stand": "S156",
+      "name": "Sukuun"
+    },
+    {
+      "stand": "S71",
+      "name": "Synthesys"
+    },
+    {
+      "stand": "S100",
+      "name": "SYWA.ai"
+    },
+    {
+      "stand": "S155",
+      "name": "T-Knowledge"
+    },
+    {
+      "stand": "S122",
+      "name": "Taksit"
+    },
+    {
+      "stand": "S104",
+      "name": "Talos Wealth"
+    },
+    {
+      "stand": "H66",
+      "name": "TatbiQ.ai"
+    },
+    {
+      "stand": "G96",
+      "name": "Tawasol Services"
+    },
+    {
+      "stand": "S117",
+      "name": "Techno Polis"
+    },
+    {
+      "stand": "S145",
+      "name": "Terramine"
+    },
+    {
+      "stand": "G64",
+      "name": "The Cutting Edge School"
+    },
+    {
+      "stand": "G126",
+      "name": "Times of AI"
+    },
+    {
+      "stand": "S164",
+      "name": "Togal"
+    },
+    {
+      "stand": "S60",
+      "name": "Tokeniz-Ed"
+    },
+    {
+      "stand": "G103",
+      "name": "TOTL Resource International LLC (TRI)"
+    },
+    {
+      "stand": "S10",
+      "name": "UDAI AI"
+    },
+    {
+      "stand": "S93",
+      "name": "Umain Tech Limited"
+    },
+    {
+      "stand": "S22",
+      "name": "UNEY"
+    },
+    {
+      "stand": "G84",
+      "name": "Unison"
+    },
+    {
+      "stand": "S11",
+      "name": "UNO Infotech Systems Ltd"
+    },
+    {
+      "stand": "S64",
+      "name": "UVEREST"
+    },
+    {
+      "stand": "S44",
+      "name": "Vassutech"
+    },
+    {
+      "stand": "S58",
+      "name": "Ventur-os"
+    },
+    {
+      "stand": "S70",
+      "name": "Vernovi"
+    },
+    {
+      "stand": "S159",
+      "name": "Watergate"
+    },
+    {
+      "stand": "S86",
+      "name": "WiiZ"
+    },
+    {
+      "stand": "G117",
+      "name": "Works Platform"
+    },
+    {
+      "stand": "G91",
+      "name": "Xenonstack"
+    },
+    {
+      "stand": "S115",
+      "name": "Xixum"
+    },
+    {
+      "stand": "S32",
+      "name": "Xnterprise"
+    },
+    {
+      "stand": "S23",
+      "name": "Xoom Carbon"
+    },
+    {
+      "stand": "S37",
+      "name": "Xopa Information Technology"
+    },
+    {
+      "stand": "S128",
+      "name": "XTEK"
+    },
+    {
+      "stand": "G63",
+      "name": "XYRA AI"
+    },
+    {
+      "stand": "S26",
+      "name": "Yara Society"
+    },
+    {
+      "stand": "G83",
+      "name": "Yodaplus"
+    },
+    {
+      "stand": "S03",
+      "name": "yoorz.ai Ltd"
+    },
+    {
+      "stand": "S48",
+      "name": "Younea"
+    },
+    {
+      "stand": "S147",
+      "name": "Zaken"
+    },
+    {
+      "stand": "S05",
+      "name": "Zakool AI"
+    },
+    {
+      "stand": "H60",
+      "name": "Zelos"
+    },
+    {
+      "stand": "S24",
+      "name": "ZWAG AI Ltd"
+    }
+  ]
+}

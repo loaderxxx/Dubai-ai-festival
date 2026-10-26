@@ -1,0 +1,2417 @@
+{
+  "schema_version": "1.0",
+  "event": "Dubai AI Festival 2026",
+  "accessed_on": "2026-10-26",
+  "source_url": "https://dubaiaifestival.com/floorplan/",
+  "normalization": "NFKC; collapse whitespace; casefold for grouping. No fuzzy merge. Keep all stand assignments. Preserve raw spellings. Do not split co-branded labels without evidence.",
+  "public_only": true,
+  "private_app_data_used": false,
+  "counts": {
+    "raw_populated_rows": 264,
+    "distinct_normalized_labels": 262,
+    "organization_candidates": 248,
+    "amenity_or_event_service_labels": 12,
+    "pavilion_labels": 1,
+    "unknown_labels": 1,
+    "duplicate_label_extra_rows": 2,
+    "unique_nonempty_stand_codes": 258,
+    "rows_without_stand": 1,
+    "shared_stand_codes": {
+      "G103": [
+        "Aecendir",
+        "Handover AI",
+        "RSVD",
+        "TOTL Resource International LLC (TRI)"
+      ],
+      "G105": [
+        "ATELIC AI",
+        "Grid Studio"
+      ],
+      "G104": [
+        "Grid Studio",
+        "Jalubro"
+      ]
+    },
+    "verified_unique_legal_company_count": null,
+    "initial_public_profiles": 12,
+    "organization_candidates_not_profiled": 236
+  },
+  "records": [
+    {
+      "row_number": 1,
+      "stand": "S33",
+      "name": "1DataCloud",
+      "entity_id": "1datacloud",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 2,
+      "stand": "G120",
+      "name": "10 Leaves",
+      "entity_id": "10-leaves",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 3,
+      "stand": "S130",
+      "name": "17.AI",
+      "entity_id": "17-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 4,
+      "stand": "S140",
+      "name": "550Ai",
+      "entity_id": "550ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 5,
+      "stand": "S144",
+      "name": "Abigail AI",
+      "entity_id": "abigail-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 6,
+      "stand": "E55",
+      "name": "Activation Zone",
+      "entity_id": "activation-zone",
+      "record_type": "amenity_or_event_service",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 7,
+      "stand": "S78",
+      "name": "Adaptech",
+      "entity_id": "adaptech",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 8,
+      "stand": "G101",
+      "name": "Advanced Integration",
+      "entity_id": "advanced-integration",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 9,
+      "stand": "G103",
+      "name": "Aecendir",
+      "entity_id": "aecendir",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 10,
+      "stand": "S174",
+      "name": "Aecendir",
+      "entity_id": "aecendir",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 11,
+      "stand": "S91",
+      "name": "Aero Aegis Inc",
+      "entity_id": "aero-aegis-inc",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 12,
+      "stand": "S80",
+      "name": "Aetheryx AI",
+      "entity_id": "aetheryx-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 13,
+      "stand": "S29",
+      "name": "Agenyx AI",
+      "entity_id": "agenyx-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 14,
+      "stand": "S36",
+      "name": "AI Champions",
+      "entity_id": "ai-champions",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 15,
+      "stand": "S46",
+      "name": "AI Security Academy",
+      "entity_id": "ai-security-academy",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 16,
+      "stand": "G140",
+      "name": "AIA Orbis",
+      "entity_id": "aia-orbis",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 17,
+      "stand": "G124",
+      "name": "Aiden Ai",
+      "entity_id": "aiden-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 18,
+      "stand": "S39",
+      "name": "AiFluxx",
+      "entity_id": "aifluxx",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 19,
+      "stand": "H80",
+      "name": "AiMOGA",
+      "entity_id": "aimoga",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 20,
+      "stand": "H75",
+      "name": "AInfinite Ai",
+      "entity_id": "ainfinite-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 21,
+      "stand": "S79",
+      "name": "Aivi.in",
+      "entity_id": "aivi-in",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 22,
+      "stand": "G97",
+      "name": "AIVista",
+      "entity_id": "aivista",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 23,
+      "stand": "S148",
+      "name": "AIVORAHC",
+      "entity_id": "aivorahc",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 24,
+      "stand": "G61",
+      "name": "Al Alfiya",
+      "entity_id": "al-alfiya",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 25,
+      "stand": "S77",
+      "name": "Al Amen Technology",
+      "entity_id": "al-amen-technology",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 26,
+      "stand": "F30",
+      "name": "Alibaba Cloud",
+      "entity_id": "alibaba-cloud",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 27,
+      "stand": "S57",
+      "name": "Alokin",
+      "entity_id": "alokin",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 28,
+      "stand": "G60",
+      "name": "Amira AI - almost human",
+      "entity_id": "amira-ai-almost-human",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 29,
+      "stand": "S41",
+      "name": "Anylegal.ai",
+      "entity_id": "anylegal-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 30,
+      "stand": "G71",
+      "name": "Apgar Group",
+      "entity_id": "apgar-group",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 31,
+      "stand": "G112",
+      "name": "Applause",
+      "entity_id": "applause",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 32,
+      "stand": "S116",
+      "name": "Approduct",
+      "entity_id": "approduct",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 33,
+      "stand": "S149",
+      "name": "Aradi",
+      "entity_id": "aradi",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 34,
+      "stand": "S02",
+      "name": "Artifact Innovations Ltd",
+      "entity_id": "artifact-innovations-ltd",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 35,
+      "stand": "S17",
+      "name": "Artisan AI",
+      "entity_id": "artisan-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 36,
+      "stand": "S169",
+      "name": "Asano",
+      "entity_id": "asano",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 37,
+      "stand": "S103",
+      "name": "ASCENTIA",
+      "entity_id": "ascentia",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 38,
+      "stand": "G105",
+      "name": "ATELIC AI",
+      "entity_id": "atelic-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 39,
+      "stand": "S59",
+      "name": "Atelier Digital",
+      "entity_id": "atelier-digital",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 40,
+      "stand": "H76",
+      "name": "Atlan",
+      "entity_id": "atlan",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 41,
+      "stand": "S54",
+      "name": "Audit Sense",
+      "entity_id": "audit-sense",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 42,
+      "stand": "G80",
+      "name": "AUD",
+      "entity_id": "aud",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 43,
+      "stand": "S170",
+      "name": "Aunova",
+      "entity_id": "aunova",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 44,
+      "stand": "S73",
+      "name": "Avita Inc.",
+      "entity_id": "avita-inc",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 45,
+      "stand": "H40",
+      "name": "AWS",
+      "entity_id": "aws",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 46,
+      "stand": "S88",
+      "name": "Banza",
+      "entity_id": "banza",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 47,
+      "stand": "S176",
+      "name": "Baytukum",
+      "entity_id": "baytukum",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 48,
+      "stand": "S126",
+      "name": "Belfry Labs",
+      "entity_id": "belfry-labs",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 49,
+      "stand": "S28",
+      "name": "Berry Labs",
+      "entity_id": "berry-labs",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 50,
+      "stand": "S106",
+      "name": "Black Cloud Solutions",
+      "entity_id": "black-cloud-solutions",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 51,
+      "stand": "G132",
+      "name": "BNC MEDIA GROUP",
+      "entity_id": "bnc-media-group",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 52,
+      "stand": "S49",
+      "name": "Business Pulse",
+      "entity_id": "business-pulse",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 53,
+      "stand": "E120",
+      "name": "Cafe. Food Trucks",
+      "entity_id": "cafe-food-trucks",
+      "record_type": "amenity_or_event_service",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 54,
+      "stand": "S81",
+      "name": "Casabot Technology",
+      "entity_id": "casabot-technology",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 55,
+      "stand": "S125",
+      "name": "Catalab Solutions",
+      "entity_id": "catalab-solutions",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 56,
+      "stand": "S61",
+      "name": "Chatvertize",
+      "entity_id": "chatvertize",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 57,
+      "stand": "S105",
+      "name": "Cleverbrain Tech",
+      "entity_id": "cleverbrain-tech",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 58,
+      "stand": "H65",
+      "name": "ClickUp",
+      "entity_id": "clickup",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 59,
+      "stand": "G94",
+      "name": "Climaty AI",
+      "entity_id": "climaty-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 60,
+      "stand": "S55",
+      "name": "Clique AI",
+      "entity_id": "clique-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 61,
+      "stand": "S131",
+      "name": "CogniAI Inc",
+      "entity_id": "cogniai-inc",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 62,
+      "stand": "S166",
+      "name": "Contilio",
+      "entity_id": "contilio",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 63,
+      "stand": "S50",
+      "name": "Convoi.ai",
+      "entity_id": "convoi-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 64,
+      "stand": "S74",
+      "name": "Crayon Labs.ai",
+      "entity_id": "crayon-labs-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 65,
+      "stand": "S09",
+      "name": "CRTL Studio",
+      "entity_id": "crtl-studio",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 66,
+      "stand": "S114",
+      "name": "Cusp Wealth",
+      "entity_id": "cusp-wealth",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 67,
+      "stand": "S82",
+      "name": "Daleel",
+      "entity_id": "daleel",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 68,
+      "stand": "H62",
+      "name": "DataCamp",
+      "entity_id": "datacamp",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 69,
+      "stand": "S72",
+      "name": "datavent",
+      "entity_id": "datavent",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 70,
+      "stand": "S06",
+      "name": "datellers",
+      "entity_id": "datellers",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 71,
+      "stand": "G50",
+      "name": "DDI (DaoDe Investment)",
+      "entity_id": "ddi-daode-investment",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 72,
+      "stand": "S42",
+      "name": "Decisimo",
+      "entity_id": "decisimo",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 73,
+      "stand": "G116",
+      "name": "Deepnovacore",
+      "entity_id": "deepnovacore",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 74,
+      "stand": "S161",
+      "name": "Demand Logic",
+      "entity_id": "demand-logic",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 75,
+      "stand": "S89",
+      "name": "Deployed",
+      "entity_id": "deployed",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 76,
+      "stand": "S14",
+      "name": "digi.ai",
+      "entity_id": "digi-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 77,
+      "stand": "S133",
+      "name": "Digital Cubic Smart Solutions",
+      "entity_id": "digital-cubic-smart-solutions",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 78,
+      "stand": "S67",
+      "name": "Diss-Co",
+      "entity_id": "diss-co",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 79,
+      "stand": "S123",
+      "name": "Dravya AI",
+      "entity_id": "dravya-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 80,
+      "stand": "G30",
+      "name": "Dubai AI Campus",
+      "entity_id": "dubai-ai-campus",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 81,
+      "stand": "H110",
+      "name": "Dubai AI Festival 2027 Sales Stand",
+      "entity_id": "dubai-ai-festival-2027-sales-stand",
+      "record_type": "amenity_or_event_service",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 82,
+      "stand": "F50",
+      "name": "Dubai Medical University",
+      "entity_id": "dubai-medical-university",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 83,
+      "stand": "S62",
+      "name": "eatova",
+      "entity_id": "eatova",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 84,
+      "stand": "G86",
+      "name": "Elastic",
+      "entity_id": "elastic",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 85,
+      "stand": "H70",
+      "name": "Eleven Labs",
+      "entity_id": "eleven-labs",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 86,
+      "stand": "S66",
+      "name": "emotii.ai",
+      "entity_id": "emotii-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 87,
+      "stand": "S56",
+      "name": "Exec Roundtables AI",
+      "entity_id": "exec-roundtables-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 88,
+      "stand": "G66",
+      "name": "Exordium – BugLoud",
+      "entity_id": "exordium-bugloud",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 89,
+      "stand": "S154",
+      "name": "Fariq.AI",
+      "entity_id": "fariq-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 90,
+      "stand": "G136",
+      "name": "Fast Company",
+      "entity_id": "fast-company",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 91,
+      "stand": "S171",
+      "name": "Feasly",
+      "entity_id": "feasly",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 92,
+      "stand": "S43",
+      "name": "FedTuna",
+      "entity_id": "fedtuna",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 93,
+      "stand": "S38",
+      "name": "Finalytics",
+      "entity_id": "finalytics",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 94,
+      "stand": "S90",
+      "name": "FinBursa",
+      "entity_id": "finbursa",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 95,
+      "stand": "S99",
+      "name": "FlintX",
+      "entity_id": "flintx",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 96,
+      "stand": "S134",
+      "name": "Forgenix",
+      "entity_id": "forgenix",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 97,
+      "stand": "S45",
+      "name": "FP Advisory Services",
+      "entity_id": "fp-advisory-services",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 98,
+      "stand": "S160",
+      "name": "Freeda",
+      "entity_id": "freeda",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 99,
+      "stand": "S65",
+      "name": "Gaadin AI",
+      "entity_id": "gaadin-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 100,
+      "stand": "S162",
+      "name": "GBuilder",
+      "entity_id": "gbuilder",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 101,
+      "stand": "S12",
+      "name": "Genesis AI Ltd",
+      "entity_id": "genesis-ai-ltd",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 102,
+      "stand": "S35",
+      "name": "Ghostly Solutions",
+      "entity_id": "ghostly-solutions",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 103,
+      "stand": "S76",
+      "name": "Go AI Guru",
+      "entity_id": "go-ai-guru",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 104,
+      "stand": "S142",
+      "name": "Grantify",
+      "entity_id": "grantify",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 105,
+      "stand": "G105",
+      "name": "Grid Studio",
+      "entity_id": "grid-studio",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 106,
+      "stand": "G104",
+      "name": "Grid Studio",
+      "entity_id": "grid-studio",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 107,
+      "stand": "S75",
+      "name": "Gudakesa Tech",
+      "entity_id": "gudakesa-tech",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 108,
+      "stand": "S47",
+      "name": "GX1",
+      "entity_id": "gx1",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 109,
+      "stand": "S172",
+      "name": "Habytat / Realm9",
+      "entity_id": "habytat-realm9",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 110,
+      "stand": "G103",
+      "name": "Handover AI",
+      "entity_id": "handover-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 111,
+      "stand": "G77",
+      "name": "Haptik AI",
+      "entity_id": "haptik-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 112,
+      "stand": "S146",
+      "name": "Hatchio",
+      "entity_id": "hatchio",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 113,
+      "stand": "H63",
+      "name": "Helpdesk",
+      "entity_id": "helpdesk",
+      "record_type": "amenity_or_event_service",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 114,
+      "stand": "G62",
+      "name": "Hive Technologies",
+      "entity_id": "hive-technologies",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 115,
+      "stand": "G113",
+      "name": "Imposter Hunter",
+      "entity_id": "imposter-hunter",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 116,
+      "stand": "H90",
+      "name": "India Pavilion",
+      "entity_id": "india-pavilion",
+      "record_type": "pavilion",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 117,
+      "stand": "H120",
+      "name": "INNOVATION STAGE",
+      "entity_id": "innovation-stage",
+      "record_type": "amenity_or_event_service",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 118,
+      "stand": "S101",
+      "name": "Inspire Tech",
+      "entity_id": "inspire-tech",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 119,
+      "stand": "S168",
+      "name": "Interloom",
+      "entity_id": "interloom",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 120,
+      "stand": "F80",
+      "name": "Investors Lounge",
+      "entity_id": "investors-lounge",
+      "record_type": "amenity_or_event_service",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 121,
+      "stand": "G85",
+      "name": "Isovia",
+      "entity_id": "isovia",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 122,
+      "stand": "G104",
+      "name": "Jalubro",
+      "entity_id": "jalubro",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 123,
+      "stand": "S52",
+      "name": "K&J Technologies Ltd.",
+      "entity_id": "k-j-technologies-ltd",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 124,
+      "stand": "S127",
+      "name": "Kakoo Software",
+      "entity_id": "kakoo-software",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 125,
+      "stand": "S102",
+      "name": "Katrix.AI",
+      "entity_id": "katrix-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 126,
+      "stand": "S119",
+      "name": "Kenza Living",
+      "entity_id": "kenza-living",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 127,
+      "stand": "S84",
+      "name": "Keytron.ai",
+      "entity_id": "keytron-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 128,
+      "stand": "S129",
+      "name": "khurram badar.com",
+      "entity_id": "khurram-badar-com",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 129,
+      "stand": "H86",
+      "name": "KIRA AI",
+      "entity_id": "kira-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 130,
+      "stand": "S01",
+      "name": "KloverTech",
+      "entity_id": "klovertech",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 131,
+      "stand": "S137",
+      "name": "KTER",
+      "entity_id": "kter",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 132,
+      "stand": "S08",
+      "name": "Laine.ai",
+      "entity_id": "laine-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 133,
+      "stand": "G130",
+      "name": "LANA / لنا",
+      "entity_id": "lana",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 134,
+      "stand": "H54",
+      "name": "LaunchPod",
+      "entity_id": "launchpod",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 135,
+      "stand": "G111",
+      "name": "Lazulite",
+      "entity_id": "lazulite",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 136,
+      "stand": "S138",
+      "name": "LeapSoft Consulting",
+      "entity_id": "leapsoft-consulting",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 137,
+      "stand": "G87",
+      "name": "Legaline",
+      "entity_id": "legaline",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 138,
+      "stand": "H56",
+      "name": "Legend X Robotics",
+      "entity_id": "legend-x-robotics",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 139,
+      "stand": "S135",
+      "name": "Lexarius",
+      "entity_id": "lexarius",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 140,
+      "stand": "G110",
+      "name": "Life Intelligence Group",
+      "entity_id": "life-intelligence-group",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 141,
+      "stand": "S109",
+      "name": "Loyyal",
+      "entity_id": "loyyal",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 142,
+      "stand": "S132",
+      "name": "Luma Brush",
+      "entity_id": "luma-brush",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 143,
+      "stand": "S107",
+      "name": "Lxium",
+      "entity_id": "lxium",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 144,
+      "stand": "S150",
+      "name": "M5Wealth",
+      "entity_id": "m5wealth",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 145,
+      "stand": "S63",
+      "name": "Macgence",
+      "entity_id": "macgence",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 146,
+      "stand": "G100",
+      "name": "Magure",
+      "entity_id": "magure",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 147,
+      "stand": "S18",
+      "name": "Main Sequence",
+      "entity_id": "main-sequence",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 148,
+      "stand": "E30",
+      "name": "Mantika",
+      "entity_id": "mantika",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 149,
+      "stand": "G122",
+      "name": "McFill Media",
+      "entity_id": "mcfill-media",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 150,
+      "stand": "S167",
+      "name": "Mechasys",
+      "entity_id": "mechasys",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 151,
+      "stand": "G134",
+      "name": "MENA Tech",
+      "entity_id": "mena-tech",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 152,
+      "stand": "S92",
+      "name": "Metis",
+      "entity_id": "metis",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 153,
+      "stand": "S04",
+      "name": "Mind AI",
+      "entity_id": "mind-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 154,
+      "stand": "S34",
+      "name": "Misraj",
+      "entity_id": "misraj",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 155,
+      "stand": "E50",
+      "name": "MOU Signing Stage",
+      "entity_id": "mou-signing-stage",
+      "record_type": "amenity_or_event_service",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 156,
+      "stand": "S27",
+      "name": "Music Ecosystem",
+      "entity_id": "music-ecosystem",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 157,
+      "stand": "H74",
+      "name": "Myndlab",
+      "entity_id": "myndlab",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 158,
+      "stand": "G74",
+      "name": "Nash",
+      "entity_id": "nash",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 159,
+      "stand": "S83",
+      "name": "Nedrix.ai",
+      "entity_id": "nedrix-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 160,
+      "stand": "S40",
+      "name": "Nestor Analytics",
+      "entity_id": "nestor-analytics",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 161,
+      "stand": "S15",
+      "name": "Neura Voz",
+      "entity_id": "neura-voz",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 162,
+      "stand": "S151",
+      "name": "Neuraserv",
+      "entity_id": "neuraserv",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 163,
+      "stand": "S124",
+      "name": "Nodex8 AI",
+      "entity_id": "nodex8-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 164,
+      "stand": "S68",
+      "name": "Not Boring",
+      "entity_id": "not-boring",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 165,
+      "stand": "S20",
+      "name": "Nova pilot.ai",
+      "entity_id": "nova-pilot-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 166,
+      "stand": "S120",
+      "name": "NovusAI",
+      "entity_id": "novusai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 167,
+      "stand": "G70",
+      "name": "Nuvin",
+      "entity_id": "nuvin",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 168,
+      "stand": "G95",
+      "name": "Omnix",
+      "entity_id": "omnix",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 169,
+      "stand": "G82",
+      "name": "ONLY OFFICE",
+      "entity_id": "only-office",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 170,
+      "stand": "S53",
+      "name": "OpenNeko",
+      "entity_id": "openneko",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 171,
+      "stand": "S139",
+      "name": "orbo. work",
+      "entity_id": "orbo-work",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 172,
+      "stand": "S113",
+      "name": "Ordinary Wisdom",
+      "entity_id": "ordinary-wisdom",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 173,
+      "stand": "S110",
+      "name": "Oryx AI",
+      "entity_id": "oryx-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 174,
+      "stand": "S136",
+      "name": "Osiris AI",
+      "entity_id": "osiris-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 175,
+      "stand": "S118",
+      "name": "Otobiz",
+      "entity_id": "otobiz",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 176,
+      "stand": "S30",
+      "name": "Otonomi Technologies",
+      "entity_id": "otonomi-technologies",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 177,
+      "stand": "S112",
+      "name": "Palgu",
+      "entity_id": "palgu",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 178,
+      "stand": "S96",
+      "name": "PentX",
+      "entity_id": "pentx",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 179,
+      "stand": "S153",
+      "name": "Perflo",
+      "entity_id": "perflo",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 180,
+      "stand": "S07",
+      "name": "Periscope Technologies",
+      "entity_id": "periscope-technologies",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 181,
+      "stand": "H116",
+      "name": "Photo Op",
+      "entity_id": "photo-op",
+      "record_type": "amenity_or_event_service",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 182,
+      "stand": "S51",
+      "name": "PlaceOS",
+      "entity_id": "placeos",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 183,
+      "stand": "S69",
+      "name": "Planytics AI",
+      "entity_id": "planytics-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 184,
+      "stand": "D10",
+      "name": "PLENARY",
+      "entity_id": "plenary",
+      "record_type": "amenity_or_event_service",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 185,
+      "stand": "S143",
+      "name": "Plexe AI",
+      "entity_id": "plexe-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 186,
+      "stand": "H118",
+      "name": "PREMIUM LOUNGE",
+      "entity_id": "premium-lounge",
+      "record_type": "amenity_or_event_service",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 187,
+      "stand": null,
+      "name": "Press & Media Zone",
+      "entity_id": "press-media-zone",
+      "record_type": "amenity_or_event_service",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 188,
+      "stand": "S111",
+      "name": "PRIVINOTCH",
+      "entity_id": "privinotch",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 189,
+      "stand": "S163",
+      "name": "Probis",
+      "entity_id": "probis",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 190,
+      "stand": "G90",
+      "name": "Proptech AI",
+      "entity_id": "proptech-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 191,
+      "stand": "S97",
+      "name": "PropVR",
+      "entity_id": "propvr",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 192,
+      "stand": "S87",
+      "name": "Provance",
+      "entity_id": "provance",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 193,
+      "stand": "S16",
+      "name": "Purpl Tech Solutions",
+      "entity_id": "purpl-tech-solutions",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 194,
+      "stand": "S85",
+      "name": "RahaAi technologies",
+      "entity_id": "rahaai-technologies",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 195,
+      "stand": "S19",
+      "name": "Raisetalks",
+      "entity_id": "raisetalks",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 196,
+      "stand": "G75",
+      "name": "Red Rock Technology",
+      "entity_id": "red-rock-technology",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 197,
+      "stand": "H30",
+      "name": "RELM Insurance",
+      "entity_id": "relm-insurance",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 198,
+      "stand": "H50",
+      "name": "Remo AI",
+      "entity_id": "remo-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 199,
+      "stand": "S158",
+      "name": "Rensair",
+      "entity_id": "rensair",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 200,
+      "stand": "S31",
+      "name": "ResearchCollab Technologies",
+      "entity_id": "researchcollab-technologies",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 201,
+      "stand": "S152",
+      "name": "Revent",
+      "entity_id": "revent",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 202,
+      "stand": "S95",
+      "name": "RiskVantage",
+      "entity_id": "riskvantage",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 203,
+      "stand": "G115",
+      "name": "RSK",
+      "entity_id": "rsk",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 204,
+      "stand": "G103",
+      "name": "RSVD",
+      "entity_id": "rsvd",
+      "record_type": "unknown",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 205,
+      "stand": "S108",
+      "name": "Sahaba Club Technologies",
+      "entity_id": "sahaba-club-technologies",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 206,
+      "stand": "S25",
+      "name": "Selira",
+      "entity_id": "selira",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 207,
+      "stand": "H84",
+      "name": "SIA Partners",
+      "entity_id": "sia-partners",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 208,
+      "stand": "E40",
+      "name": "SIEF",
+      "entity_id": "sief",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 209,
+      "stand": "S141",
+      "name": "Simsy",
+      "entity_id": "simsy",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 210,
+      "stand": "G65",
+      "name": "Sinorfi",
+      "entity_id": "sinorfi",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 211,
+      "stand": "S13",
+      "name": "Skrooge. ai",
+      "entity_id": "skrooge-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 212,
+      "stand": "S21",
+      "name": "Skyetron.ai",
+      "entity_id": "skyetron-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 213,
+      "stand": "S98",
+      "name": "SkySay AI",
+      "entity_id": "skysay-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 214,
+      "stand": "S121",
+      "name": "SKYXOPS",
+      "entity_id": "skyxops",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 215,
+      "stand": "S175",
+      "name": "SLAN",
+      "entity_id": "slan",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 216,
+      "stand": "S157",
+      "name": "Smart Spaces",
+      "entity_id": "smart-spaces",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 217,
+      "stand": "G76",
+      "name": "Snowflake",
+      "entity_id": "snowflake",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 218,
+      "stand": "H52",
+      "name": "Soika Labs",
+      "entity_id": "soika-labs",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 219,
+      "stand": "S94",
+      "name": "Solvagence",
+      "entity_id": "solvagence",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 220,
+      "stand": "G72",
+      "name": "Squash App",
+      "entity_id": "squash-app",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 221,
+      "stand": "E70",
+      "name": "START-UP STAGE",
+      "entity_id": "start-up-stage",
+      "record_type": "amenity_or_event_service",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 222,
+      "stand": "H64",
+      "name": "StudioYT",
+      "entity_id": "studioyt",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 223,
+      "stand": "S156",
+      "name": "Sukuun",
+      "entity_id": "sukuun",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 224,
+      "stand": "S71",
+      "name": "Synthesys",
+      "entity_id": "synthesys",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 225,
+      "stand": "S100",
+      "name": "SYWA.ai",
+      "entity_id": "sywa-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 226,
+      "stand": "S155",
+      "name": "T-Knowledge",
+      "entity_id": "t-knowledge",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 227,
+      "stand": "S122",
+      "name": "Taksit",
+      "entity_id": "taksit",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 228,
+      "stand": "S104",
+      "name": "Talos Wealth",
+      "entity_id": "talos-wealth",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 229,
+      "stand": "H66",
+      "name": "TatbiQ.ai",
+      "entity_id": "tatbiq-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 230,
+      "stand": "G96",
+      "name": "Tawasol Services",
+      "entity_id": "tawasol-services",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 231,
+      "stand": "S117",
+      "name": "Techno Polis",
+      "entity_id": "techno-polis",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 232,
+      "stand": "S145",
+      "name": "Terramine",
+      "entity_id": "terramine",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 233,
+      "stand": "G64",
+      "name": "The Cutting Edge School",
+      "entity_id": "the-cutting-edge-school",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 234,
+      "stand": "G126",
+      "name": "Times of AI",
+      "entity_id": "times-of-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 235,
+      "stand": "S164",
+      "name": "Togal",
+      "entity_id": "togal",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 236,
+      "stand": "S60",
+      "name": "Tokeniz-Ed",
+      "entity_id": "tokeniz-ed",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 237,
+      "stand": "G103",
+      "name": "TOTL Resource International LLC (TRI)",
+      "entity_id": "totl-resource-international-llc-tri",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 238,
+      "stand": "S10",
+      "name": "UDAI AI",
+      "entity_id": "udai-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 239,
+      "stand": "S93",
+      "name": "Umain Tech Limited",
+      "entity_id": "umain-tech-limited",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 240,
+      "stand": "S22",
+      "name": "UNEY",
+      "entity_id": "uney",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 241,
+      "stand": "G84",
+      "name": "Unison",
+      "entity_id": "unison",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 242,
+      "stand": "S11",
+      "name": "UNO Infotech Systems Ltd",
+      "entity_id": "uno-infotech-systems-ltd",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 243,
+      "stand": "S64",
+      "name": "UVEREST",
+      "entity_id": "uverest",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 244,
+      "stand": "S44",
+      "name": "Vassutech",
+      "entity_id": "vassutech",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 245,
+      "stand": "S58",
+      "name": "Ventur-os",
+      "entity_id": "ventur-os",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 246,
+      "stand": "S70",
+      "name": "Vernovi",
+      "entity_id": "vernovi",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 247,
+      "stand": "S159",
+      "name": "Watergate",
+      "entity_id": "watergate",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 248,
+      "stand": "S86",
+      "name": "WiiZ",
+      "entity_id": "wiiz",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 249,
+      "stand": "G117",
+      "name": "Works Platform",
+      "entity_id": "works-platform",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 250,
+      "stand": "G91",
+      "name": "Xenonstack",
+      "entity_id": "xenonstack",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 251,
+      "stand": "S115",
+      "name": "Xixum",
+      "entity_id": "xixum",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 252,
+      "stand": "S32",
+      "name": "Xnterprise",
+      "entity_id": "xnterprise",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 253,
+      "stand": "S23",
+      "name": "Xoom Carbon",
+      "entity_id": "xoom-carbon",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 254,
+      "stand": "S37",
+      "name": "Xopa Information Technology",
+      "entity_id": "xopa-information-technology",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 255,
+      "stand": "S128",
+      "name": "XTEK",
+      "entity_id": "xtek",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 256,
+      "stand": "G63",
+      "name": "XYRA AI",
+      "entity_id": "xyra-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 257,
+      "stand": "S26",
+      "name": "Yara Society",
+      "entity_id": "yara-society",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 258,
+      "stand": "G83",
+      "name": "Yodaplus",
+      "entity_id": "yodaplus",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 259,
+      "stand": "S03",
+      "name": "yoorz.ai Ltd",
+      "entity_id": "yoorz-ai-ltd",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 260,
+      "stand": "S48",
+      "name": "Younea",
+      "entity_id": "younea",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 261,
+      "stand": "S147",
+      "name": "Zaken",
+      "entity_id": "zaken",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 262,
+      "stand": "S05",
+      "name": "Zakool AI",
+      "entity_id": "zakool-ai",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 263,
+      "stand": "H60",
+      "name": "Zelos",
+      "entity_id": "zelos",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    },
+    {
+      "row_number": 264,
+      "stand": "S24",
+      "name": "ZWAG AI Ltd",
+      "entity_id": "zwag-ai-ltd",
+      "record_type": "organization_candidate",
+      "source_url": "https://dubaiaifestival.com/floorplan/",
+      "observed_at_utc": "2026-10-26T03:30:39Z"
+    }
+  ]
+}

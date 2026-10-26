@@ -1,0 +1,17 @@
+{
+  "result": "PASS",
+  "checked_on": "2026-10-26",
+  "scope": "Local data integrity, bilingual fields, provenance references, exact row conservation, classifications, CSV parity and relative links; not live web verification.",
+  "counts": {
+    "floorplan_rows": 264,
+    "labels": 262,
+    "organization_candidates": 248,
+    "initial_profiles": 12,
+    "not_profiled": 236,
+    "official_sources": 23,
+    "facts": 37,
+    "crossresearch_edges": 14
+  },
+  "private_attendee_data_used": false,
+  "legal_company_count_established": false
+}

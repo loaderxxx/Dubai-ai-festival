@@ -1,0 +1,479 @@
+{
+  "schema_version": "1.0",
+  "accessed_on": "2026-10-26",
+  "public_only": true,
+  "edge_count": 14,
+  "note": {
+    "en": "A graph edge is not a confirmed commercial relationship. Documented vendor links, analyst complementarity hypotheses and competitive overlap are separate types.",
+    "ru": "Ребро графа не означает подтверждённые коммерческие отношения. Документированные связи поставщиков, гипотезы взаимодополнения и конкурентное пересечение имеют разные типы."
+  },
+  "edges": [
+    {
+      "id": "x01",
+      "company_a": "atlan",
+      "company_b": "snowflake",
+      "relationship_type": "documented_vendor_integration",
+      "statement": {
+        "en": "Atlan names a Snowflake connector. This is a documented product connection, not proof of a new joint commercial opportunity.",
+        "ru": "Atlan указывает коннектор Snowflake. Это документированная продуктовая связь, а не доказательство новой совместной коммерческой возможности."
+      },
+      "supporting_fact_ids": [
+        "atlan-integration",
+        "snowflake-offering"
+      ],
+      "source_ids": [
+        "atlan-connectors",
+        "snowflake-ai"
+      ],
+      "source_urls": [
+        "https://atlan.com/connectors/",
+        "https://www.snowflake.com/en/product/ai/"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Which metadata, lineage and authorization requirements remain for the proposed agent use case?",
+        "ru": "Какие требования к метаданным, происхождению данных и авторизации остаются для сценария агента?"
+      },
+      "risk_or_boundary": {
+        "en": "A metadata connector is not end-to-end row-level authorization.",
+        "ru": "Коннектор метаданных не равен сквозной авторизации на уровне строк."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    },
+    {
+      "id": "x02",
+      "company_a": "elastic",
+      "company_b": "aws",
+      "relationship_type": "documented_vendor_ecosystem_listing",
+      "statement": {
+        "en": "Elastic lists AWS in its AI ecosystem; the exact integration and joint-delivery terms require separate confirmation.",
+        "ru": "Elastic указывает AWS в AI-экосистеме; конкретная интеграция и условия совместного внедрения требуют отдельного подтверждения."
+      },
+      "supporting_fact_ids": [
+        "elastic-integration",
+        "aws-offering"
+      ],
+      "source_ids": [
+        "elastic-ecosystem",
+        "aws-agentcore"
+      ],
+      "source_urls": [
+        "https://www.elastic.co/partners/ai-ecosystem",
+        "https://aws.amazon.com/bedrock/agentcore/"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Which supported retrieval and observability integration fits AgentCore in the selected region?",
+        "ru": "Какая поддерживаемая интеграция поиска и наблюдаемости подходит AgentCore в выбранном регионе?"
+      },
+      "risk_or_boundary": {
+        "en": "Do not infer a specific connector, certification or commercial agreement from a list entry.",
+        "ru": "Не выводить наличие конкретного коннектора, сертификации или договора из записи в списке."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    },
+    {
+      "id": "x03",
+      "company_a": "elastic",
+      "company_b": "alibaba-cloud",
+      "relationship_type": "documented_vendor_ecosystem_listing",
+      "statement": {
+        "en": "Elastic lists Alibaba Cloud in its AI ecosystem; a Qwen-backed retrieval design is a separate technical hypothesis.",
+        "ru": "Elastic указывает Alibaba Cloud в AI-экосистеме; архитектура поиска с Qwen остаётся отдельной технической гипотезой."
+      },
+      "supporting_fact_ids": [
+        "elastic-integration",
+        "alibaba-offering"
+      ],
+      "source_ids": [
+        "elastic-ecosystem",
+        "alibaba-genai"
+      ],
+      "source_urls": [
+        "https://www.elastic.co/partners/ai-ecosystem",
+        "https://www.alibabacloud.com/en/solutions/generative-ai"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Which supported model endpoint, embedding path and deployment region apply?",
+        "ru": "Какие поддерживаемые конечная точка модели, путь эмбеддингов и регион развёртывания применимы?"
+      },
+      "risk_or_boundary": {
+        "en": "Model and infrastructure availability may vary by region.",
+        "ru": "Доступность моделей и инфраструктуры может различаться по регионам."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    },
+    {
+      "id": "x04",
+      "company_a": "xenonstack",
+      "company_b": "snowflake",
+      "relationship_type": "vendor_advertised_integration_offering",
+      "statement": {
+        "en": "XenonStack advertises Snowflake-oriented agents. This is unilateral offering evidence, not a verified formal partnership.",
+        "ru": "XenonStack предлагает агентов для Snowflake. Это одностороннее описание предложения, а не подтверждение формального партнёрства."
+      },
+      "supporting_fact_ids": [
+        "xenon-integration",
+        "snowflake-offering"
+      ],
+      "source_ids": [
+        "xenon-home",
+        "xenon-snowflake",
+        "snowflake-ai"
+      ],
+      "source_urls": [
+        "https://www.xenonstack.com/",
+        "https://www.xenonstack.com/ai-agents/snowflake-ai-agents/",
+        "https://www.snowflake.com/en/product/ai/"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Can they demonstrate a production reference and define ownership of connectors, governance and support?",
+        "ru": "Могут ли они показать промышленный референс и определить владельцев коннекторов, управления и поддержки?"
+      },
+      "risk_or_boundary": {
+        "en": "Marketing capabilities and outcome figures are not independently validated.",
+        "ru": "Маркетинговые возможности и показатели результатов независимо не проверены."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    },
+    {
+      "id": "x05",
+      "company_a": "eleven-labs",
+      "company_b": "clickup",
+      "relationship_type": "complementarity_hypothesis",
+      "statement": {
+        "en": "A voice agent could propose or create approved work items through ClickUp interfaces. No native pairing was verified.",
+        "ru": "Голосовой агент может предлагать или создавать подтверждённые рабочие задачи через интерфейсы ClickUp. Нативная связка не подтверждена."
+      },
+      "supporting_fact_ids": [
+        "eleven-integration",
+        "clickup-integration",
+        "clickup-control"
+      ],
+      "source_ids": [
+        "eleven-tools",
+        "clickup-api",
+        "clickup-webhooks"
+      ],
+      "source_urls": [
+        "https://elevenlabs.io/docs/eleven-agents/customization/tools",
+        "https://developer.clickup.com/",
+        "https://developer.clickup.com/docs/webhooks"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Can a sandbox demonstration create one authorized task, reject unauthorized writes and avoid duplicate retries?",
+        "ru": "Может ли демонстрация в песочнице создать одну разрешённую задачу, отклонить запрещённую запись и исключить дубли при повторах?"
+      },
+      "risk_or_boundary": {
+        "en": "OAuth scope, webhook-user lifecycle, consent and idempotency need explicit design.",
+        "ru": "Нужно явно спроектировать область OAuth, жизненный цикл пользователя вебхуков, согласие и идемпотентность."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    },
+    {
+      "id": "x06",
+      "company_a": "eleven-labs",
+      "company_b": "placeos",
+      "relationship_type": "complementarity_hypothesis",
+      "statement": {
+        "en": "A voice interface could request room bookings or facilities actions through PlaceOS APIs.",
+        "ru": "Голосовой интерфейс может запрашивать бронирование комнат или действия эксплуатации через API PlaceOS."
+      },
+      "supporting_fact_ids": [
+        "eleven-integration",
+        "placeos-integration"
+      ],
+      "source_ids": [
+        "eleven-tools",
+        "placeos-home"
+      ],
+      "source_urls": [
+        "https://elevenlabs.io/docs/eleven-agents/customization/tools",
+        "https://www.placeos.com/"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Can the pilot restrict actions to booking or requests, with human approval for physical-control changes?",
+        "ru": "Можно ли ограничить пилот бронированием и заявками, требуя подтверждения человеком для изменений физических систем?"
+      },
+      "risk_or_boundary": {
+        "en": "Physical access and building control are safety-sensitive; do not grant broad actuation privileges.",
+        "ru": "Физический доступ и управление зданием критичны для безопасности; не предоставлять широкие права управления."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    },
+    {
+      "id": "x07",
+      "company_a": "applause",
+      "company_b": "eleven-labs",
+      "relationship_type": "complementarity_hypothesis",
+      "statement": {
+        "en": "Independent human-led testing could complement platform-native voice-agent evaluations.",
+        "ru": "Независимое тестирование с участием людей может дополнить встроенную оценку голосовых агентов."
+      },
+      "supporting_fact_ids": [
+        "applause-evaluation",
+        "eleven-testing"
+      ],
+      "source_ids": [
+        "applause-agentic",
+        "eleven-agents"
+      ],
+      "source_urls": [
+        "https://www.applause.com/agentic-ai-testing/",
+        "https://elevenlabs.io/agents"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Can both teams agree on task-success, correct tool-use, handoff and unsafe-action acceptance criteria?",
+        "ru": "Могут ли команды согласовать критерии успешности задач, правильного вызова инструментов, передачи человеку и небезопасных действий?"
+      },
+      "risk_or_boundary": {
+        "en": "No partnership or willingness to share customer test data was established.",
+        "ru": "Партнёрство и готовность передавать тестовые данные клиентов не установлены."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    },
+    {
+      "id": "x08",
+      "company_a": "applause",
+      "company_b": "haptik-ai",
+      "relationship_type": "complementarity_hypothesis",
+      "statement": {
+        "en": "A CRM-connected service-agent pilot could use an external acceptance-testing program.",
+        "ru": "Пилот сервисного агента с CRM может использовать внешнюю программу приёмочных испытаний."
+      },
+      "supporting_fact_ids": [
+        "applause-evaluation",
+        "haptik-offering"
+      ],
+      "source_ids": [
+        "applause-agentic",
+        "haptik-home"
+      ],
+      "source_urls": [
+        "https://www.applause.com/agentic-ai-testing/",
+        "https://www.haptik.ai/"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Can support scenarios be tested with synthetic data across channel transitions and human handoffs?",
+        "ru": "Можно ли тестировать сценарии поддержки на синтетических данных при смене каналов и передаче человеку?"
+      },
+      "risk_or_boundary": {
+        "en": "Testing coverage must match the actual deployment; it is not a general safety certification.",
+        "ru": "Охват тестов должен соответствовать конкретному внедрению; это не универсальная сертификация безопасности."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    },
+    {
+      "id": "x09",
+      "company_a": "only-office",
+      "company_b": "alibaba-cloud",
+      "relationship_type": "complementarity_hypothesis",
+      "statement": {
+        "en": "A custom-model document workflow could evaluate Qwen as one candidate backend. Direct integration was not verified.",
+        "ru": "В документообороте с собственной моделью можно проверить Qwen как один из бэкендов. Прямая интеграция не подтверждена."
+      },
+      "supporting_fact_ids": [
+        "onlyoffice-integration",
+        "alibaba-integration"
+      ],
+      "source_ids": [
+        "onlyoffice-developer",
+        "alibaba-qwen-api"
+      ],
+      "source_urls": [
+        "https://www.onlyoffice.com/for-developers",
+        "https://docs.modelstudio.console.alibabacloud.com/en/model-studio/first-api-call-to-qwen"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Does a minimal document workflow preserve permissions, formatting and data-location requirements?",
+        "ru": "Сохраняет ли минимальный документный сценарий права, форматирование и требования к местонахождению данных?"
+      },
+      "risk_or_boundary": {
+        "en": "OpenAI-compatible APIs do not guarantee full application compatibility or data residency.",
+        "ru": "OpenAI-совместимый API не гарантирует полную совместимость приложения или локализацию данных."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    },
+    {
+      "id": "x10",
+      "company_a": "elastic",
+      "company_b": "eleven-labs",
+      "relationship_type": "complementarity_hypothesis",
+      "statement": {
+        "en": "A custom agent tool could query an enterprise search service for grounded responses.",
+        "ru": "Пользовательский инструмент агента может обращаться к корпоративному поиску для ответов с опорой на данные."
+      },
+      "supporting_fact_ids": [
+        "elastic-offering",
+        "eleven-integration"
+      ],
+      "source_ids": [
+        "elastic-product",
+        "eleven-tools"
+      ],
+      "source_urls": [
+        "https://www.elastic.co/elasticsearch",
+        "https://elevenlabs.io/docs/eleven-agents/customization/tools"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Can retrieval enforce the caller identity, return citations and meet the conversation latency budget?",
+        "ru": "Может ли поиск учитывать личность вызывающего, возвращать источники и укладываться в задержку диалога?"
+      },
+      "risk_or_boundary": {
+        "en": "Search relevance is not authorization; indexed documents may contain untrusted instructions.",
+        "ru": "Релевантность поиска не равна авторизации; индексируемые документы могут содержать недоверенные инструкции."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    },
+    {
+      "id": "x11",
+      "company_a": "atlan",
+      "company_b": "xenonstack",
+      "relationship_type": "complementarity_hypothesis",
+      "statement": {
+        "en": "An implementation provider could use governed context when delivering business-system agents.",
+        "ru": "Интегратор может использовать управляемый контекст при внедрении агентов бизнес-систем."
+      },
+      "supporting_fact_ids": [
+        "atlan-integration",
+        "xenon-offering"
+      ],
+      "source_ids": [
+        "atlan-connectors",
+        "xenon-home"
+      ],
+      "source_urls": [
+        "https://atlan.com/connectors/",
+        "https://www.xenonstack.com/"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Is the proposed division of responsibility clear for metadata quality, agent logic and authorization?",
+        "ru": "Ясно ли распределена ответственность за качество метаданных, логику агента и авторизацию?"
+      },
+      "risk_or_boundary": {
+        "en": "Both may provide overlapping integration work; commercial fit and ownership are unresolved.",
+        "ru": "Обе стороны могут выполнять пересекающиеся интеграционные работы; коммерческая совместимость и ответственность не определены."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    },
+    {
+      "id": "x12",
+      "company_a": "snowflake",
+      "company_b": "haptik-ai",
+      "relationship_type": "complementarity_hypothesis",
+      "statement": {
+        "en": "A customer-service workflow could evaluate governed enterprise retrieval as a backend.",
+        "ru": "Сценарий клиентского обслуживания может проверить управляемый корпоративный поиск как бэкенд."
+      },
+      "supporting_fact_ids": [
+        "snowflake-integration",
+        "haptik-integration"
+      ],
+      "source_ids": [
+        "snowflake-search",
+        "haptik-integrations"
+      ],
+      "source_urls": [
+        "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/cortex-search-overview",
+        "https://www.haptik.ai/platform/integrations"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Can only approved knowledge be exposed, with no unintended customer-record leakage?",
+        "ru": "Можно ли предоставлять только разрешённые знания без непреднамеренной утечки клиентских записей?"
+      },
+      "risk_or_boundary": {
+        "en": "No native Snowflake–Haptik connector or production architecture was verified.",
+        "ru": "Нативный коннектор Snowflake–Haptik или промышленная архитектура не подтверждены."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    },
+    {
+      "id": "x13",
+      "company_a": "eleven-labs",
+      "company_b": "haptik-ai",
+      "relationship_type": "competitive_overlap_inference",
+      "statement": {
+        "en": "Both advertise conversational customer-service agents; evaluate as potential alternatives before assuming complementarity.",
+        "ru": "Обе компании предлагают разговорных агентов обслуживания; сначала сравнить их как возможные альтернативы, не предполагая взаимодополнение."
+      },
+      "supporting_fact_ids": [
+        "eleven-offering",
+        "haptik-offering"
+      ],
+      "source_ids": [
+        "eleven-agents",
+        "haptik-home"
+      ],
+      "source_urls": [
+        "https://elevenlabs.io/agents",
+        "https://www.haptik.ai/"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Where do channel coverage, deployment, tool controls and human-handoff requirements differ?",
+        "ru": "Чем различаются охват каналов, развёртывание, контроль инструментов и требования передачи человеку?"
+      },
+      "risk_or_boundary": {
+        "en": "Shared category does not prove equal capabilities, pricing or substitutability.",
+        "ru": "Общая категория не доказывает равенство возможностей, цен или взаимозаменяемость."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    },
+    {
+      "id": "x14",
+      "company_a": "snowflake",
+      "company_b": "elastic",
+      "relationship_type": "competitive_overlap_inference",
+      "statement": {
+        "en": "Both support enterprise retrieval use cases, creating an architectural comparison rather than automatic synergy.",
+        "ru": "Обе платформы поддерживают корпоративный поиск; это повод сравнить архитектуры, а не автоматически объединять их."
+      },
+      "supporting_fact_ids": [
+        "snowflake-integration",
+        "elastic-offering"
+      ],
+      "source_ids": [
+        "snowflake-search",
+        "elastic-product"
+      ],
+      "source_urls": [
+        "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/cortex-search-overview",
+        "https://www.elastic.co/elasticsearch"
+      ],
+      "accessed_on": "2026-10-26",
+      "validation_question": {
+        "en": "Should retrieval stay with existing data or use a separate index, given permissions, freshness, latency and cost?",
+        "ru": "Оставить поиск рядом с данными или использовать отдельный индекс с учётом прав, актуальности, задержки и стоимости?"
+      },
+      "risk_or_boundary": {
+        "en": "Overlap in retrieval does not make the full platforms equivalent.",
+        "ru": "Пересечение в поиске не делает платформы полностью эквивалентными."
+      },
+      "company_interest_confirmed": false,
+      "commercial_partnership_confirmed": false
+    }
+  ]
+}
