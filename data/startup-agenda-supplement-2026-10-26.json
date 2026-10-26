@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0",
+  "event": "Dubai AI Festival 2026",
+  "observed_at_utc": "2026-10-26T05:25:19Z",
+  "independently_rechecked_on": "2026-10-26",
+  "timezone": "Asia/Dubai",
+  "utc_offset": "+04:00",
+  "source_method": "Public official webpages; visible-text extraction without authentication.",
+  "coverage_note": {
+    "en": "Selected Startup Stage schedule observations, not a full festival programme or a confirmed live schedule.",
+    "ru": "Выборочные наблюдения о программе Startup Stage, не полная программа фестиваля и не подтверждённое расписание в реальном времени."
+  },
+  "source_register": [
+    {
+      "source_id": "startup-agenda",
+      "url": "https://dubaiaifestival.com/start-up-agenda/",
+      "access_date": "2026-10-26",
+      "locator": "Startup Stage Agenda header; 26 October section and running order; 27 October section",
+      "access": "public"
+    },
+    {
+      "source_id": "conference-agenda",
+      "url": "https://dubaiaifestival.com/agenda/",
+      "access_date": "2026-10-26",
+      "locator": "10:00–11:00 Startups Stage workshop entry; page shows 26 Oct / 27 Oct filters",
+      "access": "public"
+    }
+  ],
+  "oct26": {
+    "date": "2026-10-26",
+    "date_status": "explicit_on_dedicated_page",
+    "venue": "Dubai World Trade Centre",
+    "stage": "Startup Stage",
+    "stand": "E70",
+    "startup_presentations_window": "11:15–17:00",
+    "slot_minutes": 5,
+    "source_id": "startup-agenda"
+  },
+  "morning_workshop_observations": [
+    {
+      "source_id": "conference-agenda",
+      "date": null,
+      "date_status": "not_unambiguously_bound_to_entry_in_flat_text",
+      "start_local": "10:00",
+      "end_local": "11:00",
+      "topic_summary": {
+        "en": "AI-agent championship workshop",
+        "ru": "Мастер-класс о чемпионате ИИ-агентов"
+      },
+      "organiser": "Dubai Chamber of Digital Economy"
+    },
+    {
+      "source_id": "startup-agenda",
+      "date": "2026-10-26",
+      "date_status": "explicit_day_section",
+      "start_local": "10:00",
+      "end_local": "11:00",
+      "topic_summary": {
+        "en": "Creating and designing with Canva AI",
+        "ru": "Создание материалов и дизайн с Canva AI"
+      },
+      "organiser": "Dubai Chamber of Digital Economy"
+    },
+    {
+      "source_id": "startup-agenda",
+      "date": "2026-10-27",
+      "date_status": "explicit_day_section",
+      "start_local": "10:00",
+      "end_local": "11:00",
+      "topic_summary": {
+        "en": "AI-agent championship workshop",
+        "ru": "Мастер-класс о чемпионате ИИ-агентов"
+      },
+      "organiser": "Dubai Chamber of Digital Economy"
+    }
+  ],
+  "morning_workshop_resolution": {
+    "status": "unresolved",
+    "note": {
+      "en": "The general agenda and dedicated startup page do not give a consistently date-bound morning-workshop view in the inspected extraction. Do not assign the general-agenda entry to 26 October from its position. Confirm the topic and day with the stage screen or helpdesk.",
+      "ru": "Общая программа и отдельная страница стартапов не дают согласованной и однозначно привязанной к дате картины утреннего мастер-класса в просмотренной выгрузке текста. Нельзя относить запись общей программы к 26 октября по её позиции. Уточните тему и день на экране сцены или у справочной стойки."
+    }
+  },
+  "oct27_additional_blocks": [
+    {
+      "date": "2026-10-27",
+      "start_local": "11:00",
+      "end_local": "12:00",
+      "organiser": "Al Futtaim",
+      "type": {
+        "en": "Hackathon launch",
+        "ru": "Запуск хакатона"
+      },
+      "source_id": "startup-agenda"
+    },
+    {
+      "date": "2026-10-27",
+      "start_local": "12:00",
+      "end_local": "13:00",
+      "organiser": "du Business",
+      "type": {
+        "en": "Pitch competition",
+        "ru": "Конкурс питчей"
+      },
+      "source_id": "startup-agenda"
+    },
+    {
+      "date": "2026-10-27",
+      "start_local": "13:00",
+      "end_local": "14:00",
+      "organiser": "ICC",
+      "type": {
+        "en": "Pitch competition",
+        "ru": "Конкурс питчей"
+      },
+      "source_id": "startup-agenda"
+    },
+    {
+      "date": "2026-10-27",
+      "start_local": "14:00",
+      "end_local": "15:00",
+      "organiser": "AI Office x Emirates",
+      "type": {
+        "en": "Pitch competition",
+        "ru": "Конкурс питчей"
+      },
+      "source_id": "startup-agenda"
+    }
+  ],
+  "cautions": [
+    {
+      "en": "Times are Dubai local time. Onsite changes remain possible.",
+      "ru": "Время местное, Дубай. На площадке возможны изменения."
+    },
+    {
+      "en": "Stand E70 is explicit in the 26 October header; the 27 October blocks appear later on the same page without a repeated stand heading.",
+      "ru": "Стенд E70 явно указан в заголовке 26 октября; блоки 27 октября идут ниже на той же странице без повторного указания стенда."
+    },
+    {
+      "en": "Competition entry, registration rules, eligibility and the presence of investors or judges have not been established here.",
+      "ru": "Доступ к конкурсам, правила регистрации, право участия и присутствие инвесторов или судей здесь не установлены."
+    },
+    {
+      "en": "Some running-order and detail-card names differ. No personal identities or company-floorplan matches are resolved in this supplement.",
+      "ru": "Некоторые имена и названия в таблице выступлений и подробных карточках различаются. Этот материал не устанавливает личности и не сопоставляет компании с планом стендов."
+    },
+    {
+      "en": "Topic summaries are paraphrases; follow the source pages for original session titles. No speaker biographies, contacts or authenticated records are included.",
+      "ru": "Темы переданы кратким пересказом; исходные названия сессий смотрите на страницах источников. Биографии, контакты и записи из закрытых систем не включены."
+    }
+  ]
+}

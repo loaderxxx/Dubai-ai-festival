@@ -17,6 +17,7 @@
 | Which sources support them? / Какие источники их подтверждают? | [Original source register](sources.json) | 23 official source documents / 23 официальных документа |
 | What connects the original companies? / Что связывает исходную выборку? | [Edges JSON](crossresearch.json) · [CSV](crossresearch.csv) | 14 typed relationships; not 14 partnerships / 14 связей, не 14 партнёрств |
 | Where is the richer study? / Где расширенное исследование? | [Expanded research registers](value-chain/README.md) | 18 selected companies, evidence and relationships / 18 компаний, доказательства и связи |
+| What does the public Startup Stage page list? / Что указано в публичной программе стартапов? | [Agenda supplement JSON](startup-agenda-supplement-2026-10-26.json) · [EN](../research/en/startup-agenda.md) · [RU](../research/ru/startup-agenda.md) | Selected blocks and unresolved date/topic ambiguity; not the full programme / Выборочные блоки и неразрешённая неоднозначность дня/темы; не вся программа |
 | What was checked locally? / Что проверено локально? | [Baseline validation report](validation-report.json) | Original data integrity; not fresh web verification / Целостность исходной базы, не проверка сайтов |
 | How was the original universe counted? / Как посчитана исходная база? | [Baseline summary](baseline-summary.json) | Original normalization counts and limitations / Исходные числа и ограничения |
 

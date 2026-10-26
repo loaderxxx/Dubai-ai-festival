@@ -15,6 +15,7 @@ An independent, public-source research showcase: what selected exhibitors offer,
 | 🔗 **Which connections are documented?** | [Documented links and boundaries](research/en/value-chains.md#documented-links-and-their-limits) · [Original 14 edges](research/en/crossresearch.md) | Documented product links, proposed combinations and competitive overlap — kept distinct |
 | 📋 **Who is on the public floorplan?** | [Complete candidate roster](research/en/roster.md) | All 248 candidate organization labels with stand assignments and combined research status |
 | 🧪 **What could a real workflow look like?** | [Three reference workflows](research/en/value-chains.md#three-workflows-to-make-the-map-useful) | Operations, conversation-to-work and a connected-building incident — all explicitly hypothetical |
+| 🗓️ **What is listed for the Startup Stage?** | [Public agenda supplement](research/en/startup-agenda.md) | Selected 26–27 October blocks, Dubai times and an unresolved morning-workshop discrepancy |
 | 🔎 **Can I inspect the evidence?** | [Sources and claim policy](docs/en/source-policy.md) · [Data guide](data/README.md) | Source registers, claim boundaries, machine-readable files and reproducibility |
 
 ## The research, at a glance
