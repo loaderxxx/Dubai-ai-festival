@@ -18,6 +18,8 @@ An independent, public-source research showcase: what selected exhibitors offer,
 | 🗓️ **What is listed for the Startup Stage?** | [Public agenda supplement](research/en/startup-agenda.md) | Selected 26–27 October blocks, Dubai times and an unresolved morning-workshop discrepancy |
 | 🔎 **Can I inspect the evidence?** | [Sources and claim policy](docs/en/source-policy.md) · [Data guide](data/README.md) | Source registers, claim boundaries, machine-readable files and reproducibility |
 
+**New standalone company deep dive:** [Planytics AI and VERA™](research/en/spotlights/planytics-ai.md) (S69). This is an additional public-source report, not part of the 18-company comparison sample or its statistics.
+
 ## The research, at a glance
 
 | Layer | Coverage | What the number means |
