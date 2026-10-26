@@ -1,4 +1,4 @@
-**Latest: [five deep profiles, including KB Financial Group, Kira AI and Integra](../deep-profiles/README.md).** Current union: 20/248 floorplan candidates have a profile; 228 remain; 3 additional profiled entities are outside that snapshot. The historical study below retains its original scope.
+**Latest: [ImposterHunter priority research and all Platinum sponsors](../deep-profiles/imposterhunter-platinum/README.md).** Six deep profiles on this branch; 21/248 floorplan candidates with any profile, 227 remaining; 3 additional profiled entities outside the snapshot. Historical studies below keep their original scope.
 
 # Research field guide
 

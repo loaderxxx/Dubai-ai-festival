@@ -2,21 +2,23 @@
   "schema_version": "1.0",
   "reviewed_on": "2026-10-26",
   "public_only": true,
-  "scope": "Union of historical baseline, expanded briefs, organizer deep profiles and sponsor batch 01; brand candidates are not verified legal-company counts.",
+  "scope": "This research branch: historical baseline, expanded briefs, organizer/sponsor deep profiles, ImposterHunter priority profile and current Platinum roster audit; not legal-company counts or a claim to merge separate research branches.",
   "counts": {
     "floorplan_organization_candidates": 248,
     "initial_profiles": 12,
     "expanded_briefs": 18,
-    "deep_desk_profiles": 5,
-    "floorplan_candidates_with_any_profile": 20,
-    "floorplan_candidates_without_profile": 228,
-    "floorplan_candidates_without_deep_profile": 246,
+    "deep_desk_profiles": 6,
+    "floorplan_candidates_with_any_profile": 21,
+    "floorplan_candidates_without_profile": 227,
+    "floorplan_candidates_without_deep_profile": 245,
     "profiled_entities_outside_floorplan": 3,
-    "distinct_profiled_brand_candidates": 23,
+    "distinct_profiled_brand_candidates": 24,
     "sponsor_tier_assets_in_inventory": 17,
-    "sponsor_deep_profiles_completed_in_this_block": 3,
+    "sponsor_deep_profiles_completed_in_this_block": 0,
     "sponsor_deep_profiles_total": 3,
-    "sponsor_tier_assets_pending_deep_profile": 14
+    "sponsor_tier_assets_pending_deep_profile": 14,
+    "platinum_publicly_listed_brands": 1,
+    "platinum_deep_profiles_reviewed": 1
   },
   "readiness": {
     "public_source_desk_block_complete": true,
@@ -25,7 +27,7 @@
     "procurement_ready": false,
     "legal_identities_all_verified": false,
     "outreach_sent": false,
-    "sponsor_research_status": "KB Financial Group, Kira AI and Integra desk profiles complete; 14 sponsor-tier assets pending.",
+    "sponsor_research_status": "Three of 17 sponsor-tier assets have deep profiles; all one publicly listed Platinum brand (Kira AI) revalidated. ImposterHunter is separately profiled; tier not established.",
     "remaining_gates": [
       "Resolve service contracting entities and current quotes",
       "Validate delivery appetite, budget owner and partner onboarding",
@@ -34,7 +36,8 @@
       "Maintain separate sponsor/partner/pavilion identities; resolve Mantika domain binding",
       "Reconcile Kira architecture, policy and platform availability statements",
       "Select KB subsidiary and current procurement/open-innovation route",
-      "Confirm Integra delivery scope, current vendor credentials and contract terms"
+      "Confirm Integra delivery scope, current vendor credentials and contract terms",
+      "ImposterHunter full API contract, permitted evaluation scope, current signed data terms, deployment sizing and independent outcome validation"
     ]
   },
   "records": [
@@ -831,8 +834,14 @@
       "company_id": "imposter-hunter",
       "label": "Imposter Hunter",
       "in_floorplan_universe": true,
-      "depth": "inventory_only",
-      "profile_links": null
+      "depth": "deep_desk_profile",
+      "profile_links": {
+        "en": "companies/imposterhunter/profile.en.md",
+        "ru": "companies/imposterhunter/profile.ru.md"
+      },
+      "canonical_brand": "ImposterHunter",
+      "official_domain": "https://imposterhunter.com/",
+      "sponsor_tier": "UNKNOWN"
     },
     {
       "company_id": "inspire-tech",

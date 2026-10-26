@@ -1,3 +1,5 @@
+**Historical sponsor batch 01.** [Current index and coverage](../README.md).
+
 # Sponsor deep profiles — batch 01
 
 [Русская версия](README.ru.md) · [All deep profiles](../README.md)

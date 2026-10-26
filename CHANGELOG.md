@@ -12,3 +12,7 @@
 ## 2026-10-26 — Sponsor deep profiles, batch 01
 
 Added public EN/RU profiles and evidence/service/competitor matrices for KB Financial Group, Kira AI and Integra; eight typed cross-company combinations, readiness and updated coverage. Five deep profiles in total; 20/248 floorplan candidates have any profile, 228 remain, and three profiled entities are outside that snapshot. Integra is not merged with Advanced Integration. Historical 12/18-profile datasets retain their original scope. No private contacts, commercial notes or outreach.
+
+## 2026-10-26 — ImposterHunter and complete public Platinum tier
+
+Added a deep bilingual ImposterHunter profile, short shareable briefs, service/competitor matrices and evidence register. Rechecked the whole publicly displayed Platinum category: one brand, Kira AI. Refreshed Kira Android listing date to 26 October 2026 while preserving earlier 23 October observation. Current coverage in this branch: 6 deep profiles, 21/248 floorplan candidates with any profile, 227 without; 3 outside. ImposterHunter sponsorship tier remains unknown and is not counted as Platinum. No outreach or runtime tests.

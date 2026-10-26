@@ -480,5 +480,27 @@
       "prior_brief": "none_in_18_company_study",
       "identity_blocker": "Exact legal identity and official domain need confirmation"
     }
+  ],
+  "platinum_audit": {
+    "checked_on": "2026-10-26",
+    "official_source": "https://dubaiaifestival.com/sponsors/",
+    "publicly_listed_brands": 1,
+    "reviewed_brands": [
+      "Kira AI"
+    ],
+    "boundary": "Platinum Sponsor heading to Strategic Partners; decorative Line-gradient.svg excluded",
+    "scope_limit": "Publicly displayed tier only; unpublished contracts unknown",
+    "report": "research/deep-profiles/imposterhunter-platinum/platinum.en.md"
+  },
+  "additional_priority_profiles": [
+    {
+      "label": "ImposterHunter",
+      "company_id": "imposter-hunter",
+      "floorplan_label": "Imposter Hunter",
+      "snapshot_stand": "G113",
+      "sponsor_tier": "UNKNOWN",
+      "note": "No matching placement found in current public sponsor roster; not added to sponsor-tier asset count.",
+      "profile": "companies/imposterhunter/profile.en.md"
+    }
   ]
 }

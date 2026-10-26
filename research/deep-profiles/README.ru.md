@@ -1,24 +1,22 @@
-# Глубокие профили — организаторы и спонсоры
-
-**Новый блок: [KB Financial Group, Kira AI и Integra](sponsors-01/README.ru.md).** Всего пять глубоких профилей; материалы организаторов ниже сохранены в границах первого блока.
+# Глубокие профили — организаторы, спонсоры и приоритетные компании
 
 [English](README.md) · [Атлас](../../README.ru.md)
 
-Законченный блок кабинетного исследования, проверено **26 октября 2026 года**. Независимый анализ открытых источников; компании не получали сообщений, продукты не тестировались, аккаунты не создавались. Завершённое исследование не означает готовность к закупке или приёмку поставщика.
+**Новое: [ImposterHunter и все публично перечисленные Platinum-спонсоры](imposterhunter-platinum/README.ru.md).** Проверено 26 октября 2026 года. В этой исследовательской ветке шесть законченных кабинетных профилей; это не испытания продукта и не готовность к закупке.
 
-| Профиль | Содержание | Данные |
-|---|---|---|
-| [Dubai AI Campus](../../companies/dubai-ai-campus/profile.ru.md) | Инициатива DIFC, лицензирование, рабочие места, Academy, корпоративные инновации, альтернативы и ограниченные гипотезы улучшений | [Источники](../../companies/dubai-ai-campus/sources.json) · [Услуги](../../companies/dubai-ai-campus/service-matrix.csv) · [Альтернативы](../../companies/dubai-ai-campus/competitor-matrix.csv) |
-| [Terrapinn](../../companies/terrapinn/profile.ru.md) | Управление мероприятием, билеты, экспонирование и спонсорство, действующий AI, ограничения приложения/данных и альтернативы | [Источники](../../companies/terrapinn/sources.json) · [Услуги](../../companies/terrapinn/service-matrix.csv) · [Альтернативы](../../companies/terrapinn/competitor-matrix.csv) |
+| Компания | Источники и матрицы |
+|---|---|
+| [Dubai AI Campus](../../companies/dubai-ai-campus/profile.ru.md) | [Sources](../../companies/dubai-ai-campus/sources.json) · [Services](../../companies/dubai-ai-campus/service-matrix.csv) · [Alternatives](../../companies/dubai-ai-campus/competitor-matrix.csv) |
+| [Terrapinn](../../companies/terrapinn/profile.ru.md) | [Sources](../../companies/terrapinn/sources.json) · [Services](../../companies/terrapinn/service-matrix.csv) · [Alternatives](../../companies/terrapinn/competitor-matrix.csv) |
+| [KB Financial Group](../../companies/kb-financial-group/profile.ru.md) | [Sources](../../companies/kb-financial-group/sources.json) · [Services](../../companies/kb-financial-group/service-matrix.csv) · [Alternatives](../../companies/kb-financial-group/competitor-matrix.csv) |
+| [Kira AI](../../companies/kira-ai/profile.ru.md) | [Sources](../../companies/kira-ai/sources.json) · [Services](../../companies/kira-ai/service-matrix.csv) · [Alternatives](../../companies/kira-ai/competitor-matrix.csv) |
+| [Integra](../../companies/integra/profile.ru.md) | [Sources](../../companies/integra/sources.json) · [Services](../../companies/integra/service-matrix.csv) · [Alternatives](../../companies/integra/competitor-matrix.csv) |
+| [ImposterHunter](../../companies/imposterhunter/profile.ru.md) | [Sources](../../companies/imposterhunter/sources.json) · [Services](../../companies/imposterhunter/service-matrix.csv) · [Alternatives](../../companies/imposterhunter/competitor-matrix.csv) |
 
-[Инвентаризация и следующая очередь](inventory.ru.md) · [Шесть межкорпоративных связок](cross-research.ru.md) · [Матрица компания × слой](company-layer-matrix.csv) · [Текущее покрытие](../../coverage.json) · [Готовность](readiness.ru.md)
+[Краткий ImposterHunter для отправки](../../companies/imposterhunter/brief.en.md) · [Проверка Platinum: Kira AI, один из одного](imposterhunter-platinum/platinum.ru.md) · [Спонсорский блок 01](sponsors-01/README.ru.md) · [Роли и очередь](inventory.ru.md) · [Текущее покрытие](../../coverage.json)
 
-## Что меняет исследование
+В датированном срезе плана **21/248** кандидатов имеют любой профиль, **227** не имеют, **3/248** изучены с этой глубиной. Ещё **3** изученные сущности вне плана. Первые 12 профилей входят в 18 расширенных обзоров; пересекающиеся слои не складываются. В реестре 17 изображений спонсорских уровней, у 3 есть глубокие профили. Уровень ImposterHunter неизвестен. Другие ветки могут содержать дополнительные работы; индекс описывает собственное дерево.
 
-Campus стоит оценивать как экосистему, обучение и путь регистрации бизнеса. Terrapinn — как оператора мероприятий и канал дистрибуции, у которого уже есть AI-процессы. Не следует строить предложение на предположении, что у них вообще нет AI. Курсы, лицензии, билеты, права внедрения и результаты клиентов относятся к разным категориям доказательств. Подробности с источниками находятся в профилях.
+[Сочетания организаторов](cross-research.ru.md) · [Сочетания спонсоров](sponsors-01/cross-research.ru.md) · [Сочетания по безопасности](imposterhunter-platinum/cross-research.ru.md)
 
-**Срез блока организаторов (до спонсорского блока 01):** Подготовлены **2 глубоких профиля** в дополнение к прежним **18 расширенным обзорам**. Среди плана **19 из 248 кандидатов имеют какой-либо профиль**, **229 не имеют**; Terrapinn — дополнительная организация вне этой выборки плана. Новая глубина есть только у **1 из 248**. Инвентаризация уровней содержит **17 спонсорских изображений** и **17 партнёрских/павильонных**; глубокие профили спонсоров в этом блоке ещё не делались. Эти разные показатели нельзя складывать.
-
-## Правила доказательств
-
-Сохранены FACT / VENDOR CLAIM / INFERENCE / PROPOSAL / UNKNOWN. Реестры открытых источников содержат даты проверки, место опоры и уверенность. EN/RU содержат эквивалентные факты, числа и ссылки. Политика приватности не является сертификатом, анонс не является независимо измеренным кейсом, документация API не даёт права доступа. Личный fit, коммерческий рейтинг, оценки трудозатрат и неотправленные письма исключены из публичного блока.
+Разделены FACT / VENDOR CLAIM / INFERENCE / PROPOSAL / UNKNOWN. Датированный источник и опубликованный кейс не равны независимому тестированию. Факты, числа и ссылки EN/RU согласованы. Личные контакты, коммерческий рейтинг, оценки пилотов и неотправленные письма хранятся приватно.

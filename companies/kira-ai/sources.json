@@ -75,7 +75,11 @@
       "source_type": "developer-supplied app-store primary",
       "confidence": "high for publication; vendor delivery unverified",
       "supported_claims": "Android listing; KIRA AI LTD Dubai identity; 50+ download bucket; developer collection/sharing declaration",
-      "verification": "Public retrieval only; no login, installation, form submission, operational API test or outreach"
+      "verification": "Public retrieval only; no login, installation, form submission, operational API test or outreach",
+      "latest_displayed_update_date": "2026-10-26",
+      "previous_displayed_update_date": "2026-10-23",
+      "rechecked_on": "2026-10-26",
+      "limitations": "Displayed store update date changed in a later same-day read. Platform listing is not a runtime test; publisher and data-safety declarations are supplier-provided."
     },
     {
       "id": "KI07",

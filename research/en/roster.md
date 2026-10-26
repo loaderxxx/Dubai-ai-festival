@@ -1,4 +1,4 @@
-**Latest: [five deep profiles, including KB Financial Group, Kira AI and Integra](../deep-profiles/README.md).** Current union: 20/248 floorplan candidates have a profile; 228 remain; 3 additional profiled entities are outside that snapshot. The historical study below retains its original scope.
+**Latest: [ImposterHunter priority research and all Platinum sponsors](../deep-profiles/imposterhunter-platinum/README.md).** Six deep profiles on this branch; 21/248 floorplan candidates with any profile, 227 remaining; 3 additional profiled entities outside the snapshot. Historical studies below keep their original scope.
 
 # Complete public candidate roster
 
@@ -124,7 +124,7 @@ This is not a verified legal-company count. A public profile can include an unce
 | 106 | Haptik AI | G77 | [Initial + expanded](value-chains.md#haptik) | [Official source](https://www.haptik.ai/) |
 | 107 | Hatchio | S146 | Not profiled | — |
 | 108 | Hive Technologies | G62 | Not profiled | — |
-| 109 | Imposter Hunter | G113 | Not profiled | — |
+| 109 | Imposter Hunter | G113 | Deep desk profile — current update | [EN](../../companies/imposterhunter/profile.en.md) · [RU](../../companies/imposterhunter/profile.ru.md) |
 | 110 | Inspire Tech | S101 | Not profiled | — |
 | 111 | Interloom | S168 | Not profiled | — |
 | 112 | Isovia | G85 | Not profiled | — |

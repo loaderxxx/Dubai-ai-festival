@@ -1,0 +1,8 @@
+entity,models,infrastructure,data,governance,agents,vertical_apps,delivery,distribution,ecosystem
+ImposterHunter (supplier-claimed classifier and screening),1,0,1,1,0,0,0,0,0
+Kira AI,0,0,1,1,1,1,0,1,0
+Integra,0,1,1,1,1,0,1,1,0
+KB Financial Group / affiliates,0,0,1,1,1,1,1,1,1
+Dubai AI Campus,0,1,0,0,0,0,1,1,1
+Terrapinn,0,0,0,0,0,0,1,1,1
+AWS (hosting and guardrail scope),0,1,1,1,0,0,0,0,0

@@ -1,5 +1,7 @@
 # Inventory and research sequence
 
+**Current update:** [ImposterHunter priority profile and Platinum revalidation](imposterhunter-platinum/README.md). The current public Platinum category has one brand, Kira AI, reviewed. ImposterHunter tier remains unknown. [Current coverage](../../coverage.json).
+
 **Update — sponsor batch 01 complete:** KB Financial Group, Kira AI and Integra now have [deep profiles](sponsors-01/README.md). The table records prior 18-company coverage; current statuses are in role-inventory.json. Next: Mantika, Mistral, Redington.
 
 Checked: 26 October 2026. Independent public-source research.

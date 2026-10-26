@@ -1,24 +1,22 @@
-# Deep profiles — organizers and sponsors
-
-**Latest block: [KB Financial Group, Kira AI and Integra](sponsors-01/README.md).** Five deep profiles total; organizer material below is retained with its original block scope.
+# Deep profiles — organizers, sponsors and priority companies
 
 [Русская версия](README.ru.md) · [Atlas](../../README.md)
 
-Completed desk-research block, checked **26 October 2026**. Independent analysis based on public sources; no company outreach, product tests or account creation. A finished research block is not vendor acceptance or procurement readiness.
+**Latest: [ImposterHunter and all publicly listed Platinum sponsors](imposterhunter-platinum/README.md).** Checked 26 October 2026. Six complete desk profiles on this research branch; no runtime testing or procurement acceptance implied.
 
-| Profile | What it covers | Data |
-|---|---|---|
-| [Dubai AI Campus](../../companies/dubai-ai-campus/profile.en.md) | DIFC initiative, licensing, workspace, Academy, corporate innovation, alternatives and bounded improvement hypotheses | [Sources](../../companies/dubai-ai-campus/sources.json) · [Services](../../companies/dubai-ai-campus/service-matrix.csv) · [Alternatives](../../companies/dubai-ai-campus/competitor-matrix.csv) |
-| [Terrapinn](../../companies/terrapinn/profile.en.md) | Event management, passes, exhibition and sponsor routes, incumbent AI, app/data boundaries and alternatives | [Sources](../../companies/terrapinn/sources.json) · [Services](../../companies/terrapinn/service-matrix.csv) · [Alternatives](../../companies/terrapinn/competitor-matrix.csv) |
+| Company | Evidence and matrices |
+|---|---|
+| [Dubai AI Campus](../../companies/dubai-ai-campus/profile.en.md) | [Sources](../../companies/dubai-ai-campus/sources.json) · [Services](../../companies/dubai-ai-campus/service-matrix.csv) · [Alternatives](../../companies/dubai-ai-campus/competitor-matrix.csv) |
+| [Terrapinn](../../companies/terrapinn/profile.en.md) | [Sources](../../companies/terrapinn/sources.json) · [Services](../../companies/terrapinn/service-matrix.csv) · [Alternatives](../../companies/terrapinn/competitor-matrix.csv) |
+| [KB Financial Group](../../companies/kb-financial-group/profile.en.md) | [Sources](../../companies/kb-financial-group/sources.json) · [Services](../../companies/kb-financial-group/service-matrix.csv) · [Alternatives](../../companies/kb-financial-group/competitor-matrix.csv) |
+| [Kira AI](../../companies/kira-ai/profile.en.md) | [Sources](../../companies/kira-ai/sources.json) · [Services](../../companies/kira-ai/service-matrix.csv) · [Alternatives](../../companies/kira-ai/competitor-matrix.csv) |
+| [Integra](../../companies/integra/profile.en.md) | [Sources](../../companies/integra/sources.json) · [Services](../../companies/integra/service-matrix.csv) · [Alternatives](../../companies/integra/competitor-matrix.csv) |
+| [ImposterHunter](../../companies/imposterhunter/profile.en.md) | [Sources](../../companies/imposterhunter/sources.json) · [Services](../../companies/imposterhunter/service-matrix.csv) · [Alternatives](../../companies/imposterhunter/competitor-matrix.csv) |
 
-[Inventory and next research sequence](inventory.en.md) · [Six cross-company combinations](cross-research.en.md) · [Company × layer CSV](company-layer-matrix.csv) · [Current coverage](../../coverage.json) · [Readiness](readiness.en.md)
+[ImposterHunter brief to share](../../companies/imposterhunter/brief.en.md) · [Platinum audit: Kira AI, one of one](imposterhunter-platinum/platinum.en.md) · [Sponsor batch 01](sponsors-01/README.md) · [Role inventory and queue](inventory.en.md) · [Current coverage](../../coverage.json)
 
-## What this changes
+Across the dated floorplan snapshot, **21/248** candidates have any profile, **227** have none, and **3/248** have this depth. Another **3** profiled entities are outside that snapshot. The original 12 profiles are included within the 18 expanded briefs; do not add overlapping layers. The sponsor-role inventory has 17 tier assets, of which 3 have deep profiles. ImposterHunter's tier remains unknown. Other branches may contain additional work; this index describes its own tree.
 
-Campus should be evaluated as an ecosystem, education and establishment route. Terrapinn should be evaluated as an event operator and distribution route with existing AI workflows. Neither should be approached as though it lacks all AI capability. Courses, licences, passes, implementation rights and customer outcomes are different evidence categories. Details and sources are linked inside each profile.
+[Organizer combinations](cross-research.en.md) · [Sponsor combinations](sponsors-01/cross-research.en.md) · [Security combinations](imposterhunter-platinum/cross-research.en.md)
 
-**Organizer-block snapshot (before sponsor batch 01):** The organizer block contains **2 deep profiles**, alongside the earlier **18 expanded briefs**. Across the floorplan, **19 of 248 candidates have some profile** and **229 have none**; Terrapinn is an additional entity outside that floorplan universe. Only **1 of the 248** has this new depth. The tier inventory contains **17 sponsor assets** and **17 partner/pavilion assets**; no sponsor has received a full deep profile in this block. Do not add these different counts.
-
-## Evidence rules
-
-FACT / VENDOR CLAIM / INFERENCE / PROPOSAL / UNKNOWN are retained. Public source registers include verification dates, evidence locations and confidence. EN/RU profiles carry equivalent facts, numbers and source links. Privacy policies are not certifications; announcements are not independently evaluated cases; generic API documentation is not authorization. Personal fit, commercial ranking, pilot effort and unsent message drafts are excluded from this public block.
+FACT / VENDOR CLAIM / INFERENCE / PROPOSAL / UNKNOWN remain explicit. A dated source or published case is not an independent product test. EN/RU profiles carry equivalent facts, numbers and source links. Personal contacts, commercial ranking, pilot estimates and unsent drafts are held privately.

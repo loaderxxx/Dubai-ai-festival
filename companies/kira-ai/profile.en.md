@@ -1,5 +1,7 @@
 # Kira AI — personal and team assistant workspace
 
+**Later same-day refresh:** the Android store now displays 26 October 2026 as its update date; the earlier check displayed 23 October 2026. This records listing metadata, not a runtime/binary test. [Platinum audit](../../research/deep-profiles/imposterhunter-platinum/platinum.en.md).
+
 [Русская версия](profile.ru.md) · [Source register](sources.json) · [Services](service-matrix.csv) · [Alternatives](competitor-matrix.csv)
 
 Independent public atlas, checked **26 October 2026, Asia/Dubai**. Extended public-source research; no account, installation, transaction or operational test. **FACT** identifies an observed publication; **VENDOR CLAIM** describes untested supplier assertions; **INFERENCE** is analysis; **PROPOSAL** is an unvalidated improvement; **UNKNOWN** means unresolved evidence. Festival participation does not imply endorsement.
@@ -16,7 +18,7 @@ Five decision facts:
 
 1. **FACT:** Free, Individual and Business prices are publicly listed. [KI07](https://kiraai.ai/platform/pricing/)
 2. **VENDOR CLAIM:** Email Agent includes CRM/pipeline functions already. [KI08](https://kiraai.ai/platform/email-agents/)
-3. **FACT:** Android has a public listing updated **23 October 2026**; the download portal marks iOS **Under review**. [KI06](https://play.google.com/store/apps/details?id=ai.kiraai.app) · [KI09](https://kiradownloads.kiraai.ai/)
+3. **FACT:** Android has a public listing updated **26 October 2026**; the download portal marks iOS **Under review**. [KI06](https://play.google.com/store/apps/details?id=ai.kiraai.app) · [KI09](https://kiradownloads.kiraai.ai/)
 4. **FACT:** published certification status is **SOC 2 Type II in progress**, **ISO/IEC 27001 planned**. [KI10](https://kiraai.ai/legal/security-compliance/)
 5. **FACT:** Sage, Sentinel and Warden are presented as models in development, not delivered model options. [KI11](https://kiraai.ai/product/models/)
 

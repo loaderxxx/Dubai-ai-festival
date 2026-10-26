@@ -1,0 +1,157 @@
+{
+  "checked_on": "2026-10-26",
+  "timezone": "Asia/Dubai",
+  "scope": "Public-source desk research and offline integrity; no runtime/API test or independent assurance",
+  "issues": [],
+  "profiles": {
+    "profile": {
+      "source_records": 30,
+      "en_words": 3320,
+      "ru_words": 3077,
+      "url_multiset_parity": true,
+      "numeric_counter_parity": true,
+      "section_ids": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M"
+      ]
+    },
+    "brief": {
+      "source_records": 30,
+      "en_words": 326,
+      "ru_words": 295,
+      "url_multiset_parity": true,
+      "numeric_counter_parity": true
+    },
+    "platinum": {
+      "source_records": 11,
+      "en_words": 574,
+      "ru_words": 535,
+      "url_multiset_parity": true,
+      "numeric_counter_parity": true
+    }
+  },
+  "csv_rows": {
+    "companies/imposterhunter/competitor-matrix.csv": 6,
+    "companies/imposterhunter/service-matrix.csv": 9,
+    "research/deep-profiles/imposterhunter-platinum/company-layer-matrix.csv": 7
+  },
+  "coverage_derived_from_records": {
+    "floorplan": 248,
+    "covered": 21,
+    "deep_floorplan": 3,
+    "deep_total": 6,
+    "outside_profiled": 3
+  },
+  "platinum": {
+    "officially_listed_brands": 1,
+    "reviewed_brands": [
+      "Kira AI"
+    ],
+    "imposterhunter_tier": "UNKNOWN"
+  },
+  "private_boundary_review": "Private badge/QR, contact phone, encounter transcript, Human Network identifiers and founder-specific proposals excluded. Published business-role inboxes retained with official sources.",
+  "checks": {
+    "validate_public_research.py": {
+      "exit_code": 0,
+      "details": {
+        "result": "PASS",
+        "checked_on": "2026-10-26",
+        "scope": "Local data integrity, bilingual fields, provenance references, exact row conservation, classifications, CSV parity and relative links; not live web verification.",
+        "counts": {
+          "floorplan_rows": 264,
+          "labels": 262,
+          "organization_candidates": 248,
+          "initial_profiles": 12,
+          "not_profiled": 236,
+          "official_sources": 23,
+          "facts": 37,
+          "crossresearch_edges": 14
+        },
+        "private_attendee_data_used": false,
+        "legal_company_count_established": false
+      }
+    },
+    "validate_navigation.py": {
+      "exit_code": 0,
+      "details": {
+        "result": "PASS",
+        "scope": "Offline relative files, Markdown heading anchors, image alt labels and SVG structure only; not live web/source verification.",
+        "counts": {
+          "markdown_files": 63,
+          "links": 1973,
+          "heading_links": 170,
+          "image_embeds": 8,
+          "svg_files": 6
+        },
+        "errors": []
+      }
+    },
+    "audit_public_tree.py": {
+      "exit_code": 0,
+      "details": {
+        "result": "PASS",
+        "scope": "Local public-source boundary markers, credential patterns, UTF-8/JSON, local Markdown paths and passive self-contained SVGs; not source completeness or independent privacy certification.",
+        "files_checked": 126,
+        "local_links_checked": 757,
+        "heading_anchors_checked": 170,
+        "svg_assets_checked": 6,
+        "errors": [],
+        "warnings": [
+          "Email-like text requires human review: companies/kb-financial-group/profile.ru.md",
+          "Email-like text requires human review: companies/kb-financial-group/profile.en.md",
+          "Email-like text requires human review: companies/kb-financial-group/sources.json",
+          "Email-like text requires human review: companies/dubai-ai-campus/profile.ru.md",
+          "Email-like text requires human review: companies/dubai-ai-campus/profile.en.md",
+          "Email-like text requires human review: companies/kira-ai/profile.ru.md",
+          "Email-like text requires human review: companies/kira-ai/profile.en.md",
+          "Email-like text requires human review: companies/kira-ai/sources.json",
+          "Email-like text requires human review: companies/imposterhunter/profile.ru.md",
+          "Email-like text requires human review: companies/imposterhunter/profile.en.md",
+          "Email-like text requires human review: companies/terrapinn/profile.ru.md",
+          "Email-like text requires human review: companies/terrapinn/profile.en.md"
+        ]
+      }
+    },
+    "validate_value_chain.py": {
+      "exit_code": 0,
+      "details": {
+        "result": "PASS",
+        "scope": "Local public baseline joins, coverage union, claim/source/edge integrity, EN/RU fields and report sources, CSV parity; not live web or integration testing.",
+        "counts": {
+          "companies": 18,
+          "used_official_sources": 38,
+          "claim_records": 61,
+          "relationship_records": 21,
+          "documented_integration_links": 4,
+          "vendor_named_alliances": 2,
+          "advertised_offering_links": 1,
+          "analyst_hypotheses": 7,
+          "analyst_overlaps": 7,
+          "current_unprofiled_candidates": 230
+        }
+      }
+    }
+  },
+  "limitations": [
+    "No product operation, live API, customer reference call, independent benchmark, legal opinion or procurement approval",
+    "Local link validation is not exhaustive live-source availability verification",
+    "Original historical validators retain their 12/18-profile scope; current union is separately derived from coverage.json",
+    "Private dataset validator not rerun: original private datasets are inherited unchanged and checked by remote blob SHA on publication"
+  ],
+  "readiness": {
+    "public_desk_research_complete": true,
+    "outreach_sent": false,
+    "runtime_tested": false,
+    "procurement_ready": false
+  },
+  "result": "PASS"
+}

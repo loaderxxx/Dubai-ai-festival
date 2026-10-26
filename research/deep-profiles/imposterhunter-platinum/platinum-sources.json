@@ -1,0 +1,144 @@
+{
+  "scope": "All publicly listed Platinum sponsors on official Dubai AI Festival 2026 roster; no unpublished-contract proof",
+  "as_of": "2026-10-26",
+  "timezone": "Asia/Dubai",
+  "publicly_listed_platinum_count": 1,
+  "reviewed_count": 1,
+  "brands": [
+    "Kira AI"
+  ],
+  "sources": [
+    {
+      "id": "PL01",
+      "url": "https://dubaiaifestival.com/sponsors/",
+      "access_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "published_date": null,
+      "locator": "2026 Sponsors; Platinum Sponsor heading through next Strategic Partners heading",
+      "source_type": "event primary",
+      "confidence": "high for displayed publication; delivery unverified",
+      "supported_claims": "Exactly one Platinum brand image; decorative divider excluded; preceding AI Innovation Partner and following Strategic Partners not counted",
+      "verification": "Fresh parsed web page and raw HTTP200 HTML; one Platinum heading; src images in bounded section enumerated"
+    },
+    {
+      "id": "PL02",
+      "url": "https://dubaiaifestival.com/wp-content/uploads/2026/10/kira_ai_logo_2x.webp",
+      "access_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "published_date": null,
+      "locator": "Official asset within Platinum section",
+      "source_type": "event image primary",
+      "confidence": "high for displayed publication; delivery unverified",
+      "supported_claims": "Kira brand asset bound to Platinum slot by PL01",
+      "verification": "Official link32 resolved; raw HTTP200 image/webp,11042bytes; no local artifact written"
+    },
+    {
+      "id": "PL03",
+      "url": "https://dubaiaifestival.com/agenda/",
+      "access_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "published_date": null,
+      "locator": "Kira product launch; Delcado Clarke Founder & CEO Kira AI",
+      "source_type": "event programme primary",
+      "confidence": "high for displayed publication; delivery unverified",
+      "supported_claims": "Explicit official brand/name cross-check; programme does not by itself establish sponsor tier or delivered presentation",
+      "verification": "Fresh public page retrieved; session location around lines278–294"
+    },
+    {
+      "id": "PL04",
+      "url": "https://kiraai.ai/platform/pricing/",
+      "access_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "published_date": null,
+      "locator": "Plans; comparison; Business minimum; call-minutes FAQ",
+      "source_type": "vendor commercial primary",
+      "confidence": "high for displayed publication; delivery unverified",
+      "supported_claims": "Current prices and annual totals/discount;3seat minimum; token/call allowances; no material price change versus earlier same-date research",
+      "verification": "Fresh non-www retrieval; www via integration-page footer also retrieved; no purchase or trial"
+    },
+    {
+      "id": "PL05",
+      "url": "https://play.google.com/store/apps/details?id=ai.kiraai.app",
+      "access_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "published_date": "2026-10-26",
+      "locator": "Updated on field; Kira AI Ltd; website/support link",
+      "source_type": "developer-supplied app-store primary",
+      "confidence": "high for displayed publication; delivery unverified",
+      "supported_claims": "Android public listing now displays Oct26,2026; earlier atlas check saw Oct23; no installed-version validation",
+      "verification": "Fresh public retrieval (Germany English presentation); displayed date only"
+    },
+    {
+      "id": "PL06",
+      "url": "https://kiradownloads.kiraai.ai/",
+      "access_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "published_date": null,
+      "locator": "Android/iOS platform cards",
+      "source_type": "vendor download primary",
+      "confidence": "high for displayed publication; delivery unverified",
+      "supported_claims": "Android download route; iOS Under review",
+      "verification": "Raw public HTTP200 using urllib; no installers downloaded or executed"
+    },
+    {
+      "id": "PL07",
+      "url": "https://www.kiraai.ai/product/specifications/",
+      "access_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "published_date": null,
+      "locator": "Where Kira Actually Runs table",
+      "source_type": "vendor technical-description primary",
+      "confidence": "high for displayed publication; delivery unverified",
+      "supported_claims": "Web/Mac/Windows advertised available; iOS/Android still Planned",
+      "verification": "Fresh public page retrieved; no operational test"
+    },
+    {
+      "id": "PL08",
+      "url": "https://www.kiraai.ai/product/models/",
+      "access_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "published_date": null,
+      "locator": "Coming soon; Models; Status",
+      "source_type": "vendor roadmap primary",
+      "confidence": "high for displayed publication; delivery unverified",
+      "supported_claims": "Sage/Sentinel/Warden in development; Sage not yet available",
+      "verification": "Fresh public page retrieved; no model access requested"
+    },
+    {
+      "id": "PL09",
+      "url": "https://www.kiraai.ai/integrations/",
+      "access_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "published_date": null,
+      "locator": "60+; connection flow; Privacy by architecture; Developers",
+      "source_type": "vendor integration marketing primary",
+      "confidence": "high for displayed publication; delivery unverified",
+      "supported_claims": "60+claimed integrations; local-first/OAuth/zero-knowledge; illustrative Connect snippet; no executable API documentation established",
+      "verification": "Fresh public page retrieved; Read the docs remains button in parsed content; no credentials/endpoints tested"
+    },
+    {
+      "id": "PL10",
+      "url": "https://www.kiraai.ai/legal/security-compliance/",
+      "access_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "published_date": "2026-06",
+      "locator": "Certifications and Frameworks; Sub-Processors; Encryption",
+      "source_type": "vendor security/legal primary",
+      "confidence": "high for displayed publication; delivery unverified",
+      "supported_claims": "SOC2TypeII in progress; ISO27001planned; encryption/controls/dependencies are vendor disclosures; no certification upgrade found",
+      "verification": "Public page retrieved after transient direct-open errors; raw HTTP200 both www/non-www agree on decision-critical content"
+    },
+    {
+      "id": "PL11",
+      "url": "https://kiraai.ai/platform/regional-compliance/",
+      "access_date": "2026-10-26",
+      "access_timezone": "Asia/Dubai",
+      "published_date": null,
+      "locator": "Data Residency table; residency scope versus inference",
+      "source_type": "vendor regional/legal primary",
+      "confidence": "high for displayed publication; delivery unverified",
+      "supported_claims": "US/EU storage options; inference may leave selected region; UAE-local processing not established",
+      "verification": "Fresh public page retrieved; no legal conclusion or hosting test"
+    }
+  ]
+}
