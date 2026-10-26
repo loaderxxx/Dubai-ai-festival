@@ -31,6 +31,10 @@ Evidence counts are per study and overlap; do not add the two rows into a unique
 
 The current roster combines both layers. Original data files preserve the **12-profile baseline**; the separate current-coverage register tracks all 18 covered companies and the remaining 230. [Coverage, definitions and remaining work →](docs/en/research-status.md)
 
+## Private archive — aggregate only
+
+As of **26 October 2026**, the owner's private research repository holds a **partial capture of 14,787 unique attendee profile cards**. This owner-approved aggregate is a count of profile cards—not a complete attendee census, verified onsite attendance, verified phone contacts or personal acquaintances. **Personal profiles and contact details are intentionally not published here.**
+
 ## A map of roles, not a map of promises
 
 ![Six nonexclusive analyst groups: build and run — AWS and Alibaba Cloud; govern and retrieve — Atlan, Snowflake, Elastic and Apgar; business workflows — ClickUp, ONLYOFFICE, XenonStack and Sia; converse and serve — ElevenLabs and Haptik; connected buildings — PlaceOS, Smart Spaces and Watergate; evaluate and enable — Applause, Macgence and DataCamp. No partnership links are implied.](assets/ecosystem-map.svg)

@@ -15,6 +15,10 @@
 
 The public floorplan was captured at **2026-10-26 03:30:39 UTC**. That timestamp establishes when the labels were observed, not when an exhibitor's attendance was verified. [Original provenance and counting rules](public-baseline.md) · [Current machine-readable coverage](../../data/research-coverage.json)
 
+## Private archive — aggregate only
+
+As of **26 October 2026**, the owner's private research repository holds a **partial capture of 14,787 unique attendee profile cards**. This owner-approved aggregate is a count of profile cards—not a complete attendee census, verified onsite attendance, verified phone contacts or personal acquaintances. **Personal profiles and contact details are intentionally not published here.**
+
 ## What changed in the expansion
 
 The original 12-company group is **AWS, Alibaba Cloud, Atlan, ClickUp, Elastic, ElevenLabs, Snowflake, Haptik, ONLYOFFICE, Applause, PlaceOS and XenonStack**.
