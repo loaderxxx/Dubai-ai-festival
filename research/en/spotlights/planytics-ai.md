@@ -2,6 +2,8 @@
 
 [Research Atlas](../../../README.md) · [English guide](../README.md) · [Русская версия](../../ru/spotlights/planytics-ai.md) · [Source policy](../../../docs/en/source-policy.md)
 
+[Machine-readable evidence supplement](../../../data/research-supplements/planytics-ai.json)
+
 **Review date:** 26 October 2026 · **Event candidate:** Planytics AI · **Public floorplan stand:** S69 · **Candidate ID:** `planytics-ai`
 
 **Scope:** A standalone company deep dive **outside** the original 12-profile dataset and the selected 18-company value-chain study. The 18-company study's denominators and original machine-readable evidence have not been rewritten. This is not a lead assessment, collaboration announcement, independent product audit, or a verified record of the founder's personal interactions. Public sources only.
