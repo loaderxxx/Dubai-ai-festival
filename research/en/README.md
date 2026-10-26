@@ -28,6 +28,8 @@ These are nonexclusive **analyst categories**, not an official event taxonomy or
 
 ## Company directory
 
+**Additional standalone company study (outside the selected 18-company comparison):** [Planytics AI — VERA™, supply-chain agents and public evidence](spotlights/planytics-ai.md) · S69. The original structured baseline and 18-company value-chain counts remain unchanged.
+
 **18 companies in the expanded study; 12 also have an original structured profile.** This is a selected research sample, not full event coverage or a ranking. Stands come from the public snapshot, not an onsite attendance check. Original floorplan spellings remain visible where names differ.
 
 | Company | Floorplan label · stand | Expanded brief | Original profile |
