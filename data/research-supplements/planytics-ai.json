@@ -1,0 +1,147 @@
+{
+  "id": "planytics-ai",
+  "name": "Planytics AI",
+  "stand": "S69",
+  "reviewed_on": "2026-10-26",
+  "record_type": "standalone_public_source_research_supplement",
+  "scope": "NOT counted in original 12 profiles or expanded 18-company study",
+  "source_policy": "docs/en/source-policy.md",
+  "identity": {
+    "official_domain": "https://planytics.ai/",
+    "legal_name": "Planytics Solutions Private Limited",
+    "legal_name_source": "https://respark.iitm.ac.in/Planytics-AI",
+    "location": "Chennai, India",
+    "incorporation_year": 2019,
+    "identity_confidence": "third_party_directory_and_first_party_site_match"
+  },
+  "technology": {
+    "agent_name": "VERA",
+    "expanded_name": "Virtual Enterprise Resolution Agent",
+    "category": "ontology-based supply chain decision orchestration",
+    "api_open_documentation_verified": false,
+    "external_agent_integration_verified": false
+  },
+  "claims": [
+    {
+      "key": "saas_live_since",
+      "value": "2023",
+      "type": "vendor_claim",
+      "source": "https://planytics.ai/",
+      "caveat": "Distinct from maturity of newer autonomous VERA agents"
+    },
+    {
+      "key": "customer_locations",
+      "value": "30+",
+      "type": "vendor_claim",
+      "source": "https://planytics.ai/",
+      "caveat": "Not independently verified"
+    },
+    {
+      "key": "daily_transactions",
+      "value": "800K+",
+      "type": "vendor_claim",
+      "source": "https://planytics.ai/",
+      "caveat": "Not audited in review"
+    },
+    {
+      "key": "active_users",
+      "value": "200+",
+      "type": "vendor_claim",
+      "source": "https://planytics.ai/",
+      "caveat": "Not independently verified"
+    },
+    {
+      "key": "agent_replenishment",
+      "value": "Live",
+      "type": "vendor_product_status",
+      "source": "https://planytics.ai/",
+      "caveat": "Agent-wise deployment scope not independently confirmed"
+    },
+    {
+      "key": "agent_replanning",
+      "value": "In beta testing",
+      "type": "vendor_product_status",
+      "source": "https://planytics.ai/",
+      "caveat": "Do not state broadly live"
+    },
+    {
+      "key": "agent_esg",
+      "value": "In Development",
+      "type": "vendor_product_status",
+      "source": "https://planytics.ai/",
+      "caveat": "Not available for proven production claim"
+    },
+    {
+      "key": "agent_pricing",
+      "value": "In Development",
+      "type": "vendor_product_status",
+      "source": "https://planytics.ai/",
+      "caveat": "Not available for proven production claim"
+    },
+    {
+      "key": "arjas_savings",
+      "value": "USD 90,000+ cleared in Q1",
+      "type": "vendor_case_study",
+      "source": "https://planytics.ai/case-study-arjas-steel",
+      "caveat": "25% inventory reduction is a target, not achieved"
+    },
+    {
+      "key": "apollo_working_capital",
+      "value": "About USD 400,000 released",
+      "type": "vendor_case_study",
+      "source": "https://planytics.ai/case-study-healthcare",
+      "caveat": "No independent audit found"
+    },
+    {
+      "key": "pilot",
+      "value": "30 days fixed fee, one location",
+      "type": "vendor_pricing_statement",
+      "source": "https://planytics.ai/pricing",
+      "caveat": "Price amount undisclosed"
+    },
+    {
+      "key": "certifications",
+      "value": "ISO 27001:2022 and ISO 42001:2023",
+      "type": "vendor_claim",
+      "source": "https://planytics.ai/security",
+      "caveat": "Verify actual certificates and scope"
+    },
+    {
+      "key": "soc2",
+      "value": "Q4 2026 target",
+      "type": "vendor_plan_not_certification",
+      "source": "https://planytics.ai/security",
+      "caveat": "Do not treat as completed"
+    },
+    {
+      "key": "legal_identity",
+      "value": "Planytics Solutions Private Limited; Chennai; 2019",
+      "type": "third_party_institution_directory",
+      "source": "https://respark.iitm.ac.in/Planytics-AI",
+      "caveat": "Not a government registry extract"
+    },
+    {
+      "key": "festival_presentation",
+      "value": "Badhrinath Kidambi scheduled 2026-10-26 13:20 Dubai local",
+      "type": "event_organizer_schedule",
+      "source": "https://dubaiaifestival.com/start-up-agenda/",
+      "caveat": "Scheduled, not confirmed delivered"
+    }
+  ],
+  "relationship_hypotheses": [
+    {
+      "type": "possible_complementarity_not_confirmed",
+      "description": "An authorized human-facing assistant might query VERA read-only if an approved API exists.",
+      "preconditions": [
+        "documented interface",
+        "data contract",
+        "user permission checks",
+        "explicit action approval",
+        "pilot acceptance test"
+      ],
+      "relationship_confirmed": false
+    }
+  ],
+  "private_contact_information_included": false,
+  "participant_app_data_used": false
+}
