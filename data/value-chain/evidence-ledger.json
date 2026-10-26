@@ -1,0 +1,1615 @@
+{
+  "schema_version": "1.0",
+  "retrieved_on": "2026-10-26",
+  "claim_count": 61,
+  "source_count": 38,
+  "source_scope": "Official vendor sources only; floorplan provenance is per-company in companies.json.",
+  "sources": [
+    {
+      "id": "aws-agentcore",
+      "url": "https://aws.amazon.com/bedrock/agentcore/",
+      "title": "Amazon Bedrock AgentCore",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Overview; Connect across your stack; Debug faster",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "aws-classic",
+      "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html",
+      "title": "Amazon Bedrock Agents documentation",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Maintenance-mode notice at top",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "alibaba-genai",
+      "url": "https://www.alibabacloud.com/en/solutions/generative-ai",
+      "title": "Alibaba Cloud for Generative AI",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Overview; GenAI Development; Model Studio",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "alibaba-qwen-api",
+      "url": "https://www.alibabacloud.com/help/en/model-studio/first-api-call-to-qwen",
+      "title": "Make your first API call to Qwen",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_documentation_search_extract",
+      "evidence_locator": "Opening description; API compatibility",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true,
+      "retrieval_note": "Original console-doc URL exceeded fetch size. Official Documentation Center search extract independently confirmed OpenAI-compatible APIs and DashScope on 2026-10-26."
+    },
+    {
+      "id": "atlan-home",
+      "url": "https://atlan.com/",
+      "title": "Atlan",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Enterprise Context Layer; business systems; enterprise customers",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "clickup-brain",
+      "url": "https://clickup.com/brain",
+      "title": "ClickUp Brain",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "AI tasks, projects and workspace context",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "clickup-api",
+      "url": "https://developer.clickup.com/",
+      "title": "ClickUp developer portal",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Public API; MCP; webhooks; OAuth",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "clickup-webhooks",
+      "url": "https://developer.clickup.com/docs/webhooks",
+      "title": "ClickUp webhooks",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Scope; signature; task events",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "elastic-product",
+      "url": "https://www.elastic.co/elasticsearch",
+      "title": "Elasticsearch",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Search; observability; security; deployment options",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "eleven-agents",
+      "url": "https://elevenlabs.io/agents",
+      "title": "ElevenLabs Agents",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Support, sales and operational use cases; configuration and testing",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "eleven-tools",
+      "url": "https://elevenlabs.io/docs/eleven-agents/customization/tools",
+      "title": "ElevenLabs tools",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Client, webhook, code, MCP and system tools",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "snowflake-ai",
+      "url": "https://www.snowflake.com/en/product/ai/",
+      "title": "Snowflake for AI",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Data agents; unstructured data; ML workflows",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "snowflake-search",
+      "url": "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/cortex-search-overview",
+      "title": "Cortex Search documentation",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Overview; use cases; REST API example",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "haptik-home",
+      "url": "https://www.haptik.ai/",
+      "title": "Jio Haptik",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Support, sales, booking and lead qualification agents; industries",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "haptik-integrations",
+      "url": "https://www.haptik.ai/platform/integrations",
+      "title": "Haptik integrations",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "CRM and live chat; API integration; Salesforce, HubSpot and Zendesk",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "onlyoffice-developer",
+      "url": "https://www.onlyoffice.com/for-developers",
+      "title": "ONLYOFFICE Docs Developer",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Embedded editing; APIs; connectors; AI-ready",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "applause-eval",
+      "url": "https://www.applause.com/ai-evaluation-and-benchmarking/",
+      "title": "Applause AI Evaluation & Benchmarking",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Evaluation service; enterprise QA; domain experts",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "applause-agentic",
+      "url": "https://www.applause.com/agentic-ai-testing/",
+      "title": "Applause Agentic AI Testing",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Trace, tool-call, retrieval and task-completion evaluation",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "placeos-home",
+      "url": "https://www.placeos.com/",
+      "title": "PlaceOS",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Platform overview; products; drivers and APIs",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "xenon-home",
+      "url": "https://www.xenonstack.com/",
+      "title": "XenonStack",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Foundry; domains; integration list",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "xenon-snowflake",
+      "url": "https://www.xenonstack.com/ai-agents/snowflake-ai-agents/",
+      "title": "XenonStack Snowflake AI Agents",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Integration offering; use cases; not a verified performance benchmark",
+      "caution": "Vendor descriptions are evidence of the advertised offering, not independent performance validation.",
+      "provenance": "public_baseline_2026-10-26",
+      "rechecked_in_showcase": true
+    },
+    {
+      "id": "atlan-snowflake-crawl",
+      "url": "https://docs.atlan.com/apps/connectors/data-warehouses/snowflake/how-tos/crawl-snowflake",
+      "title": "How to crawl Snowflake in Atlan",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_documentation",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Opening description; Provide credentials; Configure connection; Configure crawler",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "elastic-bedrock-api",
+      "url": "https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-inference-put-amazonbedrock",
+      "title": "Create an Amazon Bedrock inference endpoint",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_documentation",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Endpoint overview; required authorization; task_type; key rotation note",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "elastic-alibaba-api",
+      "url": "https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-inference-put-alibabacloud",
+      "title": "Create an AlibabaCloud AI Search inference endpoint",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_documentation",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Endpoint overview; task_type; request examples",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "apgar-home",
+      "url": "https://apgar-group.com/",
+      "title": "Apgar: Data and AI partner",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Expertise; Business Solutions; ApgarIA",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "apgar-quality",
+      "url": "https://apgar-group.com/our-expertise/data-quality/",
+      "title": "Data Quality Management",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Data Quality Management: Build Trusted Data Across Your Organization",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "apgar-integration",
+      "url": "https://apgar-group.com/our-expertise/data-integration/",
+      "title": "Data Integration",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "How we can help you; Functional Architecture; Software Architecture",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "datacamp-business",
+      "url": "https://www.datacamp.com/business/",
+      "title": "DataCamp for Business",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Enterprise-wide learning; custom curriculum; blended learning",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "datacamp-integration",
+      "url": "https://www.datacamp.com/business/integration",
+      "title": "LMS, SSO and Enterprise Integrations",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "SSO; LMS/LXP/HRMS integrations; Data Connector; FAQ plan limitation",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "macgence-home",
+      "url": "https://macgence.com/",
+      "title": "AI training data services",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "official_vendor_search_extract",
+      "evidence_locator": "AI Training Data; Language Services; Build AI",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment.",
+      "retrieval_note": "Search returned substantive official-page text; a subsequent direct open timed out. About page read directly."
+    },
+    {
+      "id": "macgence-about",
+      "url": "https://macgence.com/our-company/about-us/",
+      "title": "About Macgence",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "AI Data Services, Language Services, AI Engineering; human-in-the-loop",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "sia-ai",
+      "url": "https://www.sia-partners.com/en/about-us/siaai",
+      "title": "Sia AI",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Sia Applied Intelligence; Agent Store; Sia Forward; Our Tech accelerators. Direct /siaai read used over the older /heka redirect snapshot.",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment.",
+      "retrieval_note": "Legacy /en/about-us/heka redirected to a cached older four-pillar view. Direct /en/about-us/siaai was re-read; final claims use its Applied Intelligence, Sia Forward, Agent Store and named alliance text."
+    },
+    {
+      "id": "smartspaces-os",
+      "url": "https://www.smartspaces.app/smart-building-os/",
+      "title": "Smart Building OS",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Facility Management; Analytics; Digital Twin; Master Systems Integrator",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "smartspaces-ssi",
+      "url": "https://www.smartspaces.app/software-systems-integrator/",
+      "title": "Software Systems Integrator",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "What is an SSI?; Validating your building networks",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "smartspaces-watergate",
+      "url": "https://www.smartspaces.app/our-partners/watergate/",
+      "title": "Watergate: Integration Partner",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor_partner_documentation",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Integration Partner; Technical compatibility: API; integration description",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "watergate-home",
+      "url": "https://watergate.ai/",
+      "title": "Watergate: Smart water leak detection",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_vendor",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Products: Sonic, Server, Mobile App, Dashboard; integrations navigation",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "watergate-docs",
+      "url": "https://docs.watergate.ai/home/",
+      "title": "Watergate developer documentation",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_documentation",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Cloud API; Local API; reference materials",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    },
+    {
+      "id": "watergate-local",
+      "url": "https://docs.watergate.ai/api/local/",
+      "title": "Sonic local API",
+      "accessed_on": "2026-10-26",
+      "source_type": "official_documentation",
+      "retrieval_method": "public_official_page_read",
+      "evidence_locator": "Get valve state; Set valve state",
+      "provenance": "showcase_primary_research",
+      "rechecked_in_showcase": true,
+      "caution": "Vendor statements establish advertised capabilities, not independent performance or a customer deployment."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "aws-offering",
+      "company_ids": [
+        "aws"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "aws-agentcore"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "aws",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "aws-integration_surface",
+      "company_ids": [
+        "aws"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "aws-agentcore",
+        "elastic-bedrock-api"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "aws",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "alibaba-cloud-offering",
+      "company_ids": [
+        "alibaba-cloud"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "alibaba-genai"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "alibaba-cloud",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "alibaba-cloud-integration_surface",
+      "company_ids": [
+        "alibaba-cloud"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "alibaba-qwen-api",
+        "elastic-alibaba-api"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "alibaba-cloud",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "atlan-offering",
+      "company_ids": [
+        "atlan"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "atlan-home"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "atlan",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "atlan-integration_surface",
+      "company_ids": [
+        "atlan"
+      ],
+      "evidence_class": "official_documentation_or_documented_interface",
+      "source_ids": [
+        "atlan-snowflake-crawl"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "atlan",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "snowflake-offering",
+      "company_ids": [
+        "snowflake"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "snowflake-ai",
+        "snowflake-search"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "snowflake",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "snowflake-integration_surface",
+      "company_ids": [
+        "snowflake"
+      ],
+      "evidence_class": "official_documentation_or_documented_interface",
+      "source_ids": [
+        "atlan-snowflake-crawl",
+        "snowflake-search"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "snowflake",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "elastic-offering",
+      "company_ids": [
+        "elastic"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "elastic-product"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "elastic",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "elastic-integration_surface",
+      "company_ids": [
+        "elastic"
+      ],
+      "evidence_class": "official_documentation_or_documented_interface",
+      "source_ids": [
+        "elastic-bedrock-api",
+        "elastic-alibaba-api"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "elastic",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "clickup-offering",
+      "company_ids": [
+        "clickup"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "clickup-brain"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "clickup",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "clickup-integration_surface",
+      "company_ids": [
+        "clickup"
+      ],
+      "evidence_class": "official_documentation_or_documented_interface",
+      "source_ids": [
+        "clickup-api",
+        "clickup-webhooks"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "clickup",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "only-office-offering",
+      "company_ids": [
+        "only-office"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "onlyoffice-developer"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "only-office",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "only-office-integration_surface",
+      "company_ids": [
+        "only-office"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "onlyoffice-developer"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "only-office",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "eleven-labs-offering",
+      "company_ids": [
+        "eleven-labs"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "eleven-agents"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "eleven-labs",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "eleven-labs-integration_surface",
+      "company_ids": [
+        "eleven-labs"
+      ],
+      "evidence_class": "official_documentation_or_documented_interface",
+      "source_ids": [
+        "eleven-tools"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "eleven-labs",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "haptik-ai-offering",
+      "company_ids": [
+        "haptik-ai"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "haptik-home"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "haptik-ai",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "haptik-ai-integration_surface",
+      "company_ids": [
+        "haptik-ai"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "haptik-integrations"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "haptik-ai",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "placeos-offering",
+      "company_ids": [
+        "placeos"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "placeos-home"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "placeos",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "placeos-integration_surface",
+      "company_ids": [
+        "placeos"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "placeos-home"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "placeos",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "smart-spaces-offering",
+      "company_ids": [
+        "smart-spaces"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "smartspaces-os"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "smart-spaces",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "smart-spaces-integration_surface",
+      "company_ids": [
+        "smart-spaces"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "smartspaces-watergate",
+        "smartspaces-ssi"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "smart-spaces",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "watergate-offering",
+      "company_ids": [
+        "watergate"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "watergate-home"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "watergate",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "watergate-integration_surface",
+      "company_ids": [
+        "watergate"
+      ],
+      "evidence_class": "official_documentation_or_documented_interface",
+      "source_ids": [
+        "watergate-docs",
+        "watergate-local",
+        "smartspaces-watergate"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "watergate",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "applause-offering",
+      "company_ids": [
+        "applause"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "applause-eval"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "applause",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "applause-integration_surface",
+      "company_ids": [
+        "applause"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "applause-agentic"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "applause",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "macgence-offering",
+      "company_ids": [
+        "macgence"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "macgence-home",
+        "macgence-about"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "macgence",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "macgence-integration_surface",
+      "company_ids": [
+        "macgence"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "macgence-about"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "macgence",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "datacamp-offering",
+      "company_ids": [
+        "datacamp"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "datacamp-business"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "datacamp",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "datacamp-integration_surface",
+      "company_ids": [
+        "datacamp"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "datacamp-integration"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "datacamp",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "apgar-group-offering",
+      "company_ids": [
+        "apgar-group"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "apgar-home",
+        "apgar-quality"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "apgar-group",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "apgar-group-integration_surface",
+      "company_ids": [
+        "apgar-group"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "apgar-integration"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "apgar-group",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "sia-partners-offering",
+      "company_ids": [
+        "sia-partners"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "sia-ai"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "sia-partners",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "sia-partners-integration_surface",
+      "company_ids": [
+        "sia-partners"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "sia-ai"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "sia-partners",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "xenonstack-offering",
+      "company_ids": [
+        "xenonstack"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "xenon-home"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "xenonstack",
+        "field": "offering"
+      }
+    },
+    {
+      "claim_id": "xenonstack-integration_surface",
+      "company_ids": [
+        "xenonstack"
+      ],
+      "evidence_class": "official_vendor_capability_statement",
+      "source_ids": [
+        "xenon-snowflake"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Not independently tested; source pointers include both product and technical evidence.",
+      "claim_ref": {
+        "file": "companies.json",
+        "company_id": "xenonstack",
+        "field": "integration_surface"
+      }
+    },
+    {
+      "claim_id": "r01",
+      "company_ids": [
+        "atlan",
+        "snowflake"
+      ],
+      "evidence_class": "documented_connector",
+      "source_ids": [
+        "atlan-snowflake-crawl"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Technical setup is documented; downstream user authorization and complete lineage are not proven.",
+        "ru": "Техническая настройка описана; авторизация downstream-пользователей и полнота lineage не доказаны."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r01",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r02",
+      "company_ids": [
+        "elastic",
+        "aws"
+      ],
+      "evidence_class": "documented_inference_adapter",
+      "source_ids": [
+        "elastic-bedrock-api"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "This is an Elastic inference adapter, not proof of an AgentCore integration or customer deployment.",
+        "ru": "Это адаптер инференса Elastic, а не доказательство интеграции AgentCore или внедрения у заказчика."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r02",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r03",
+      "company_ids": [
+        "elastic",
+        "alibaba-cloud"
+      ],
+      "evidence_class": "documented_inference_adapter",
+      "source_ids": [
+        "elastic-alibaba-api"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Specific service and task types; do not generalize to every Alibaba Cloud/Model Studio endpoint.",
+        "ru": "Конкретный сервис и типы задач; нельзя обобщать на все endpoints Alibaba Cloud/Model Studio."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r03",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r04",
+      "company_ids": [
+        "smart-spaces",
+        "watergate"
+      ],
+      "evidence_class": "vendor_documented_partner_integration",
+      "source_ids": [
+        "smartspaces-watergate"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Vendor documentation names the relationship; no installation, customer result or festival legal identity was verified.",
+        "ru": "Связь названа вендором; установка, результат заказчика и юридическая идентичность экспонента не проверены."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r04",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r05",
+      "company_ids": [
+        "xenonstack",
+        "snowflake"
+      ],
+      "evidence_class": "advertised_integration_offering",
+      "source_ids": [
+        "xenon-snowflake"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "An offering-page claim; connector setup, support contract and formal partner status were not validated.",
+        "ru": "Заявление страницы предложения; настройка, договор поддержки и официальный партнёрский статус не проверены."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r05",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r06",
+      "company_ids": [
+        "eleven-labs",
+        "clickup"
+      ],
+      "evidence_class": "analyst_hypothesis",
+      "source_ids": [
+        "eleven-tools",
+        "clickup-api",
+        "clickup-webhooks"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Both expose tools/APIs; no native named integration was established.",
+        "ru": "Обе стороны имеют инструменты/API; нативная именная интеграция не установлена."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r06",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r07",
+      "company_ids": [
+        "eleven-labs",
+        "placeos"
+      ],
+      "evidence_class": "analyst_hypothesis",
+      "source_ids": [
+        "eleven-tools",
+        "placeos-home"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Custom integration, identity, calendar semantics and physical-action restrictions require testing.",
+        "ru": "Собственная интеграция, идентификация, семантика календаря и ограничения физических действий требуют тестирования."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r07",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r08",
+      "company_ids": [
+        "only-office",
+        "alibaba-cloud"
+      ],
+      "evidence_class": "analyst_hypothesis",
+      "source_ids": [
+        "onlyoffice-developer",
+        "alibaba-qwen-api"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Custom-model support plus API compatibility is not a tested native connector.",
+        "ru": "Поддержка своей модели плюс совместимость API — не проверенный нативный коннектор."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r08",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r09",
+      "company_ids": [
+        "applause",
+        "eleven-labs"
+      ],
+      "evidence_class": "analyst_hypothesis",
+      "source_ids": [
+        "applause-agentic",
+        "eleven-agents"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Service complementarity, not a reported commercial partnership.",
+        "ru": "Взаимодополняемость услуг, не сообщение о коммерческом партнёрстве."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r09",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r10",
+      "company_ids": [
+        "macgence",
+        "applause"
+      ],
+      "evidence_class": "analyst_hypothesis",
+      "source_ids": [
+        "macgence-about",
+        "applause-eval"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Potential procurement division only; both vendors have evaluation/data-service overlap.",
+        "ru": "Только возможное разделение закупки; у вендоров пересекаются услуги данных и оценки."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r10",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r11",
+      "company_ids": [
+        "datacamp",
+        "snowflake"
+      ],
+      "evidence_class": "analyst_hypothesis",
+      "source_ids": [
+        "datacamp-business",
+        "snowflake-ai"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Enablement concept, not a claim of a connector, alliance or proven adoption uplift.",
+        "ru": "Концепция развития навыков, не утверждение о коннекторе, альянсе или доказанном росте принятия."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r11",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r12",
+      "company_ids": [
+        "apgar-group",
+        "atlan"
+      ],
+      "evidence_class": "analyst_hypothesis",
+      "source_ids": [
+        "apgar-quality",
+        "atlan-home"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Possible delivery pattern; no named Apgar–Atlan partnership was established.",
+        "ru": "Возможная схема реализации; именное партнёрство Apgar–Atlan не установлено."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r12",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r13",
+      "company_ids": [
+        "aws",
+        "alibaba-cloud"
+      ],
+      "evidence_class": "analyst_overlap",
+      "source_ids": [
+        "aws-agentcore",
+        "alibaba-genai"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Workload-specific alternatives; no full feature, price or regional parity claim.",
+        "ru": "Альтернативы для конкретной нагрузки; без утверждения полного паритета функций, цен или регионов."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r13",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r14",
+      "company_ids": [
+        "elastic",
+        "snowflake"
+      ],
+      "evidence_class": "analyst_overlap",
+      "source_ids": [
+        "elastic-product",
+        "snowflake-search"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Different platform boundaries; run corpus, permission, freshness and cost tests rather than a generic winner ranking.",
+        "ru": "Разные границы платформ; нужны тесты корпуса, прав, актуальности и стоимости, а не общий рейтинг победителей."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r14",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r15",
+      "company_ids": [
+        "eleven-labs",
+        "haptik-ai"
+      ],
+      "evidence_class": "analyst_overlap",
+      "source_ids": [
+        "eleven-agents",
+        "haptik-home",
+        "haptik-integrations"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Compare complete channel, handoff and integration requirements, not voice alone.",
+        "ru": "Сравнивать полный набор каналов, передачи оператору и интеграций, а не только голос."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r15",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r16",
+      "company_ids": [
+        "placeos",
+        "smart-spaces"
+      ],
+      "evidence_class": "analyst_overlap",
+      "source_ids": [
+        "placeos-home",
+        "smartspaces-os"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Installed hardware, commissioning and support may decide fit; no interoperability between the two was verified.",
+        "ru": "Выбор зависит от оборудования, пусконаладки и поддержки; взаимная совместимость не проверена."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r16",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r17",
+      "company_ids": [
+        "applause",
+        "macgence"
+      ],
+      "evidence_class": "analyst_overlap",
+      "source_ids": [
+        "applause-eval",
+        "macgence-about"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Define dataset creation, model evaluation and application acceptance separately.",
+        "ru": "Отдельно определить создание датасета, оценку модели и приёмку приложения."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r17",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r18",
+      "company_ids": [
+        "apgar-group",
+        "sia-partners"
+      ],
+      "evidence_class": "analyst_overlap",
+      "source_ids": [
+        "apgar-home",
+        "sia-ai"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Service scope and staffing matter; product catalogs do not establish equivalent delivery capability.",
+        "ru": "Важны состав услуг и команда; каталоги не доказывают равнозначность возможностей реализации."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r18",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r19",
+      "company_ids": [
+        "sia-partners",
+        "xenonstack"
+      ],
+      "evidence_class": "analyst_overlap",
+      "source_ids": [
+        "sia-ai",
+        "xenon-home"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "Compare deliverables, IP, operating responsibilities and references rather than broad AI labels.",
+        "ru": "Сравнивать результаты, IP, эксплуатационные обязанности и референсы, а не общие AI-ярлыки."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r19",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r20",
+      "company_ids": [
+        "sia-partners",
+        "aws"
+      ],
+      "evidence_class": "vendor_named_alliance_listing",
+      "source_ids": [
+        "sia-ai"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "A named vendor alliance statement, not a connector specification, partner-tier validation or local delivery commitment.",
+        "ru": "Именное заявление вендора об альянсе, не спецификация коннектора, проверка партнёрского уровня или обязательство местной реализации."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r20",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "r21",
+      "company_ids": [
+        "sia-partners",
+        "eleven-labs"
+      ],
+      "evidence_class": "vendor_named_alliance_listing",
+      "source_ids": [
+        "sia-ai"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": {
+        "en": "A named vendor alliance statement, not proof that a proposed customer workflow is already integrated.",
+        "ru": "Именное заявление вендора об альянсе, не доказательство готовой интеграции предлагаемого клиентского процесса."
+      },
+      "claim_ref": {
+        "file": "relationships.json",
+        "relationship_id": "r21",
+        "field": "statement"
+      }
+    },
+    {
+      "claim_id": "control-snowflake-owner-rights",
+      "company_ids": [
+        "snowflake"
+      ],
+      "claim": {
+        "en": "Cortex Search services execute searches with owner’s rights.",
+        "ru": "Cortex Search выполняет поиск с правами владельца."
+      },
+      "evidence_class": "official_documentation",
+      "source_ids": [
+        "snowflake-search"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "A warning for authorization design, not a claim that every deployment exposes private data."
+    },
+    {
+      "claim_id": "control-clickup-user-lifecycle",
+      "company_ids": [
+        "clickup"
+      ],
+      "claim": {
+        "en": "A ClickUp webhook stops triggering if the creating user is disabled.",
+        "ru": "Вебхук ClickUp прекращает срабатывать, если создавший его пользователь отключён."
+      },
+      "evidence_class": "official_documentation",
+      "source_ids": [
+        "clickup-webhooks"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Applies to the documented webhook lifecycle; not a general claim about all integration methods."
+    },
+    {
+      "claim_id": "control-aws-classic",
+      "company_ids": [
+        "aws"
+      ],
+      "claim": {
+        "en": "Bedrock Agents Classic documentation says the service is closed to new customers.",
+        "ru": "Документация Bedrock Agents Classic сообщает, что сервис закрыт для новых клиентов."
+      },
+      "evidence_class": "official_documentation",
+      "source_ids": [
+        "aws-classic"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Existing customers can continue use according to the same notice."
+    },
+    {
+      "claim_id": "control-elastic-key-rotation",
+      "company_ids": [
+        "elastic",
+        "aws"
+      ],
+      "claim": {
+        "en": "The documented Bedrock inference adapter requires deleting and recreating the inference endpoint to change its key pair.",
+        "ru": "В документированном адаптере Bedrock для смены пары ключей требуется удалить и заново создать endpoint инференса."
+      },
+      "evidence_class": "official_documentation",
+      "source_ids": [
+        "elastic-bedrock-api"
+      ],
+      "retrieved_on": "2026-10-26",
+      "limits": "Specific API behavior; plan and test rotation rather than applying this to every authentication method."
+    }
+  ]
+}

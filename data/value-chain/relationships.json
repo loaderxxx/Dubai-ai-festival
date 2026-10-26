@@ -1,0 +1,473 @@
+{
+  "schema_version": "1.0",
+  "retrieved_on": "2026-10-26",
+  "edge_semantics": "Company pair, not necessarily data-flow direction. All hypotheses and overlap edges are analyst interpretation.",
+  "counts": {
+    "advertised_integration_offering": 1,
+    "analyst_hypothesis": 7,
+    "analyst_overlap": 7,
+    "documented_connector": 1,
+    "documented_inference_adapter": 2,
+    "vendor_documented_partner_integration": 1,
+    "vendor_named_alliance_listing": 2
+  },
+  "relationships": [
+    {
+      "id": "r01",
+      "companies": [
+        "atlan",
+        "snowflake"
+      ],
+      "relation_type": "documented_connector",
+      "statement": {
+        "en": "Atlan documents a Snowflake metadata/lineage connector.",
+        "ru": "Atlan документирует коннектор метаданных и lineage Snowflake."
+      },
+      "evidence_boundary": {
+        "en": "Technical setup is documented; downstream user authorization and complete lineage are not proven.",
+        "ru": "Техническая настройка описана; авторизация downstream-пользователей и полнота lineage не доказаны."
+      },
+      "source_ids": [
+        "atlan-snowflake-crawl"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r02",
+      "companies": [
+        "elastic",
+        "aws"
+      ],
+      "relation_type": "documented_inference_adapter",
+      "statement": {
+        "en": "Elasticsearch documents an Amazon Bedrock inference endpoint.",
+        "ru": "Elasticsearch документирует endpoint инференса Amazon Bedrock."
+      },
+      "evidence_boundary": {
+        "en": "This is an Elastic inference adapter, not proof of an AgentCore integration or customer deployment.",
+        "ru": "Это адаптер инференса Elastic, а не доказательство интеграции AgentCore или внедрения у заказчика."
+      },
+      "source_ids": [
+        "elastic-bedrock-api"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r03",
+      "companies": [
+        "elastic",
+        "alibaba-cloud"
+      ],
+      "relation_type": "documented_inference_adapter",
+      "statement": {
+        "en": "Elasticsearch documents AlibabaCloud AI Search inference.",
+        "ru": "Elasticsearch документирует инференс AlibabaCloud AI Search."
+      },
+      "evidence_boundary": {
+        "en": "Specific service and task types; do not generalize to every Alibaba Cloud/Model Studio endpoint.",
+        "ru": "Конкретный сервис и типы задач; нельзя обобщать на все endpoints Alibaba Cloud/Model Studio."
+      },
+      "source_ids": [
+        "elastic-alibaba-api"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r04",
+      "companies": [
+        "smart-spaces",
+        "watergate"
+      ],
+      "relation_type": "vendor_documented_partner_integration",
+      "statement": {
+        "en": "Smart Spaces identifies Watergate as an API integration partner.",
+        "ru": "Smart Spaces указывает Watergate как API-интеграционного партнёра."
+      },
+      "evidence_boundary": {
+        "en": "Vendor documentation names the relationship; no installation, customer result or festival legal identity was verified.",
+        "ru": "Связь названа вендором; установка, результат заказчика и юридическая идентичность экспонента не проверены."
+      },
+      "source_ids": [
+        "smartspaces-watergate"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r05",
+      "companies": [
+        "xenonstack",
+        "snowflake"
+      ],
+      "relation_type": "advertised_integration_offering",
+      "statement": {
+        "en": "XenonStack markets Snowflake AI Agents and pre-built connectors.",
+        "ru": "XenonStack предлагает Snowflake AI Agents и готовые коннекторы."
+      },
+      "evidence_boundary": {
+        "en": "An offering-page claim; connector setup, support contract and formal partner status were not validated.",
+        "ru": "Заявление страницы предложения; настройка, договор поддержки и официальный партнёрский статус не проверены."
+      },
+      "source_ids": [
+        "xenon-snowflake"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r06",
+      "companies": [
+        "eleven-labs",
+        "clickup"
+      ],
+      "relation_type": "analyst_hypothesis",
+      "statement": {
+        "en": "Compose voice intake with an approval-gated task-creation backend.",
+        "ru": "Соединить голосовой приём с созданием задач после подтверждения."
+      },
+      "evidence_boundary": {
+        "en": "Both expose tools/APIs; no native named integration was established.",
+        "ru": "Обе стороны имеют инструменты/API; нативная именная интеграция не установлена."
+      },
+      "source_ids": [
+        "eleven-tools",
+        "clickup-api",
+        "clickup-webhooks"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r07",
+      "companies": [
+        "eleven-labs",
+        "placeos"
+      ],
+      "relation_type": "analyst_hypothesis",
+      "statement": {
+        "en": "Use a voice interface for read-only room availability, then approved booking.",
+        "ru": "Использовать голос для чтения доступности комнат, затем подтверждаемого бронирования."
+      },
+      "evidence_boundary": {
+        "en": "Custom integration, identity, calendar semantics and physical-action restrictions require testing.",
+        "ru": "Собственная интеграция, идентификация, семантика календаря и ограничения физических действий требуют тестирования."
+      },
+      "source_ids": [
+        "eleven-tools",
+        "placeos-home"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r08",
+      "companies": [
+        "only-office",
+        "alibaba-cloud"
+      ],
+      "relation_type": "analyst_hypothesis",
+      "statement": {
+        "en": "Evaluate a Qwen-backed document assistant.",
+        "ru": "Проверить документного ассистента на Qwen."
+      },
+      "evidence_boundary": {
+        "en": "Custom-model support plus API compatibility is not a tested native connector.",
+        "ru": "Поддержка своей модели плюс совместимость API — не проверенный нативный коннектор."
+      },
+      "source_ids": [
+        "onlyoffice-developer",
+        "alibaba-qwen-api"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r09",
+      "companies": [
+        "applause",
+        "eleven-labs"
+      ],
+      "relation_type": "analyst_hypothesis",
+      "statement": {
+        "en": "Commission acceptance testing for a voice-agent workflow.",
+        "ru": "Заказать приёмочные испытания процесса голосового агента."
+      },
+      "evidence_boundary": {
+        "en": "Service complementarity, not a reported commercial partnership.",
+        "ru": "Взаимодополняемость услуг, не сообщение о коммерческом партнёрстве."
+      },
+      "source_ids": [
+        "applause-agentic",
+        "eleven-agents"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r10",
+      "companies": [
+        "macgence",
+        "applause"
+      ],
+      "relation_type": "analyst_hypothesis",
+      "statement": {
+        "en": "Separate consented dataset production from application-level acceptance testing.",
+        "ru": "Разделить производство данных с согласиями и приёмку приложения."
+      },
+      "evidence_boundary": {
+        "en": "Potential procurement division only; both vendors have evaluation/data-service overlap.",
+        "ru": "Только возможное разделение закупки; у вендоров пересекаются услуги данных и оценки."
+      },
+      "source_ids": [
+        "macgence-about",
+        "applause-eval"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r11",
+      "companies": [
+        "datacamp",
+        "snowflake"
+      ],
+      "relation_type": "analyst_hypothesis",
+      "statement": {
+        "en": "Support a data-platform rollout with role-based skills development.",
+        "ru": "Поддержать внедрение платформы данных обучением по ролям."
+      },
+      "evidence_boundary": {
+        "en": "Enablement concept, not a claim of a connector, alliance or proven adoption uplift.",
+        "ru": "Концепция развития навыков, не утверждение о коннекторе, альянсе или доказанном росте принятия."
+      },
+      "source_ids": [
+        "datacamp-business",
+        "snowflake-ai"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r12",
+      "companies": [
+        "apgar-group",
+        "atlan"
+      ],
+      "relation_type": "analyst_hypothesis",
+      "statement": {
+        "en": "Pair data-governance implementation work with a metadata/context product.",
+        "ru": "Соединить внедрение управления данными с продуктом метаданных/контекста."
+      },
+      "evidence_boundary": {
+        "en": "Possible delivery pattern; no named Apgar–Atlan partnership was established.",
+        "ru": "Возможная схема реализации; именное партнёрство Apgar–Atlan не установлено."
+      },
+      "source_ids": [
+        "apgar-quality",
+        "atlan-home"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r13",
+      "companies": [
+        "aws",
+        "alibaba-cloud"
+      ],
+      "relation_type": "analyst_overlap",
+      "statement": {
+        "en": "Compete for cloud/model-platform workload decisions.",
+        "ru": "Конкурируют за выбор облачной/модельной платформы для нагрузки."
+      },
+      "evidence_boundary": {
+        "en": "Workload-specific alternatives; no full feature, price or regional parity claim.",
+        "ru": "Альтернативы для конкретной нагрузки; без утверждения полного паритета функций, цен или регионов."
+      },
+      "source_ids": [
+        "aws-agentcore",
+        "alibaba-genai"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r14",
+      "companies": [
+        "elastic",
+        "snowflake"
+      ],
+      "relation_type": "analyst_overlap",
+      "statement": {
+        "en": "Overlap in retrieval for enterprise AI.",
+        "ru": "Пересекаются в извлечении данных для корпоративного AI."
+      },
+      "evidence_boundary": {
+        "en": "Different platform boundaries; run corpus, permission, freshness and cost tests rather than a generic winner ranking.",
+        "ru": "Разные границы платформ; нужны тесты корпуса, прав, актуальности и стоимости, а не общий рейтинг победителей."
+      },
+      "source_ids": [
+        "elastic-product",
+        "snowflake-search"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r15",
+      "companies": [
+        "eleven-labs",
+        "haptik-ai"
+      ],
+      "relation_type": "analyst_overlap",
+      "statement": {
+        "en": "Overlap in customer-facing voice-agent workflows.",
+        "ru": "Пересекаются в голосовых процессах клиентских агентов."
+      },
+      "evidence_boundary": {
+        "en": "Compare complete channel, handoff and integration requirements, not voice alone.",
+        "ru": "Сравнивать полный набор каналов, передачи оператору и интеграций, а не только голос."
+      },
+      "source_ids": [
+        "eleven-agents",
+        "haptik-home",
+        "haptik-integrations"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r16",
+      "companies": [
+        "placeos",
+        "smart-spaces"
+      ],
+      "relation_type": "analyst_overlap",
+      "statement": {
+        "en": "Overlap in workplace/building integration and orchestration.",
+        "ru": "Пересекаются в интеграции и оркестрации рабочих пространств/зданий."
+      },
+      "evidence_boundary": {
+        "en": "Installed hardware, commissioning and support may decide fit; no interoperability between the two was verified.",
+        "ru": "Выбор зависит от оборудования, пусконаладки и поддержки; взаимная совместимость не проверена."
+      },
+      "source_ids": [
+        "placeos-home",
+        "smartspaces-os"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r17",
+      "companies": [
+        "applause",
+        "macgence"
+      ],
+      "relation_type": "analyst_overlap",
+      "statement": {
+        "en": "Overlap in human-supported AI evaluation and data services.",
+        "ru": "Пересекаются в оценке AI с участием людей и услугах данных."
+      },
+      "evidence_boundary": {
+        "en": "Define dataset creation, model evaluation and application acceptance separately.",
+        "ru": "Отдельно определить создание датасета, оценку модели и приёмку приложения."
+      },
+      "source_ids": [
+        "applause-eval",
+        "macgence-about"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r18",
+      "companies": [
+        "apgar-group",
+        "sia-partners"
+      ],
+      "relation_type": "analyst_overlap",
+      "statement": {
+        "en": "May compete for governance and AI-transformation delivery scopes.",
+        "ru": "Могут конкурировать за внедрение управления и AI-трансформации."
+      },
+      "evidence_boundary": {
+        "en": "Service scope and staffing matter; product catalogs do not establish equivalent delivery capability.",
+        "ru": "Важны состав услуг и команда; каталоги не доказывают равнозначность возможностей реализации."
+      },
+      "source_ids": [
+        "apgar-home",
+        "sia-ai"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r19",
+      "companies": [
+        "sia-partners",
+        "xenonstack"
+      ],
+      "relation_type": "analyst_overlap",
+      "statement": {
+        "en": "May compete for AI engineering and industrialization projects.",
+        "ru": "Могут конкурировать за AI-инжиниринг и промышленное внедрение."
+      },
+      "evidence_boundary": {
+        "en": "Compare deliverables, IP, operating responsibilities and references rather than broad AI labels.",
+        "ru": "Сравнивать результаты, IP, эксплуатационные обязанности и референсы, а не общие AI-ярлыки."
+      },
+      "source_ids": [
+        "sia-ai",
+        "xenon-home"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r20",
+      "companies": [
+        "sia-partners",
+        "aws"
+      ],
+      "relation_type": "vendor_named_alliance_listing",
+      "statement": {
+        "en": "Sia names AWS among strategic technology alliances.",
+        "ru": "Sia называет AWS среди стратегических технологических альянсов."
+      },
+      "evidence_boundary": {
+        "en": "A named vendor alliance statement, not a connector specification, partner-tier validation or local delivery commitment.",
+        "ru": "Именное заявление вендора об альянсе, не спецификация коннектора, проверка партнёрского уровня или обязательство местной реализации."
+      },
+      "source_ids": [
+        "sia-ai"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    },
+    {
+      "id": "r21",
+      "companies": [
+        "sia-partners",
+        "eleven-labs"
+      ],
+      "relation_type": "vendor_named_alliance_listing",
+      "statement": {
+        "en": "Sia names ElevenLabs among strategic technology alliances.",
+        "ru": "Sia называет ElevenLabs среди стратегических технологических альянсов."
+      },
+      "evidence_boundary": {
+        "en": "A named vendor alliance statement, not proof that a proposed customer workflow is already integrated.",
+        "ru": "Именное заявление вендора об альянсе, не доказательство готовой интеграции предлагаемого клиентского процесса."
+      },
+      "source_ids": [
+        "sia-ai"
+      ],
+      "retrieved_on": "2026-10-26",
+      "deployed_by_research_team": false
+    }
+  ]
+}

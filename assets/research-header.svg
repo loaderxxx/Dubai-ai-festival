@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Dubai AI Festival</title><desc id="desc">Public evidence. Connected companies. Testable opportunities.</desc>
+<rect width="1200" height="280" rx="24" fill="#11243a"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<path d="M800 0 1080 280h120V0Z" fill="#16354b"/>
+<path d="M930 0 1200 270V0Z" fill="#194456"/>
+<text x="48" y="58" font-size="14" fill="#6ee7d3" font-weight="700">RESEARCH ATLAS  /  2026</text>
+<text x="48" y="115" font-size="43" fill="#ffffff" font-weight="700">Dubai AI Festival</text>
+<text x="48" y="157" font-size="18" fill="#d3e0ec" font-weight="400">Public evidence. Connected companies. Testable opportunities.</text>
+<text x="48" y="221" font-size="13" fill="#a5bfd3" font-weight="700">FROM A FLOORPLAN LABEL TO EVIDENCE AND A BETTER QUESTION</text>
+<path d="M944 63L1016 135" fill="none" stroke="#4d7891" stroke-width="2"/>
+<circle cx="944" cy="63" r="18" fill="#11243a" stroke="#6ee7d3" stroke-width="2"/>
+<path d="M1088 63L1016 135" fill="none" stroke="#4d7891" stroke-width="2"/>
+<circle cx="1088" cy="63" r="18" fill="#11243a" stroke="#97b9ff" stroke-width="2"/>
+<circle cx="1016" cy="135" r="18" fill="#11243a" stroke="#e8bc73" stroke-width="2"/>
+<path d="M944 207L1016 135" fill="none" stroke="#4d7891" stroke-width="2"/>
+<circle cx="944" cy="207" r="18" fill="#11243a" stroke="#97b9ff" stroke-width="2"/>
+<path d="M1088 207L1016 135" fill="none" stroke="#4d7891" stroke-width="2"/>
+<circle cx="1088" cy="207" r="18" fill="#11243a" stroke="#6ee7d3" stroke-width="2"/>
+<circle cx="1016" cy="135" r="6" fill="#e8bc73"/>
+</g>
+</svg>

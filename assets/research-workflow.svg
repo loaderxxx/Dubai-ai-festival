@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+<title id="title">How the research works</title><desc id="desc">Six stages: capture the public floorplan, resolve identity, link facts to sources, compare companies, define validation, publish with limitations. Documented facts, hypotheses and unknowns stay separate.</desc>
+<rect width="1200" height="410" rx="24" fill="#f5f8fc"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="40" y="46" font-size="13" fill="#087f83" font-weight="700">RESEARCH WORKFLOW</text>
+<text x="40" y="85" font-size="28" fill="#16263d" font-weight="700">Every conclusion leaves an evidence trail.</text>
+<rect x="40" y="117" width="170" height="194" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<g transform="translate(58 135)" fill="none" stroke="#087f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M5 1h14l6 6v22H5ZM19 1v7h6M10 13h10m-10 5h10m-10 5h6"/>
+</g>
+<text x="173" y="152" font-size="12" fill="#586b80" font-weight="700">01</text>
+<text x="56" y="200" font-size="17" fill="#16263d" font-weight="700">Capture</text>
+<text x="56" y="235" font-size="11.5" fill="#586b80" font-weight="400">Public floorplan</text>
+<text x="56" y="259" font-size="11.5" fill="#586b80" font-weight="400">Timestamp + raw rows</text>
+<path d="M212 209h14m-5-4 5 4-5 4" fill="none" stroke="#7c92a8" stroke-width="1.5"/>
+<rect x="230" y="117" width="170" height="194" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<g transform="translate(248 135)" fill="none" stroke="#087f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="11" cy="11" r="9"/><path d="m18 18 10 10m-20-17h6m-3-3v6"/>
+</g>
+<text x="363" y="152" font-size="12" fill="#586b80" font-weight="700">02</text>
+<text x="246" y="200" font-size="17" fill="#16263d" font-weight="700">Resolve</text>
+<text x="246" y="235" font-size="11.5" fill="#586b80" font-weight="400">Brand and official site</text>
+<text x="246" y="259" font-size="11.5" fill="#586b80" font-weight="400">Stands ≠ companies</text>
+<path d="M402 209h14m-5-4 5 4-5 4" fill="none" stroke="#7c92a8" stroke-width="1.5"/>
+<rect x="420" y="117" width="170" height="194" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<g transform="translate(438 135)" fill="none" stroke="#087f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="14" cy="5" rx="12" ry="4"/><path d="M2 5v18c0 6 24 6 24 0V5M2 14c0 6 24 6 24 0"/>
+</g>
+<text x="553" y="152" font-size="12" fill="#586b80" font-weight="700">03</text>
+<text x="436" y="200" font-size="17" fill="#16263d" font-weight="700">Evidence</text>
+<text x="436" y="235" font-size="11.5" fill="#586b80" font-weight="400">Offering + interfaces</text>
+<text x="436" y="259" font-size="11.5" fill="#586b80" font-weight="400">Fact → source</text>
+<path d="M592 209h14m-5-4 5 4-5 4" fill="none" stroke="#7c92a8" stroke-width="1.5"/>
+<rect x="610" y="117" width="170" height="194" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<g transform="translate(628 135)" fill="none" stroke="#087f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="1" y="3" width="10" height="24" rx="2"/><rect x="19" y="3" width="10" height="24" rx="2"/><path d="M11 10h8m-8 10h8"/>
+</g>
+<text x="743" y="152" font-size="12" fill="#586b80" font-weight="700">04</text>
+<text x="626" y="200" font-size="17" fill="#16263d" font-weight="700">Compare</text>
+<text x="626" y="235" font-size="11.5" fill="#586b80" font-weight="400">Roles + overlap</text>
+<text x="626" y="259" font-size="11.5" fill="#586b80" font-weight="400">Type every edge</text>
+<path d="M782 209h14m-5-4 5 4-5 4" fill="none" stroke="#7c92a8" stroke-width="1.5"/>
+<rect x="800" y="117" width="170" height="194" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<g transform="translate(818 135)" fill="none" stroke="#087f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="15" cy="15" r="13"/><path d="M10 10a5 5 0 0 1 10 0c0 5-5 4-5 8m0 5v.2"/>
+</g>
+<text x="933" y="152" font-size="12" fill="#586b80" font-weight="700">05</text>
+<text x="816" y="200" font-size="17" fill="#16263d" font-weight="700">Validate</text>
+<text x="816" y="235" font-size="11.5" fill="#586b80" font-weight="400">Question + boundary</text>
+<text x="816" y="259" font-size="11.5" fill="#586b80" font-weight="400">No invented intent</text>
+<path d="M972 209h14m-5-4 5 4-5 4" fill="none" stroke="#7c92a8" stroke-width="1.5"/>
+<rect x="990" y="117" width="170" height="194" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<g transform="translate(1008 135)" fill="none" stroke="#087f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M3 16v11h24V16M15 23V2m-7 7 7-7 7 7"/>
+</g>
+<text x="1123" y="152" font-size="12" fill="#586b80" font-weight="700">06</text>
+<text x="1006" y="200" font-size="17" fill="#16263d" font-weight="700">Publish</text>
+<text x="1006" y="235" font-size="11.5" fill="#586b80" font-weight="400">EN / RU + data</text>
+<text x="1006" y="259" font-size="11.5" fill="#586b80" font-weight="400">Links + limitations</text>
+<text x="40" y="359" font-size="12" fill="#087f83" font-weight="700">FACT</text>
+<text x="113" y="359" font-size="14" fill="#586b80" font-weight="400">linked evidence</text>
+<text x="382" y="359" font-size="12" fill="#2563eb" font-weight="700">HYPOTHESIS</text>
+<text x="495" y="359" font-size="14" fill="#586b80" font-weight="400">explicit validation</text>
+<text x="797" y="359" font-size="12" fill="#be7b23" font-weight="700">UNKNOWN</text>
+<text x="925" y="359" font-size="14" fill="#586b80" font-weight="400">not filled with guesses</text>
+</g>
+</svg>

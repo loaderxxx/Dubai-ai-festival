@@ -1,0 +1,3802 @@
+{
+  "schema_version": "1.0",
+  "reviewed_on": "2026-10-26",
+  "public_only": true,
+  "source_files": [
+    "data/companies.json",
+    "data/company-profiles.json",
+    "data/value-chain/companies.json",
+    "data/value-chain/sources.json"
+  ],
+  "counts": {
+    "public_organization_candidates": 248,
+    "initial_profile_batch": 12,
+    "expanded_study": 18,
+    "additional_in_expanded_study": 6,
+    "unique_candidates_with_public_profiles": 18,
+    "candidates_not_profiled": 230,
+    "verified_unique_legal_company_count": null
+  },
+  "note": {
+    "en": "Current union of public research coverage, not a verified exhibitor/company count. The original baseline JSON retains the initial 12-profile checkpoint. Expanded brand matches have stated uncertainty.",
+    "ru": "Текущее объединённое покрытие публичного исследования, не подтверждённое число экспонентов/компаний. Исходные JSON базы сохраняют первый срез из 12 профилей. Неопределённость сопоставления брендов указана в расширенном исследовании."
+  },
+  "records": [
+    {
+      "company_id": "1datacloud",
+      "floorplan_name": "1DataCloud",
+      "stands": [
+        "S33"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "10-leaves",
+      "floorplan_name": "10 Leaves",
+      "stands": [
+        "G120"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "17-ai",
+      "floorplan_name": "17.AI",
+      "stands": [
+        "S130"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "550ai",
+      "floorplan_name": "550Ai",
+      "stands": [
+        "S140"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "abigail-ai",
+      "floorplan_name": "Abigail AI",
+      "stands": [
+        "S144"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "adaptech",
+      "floorplan_name": "Adaptech",
+      "stands": [
+        "S78"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "advanced-integration",
+      "floorplan_name": "Advanced Integration",
+      "stands": [
+        "G101"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aecendir",
+      "floorplan_name": "Aecendir",
+      "stands": [
+        "G103",
+        "S174"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aero-aegis-inc",
+      "floorplan_name": "Aero Aegis Inc",
+      "stands": [
+        "S91"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aetheryx-ai",
+      "floorplan_name": "Aetheryx AI",
+      "stands": [
+        "S80"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "agenyx-ai",
+      "floorplan_name": "Agenyx AI",
+      "stands": [
+        "S29"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "ai-champions",
+      "floorplan_name": "AI Champions",
+      "stands": [
+        "S36"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "ai-security-academy",
+      "floorplan_name": "AI Security Academy",
+      "stands": [
+        "S46"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aia-orbis",
+      "floorplan_name": "AIA Orbis",
+      "stands": [
+        "G140"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aiden-ai",
+      "floorplan_name": "Aiden Ai",
+      "stands": [
+        "G124"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aifluxx",
+      "floorplan_name": "AiFluxx",
+      "stands": [
+        "S39"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aimoga",
+      "floorplan_name": "AiMOGA",
+      "stands": [
+        "H80"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "ainfinite-ai",
+      "floorplan_name": "AInfinite Ai",
+      "stands": [
+        "H75"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aivi-in",
+      "floorplan_name": "Aivi.in",
+      "stands": [
+        "S79"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aivista",
+      "floorplan_name": "AIVista",
+      "stands": [
+        "G97"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aivorahc",
+      "floorplan_name": "AIVORAHC",
+      "stands": [
+        "S148"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "al-alfiya",
+      "floorplan_name": "Al Alfiya",
+      "stands": [
+        "G61"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "al-amen-technology",
+      "floorplan_name": "Al Amen Technology",
+      "stands": [
+        "S77"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "alibaba-cloud",
+      "floorplan_name": "Alibaba Cloud",
+      "stands": [
+        "F30"
+      ],
+      "coverage_status": "initial_and_expanded",
+      "initial_profile_available": true,
+      "expanded_profile_available": true,
+      "official_source_url": "https://www.alibabacloud.com/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "alibaba-cloud",
+      "profile_links": {
+        "en": "research/en/value-chains.md#alibaba-cloud",
+        "ru": "research/ru/value-chains.md#alibaba-cloud"
+      }
+    },
+    {
+      "company_id": "alokin",
+      "floorplan_name": "Alokin",
+      "stands": [
+        "S57"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "amira-ai-almost-human",
+      "floorplan_name": "Amira AI - almost human",
+      "stands": [
+        "G60"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "anylegal-ai",
+      "floorplan_name": "Anylegal.ai",
+      "stands": [
+        "S41"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "apgar-group",
+      "floorplan_name": "Apgar Group",
+      "stands": [
+        "G71"
+      ],
+      "coverage_status": "expanded_only",
+      "initial_profile_available": false,
+      "expanded_profile_available": true,
+      "official_source_url": "https://apgar-group.com/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "apgar-group",
+      "profile_links": {
+        "en": "research/en/value-chains.md#apgar-group",
+        "ru": "research/ru/value-chains.md#apgar-group"
+      }
+    },
+    {
+      "company_id": "applause",
+      "floorplan_name": "Applause",
+      "stands": [
+        "G112"
+      ],
+      "coverage_status": "initial_and_expanded",
+      "initial_profile_available": true,
+      "expanded_profile_available": true,
+      "official_source_url": "https://www.applause.com/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "applause",
+      "profile_links": {
+        "en": "research/en/value-chains.md#applause",
+        "ru": "research/ru/value-chains.md#applause"
+      }
+    },
+    {
+      "company_id": "approduct",
+      "floorplan_name": "Approduct",
+      "stands": [
+        "S116"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aradi",
+      "floorplan_name": "Aradi",
+      "stands": [
+        "S149"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "artifact-innovations-ltd",
+      "floorplan_name": "Artifact Innovations Ltd",
+      "stands": [
+        "S02"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "artisan-ai",
+      "floorplan_name": "Artisan AI",
+      "stands": [
+        "S17"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "asano",
+      "floorplan_name": "Asano",
+      "stands": [
+        "S169"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "ascentia",
+      "floorplan_name": "ASCENTIA",
+      "stands": [
+        "S103"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "atelic-ai",
+      "floorplan_name": "ATELIC AI",
+      "stands": [
+        "G105"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "atelier-digital",
+      "floorplan_name": "Atelier Digital",
+      "stands": [
+        "S59"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "atlan",
+      "floorplan_name": "Atlan",
+      "stands": [
+        "H76"
+      ],
+      "coverage_status": "initial_and_expanded",
+      "initial_profile_available": true,
+      "expanded_profile_available": true,
+      "official_source_url": "https://atlan.com/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "atlan",
+      "profile_links": {
+        "en": "research/en/value-chains.md#atlan",
+        "ru": "research/ru/value-chains.md#atlan"
+      }
+    },
+    {
+      "company_id": "audit-sense",
+      "floorplan_name": "Audit Sense",
+      "stands": [
+        "S54"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aud",
+      "floorplan_name": "AUD",
+      "stands": [
+        "G80"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aunova",
+      "floorplan_name": "Aunova",
+      "stands": [
+        "S170"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "avita-inc",
+      "floorplan_name": "Avita Inc.",
+      "stands": [
+        "S73"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "aws",
+      "floorplan_name": "AWS",
+      "stands": [
+        "H40"
+      ],
+      "coverage_status": "initial_and_expanded",
+      "initial_profile_available": true,
+      "expanded_profile_available": true,
+      "official_source_url": "https://aws.amazon.com/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "aws",
+      "profile_links": {
+        "en": "research/en/value-chains.md#aws",
+        "ru": "research/ru/value-chains.md#aws"
+      }
+    },
+    {
+      "company_id": "banza",
+      "floorplan_name": "Banza",
+      "stands": [
+        "S88"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "baytukum",
+      "floorplan_name": "Baytukum",
+      "stands": [
+        "S176"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "belfry-labs",
+      "floorplan_name": "Belfry Labs",
+      "stands": [
+        "S126"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "berry-labs",
+      "floorplan_name": "Berry Labs",
+      "stands": [
+        "S28"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "black-cloud-solutions",
+      "floorplan_name": "Black Cloud Solutions",
+      "stands": [
+        "S106"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "bnc-media-group",
+      "floorplan_name": "BNC MEDIA GROUP",
+      "stands": [
+        "G132"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "business-pulse",
+      "floorplan_name": "Business Pulse",
+      "stands": [
+        "S49"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "casabot-technology",
+      "floorplan_name": "Casabot Technology",
+      "stands": [
+        "S81"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "catalab-solutions",
+      "floorplan_name": "Catalab Solutions",
+      "stands": [
+        "S125"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "chatvertize",
+      "floorplan_name": "Chatvertize",
+      "stands": [
+        "S61"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "cleverbrain-tech",
+      "floorplan_name": "Cleverbrain Tech",
+      "stands": [
+        "S105"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "clickup",
+      "floorplan_name": "ClickUp",
+      "stands": [
+        "H65"
+      ],
+      "coverage_status": "initial_and_expanded",
+      "initial_profile_available": true,
+      "expanded_profile_available": true,
+      "official_source_url": "https://clickup.com/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "clickup",
+      "profile_links": {
+        "en": "research/en/value-chains.md#clickup",
+        "ru": "research/ru/value-chains.md#clickup"
+      }
+    },
+    {
+      "company_id": "climaty-ai",
+      "floorplan_name": "Climaty AI",
+      "stands": [
+        "G94"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "clique-ai",
+      "floorplan_name": "Clique AI",
+      "stands": [
+        "S55"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "cogniai-inc",
+      "floorplan_name": "CogniAI Inc",
+      "stands": [
+        "S131"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "contilio",
+      "floorplan_name": "Contilio",
+      "stands": [
+        "S166"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "convoi-ai",
+      "floorplan_name": "Convoi.ai",
+      "stands": [
+        "S50"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "crayon-labs-ai",
+      "floorplan_name": "Crayon Labs.ai",
+      "stands": [
+        "S74"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "crtl-studio",
+      "floorplan_name": "CRTL Studio",
+      "stands": [
+        "S09"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "cusp-wealth",
+      "floorplan_name": "Cusp Wealth",
+      "stands": [
+        "S114"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "daleel",
+      "floorplan_name": "Daleel",
+      "stands": [
+        "S82"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "datacamp",
+      "floorplan_name": "DataCamp",
+      "stands": [
+        "H62"
+      ],
+      "coverage_status": "expanded_only",
+      "initial_profile_available": false,
+      "expanded_profile_available": true,
+      "official_source_url": "https://www.datacamp.com/business/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "datacamp",
+      "profile_links": {
+        "en": "research/en/value-chains.md#datacamp",
+        "ru": "research/ru/value-chains.md#datacamp"
+      }
+    },
+    {
+      "company_id": "datavent",
+      "floorplan_name": "datavent",
+      "stands": [
+        "S72"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "datellers",
+      "floorplan_name": "datellers",
+      "stands": [
+        "S06"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "ddi-daode-investment",
+      "floorplan_name": "DDI (DaoDe Investment)",
+      "stands": [
+        "G50"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "decisimo",
+      "floorplan_name": "Decisimo",
+      "stands": [
+        "S42"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "deepnovacore",
+      "floorplan_name": "Deepnovacore",
+      "stands": [
+        "G116"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "demand-logic",
+      "floorplan_name": "Demand Logic",
+      "stands": [
+        "S161"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "deployed",
+      "floorplan_name": "Deployed",
+      "stands": [
+        "S89"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "digi-ai",
+      "floorplan_name": "digi.ai",
+      "stands": [
+        "S14"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "digital-cubic-smart-solutions",
+      "floorplan_name": "Digital Cubic Smart Solutions",
+      "stands": [
+        "S133"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "diss-co",
+      "floorplan_name": "Diss-Co",
+      "stands": [
+        "S67"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "dravya-ai",
+      "floorplan_name": "Dravya AI",
+      "stands": [
+        "S123"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "dubai-ai-campus",
+      "floorplan_name": "Dubai AI Campus",
+      "stands": [
+        "G30"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "dubai-medical-university",
+      "floorplan_name": "Dubai Medical University",
+      "stands": [
+        "F50"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "eatova",
+      "floorplan_name": "eatova",
+      "stands": [
+        "S62"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "elastic",
+      "floorplan_name": "Elastic",
+      "stands": [
+        "G86"
+      ],
+      "coverage_status": "initial_and_expanded",
+      "initial_profile_available": true,
+      "expanded_profile_available": true,
+      "official_source_url": "https://www.elastic.co/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "elastic",
+      "profile_links": {
+        "en": "research/en/value-chains.md#elastic",
+        "ru": "research/ru/value-chains.md#elastic"
+      }
+    },
+    {
+      "company_id": "eleven-labs",
+      "floorplan_name": "Eleven Labs",
+      "stands": [
+        "H70"
+      ],
+      "coverage_status": "initial_and_expanded",
+      "initial_profile_available": true,
+      "expanded_profile_available": true,
+      "official_source_url": "https://elevenlabs.io/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "elevenlabs",
+      "profile_links": {
+        "en": "research/en/value-chains.md#elevenlabs",
+        "ru": "research/ru/value-chains.md#elevenlabs"
+      }
+    },
+    {
+      "company_id": "emotii-ai",
+      "floorplan_name": "emotii.ai",
+      "stands": [
+        "S66"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "exec-roundtables-ai",
+      "floorplan_name": "Exec Roundtables AI",
+      "stands": [
+        "S56"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "exordium-bugloud",
+      "floorplan_name": "Exordium – BugLoud",
+      "stands": [
+        "G66"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "fariq-ai",
+      "floorplan_name": "Fariq.AI",
+      "stands": [
+        "S154"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "fast-company",
+      "floorplan_name": "Fast Company",
+      "stands": [
+        "G136"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "feasly",
+      "floorplan_name": "Feasly",
+      "stands": [
+        "S171"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "fedtuna",
+      "floorplan_name": "FedTuna",
+      "stands": [
+        "S43"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "finalytics",
+      "floorplan_name": "Finalytics",
+      "stands": [
+        "S38"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "finbursa",
+      "floorplan_name": "FinBursa",
+      "stands": [
+        "S90"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "flintx",
+      "floorplan_name": "FlintX",
+      "stands": [
+        "S99"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "forgenix",
+      "floorplan_name": "Forgenix",
+      "stands": [
+        "S134"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "fp-advisory-services",
+      "floorplan_name": "FP Advisory Services",
+      "stands": [
+        "S45"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "freeda",
+      "floorplan_name": "Freeda",
+      "stands": [
+        "S160"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "gaadin-ai",
+      "floorplan_name": "Gaadin AI",
+      "stands": [
+        "S65"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "gbuilder",
+      "floorplan_name": "GBuilder",
+      "stands": [
+        "S162"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "genesis-ai-ltd",
+      "floorplan_name": "Genesis AI Ltd",
+      "stands": [
+        "S12"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "ghostly-solutions",
+      "floorplan_name": "Ghostly Solutions",
+      "stands": [
+        "S35"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "go-ai-guru",
+      "floorplan_name": "Go AI Guru",
+      "stands": [
+        "S76"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "grantify",
+      "floorplan_name": "Grantify",
+      "stands": [
+        "S142"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "grid-studio",
+      "floorplan_name": "Grid Studio",
+      "stands": [
+        "G105",
+        "G104"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "gudakesa-tech",
+      "floorplan_name": "Gudakesa Tech",
+      "stands": [
+        "S75"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "gx1",
+      "floorplan_name": "GX1",
+      "stands": [
+        "S47"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "habytat-realm9",
+      "floorplan_name": "Habytat / Realm9",
+      "stands": [
+        "S172"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "handover-ai",
+      "floorplan_name": "Handover AI",
+      "stands": [
+        "G103"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "haptik-ai",
+      "floorplan_name": "Haptik AI",
+      "stands": [
+        "G77"
+      ],
+      "coverage_status": "initial_and_expanded",
+      "initial_profile_available": true,
+      "expanded_profile_available": true,
+      "official_source_url": "https://www.haptik.ai/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "haptik",
+      "profile_links": {
+        "en": "research/en/value-chains.md#haptik",
+        "ru": "research/ru/value-chains.md#haptik"
+      }
+    },
+    {
+      "company_id": "hatchio",
+      "floorplan_name": "Hatchio",
+      "stands": [
+        "S146"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "hive-technologies",
+      "floorplan_name": "Hive Technologies",
+      "stands": [
+        "G62"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "imposter-hunter",
+      "floorplan_name": "Imposter Hunter",
+      "stands": [
+        "G113"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "inspire-tech",
+      "floorplan_name": "Inspire Tech",
+      "stands": [
+        "S101"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "interloom",
+      "floorplan_name": "Interloom",
+      "stands": [
+        "S168"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "isovia",
+      "floorplan_name": "Isovia",
+      "stands": [
+        "G85"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "jalubro",
+      "floorplan_name": "Jalubro",
+      "stands": [
+        "G104"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "k-j-technologies-ltd",
+      "floorplan_name": "K&J Technologies Ltd.",
+      "stands": [
+        "S52"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "kakoo-software",
+      "floorplan_name": "Kakoo Software",
+      "stands": [
+        "S127"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "katrix-ai",
+      "floorplan_name": "Katrix.AI",
+      "stands": [
+        "S102"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "kenza-living",
+      "floorplan_name": "Kenza Living",
+      "stands": [
+        "S119"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "keytron-ai",
+      "floorplan_name": "Keytron.ai",
+      "stands": [
+        "S84"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "khurram-badar-com",
+      "floorplan_name": "khurram badar.com",
+      "stands": [
+        "S129"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "kira-ai",
+      "floorplan_name": "KIRA AI",
+      "stands": [
+        "H86"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "klovertech",
+      "floorplan_name": "KloverTech",
+      "stands": [
+        "S01"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "kter",
+      "floorplan_name": "KTER",
+      "stands": [
+        "S137"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "laine-ai",
+      "floorplan_name": "Laine.ai",
+      "stands": [
+        "S08"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "lana",
+      "floorplan_name": "LANA / لنا",
+      "stands": [
+        "G130"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "launchpod",
+      "floorplan_name": "LaunchPod",
+      "stands": [
+        "H54"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "lazulite",
+      "floorplan_name": "Lazulite",
+      "stands": [
+        "G111"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "leapsoft-consulting",
+      "floorplan_name": "LeapSoft Consulting",
+      "stands": [
+        "S138"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "legaline",
+      "floorplan_name": "Legaline",
+      "stands": [
+        "G87"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "legend-x-robotics",
+      "floorplan_name": "Legend X Robotics",
+      "stands": [
+        "H56"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "lexarius",
+      "floorplan_name": "Lexarius",
+      "stands": [
+        "S135"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "life-intelligence-group",
+      "floorplan_name": "Life Intelligence Group",
+      "stands": [
+        "G110"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "loyyal",
+      "floorplan_name": "Loyyal",
+      "stands": [
+        "S109"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "luma-brush",
+      "floorplan_name": "Luma Brush",
+      "stands": [
+        "S132"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "lxium",
+      "floorplan_name": "Lxium",
+      "stands": [
+        "S107"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "m5wealth",
+      "floorplan_name": "M5Wealth",
+      "stands": [
+        "S150"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "macgence",
+      "floorplan_name": "Macgence",
+      "stands": [
+        "S63"
+      ],
+      "coverage_status": "expanded_only",
+      "initial_profile_available": false,
+      "expanded_profile_available": true,
+      "official_source_url": "https://macgence.com/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "macgence",
+      "profile_links": {
+        "en": "research/en/value-chains.md#macgence",
+        "ru": "research/ru/value-chains.md#macgence"
+      }
+    },
+    {
+      "company_id": "magure",
+      "floorplan_name": "Magure",
+      "stands": [
+        "G100"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "main-sequence",
+      "floorplan_name": "Main Sequence",
+      "stands": [
+        "S18"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "mantika",
+      "floorplan_name": "Mantika",
+      "stands": [
+        "E30"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "mcfill-media",
+      "floorplan_name": "McFill Media",
+      "stands": [
+        "G122"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "mechasys",
+      "floorplan_name": "Mechasys",
+      "stands": [
+        "S167"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "mena-tech",
+      "floorplan_name": "MENA Tech",
+      "stands": [
+        "G134"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "metis",
+      "floorplan_name": "Metis",
+      "stands": [
+        "S92"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "mind-ai",
+      "floorplan_name": "Mind AI",
+      "stands": [
+        "S04"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "misraj",
+      "floorplan_name": "Misraj",
+      "stands": [
+        "S34"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "music-ecosystem",
+      "floorplan_name": "Music Ecosystem",
+      "stands": [
+        "S27"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "myndlab",
+      "floorplan_name": "Myndlab",
+      "stands": [
+        "H74"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "nash",
+      "floorplan_name": "Nash",
+      "stands": [
+        "G74"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "nedrix-ai",
+      "floorplan_name": "Nedrix.ai",
+      "stands": [
+        "S83"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "nestor-analytics",
+      "floorplan_name": "Nestor Analytics",
+      "stands": [
+        "S40"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "neura-voz",
+      "floorplan_name": "Neura Voz",
+      "stands": [
+        "S15"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "neuraserv",
+      "floorplan_name": "Neuraserv",
+      "stands": [
+        "S151"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "nodex8-ai",
+      "floorplan_name": "Nodex8 AI",
+      "stands": [
+        "S124"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "not-boring",
+      "floorplan_name": "Not Boring",
+      "stands": [
+        "S68"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "nova-pilot-ai",
+      "floorplan_name": "Nova pilot.ai",
+      "stands": [
+        "S20"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "novusai",
+      "floorplan_name": "NovusAI",
+      "stands": [
+        "S120"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "nuvin",
+      "floorplan_name": "Nuvin",
+      "stands": [
+        "G70"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "omnix",
+      "floorplan_name": "Omnix",
+      "stands": [
+        "G95"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "only-office",
+      "floorplan_name": "ONLY OFFICE",
+      "stands": [
+        "G82"
+      ],
+      "coverage_status": "initial_and_expanded",
+      "initial_profile_available": true,
+      "expanded_profile_available": true,
+      "official_source_url": "https://www.onlyoffice.com/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "onlyoffice",
+      "profile_links": {
+        "en": "research/en/value-chains.md#onlyoffice",
+        "ru": "research/ru/value-chains.md#onlyoffice"
+      }
+    },
+    {
+      "company_id": "openneko",
+      "floorplan_name": "OpenNeko",
+      "stands": [
+        "S53"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "orbo-work",
+      "floorplan_name": "orbo. work",
+      "stands": [
+        "S139"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "ordinary-wisdom",
+      "floorplan_name": "Ordinary Wisdom",
+      "stands": [
+        "S113"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "oryx-ai",
+      "floorplan_name": "Oryx AI",
+      "stands": [
+        "S110"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "osiris-ai",
+      "floorplan_name": "Osiris AI",
+      "stands": [
+        "S136"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "otobiz",
+      "floorplan_name": "Otobiz",
+      "stands": [
+        "S118"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "otonomi-technologies",
+      "floorplan_name": "Otonomi Technologies",
+      "stands": [
+        "S30"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "palgu",
+      "floorplan_name": "Palgu",
+      "stands": [
+        "S112"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "pentx",
+      "floorplan_name": "PentX",
+      "stands": [
+        "S96"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "perflo",
+      "floorplan_name": "Perflo",
+      "stands": [
+        "S153"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "periscope-technologies",
+      "floorplan_name": "Periscope Technologies",
+      "stands": [
+        "S07"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "placeos",
+      "floorplan_name": "PlaceOS",
+      "stands": [
+        "S51"
+      ],
+      "coverage_status": "initial_and_expanded",
+      "initial_profile_available": true,
+      "expanded_profile_available": true,
+      "official_source_url": "https://www.placeos.com/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "placeos",
+      "profile_links": {
+        "en": "research/en/value-chains.md#placeos",
+        "ru": "research/ru/value-chains.md#placeos"
+      }
+    },
+    {
+      "company_id": "planytics-ai",
+      "floorplan_name": "Planytics AI",
+      "stands": [
+        "S69"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "plexe-ai",
+      "floorplan_name": "Plexe AI",
+      "stands": [
+        "S143"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "privinotch",
+      "floorplan_name": "PRIVINOTCH",
+      "stands": [
+        "S111"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "probis",
+      "floorplan_name": "Probis",
+      "stands": [
+        "S163"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "proptech-ai",
+      "floorplan_name": "Proptech AI",
+      "stands": [
+        "G90"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "propvr",
+      "floorplan_name": "PropVR",
+      "stands": [
+        "S97"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "provance",
+      "floorplan_name": "Provance",
+      "stands": [
+        "S87"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "purpl-tech-solutions",
+      "floorplan_name": "Purpl Tech Solutions",
+      "stands": [
+        "S16"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "rahaai-technologies",
+      "floorplan_name": "RahaAi technologies",
+      "stands": [
+        "S85"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "raisetalks",
+      "floorplan_name": "Raisetalks",
+      "stands": [
+        "S19"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "red-rock-technology",
+      "floorplan_name": "Red Rock Technology",
+      "stands": [
+        "G75"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "relm-insurance",
+      "floorplan_name": "RELM Insurance",
+      "stands": [
+        "H30"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "remo-ai",
+      "floorplan_name": "Remo AI",
+      "stands": [
+        "H50"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "rensair",
+      "floorplan_name": "Rensair",
+      "stands": [
+        "S158"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "researchcollab-technologies",
+      "floorplan_name": "ResearchCollab Technologies",
+      "stands": [
+        "S31"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "revent",
+      "floorplan_name": "Revent",
+      "stands": [
+        "S152"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "riskvantage",
+      "floorplan_name": "RiskVantage",
+      "stands": [
+        "S95"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "rsk",
+      "floorplan_name": "RSK",
+      "stands": [
+        "G115"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "sahaba-club-technologies",
+      "floorplan_name": "Sahaba Club Technologies",
+      "stands": [
+        "S108"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "selira",
+      "floorplan_name": "Selira",
+      "stands": [
+        "S25"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "sia-partners",
+      "floorplan_name": "SIA Partners",
+      "stands": [
+        "H84"
+      ],
+      "coverage_status": "expanded_only",
+      "initial_profile_available": false,
+      "expanded_profile_available": true,
+      "official_source_url": "https://www.sia-partners.com/en/about-us/siaai",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "sia-partners",
+      "profile_links": {
+        "en": "research/en/value-chains.md#sia-partners",
+        "ru": "research/ru/value-chains.md#sia-partners"
+      }
+    },
+    {
+      "company_id": "sief",
+      "floorplan_name": "SIEF",
+      "stands": [
+        "E40"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "simsy",
+      "floorplan_name": "Simsy",
+      "stands": [
+        "S141"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "sinorfi",
+      "floorplan_name": "Sinorfi",
+      "stands": [
+        "G65"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "skrooge-ai",
+      "floorplan_name": "Skrooge. ai",
+      "stands": [
+        "S13"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "skyetron-ai",
+      "floorplan_name": "Skyetron.ai",
+      "stands": [
+        "S21"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "skysay-ai",
+      "floorplan_name": "SkySay AI",
+      "stands": [
+        "S98"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "skyxops",
+      "floorplan_name": "SKYXOPS",
+      "stands": [
+        "S121"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "slan",
+      "floorplan_name": "SLAN",
+      "stands": [
+        "S175"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "smart-spaces",
+      "floorplan_name": "Smart Spaces",
+      "stands": [
+        "S157"
+      ],
+      "coverage_status": "expanded_only",
+      "initial_profile_available": false,
+      "expanded_profile_available": true,
+      "official_source_url": "https://www.smartspaces.app/smart-building-os/",
+      "brand_match_confidence": "medium_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "smart-spaces",
+      "profile_links": {
+        "en": "research/en/value-chains.md#smart-spaces",
+        "ru": "research/ru/value-chains.md#smart-spaces"
+      }
+    },
+    {
+      "company_id": "snowflake",
+      "floorplan_name": "Snowflake",
+      "stands": [
+        "G76"
+      ],
+      "coverage_status": "initial_and_expanded",
+      "initial_profile_available": true,
+      "expanded_profile_available": true,
+      "official_source_url": "https://www.snowflake.com/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "snowflake",
+      "profile_links": {
+        "en": "research/en/value-chains.md#snowflake",
+        "ru": "research/ru/value-chains.md#snowflake"
+      }
+    },
+    {
+      "company_id": "soika-labs",
+      "floorplan_name": "Soika Labs",
+      "stands": [
+        "H52"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "solvagence",
+      "floorplan_name": "Solvagence",
+      "stands": [
+        "S94"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "squash-app",
+      "floorplan_name": "Squash App",
+      "stands": [
+        "G72"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "studioyt",
+      "floorplan_name": "StudioYT",
+      "stands": [
+        "H64"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "sukuun",
+      "floorplan_name": "Sukuun",
+      "stands": [
+        "S156"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "synthesys",
+      "floorplan_name": "Synthesys",
+      "stands": [
+        "S71"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "sywa-ai",
+      "floorplan_name": "SYWA.ai",
+      "stands": [
+        "S100"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "t-knowledge",
+      "floorplan_name": "T-Knowledge",
+      "stands": [
+        "S155"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "taksit",
+      "floorplan_name": "Taksit",
+      "stands": [
+        "S122"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "talos-wealth",
+      "floorplan_name": "Talos Wealth",
+      "stands": [
+        "S104"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "tatbiq-ai",
+      "floorplan_name": "TatbiQ.ai",
+      "stands": [
+        "H66"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "tawasol-services",
+      "floorplan_name": "Tawasol Services",
+      "stands": [
+        "G96"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "techno-polis",
+      "floorplan_name": "Techno Polis",
+      "stands": [
+        "S117"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "terramine",
+      "floorplan_name": "Terramine",
+      "stands": [
+        "S145"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "the-cutting-edge-school",
+      "floorplan_name": "The Cutting Edge School",
+      "stands": [
+        "G64"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "times-of-ai",
+      "floorplan_name": "Times of AI",
+      "stands": [
+        "G126"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "togal",
+      "floorplan_name": "Togal",
+      "stands": [
+        "S164"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "tokeniz-ed",
+      "floorplan_name": "Tokeniz-Ed",
+      "stands": [
+        "S60"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "totl-resource-international-llc-tri",
+      "floorplan_name": "TOTL Resource International LLC (TRI)",
+      "stands": [
+        "G103"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "udai-ai",
+      "floorplan_name": "UDAI AI",
+      "stands": [
+        "S10"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "umain-tech-limited",
+      "floorplan_name": "Umain Tech Limited",
+      "stands": [
+        "S93"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "uney",
+      "floorplan_name": "UNEY",
+      "stands": [
+        "S22"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "unison",
+      "floorplan_name": "Unison",
+      "stands": [
+        "G84"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "uno-infotech-systems-ltd",
+      "floorplan_name": "UNO Infotech Systems Ltd",
+      "stands": [
+        "S11"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "uverest",
+      "floorplan_name": "UVEREST",
+      "stands": [
+        "S64"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "vassutech",
+      "floorplan_name": "Vassutech",
+      "stands": [
+        "S44"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "ventur-os",
+      "floorplan_name": "Ventur-os",
+      "stands": [
+        "S58"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "vernovi",
+      "floorplan_name": "Vernovi",
+      "stands": [
+        "S70"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "watergate",
+      "floorplan_name": "Watergate",
+      "stands": [
+        "S159"
+      ],
+      "coverage_status": "expanded_only",
+      "initial_profile_available": false,
+      "expanded_profile_available": true,
+      "official_source_url": "https://watergate.ai/",
+      "brand_match_confidence": "medium_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "watergate",
+      "profile_links": {
+        "en": "research/en/value-chains.md#watergate",
+        "ru": "research/ru/value-chains.md#watergate"
+      }
+    },
+    {
+      "company_id": "wiiz",
+      "floorplan_name": "WiiZ",
+      "stands": [
+        "S86"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "works-platform",
+      "floorplan_name": "Works Platform",
+      "stands": [
+        "G117"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "xenonstack",
+      "floorplan_name": "Xenonstack",
+      "stands": [
+        "G91"
+      ],
+      "coverage_status": "initial_and_expanded",
+      "initial_profile_available": true,
+      "expanded_profile_available": true,
+      "official_source_url": "https://www.xenonstack.com/",
+      "brand_match_confidence": "high_brand_match",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": "xenonstack",
+      "profile_links": {
+        "en": "research/en/value-chains.md#xenonstack",
+        "ru": "research/ru/value-chains.md#xenonstack"
+      }
+    },
+    {
+      "company_id": "xixum",
+      "floorplan_name": "Xixum",
+      "stands": [
+        "S115"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "xnterprise",
+      "floorplan_name": "Xnterprise",
+      "stands": [
+        "S32"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "xoom-carbon",
+      "floorplan_name": "Xoom Carbon",
+      "stands": [
+        "S23"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "xopa-information-technology",
+      "floorplan_name": "Xopa Information Technology",
+      "stands": [
+        "S37"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "xtek",
+      "floorplan_name": "XTEK",
+      "stands": [
+        "S128"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "xyra-ai",
+      "floorplan_name": "XYRA AI",
+      "stands": [
+        "G63"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "yara-society",
+      "floorplan_name": "Yara Society",
+      "stands": [
+        "S26"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "yodaplus",
+      "floorplan_name": "Yodaplus",
+      "stands": [
+        "G83"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "yoorz-ai-ltd",
+      "floorplan_name": "yoorz.ai Ltd",
+      "stands": [
+        "S03"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "younea",
+      "floorplan_name": "Younea",
+      "stands": [
+        "S48"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "zaken",
+      "floorplan_name": "Zaken",
+      "stands": [
+        "S147"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "zakool-ai",
+      "floorplan_name": "Zakool AI",
+      "stands": [
+        "S05"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "zelos",
+      "floorplan_name": "Zelos",
+      "stands": [
+        "H60"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    },
+    {
+      "company_id": "zwag-ai-ltd",
+      "floorplan_name": "ZWAG AI Ltd",
+      "stands": [
+        "S24"
+      ],
+      "coverage_status": "not_profiled",
+      "initial_profile_available": false,
+      "expanded_profile_available": false,
+      "official_source_url": null,
+      "brand_match_confidence": "unresolved_public_label",
+      "legal_exhibitor_entity_verified": false,
+      "report_anchor": null,
+      "profile_links": null
+    }
+  ]
+}

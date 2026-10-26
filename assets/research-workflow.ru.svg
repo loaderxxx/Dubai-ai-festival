@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+<title id="title">Как устроено исследование</title><desc id="desc">Процесс из шести этапов: зафиксировать публичный план, разрешить имя, связать факты с источниками, сопоставить компании, сформулировать проверку, опубликовать с ограничениями. Подтверждённые факты, гипотезы и неизвестное всегда разделены.</desc>
+<rect width="1200" height="410" rx="24" fill="#f5f8fc"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="40" y="46" font-size="13" fill="#087f83" font-weight="700">МЕТОД ИССЛЕДОВАНИЯ</text>
+<text x="40" y="85" font-size="28" fill="#16263d" font-weight="700">Каждый вывод оставляет след.</text>
+<rect x="40" y="117" width="170" height="194" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<g transform="translate(58 135)" fill="none" stroke="#087f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M5 1h14l6 6v22H5ZM19 1v7h6M10 13h10m-10 5h10m-10 5h6"/>
+</g>
+<text x="173" y="152" font-size="12" fill="#586b80" font-weight="700">01</text>
+<text x="56" y="200" font-size="17" fill="#16263d" font-weight="700">Собрать</text>
+<text x="56" y="235" font-size="11.5" fill="#586b80" font-weight="400">Публичный план</text>
+<text x="56" y="259" font-size="11.5" fill="#586b80" font-weight="400">Дата + исходные строки</text>
+<path d="M212 209h14m-5-4 5 4-5 4" fill="none" stroke="#7c92a8" stroke-width="1.5"/>
+<rect x="230" y="117" width="170" height="194" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<g transform="translate(248 135)" fill="none" stroke="#087f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="11" cy="11" r="9"/><path d="m18 18 10 10m-20-17h6m-3-3v6"/>
+</g>
+<text x="363" y="152" font-size="12" fill="#586b80" font-weight="700">02</text>
+<text x="246" y="200" font-size="17" fill="#16263d" font-weight="700">Уточнить имя</text>
+<text x="246" y="235" font-size="11.5" fill="#586b80" font-weight="400">Проверить имя и сайт</text>
+<text x="246" y="259" font-size="11.5" fill="#586b80" font-weight="400">Стенды ≠ компании</text>
+<path d="M402 209h14m-5-4 5 4-5 4" fill="none" stroke="#7c92a8" stroke-width="1.5"/>
+<rect x="420" y="117" width="170" height="194" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<g transform="translate(438 135)" fill="none" stroke="#087f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="14" cy="5" rx="12" ry="4"/><path d="M2 5v18c0 6 24 6 24 0V5M2 14c0 6 24 6 24 0"/>
+</g>
+<text x="553" y="152" font-size="12" fill="#586b80" font-weight="700">03</text>
+<text x="436" y="200" font-size="17" fill="#16263d" font-weight="700">Подтвердить</text>
+<text x="436" y="235" font-size="11.5" fill="#586b80" font-weight="400">Продукт + интерфейсы</text>
+<text x="436" y="259" font-size="11.5" fill="#586b80" font-weight="400">Факт → источник</text>
+<path d="M592 209h14m-5-4 5 4-5 4" fill="none" stroke="#7c92a8" stroke-width="1.5"/>
+<rect x="610" y="117" width="170" height="194" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<g transform="translate(628 135)" fill="none" stroke="#087f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="1" y="3" width="10" height="24" rx="2"/><rect x="19" y="3" width="10" height="24" rx="2"/><path d="M11 10h8m-8 10h8"/>
+</g>
+<text x="743" y="152" font-size="12" fill="#586b80" font-weight="700">04</text>
+<text x="626" y="200" font-size="17" fill="#16263d" font-weight="700">Сопоставить</text>
+<text x="626" y="235" font-size="11.5" fill="#586b80" font-weight="400">Роли + пересечения</text>
+<text x="626" y="259" font-size="11.5" fill="#586b80" font-weight="400">Тип связи обязателен</text>
+<path d="M782 209h14m-5-4 5 4-5 4" fill="none" stroke="#7c92a8" stroke-width="1.5"/>
+<rect x="800" y="117" width="170" height="194" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<g transform="translate(818 135)" fill="none" stroke="#087f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="15" cy="15" r="13"/><path d="M10 10a5 5 0 0 1 10 0c0 5-5 4-5 8m0 5v.2"/>
+</g>
+<text x="933" y="152" font-size="12" fill="#586b80" font-weight="700">05</text>
+<text x="816" y="200" font-size="17" fill="#16263d" font-weight="700">Проверить</text>
+<text x="816" y="235" font-size="11.5" fill="#586b80" font-weight="400">Вопрос + границы</text>
+<text x="816" y="259" font-size="11.5" fill="#586b80" font-weight="400">Нет выдуманного спроса</text>
+<path d="M972 209h14m-5-4 5 4-5 4" fill="none" stroke="#7c92a8" stroke-width="1.5"/>
+<rect x="990" y="117" width="170" height="194" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<g transform="translate(1008 135)" fill="none" stroke="#087f83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M3 16v11h24V16M15 23V2m-7 7 7-7 7 7"/>
+</g>
+<text x="1123" y="152" font-size="12" fill="#586b80" font-weight="700">06</text>
+<text x="1006" y="200" font-size="17" fill="#16263d" font-weight="700">Опубликовать</text>
+<text x="1006" y="235" font-size="11.5" fill="#586b80" font-weight="400">EN / RU + данные</text>
+<text x="1006" y="259" font-size="11.5" fill="#586b80" font-weight="400">Ссылки + ограничения</text>
+<text x="40" y="359" font-size="12" fill="#087f83" font-weight="700">ФАКТ</text>
+<text x="113" y="359" font-size="14" fill="#586b80" font-weight="400">ссылка на источник</text>
+<text x="382" y="359" font-size="12" fill="#2563eb" font-weight="700">ГИПОТЕЗА</text>
+<text x="495" y="359" font-size="14" fill="#586b80" font-weight="400">явная проверка</text>
+<text x="797" y="359" font-size="12" fill="#be7b23" font-weight="700">НЕИЗВЕСТНО</text>
+<text x="925" y="359" font-size="14" fill="#586b80" font-weight="400">не заполняем догадками</text>
+</g>
+</svg>

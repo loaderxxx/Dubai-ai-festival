@@ -1,0 +1,1149 @@
+{
+  "schema_version": "1.0",
+  "title": "Enterprise AI value chains: an 18-company public research showcase",
+  "retrieved_on": "2026-10-26",
+  "public_only": true,
+  "private_app_data_used": false,
+  "sample_size": 18,
+  "baseline_organization_candidates": 248,
+  "outside_sample": 230,
+  "baseline_profiles_reused": 12,
+  "additional_profiles": 6,
+  "selection_basis": {
+    "en": "Purposeful layer coverage and testable integration edges, not a representative market sample or lead ranking.",
+    "ru": "Целевая выборка по слоям и проверяемым связям интеграций; не репрезентативная выборка рынка и не рейтинг лидов."
+  },
+  "performance_benchmarks_run": false,
+  "commercial_quotes_obtained": false,
+  "legal_exhibitor_identities_verified": false,
+  "companies": [
+    {
+      "company_id": "aws",
+      "display_name": "AWS",
+      "floorplan_name": "AWS",
+      "stands": [
+        "H40"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Managed cloud platform",
+        "ru": "Управляемая облачная платформа"
+      },
+      "layers": [
+        "build-run"
+      ],
+      "offering": {
+        "en": "Bedrock AgentCore supplies infrastructure for deploying and operating agents across models and frameworks.",
+        "ru": "Bedrock AgentCore предоставляет инфраструктуру развёртывания и эксплуатации агентов с разными моделями и фреймворками."
+      },
+      "integration_surface": {
+        "en": "Advertised connections include internal APIs, MCP, knowledge bases and Lambda. Elastic separately documents a Bedrock inference endpoint.",
+        "ru": "Заявлены подключения внутренних API, MCP, баз знаний и Lambda. Elastic отдельно документирует endpoint инференса Bedrock."
+      },
+      "not_equivalent_to": {
+        "en": "Not a ready-made company workflow: domain logic, permissions and acceptance tests still need an owner.",
+        "ru": "Не готовый бизнес-процесс: логике предметной области, правам и приёмочным тестам нужен владелец."
+      },
+      "procurement_questions": {
+        "en": "Which AgentCore components and regions meet the workload? Who pays for model calls, runtime, logs and network traffic?",
+        "ru": "Какие компоненты и регионы AgentCore подходят? Кто оплачивает модели, runtime, логи и трафик?"
+      },
+      "unknowns": {
+        "en": "Regional availability and commercial fit not assessed. Agents Classic is closed to new customers; do not design a new pilot around that legacy service.",
+        "ru": "Регионы и коммерческая пригодность не оценены. Agents Classic закрыт для новых клиентов; не следует основывать на нём новый пилот."
+      },
+      "source_ids": [
+        "aws-agentcore",
+        "aws-classic",
+        "elastic-bedrock-api"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://aws.amazon.com/",
+      "report_anchor": "aws"
+    },
+    {
+      "company_id": "alibaba-cloud",
+      "display_name": "Alibaba Cloud",
+      "floorplan_name": "Alibaba Cloud",
+      "stands": [
+        "F30"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Cloud infrastructure and model platform",
+        "ru": "Облачная инфраструктура и платформа моделей"
+      },
+      "layers": [
+        "build-run"
+      ],
+      "offering": {
+        "en": "Generative-AI infrastructure and Model Studio support model customization and application development around Qwen and other offerings.",
+        "ru": "Инфраструктура GenAI и Model Studio поддерживают адаптацию моделей и разработку приложений на Qwen и других решениях."
+      },
+      "integration_surface": {
+        "en": "Qwen documentation describes OpenAI-compatible APIs and DashScope. Elastic documents AlibabaCloud AI Search, a specific service path.",
+        "ru": "Документация Qwen описывает OpenAI-совместимые API и DashScope. Elastic документирует конкретный сервис AlibabaCloud AI Search."
+      },
+      "not_equivalent_to": {
+        "en": "OpenAI compatibility is not proof that every tool-call, streaming or schema behavior is interchangeable.",
+        "ru": "Совместимость с API OpenAI не доказывает взаимозаменяемость вызовов инструментов, streaming и схем ответов."
+      },
+      "procurement_questions": {
+        "en": "Which exact endpoint, model, region and data-processing terms apply? Does the desired Elastic task type exist there?",
+        "ru": "Какие endpoint, модель, регион и условия обработки данных применимы? Доступен ли там нужный тип задачи Elastic?"
+      },
+      "unknowns": {
+        "en": "Region-specific availability, latency, residency and a native integration with ONLYOFFICE remain unverified.",
+        "ru": "Доступность по регионам, задержка, резидентность данных и нативная интеграция с ONLYOFFICE не проверены."
+      },
+      "source_ids": [
+        "alibaba-genai",
+        "alibaba-qwen-api",
+        "elastic-alibaba-api"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://www.alibabacloud.com/",
+      "report_anchor": "alibaba-cloud"
+    },
+    {
+      "company_id": "atlan",
+      "display_name": "Atlan",
+      "floorplan_name": "Atlan",
+      "stands": [
+        "H76"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Metadata/context software platform",
+        "ru": "Программная платформа метаданных и контекста"
+      },
+      "layers": [
+        "govern-retrieve"
+      ],
+      "offering": {
+        "en": "Atlan organizes metadata, business meaning and lineage as enterprise context.",
+        "ru": "Atlan организует метаданные, бизнес-смысл и происхождение данных в корпоративный контекст."
+      },
+      "integration_surface": {
+        "en": "The Snowflake crawler catalogs data assets and mines query history for lineage; direct and self-deployed extraction are documented.",
+        "ru": "Коннектор Snowflake каталогизирует объекты и извлекает lineage из истории запросов; описаны прямое и самостоятельно развёрнутое извлечение."
+      },
+      "not_equivalent_to": {
+        "en": "A context catalog is not the warehouse, nor proof that an external agent inherits each user’s row-level access.",
+        "ru": "Каталог контекста — не само хранилище и не доказательство наследования агентом построчных прав каждого пользователя."
+      },
+      "procurement_questions": {
+        "en": "What metadata, SQL text and previews leave the source? Who owns definitions and stale-context alerts?",
+        "ru": "Какие метаданные, SQL-тексты и превью покидают источник? Кто отвечает за определения и устаревший контекст?"
+      },
+      "unknowns": {
+        "en": "The downstream authorization design and completeness of lineage for this environment are unknown.",
+        "ru": "Неизвестны схема авторизации downstream-систем и полнота lineage для конкретной среды."
+      },
+      "source_ids": [
+        "atlan-home",
+        "atlan-snowflake-crawl"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://atlan.com/",
+      "report_anchor": "atlan"
+    },
+    {
+      "company_id": "snowflake",
+      "display_name": "Snowflake",
+      "floorplan_name": "Snowflake",
+      "stands": [
+        "G76"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Managed data and AI platform",
+        "ru": "Управляемая платформа данных и AI"
+      },
+      "layers": [
+        "govern-retrieve",
+        "build-run"
+      ],
+      "offering": {
+        "en": "Snowflake combines enterprise data with AI services; Cortex Search supplies hybrid retrieval and reranking.",
+        "ru": "Snowflake объединяет корпоративные данные и AI-сервисы; Cortex Search предоставляет гибридный поиск и reranking."
+      },
+      "integration_surface": {
+        "en": "Atlan has a documented Snowflake connector. Cortex Search exposes a governed service, but searches run with owner’s rights.",
+        "ru": "У Atlan документирован коннектор Snowflake. Cortex Search предоставляет управляемый сервис, но поиск выполняется с правами владельца."
+      },
+      "not_equivalent_to": {
+        "en": "A warehouse-native search service is not automatically equivalent to application search across many external sources.",
+        "ru": "Поиск внутри платформы данных не обязательно равнозначен прикладному поиску по множеству внешних источников."
+      },
+      "procurement_questions": {
+        "en": "Which data may the service owner read, and how will caller-specific restrictions be enforced and tested?",
+        "ru": "Какие данные может читать владелец сервиса и как будут обеспечиваться и тестироваться ограничения для вызывающего пользователя?"
+      },
+      "unknowns": {
+        "en": "No entitlement design, region fit, cost model or quality benchmark was validated.",
+        "ru": "Не проверены схема прав, подходящий регион, экономика и качество на тестовом наборе."
+      },
+      "source_ids": [
+        "snowflake-ai",
+        "snowflake-search",
+        "atlan-snowflake-crawl"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://www.snowflake.com/",
+      "report_anchor": "snowflake"
+    },
+    {
+      "company_id": "elastic",
+      "display_name": "Elastic",
+      "floorplan_name": "Elastic",
+      "stands": [
+        "G86"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Search/observability/security software platform",
+        "ru": "Платформа поиска, наблюдаемости и безопасности"
+      },
+      "layers": [
+        "govern-retrieve"
+      ],
+      "offering": {
+        "en": "Elasticsearch provides search and vector retrieval within Elastic’s wider search, observability and security offering.",
+        "ru": "Elasticsearch обеспечивает поиск и векторное извлечение в составе решений Elastic для поиска, наблюдаемости и безопасности."
+      },
+      "integration_surface": {
+        "en": "Official inference APIs document Amazon Bedrock and AlibabaCloud AI Search endpoints and supported task types.",
+        "ru": "Официальные inference API документируют endpoints Amazon Bedrock и AlibabaCloud AI Search и поддерживаемые типы задач."
+      },
+      "not_equivalent_to": {
+        "en": "A documented model connection does not supply the application’s access-control policy or prove answer quality.",
+        "ru": "Документированное подключение модели не задаёт политику прав приложения и не доказывает качество ответов."
+      },
+      "procurement_questions": {
+        "en": "Where are documents indexed, how are deletions/ACL changes propagated, and which model credentials must rotate?",
+        "ru": "Где индексируются документы, как распространяются удаления и изменения ACL и какие ключи моделей нужно ротировать?"
+      },
+      "unknowns": {
+        "en": "Corpus-specific relevance, licensing, deployment topology and end-to-end latency remain untested.",
+        "ru": "Релевантность на конкретном корпусе, лицензирование, схема развёртывания и полная задержка не протестированы."
+      },
+      "source_ids": [
+        "elastic-product",
+        "elastic-bedrock-api",
+        "elastic-alibaba-api"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://www.elastic.co/",
+      "report_anchor": "elastic"
+    },
+    {
+      "company_id": "clickup",
+      "display_name": "ClickUp",
+      "floorplan_name": "ClickUp",
+      "stands": [
+        "H65"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Work-management SaaS",
+        "ru": "SaaS управления работой"
+      },
+      "layers": [
+        "business-workflows"
+      ],
+      "offering": {
+        "en": "ClickUp combines tasks, projects, collaboration and workspace-context AI.",
+        "ru": "ClickUp объединяет задачи, проекты, совместную работу и AI с контекстом рабочего пространства."
+      },
+      "integration_surface": {
+        "en": "The developer surface includes API, OAuth, MCP and webhooks; webhook operation depends on the creating user.",
+        "ru": "Интерфейсы разработчика включают API, OAuth, MCP и вебхуки; работа вебхука зависит от создавшего его пользователя."
+      },
+      "not_equivalent_to": {
+        "en": "A destination for operational work, not a replacement for upstream data governance or all document-editing requirements.",
+        "ru": "Это место выполнения рабочих задач, а не замена управления исходными данными или всех требований к редактору документов."
+      },
+      "procurement_questions": {
+        "en": "Can a service identity own integration lifecycle? How are duplicate writes, approvals and employee offboarding handled?",
+        "ru": "Может ли служебная учётная запись владеть интеграцией? Как обрабатываются дубли, подтверждения и увольнение владельца?"
+      },
+      "unknowns": {
+        "en": "A native ElevenLabs–ClickUp connection was not established by this research.",
+        "ru": "Нативное соединение ElevenLabs–ClickUp в исследовании не подтверждено."
+      },
+      "source_ids": [
+        "clickup-brain",
+        "clickup-api",
+        "clickup-webhooks"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://clickup.com/",
+      "report_anchor": "clickup"
+    },
+    {
+      "company_id": "only-office",
+      "display_name": "ONLYOFFICE",
+      "floorplan_name": "ONLY OFFICE",
+      "stands": [
+        "G82"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Embeddable document software",
+        "ru": "Встраиваемое ПО для документов"
+      },
+      "layers": [
+        "business-workflows"
+      ],
+      "offering": {
+        "en": "Collaborative editors cover documents, spreadsheets, presentations, forms and PDF.",
+        "ru": "Совместные редакторы охватывают документы, таблицы, презентации, формы и PDF."
+      },
+      "integration_surface": {
+        "en": "The developer offering describes JavaScript/REST APIs, WOPI and custom-model integration options.",
+        "ru": "Предложение для разработчиков описывает JavaScript/REST API, WOPI и варианты подключения собственных моделей."
+      },
+      "not_equivalent_to": {
+        "en": "An embedded editor is not the same buying decision as a project-management workspace or model-hosting platform.",
+        "ru": "Выбор встроенного редактора отличается от выбора системы управления проектами или хостинга моделей."
+      },
+      "procurement_questions": {
+        "en": "Which license covers embedding? What document content may be sent to the model, and who controls versioning?",
+        "ru": "Какая лицензия разрешает встраивание? Какое содержимое допустимо передавать модели и кто контролирует версии?"
+      },
+      "unknowns": {
+        "en": "Provider-specific compatibility, deployment configuration and custom integration effort were not tested.",
+        "ru": "Совместимость с конкретным провайдером, конфигурация развёртывания и трудоёмкость интеграции не проверены."
+      },
+      "source_ids": [
+        "onlyoffice-developer"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://www.onlyoffice.com/",
+      "report_anchor": "onlyoffice"
+    },
+    {
+      "company_id": "eleven-labs",
+      "display_name": "ElevenLabs",
+      "floorplan_name": "Eleven Labs",
+      "stands": [
+        "H70"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Voice/agent software platform",
+        "ru": "Платформа голоса и агентов"
+      },
+      "layers": [
+        "conversation"
+      ],
+      "offering": {
+        "en": "ElevenLabs offers conversational agents as well as voice capabilities.",
+        "ru": "ElevenLabs предлагает диалоговых агентов наряду с голосовыми возможностями."
+      },
+      "integration_surface": {
+        "en": "Tools include webhook, client, code, MCP and system tools; they can connect an agent to external actions.",
+        "ru": "Инструменты включают webhook, client, code, MCP и системные инструменты для связи агента с внешними действиями."
+      },
+      "not_equivalent_to": {
+        "en": "High-quality voice is not by itself proof of correct task execution, human handoff or business-system permissions.",
+        "ru": "Качество голоса само по себе не подтверждает корректное выполнение задач, передачу человеку или права в бизнес-системах."
+      },
+      "procurement_questions": {
+        "en": "How are identity, consent, handoff, interruptions, tool failures and multilingual task success evaluated?",
+        "ru": "Как оцениваются идентификация, согласие, передача человеку, прерывания, ошибки инструментов и многоязычное выполнение задач?"
+      },
+      "unknowns": {
+        "en": "Native Haptik, ClickUp or PlaceOS integrations were not verified; custom composition remains a hypothesis.",
+        "ru": "Нативные интеграции с Haptik, ClickUp или PlaceOS не подтверждены; собственная композиция остаётся гипотезой."
+      },
+      "source_ids": [
+        "eleven-agents",
+        "eleven-tools"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://elevenlabs.io/",
+      "report_anchor": "elevenlabs"
+    },
+    {
+      "company_id": "haptik-ai",
+      "display_name": "Haptik",
+      "floorplan_name": "Haptik AI",
+      "stands": [
+        "G77"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Customer-conversation platform and services",
+        "ru": "Платформа клиентских диалогов и услуги"
+      },
+      "layers": [
+        "conversation",
+        "business-workflows"
+      ],
+      "offering": {
+        "en": "Haptik advertises service and sales agents, voice and messaging channels.",
+        "ru": "Haptik предлагает агентов обслуживания и продаж, голосовые и текстовые каналы."
+      },
+      "integration_surface": {
+        "en": "Its integration directory names CRM, helpdesk, knowledge-base and messaging systems, including human-agent handoff paths.",
+        "ru": "Каталог интеграций перечисляет CRM, helpdesk, базы знаний и каналы сообщений, включая передачу оператору."
+      },
+      "not_equivalent_to": {
+        "en": "Overlap with ElevenLabs is real at voice-agent workflows; neither is assumed to be merely the other’s component.",
+        "ru": "Пересечение с ElevenLabs есть в голосовых процессах; ни одна платформа не считается просто компонентом другой."
+      },
+      "procurement_questions": {
+        "en": "Which channel and CRM combination is native, what requires services, and can handoff preserve state?",
+        "ru": "Какая комбинация каналов и CRM нативная, что требует услуг и сохраняется ли состояние при передаче оператору?"
+      },
+      "unknowns": {
+        "en": "Connector editions, write scopes, local channel constraints and comparative voice quality are unknown.",
+        "ru": "Неизвестны редакции коннекторов, права записи, местные ограничения каналов и сравнительное качество голоса."
+      },
+      "source_ids": [
+        "haptik-home",
+        "haptik-integrations"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://www.haptik.ai/",
+      "report_anchor": "haptik"
+    },
+    {
+      "company_id": "placeos",
+      "display_name": "PlaceOS",
+      "floorplan_name": "PlaceOS",
+      "stands": [
+        "S51"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Workplace integration/automation platform",
+        "ru": "Платформа интеграции и автоматизации рабочих пространств"
+      },
+      "layers": [
+        "physical-workflows"
+      ],
+      "offering": {
+        "en": "PlaceOS connects workplace and building systems for room, space and device workflows.",
+        "ru": "PlaceOS связывает системы рабочих пространств и зданий для процессов комнат, помещений и устройств."
+      },
+      "integration_surface": {
+        "en": "Drivers and APIs cover AV, HVAC, access, sensors and calendars.",
+        "ru": "Драйверы и API охватывают AV, HVAC, доступ, датчики и календари."
+      },
+      "not_equivalent_to": {
+        "en": "Workplace orchestration does not replace the installed field devices, commissioning or physical safety controls.",
+        "ru": "Оркестрация рабочего пространства не заменяет полевые устройства, пусконаладку и физические защитные механизмы."
+      },
+      "procurement_questions": {
+        "en": "Which installed hardware/firmware is certified, what runs locally, and who maintains each driver?",
+        "ru": "Какое установленное оборудование и firmware поддерживаются, что работает локально и кто обслуживает драйверы?"
+      },
+      "unknowns": {
+        "en": "A Watergate or ElevenLabs connector, offline behavior and site-specific support have not been verified.",
+        "ru": "Коннектор Watergate или ElevenLabs, поведение offline и поддержка конкретного объекта не проверены."
+      },
+      "source_ids": [
+        "placeos-home"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://www.placeos.com/",
+      "report_anchor": "placeos"
+    },
+    {
+      "company_id": "smart-spaces",
+      "display_name": "Smart Spaces",
+      "floorplan_name": "Smart Spaces",
+      "stands": [
+        "S157"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "medium_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Building/workplace platform plus integration services",
+        "ru": "Платформа здания и рабочего пространства плюс интеграционные услуги"
+      },
+      "layers": [
+        "physical-workflows"
+      ],
+      "offering": {
+        "en": "Smart Building OS combines building-system data, operational interfaces and digital-twin functions.",
+        "ru": "Smart Building OS объединяет данные систем здания, операционные интерфейсы и функции цифрового двойника."
+      },
+      "integration_surface": {
+        "en": "Smart Spaces documents Watergate as an API integration partner; it also offers software-systems integration services.",
+        "ru": "Smart Spaces документирует Watergate как API-интеграционного партнёра; также предлагает услуги системной интеграции ПО."
+      },
+      "not_equivalent_to": {
+        "en": "A building-wide orchestration layer overlaps PlaceOS, while Watergate is a more specific water-control component.",
+        "ru": "Общезданный слой оркестрации пересекается с PlaceOS; Watergate — более специализированный компонент управления водой."
+      },
+      "procurement_questions": {
+        "en": "What is included in software versus commissioning? Which controls need local fail-safe behavior?",
+        "ru": "Что входит в ПО, а что — в пусконаладку? Каким функциям нужна локальная отказобезопасная работа?"
+      },
+      "unknowns": {
+        "en": "Generic floorplan name: brand identity is a medium-confidence match, not an organizer-linked website verification.",
+        "ru": "Общее название на плане: совпадение бренда имеет среднюю уверенность; сайт не подтверждён ссылкой организатора."
+      },
+      "source_ids": [
+        "smartspaces-os",
+        "smartspaces-ssi",
+        "smartspaces-watergate"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://www.smartspaces.app/",
+      "report_anchor": "smart-spaces"
+    },
+    {
+      "company_id": "watergate",
+      "display_name": "Watergate",
+      "floorplan_name": "Watergate",
+      "stands": [
+        "S159"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "medium_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Connected water hardware and software",
+        "ru": "Подключаемое оборудование и ПО управления водой"
+      },
+      "layers": [
+        "physical-workflows"
+      ],
+      "offering": {
+        "en": "Sonic water valves, a server, mobile app and dashboard support leak detection and water-management workflows.",
+        "ru": "Клапаны Sonic, сервер, приложение и dashboard поддерживают обнаружение утечек и управление водой."
+      },
+      "integration_surface": {
+        "en": "Cloud and local APIs are documented; the local API includes reading and changing valve state. Smart Spaces names an API integration.",
+        "ru": "Документированы облачный и локальный API; локальный API читает и меняет состояние клапана. Smart Spaces указывает API-интеграцию."
+      },
+      "not_equivalent_to": {
+        "en": "A water-control component is not a general enterprise agent, and physical actions need a different safety boundary from task creation.",
+        "ru": "Компонент управления водой — не универсальный корпоративный агент; физическим действиям нужна иная граница безопасности, чем созданию задач."
+      },
+      "procurement_questions": {
+        "en": "Which valve sizes and installation constraints fit the site? What happens on network loss, power failure and manual override?",
+        "ru": "Какие размеры клапанов и ограничения монтажа подходят объекту? Что происходит без сети, питания и при ручном управлении?"
+      },
+      "unknowns": {
+        "en": "Medium-confidence brand match from the generic label; local procurement, approvals and measured savings are unverified.",
+        "ru": "Средняя уверенность сопоставления общего названия; местная закупка, разрешения и измеренная экономия не проверены."
+      },
+      "source_ids": [
+        "watergate-home",
+        "watergate-docs",
+        "watergate-local",
+        "smartspaces-watergate"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://watergate.ai/",
+      "report_anchor": "watergate"
+    },
+    {
+      "company_id": "applause",
+      "display_name": "Applause",
+      "floorplan_name": "Applause",
+      "stands": [
+        "G112"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Managed testing and evaluation services",
+        "ru": "Управляемые услуги тестирования и оценки"
+      },
+      "layers": [
+        "assure-enable"
+      ],
+      "offering": {
+        "en": "Applause describes human/domain-expert AI evaluation and agent testing.",
+        "ru": "Applause описывает оценку AI с участием людей и отраслевых экспертов, а также тестирование агентов."
+      },
+      "integration_surface": {
+        "en": "Agent testing covers traces, tool calls, retrieval relevance and end-to-end completion.",
+        "ru": "Тестирование агентов охватывает трассы, вызовы инструментов, релевантность извлечения и выполнение задачи целиком."
+      },
+      "not_equivalent_to": {
+        "en": "Buying evaluation is not buying a guarantee of safety; the agreed test distribution and independence matter.",
+        "ru": "Покупка оценки не означает гарантию безопасности: важны согласованный набор тестов и независимость проверки."
+      },
+      "procurement_questions": {
+        "en": "Who defines failure categories, owns the test set, adjudicates disputed results and approves release?",
+        "ru": "Кто задаёт категории ошибок, владеет тестовым набором, разрешает спорные оценки и допускает выпуск?"
+      },
+      "unknowns": {
+        "en": "No independent quality result, local testing coverage or quote was obtained.",
+        "ru": "Независимые результаты качества, локальное покрытие тестирования и предложение цены не получены."
+      },
+      "source_ids": [
+        "applause-eval",
+        "applause-agentic"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://www.applause.com/",
+      "report_anchor": "applause"
+    },
+    {
+      "company_id": "macgence",
+      "display_name": "Macgence",
+      "floorplan_name": "Macgence",
+      "stands": [
+        "S63"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "AI data and human-in-the-loop services",
+        "ru": "Услуги AI-данных и human-in-the-loop"
+      },
+      "layers": [
+        "assure-enable",
+        "govern-retrieve"
+      ],
+      "offering": {
+        "en": "Macgence offers sourcing, annotation, validation, RLHF, language services and model evaluation.",
+        "ru": "Macgence предлагает сбор, разметку и валидацию данных, RLHF, языковые услуги и оценку моделей."
+      },
+      "integration_surface": {
+        "en": "The service portfolio describes dataset preparation and human expertise, not a verified connector to every platform in this map.",
+        "ru": "Портфель описывает подготовку данных и участие экспертов, а не проверенный коннектор к каждой платформе карты."
+      },
+      "not_equivalent_to": {
+        "en": "Useful overlap with Applause exists in evaluation; data-production and application acceptance are different scopes to contract.",
+        "ru": "В оценке есть пересечение с Applause; производство данных и приёмка приложения — разные предметы договора."
+      },
+      "procurement_questions": {
+        "en": "What consent, provenance, licensing, reviewer qualifications and adjudication process accompany each dataset?",
+        "ru": "Какие согласия, происхождение, лицензии, квалификации рецензентов и арбитраж сопровождают датасет?"
+      },
+      "unknowns": {
+        "en": "Accuracy and workforce-scale marketing claims were not validated or used as comparative scores.",
+        "ru": "Рекламные показатели точности и масштаба команды не проверялись и не использовались как сравнительные оценки."
+      },
+      "source_ids": [
+        "macgence-home",
+        "macgence-about"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://macgence.com/",
+      "report_anchor": "macgence"
+    },
+    {
+      "company_id": "datacamp",
+      "display_name": "DataCamp",
+      "floorplan_name": "DataCamp",
+      "stands": [
+        "H62"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Learning platform plus enablement services",
+        "ru": "Учебная платформа и услуги развития компетенций"
+      },
+      "layers": [
+        "assure-enable"
+      ],
+      "offering": {
+        "en": "DataCamp for Business supplies role-based data/AI learning, custom curricula and training delivery options.",
+        "ru": "DataCamp for Business предоставляет обучение данным и AI по ролям, собственные программы и варианты организации обучения."
+      },
+      "integration_surface": {
+        "en": "Official pages describe SSO, LMS/LXP/HRMS integration and a reporting Data Connector; some integrations require selected enterprise plans.",
+        "ru": "Официальные страницы описывают SSO, LMS/LXP/HRMS-интеграции и Data Connector для отчётности; часть требует отдельных enterprise-планов."
+      },
+      "not_equivalent_to": {
+        "en": "Training completion is not evidence of safe production-agent performance or organizational adoption.",
+        "ru": "Завершение обучения не доказывает безопасность промышленного агента или принятие технологии организацией."
+      },
+      "procurement_questions": {
+        "en": "What baseline skill assessment, role-specific exercise and post-training task outcome will count as success?",
+        "ru": "Какая начальная оценка навыков, практическое задание по роли и результат рабочей задачи будут критерием успеха?"
+      },
+      "unknowns": {
+        "en": "Actual learner outcomes, integration entitlement and customer-specific content controls were not assessed.",
+        "ru": "Фактические результаты учащихся, права на интеграции и ограничения контента заказчика не оценены."
+      },
+      "source_ids": [
+        "datacamp-business",
+        "datacamp-integration"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://www.datacamp.com/",
+      "report_anchor": "datacamp"
+    },
+    {
+      "company_id": "apgar-group",
+      "display_name": "Apgar Group",
+      "floorplan_name": "Apgar Group",
+      "stands": [
+        "G71"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Data/AI advisory and implementation; packaged solutions",
+        "ru": "Консалтинг и внедрение данных/AI; пакетные решения"
+      },
+      "layers": [
+        "govern-retrieve",
+        "business-workflows"
+      ],
+      "offering": {
+        "en": "Apgar offers data quality, master/metadata management, integration and AI services; its portfolio also includes ApgarIA solutions.",
+        "ru": "Apgar предлагает качество данных, master/metadata management, интеграцию и AI-услуги; портфель включает решения ApgarIA."
+      },
+      "integration_surface": {
+        "en": "Integration services cover architecture, vendor assessment, implementation and platform operation.",
+        "ru": "Интеграционные услуги охватывают архитектуру, оценку поставщиков, внедрение и эксплуатацию платформы."
+      },
+      "not_equivalent_to": {
+        "en": "Implementation expertise complements platform products but is not proof of a named Atlan/Snowflake partnership.",
+        "ru": "Экспертиза внедрения дополняет платформы, но не доказывает партнёрство с Atlan или Snowflake."
+      },
+      "procurement_questions": {
+        "en": "Which deliverables are consulting, licensed software and ongoing operations? Who owns data rules and integration IP?",
+        "ru": "Какие результаты относятся к консалтингу, лицензируемому ПО и эксплуатации? Кто владеет правилами данных и IP интеграции?"
+      },
+      "unknowns": {
+        "en": "Named-company delivery references, staffing, support terms and a compatible packaged SKU are unverified.",
+        "ru": "Не проверены референсы внедрения, команда, поддержка и подходящий пакетный SKU."
+      },
+      "source_ids": [
+        "apgar-home",
+        "apgar-quality",
+        "apgar-integration"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://apgar-group.com/",
+      "report_anchor": "apgar-group"
+    },
+    {
+      "company_id": "sia-partners",
+      "display_name": "Sia Partners",
+      "floorplan_name": "SIA Partners",
+      "stands": [
+        "H84"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Consulting, engineering and packaged AI solutions",
+        "ru": "Консалтинг, инженерия и пакетные AI-решения"
+      },
+      "layers": [
+        "business-workflows",
+        "assure-enable"
+      ],
+      "offering": {
+        "en": "Sia Applied Intelligence and Sia Forward combine enterprise-AI design, engineering and change management; the site also describes an Agent Store.",
+        "ru": "Sia Applied Intelligence и Sia Forward объединяют проектирование корпоративного AI, инженерию и управление изменениями; сайт также описывает Agent Store."
+      },
+      "integration_surface": {
+        "en": "Sia publicly lists AWS and ElevenLabs among strategic technology alliances; no specific joint connector is documented on that page.",
+        "ru": "Sia публично перечисляет AWS и ElevenLabs среди стратегических технологических альянсов; конкретный совместный коннектор на странице не описан."
+      },
+      "not_equivalent_to": {
+        "en": "Services, accelerators and deployable products need separate acceptance and ownership terms.",
+        "ru": "Услугам, ускорителям и развёртываемым продуктам нужны отдельные условия приёмки и владения."
+      },
+      "procurement_questions": {
+        "en": "Which asset is deployable in our environment, who owns source/IP, and how is success measured beyond a workshop?",
+        "ru": "Какой актив развёртывается в нашей среде, кому принадлежат код/IP и как измеряется результат помимо воркшопа?"
+      },
+      "unknowns": {
+        "en": "The floorplan says SIA Partners; the official legacy Heka URL redirects to Sia AI. Legal exhibitor identity remains unverified.",
+        "ru": "На плане указано SIA Partners; старый официальный URL Heka перенаправляет на Sia AI. Юрлицо экспонента не подтверждено."
+      },
+      "source_ids": [
+        "sia-ai"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://www.sia-partners.com/",
+      "report_anchor": "sia-partners"
+    },
+    {
+      "company_id": "xenonstack",
+      "display_name": "XenonStack",
+      "floorplan_name": "Xenonstack",
+      "stands": [
+        "G91"
+      ],
+      "event_evidence": {
+        "status": "public_floorplan_label_observed",
+        "source_url": "https://dubaiaifestival.com/floorplan/",
+        "embedded_source_url": "https://floorplan.live/interactive/shows/4608/views/2/plan",
+        "observed_at_utc": "2026-10-26T03:30:39Z",
+        "scope": "Label and stand only, not legal identity or onsite presence."
+      },
+      "identity_match": {
+        "confidence": "high_brand_match",
+        "status": "analyst_brand_to_official_site_match",
+        "legal_entity_verified": false,
+        "event_website_binding_verified": false,
+        "basis": {
+          "en": "Public floorplan brand label compared with the named vendor’s official site; no legal exhibitor record was inspected.",
+          "ru": "Публичное название на плане сопоставлено с официальным сайтом бренда; юридическая карточка экспонента не проверена."
+        }
+      },
+      "commercial_model": {
+        "en": "Engineering/managed services and agent-platform offerings",
+        "ru": "Инженерные/управляемые услуги и агентские платформы"
+      },
+      "layers": [
+        "business-workflows",
+        "build-run"
+      ],
+      "offering": {
+        "en": "XenonStack advertises orchestration, analytics, infrastructure automation and governance offerings.",
+        "ru": "XenonStack предлагает оркестрацию, аналитику, автоматизацию инфраструктуры и управление."
+      },
+      "integration_surface": {
+        "en": "Its Snowflake AI Agents page advertises pre-built connectors; this is a vendor offering, not a reproduced integration test.",
+        "ru": "Страница Snowflake AI Agents заявляет готовые коннекторы; это предложение вендора, а не воспроизведённый интеграционный тест."
+      },
+      "not_equivalent_to": {
+        "en": "A service/accelerator proposal should not be compared to a cloud-service unit price without delivery scope.",
+        "ru": "Услугу или ускоритель нельзя сравнивать с ценой облачного API без состава поставки."
+      },
+      "procurement_questions": {
+        "en": "Can a working connector, production reference and clear support/IP split be demonstrated for the exact workflow?",
+        "ru": "Можно ли продемонстрировать работающий коннектор, промышленный референс и разделение поддержки/IP для конкретного процесса?"
+      },
+      "unknowns": {
+        "en": "Partner status, connector maturity, installation process and customer results were not independently verified.",
+        "ru": "Партнёрский статус, зрелость коннектора, установка и результаты заказчиков независимо не проверены."
+      },
+      "source_ids": [
+        "xenon-home",
+        "xenon-snowflake"
+      ],
+      "reviewed_on": "2026-10-26",
+      "fact_status": "advertised_or_documented_not_independently_tested",
+      "buyer_intent_verified": false,
+      "partnership_intent_verified": false,
+      "official_website": "https://www.xenonstack.com/",
+      "report_anchor": "xenonstack"
+    }
+  ]
+}

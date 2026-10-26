@@ -1,4 +1,4 @@
-# Public company baseline and research method
+# Public floorplan baseline and initial research method
 
 [Русский](../ru/public-baseline.md)
 
@@ -15,8 +15,10 @@ Public event source: [Dubai AI Festival floorplan](https://dubaiaifestival.com/f
 | Collective pavilion | 1 |
 | Unknown / possible placeholder | 1 |
 | Initial official-site company profiles | 12 |
-| Candidate labels still without a profile | 236 |
+| Candidate labels without a profile at the initial checkpoint | 236 |
 | Independently verified unique legal companies | **Not established** |
+
+This document preserves the **original 12-profile checkpoint**. For the current union of initial and expanded research, use the [complete roster](../../research/en/roster.md) and [coverage data](../../data/research-coverage.json). The old and expanded counts overlap; do not add them.
 
 **Do not present 264, 262 or 248 as a verified company count.** A label can name a brand, product, institution, collective or co-branded exhibit. Public-floorplan membership does not establish legal identity, physical attendance, a live booth, purchase intent or interest in a partnership. The organizers may revise the live plan.
 
@@ -48,9 +50,9 @@ The 12-profile batch covers AWS, Alibaba Cloud, Atlan, ClickUp, Elastic, ElevenL
 
 ## Remaining work
 
-For the remaining **236 candidate labels**, resolve the public identity first, then apply the same fact/hypothesis structure. Shared stands, generic names and co-branded labels should be resolved before expanding the entity count. Full research of all candidates is **not complete**.
+At the original checkpoint, **236 candidate labels** had no profile. The [current roster](../../research/en/roster.md) reflects later coverage. For candidates still without a profile, resolve the public identity first, then apply the same fact/hypothesis structure. Shared stands, generic names and co-branded labels should be resolved before expanding the entity count. Full research of all candidates is **not complete**.
 
-For every candidate, the next evidence gate is: official website → offer and customer use case → integration surfaces → public proof → overlap/complementarity → questions to validate. The user's historical exhibition-research method has not been independently reconstructed in this bundle; this is an explicit evidence-first baseline, not a claim to have recovered that method.
+For every candidate, the next evidence gate is: official website → offer and customer use case → integration surfaces → public proof → overlap/complementarity → questions to validate. This document describes the initial evidence-first baseline. The [current source policy](source-policy.md) sets the reusable research principles for subsequent work.
 
 ## Data and reproducibility
 
@@ -60,7 +62,8 @@ For every candidate, the next evidence gate is: official website → offer and c
 - `data/companies.{json,csv}`: 248 candidate organizations, research/identity status and verified brand-site links where researched.
 - `data/company-profiles.json`, `data/sources.json`: initial bilingual evidence and source registry.
 - `data/crossresearch.{json,csv}`: typed cross-company edges.
-- `research/en/roster.md`, `research/ru/roster.md`: full candidate roster.
+- `research/en/roster.md`, `research/ru/roster.md`: full candidate roster with current, joined coverage.
+- `data/research-coverage.json`: derived current coverage, retaining the historical initial-batch counts separately.
 
 From the bundle root:
 
